@@ -1,0 +1,171 @@
+StratumID,TransitionGroupID,Amount
+Acadian Plains and Hills,Forest Harvest: Forest Clearcut [Type],1
+Acadian Plains and Hills,Forest Harvest: Forest Selection [Type],0
+Arizona/New Mexico Mountains,Forest Harvest: Forest Clearcut [Type],0.8082191780821918
+Arizona/New Mexico Mountains,Forest Harvest: Forest Selection [Type],0.1917808219178082
+Arizona/New Mexico Plateau,Forest Harvest: Forest Clearcut [Type],0.9874213836477987
+Arizona/New Mexico Plateau,Forest Harvest: Forest Selection [Type],0.012578616352201259
+Arkansas Valley,Forest Harvest: Forest Clearcut [Type],0.902744630071599
+Arkansas Valley,Forest Harvest: Forest Selection [Type],0.09725536992840096
+Atlantic Coastal Pine Barrens,Forest Harvest: Forest Clearcut [Type],1
+Atlantic Coastal Pine Barrens,Forest Harvest: Forest Selection [Type],0
+Blue Mountains,Forest Harvest: Forest Clearcut [Type],0.7653979238754325
+Blue Mountains,Forest Harvest: Forest Selection [Type],0.23460207612456746
+Blue Ridge,Forest Harvest: Forest Clearcut [Type],0.9205834683954619
+Blue Ridge,Forest Harvest: Forest Selection [Type],0.07941653160453808
+Boston Mountains,Forest Harvest: Forest Clearcut [Type],0.7676855895196506
+Boston Mountains,Forest Harvest: Forest Selection [Type],0.23231441048034934
+Canadian Rockies,Forest Harvest: Forest Clearcut [Type],0.6916488222698073
+Canadian Rockies,Forest Harvest: Forest Selection [Type],0.3083511777301927
+Cascades,Forest Harvest: Forest Clearcut [Type],0.768021978021978
+Cascades,Forest Harvest: Forest Selection [Type],0.23197802197802198
+Central Appalachians,Forest Harvest: Forest Clearcut [Type],0.9969410456062291
+Central Appalachians,Forest Harvest: Forest Selection [Type],0.0030589543937708566
+Central Basin and Range,Forest Harvest: Forest Clearcut [Type],0.9991142604074402
+Central Basin and Range,Forest Harvest: Forest Selection [Type],0.00088573959255978745
+Central California Foothills and Coastal Mountains,Forest Harvest: Forest Clearcut [Type],0.9877206446661551
+Central California Foothills and Coastal Mountains,Forest Harvest: Forest Selection [Type],0.012279355333844973
+Central California Valley,Forest Harvest: Forest Clearcut [Type],1
+Central California Valley,Forest Harvest: Forest Selection [Type],0
+Central Corn Belt Plains,Forest Harvest: Forest Clearcut [Type],1
+Central Corn Belt Plains,Forest Harvest: Forest Selection [Type],0
+Central Great Plains,Forest Harvest: Forest Clearcut [Type],1
+Central Great Plains,Forest Harvest: Forest Selection [Type],0
+Central Irregular Plains,Forest Harvest: Forest Clearcut [Type],0.9671848013816926
+Central Irregular Plains,Forest Harvest: Forest Selection [Type],0.03281519861830743
+Chihuahuan Deserts,Forest Harvest: Forest Clearcut [Type],0.995418098510882
+Chihuahuan Deserts,Forest Harvest: Forest Selection [Type],0.004581901489117984
+Coast Range,Forest Harvest: Forest Clearcut [Type],0.8933082206957678
+Coast Range,Forest Harvest: Forest Selection [Type],0.10669177930423222
+Colorado Plateaus,Forest Harvest: Forest Clearcut [Type],0.9688385269121813
+Colorado Plateaus,Forest Harvest: Forest Selection [Type],0.031161473087818695
+Columbia Plateau,Forest Harvest: Forest Clearcut [Type],0.9838862559241706
+Columbia Plateau,Forest Harvest: Forest Selection [Type],0.016113744075829384
+Cross Timbers,Forest Harvest: Forest Clearcut [Type],1
+Cross Timbers,Forest Harvest: Forest Selection [Type],0
+Driftless Area,Forest Harvest: Forest Clearcut [Type],0.9369369369369369
+Driftless Area,Forest Harvest: Forest Selection [Type],0.06306306306306306
+East Central Texas Plains,Forest Harvest: Forest Clearcut [Type],1
+East Central Texas Plains,Forest Harvest: Forest Selection [Type],0
+Eastern Cascades Slopes and Foothills,Forest Harvest: Forest Clearcut [Type],0.7227433492234353
+Eastern Cascades Slopes and Foothills,Forest Harvest: Forest Selection [Type],0.27725665077656464
+Eastern Corn Belt Plains,Forest Harvest: Forest Clearcut [Type],1
+Eastern Corn Belt Plains,Forest Harvest: Forest Selection [Type],0
+Eastern Great Lakes Lowlands,Forest Harvest: Forest Clearcut [Type],1
+Eastern Great Lakes Lowlands,Forest Harvest: Forest Selection [Type],0
+Edwards Plateau,Forest Harvest: Forest Clearcut [Type],1
+Edwards Plateau,Forest Harvest: Forest Selection [Type],0
+Erie Drift Plain,Forest Harvest: Forest Clearcut [Type],1
+Erie Drift Plain,Forest Harvest: Forest Selection [Type],0
+Flint Hills,Forest Harvest: Forest Clearcut [Type],1
+Flint Hills,Forest Harvest: Forest Selection [Type],0
+High Plains,Forest Harvest: Forest Clearcut [Type],0.9980353634577603
+High Plains,Forest Harvest: Forest Selection [Type],0.0019646365422396855
+Huron/Erie Lake Plains,Forest Harvest: Forest Clearcut [Type],1
+Huron/Erie Lake Plains,Forest Harvest: Forest Selection [Type],0
+Idaho Batholith,Forest Harvest: Forest Clearcut [Type],0.7682255845942229
+Idaho Batholith,Forest Harvest: Forest Selection [Type],0.23177441540577717
+Interior Plateau,Forest Harvest: Forest Clearcut [Type],0.9855822550831793
+Interior Plateau,Forest Harvest: Forest Selection [Type],0.014417744916820702
+Interior River Valleys and Hills,Forest Harvest: Forest Clearcut [Type],0.9484193011647255
+Interior River Valleys and Hills,Forest Harvest: Forest Selection [Type],0.051580698835274545
+Klamath Mountains/California High North Coast Range,Forest Harvest: Forest Clearcut [Type],0.8534814181973516
+Klamath Mountains/California High North Coast Range,Forest Harvest: Forest Selection [Type],0.14651858180264843
+Lake Agassiz Plain,Forest Harvest: Forest Clearcut [Type],1
+Lake Agassiz Plain,Forest Harvest: Forest Selection [Type],0
+Madrean Archipelago,Forest Harvest: Forest Clearcut [Type],0.9387096774193548
+Madrean Archipelago,Forest Harvest: Forest Selection [Type],0.06129032258064516
+Middle Atlantic Coastal Plain,Forest Harvest: Forest Clearcut [Type],0.9979719315324085
+Middle Atlantic Coastal Plain,Forest Harvest: Forest Selection [Type],0.002028068467591466
+Middle Rockies,Forest Harvest: Forest Clearcut [Type],0.7815496739547373
+Middle Rockies,Forest Harvest: Forest Selection [Type],0.21845032604526277
+Mississippi Alluvial Plain,Forest Harvest: Forest Clearcut [Type],0.9994301994301994
+Mississippi Alluvial Plain,Forest Harvest: Forest Selection [Type],5.698005698005698e-4
+Mississippi Valley Loess Plains,Forest Harvest: Forest Clearcut [Type],0.990113905007522
+Mississippi Valley Loess Plains,Forest Harvest: Forest Selection [Type],0.009886094992477971
+Mojave Basin and Range,Forest Harvest: Forest Clearcut [Type],0.9961685823754789
+Mojave Basin and Range,Forest Harvest: Forest Selection [Type],0.0038314176245210726
+Nebraska Sand Hills,Forest Harvest: Forest Clearcut [Type],0.9605263157894737
+Nebraska Sand Hills,Forest Harvest: Forest Selection [Type],0.039473684210526314
+North Cascades,Forest Harvest: Forest Clearcut [Type],0.8647936786654961
+North Cascades,Forest Harvest: Forest Selection [Type],0.13520632133450394
+North Central Appalachians,Forest Harvest: Forest Clearcut [Type],0.966321243523316
+North Central Appalachians,Forest Harvest: Forest Selection [Type],0.03367875647668394
+North Central Hardwood Forests,Forest Harvest: Forest Clearcut [Type],0.8862007168458781
+North Central Hardwood Forests,Forest Harvest: Forest Selection [Type],0.11379928315412187
+Northeastern Coastal Zone,Forest Harvest: Forest Clearcut [Type],1
+Northeastern Coastal Zone,Forest Harvest: Forest Selection [Type],0
+Northeastern Highlands,Forest Harvest: Forest Clearcut [Type],0.9948502994011976
+Northeastern Highlands,Forest Harvest: Forest Selection [Type],0.005149700598802395
+Northern Allegheny Plateau,Forest Harvest: Forest Clearcut [Type],1
+Northern Allegheny Plateau,Forest Harvest: Forest Selection [Type],0
+Northern Basin and Range,Forest Harvest: Forest Clearcut [Type],0.9774489076814659
+Northern Basin and Range,Forest Harvest: Forest Selection [Type],0.02255109231853418
+Northern Glaciated Plains,Forest Harvest: Forest Clearcut [Type],1
+Northern Glaciated Plains,Forest Harvest: Forest Selection [Type],0
+Northern Lakes and Forests,Forest Harvest: Forest Clearcut [Type],0.8791797838849655
+Northern Lakes and Forests,Forest Harvest: Forest Selection [Type],0.12082021611503446
+Northern Minnesota Wetlands,Forest Harvest: Forest Clearcut [Type],0.9937275985663082
+Northern Minnesota Wetlands,Forest Harvest: Forest Selection [Type],0.0062724014336917565
+Northern Piedmont,Forest Harvest: Forest Clearcut [Type],1
+Northern Piedmont,Forest Harvest: Forest Selection [Type],0
+Northern Rockies,Forest Harvest: Forest Clearcut [Type],0.8743517208863744
+Northern Rockies,Forest Harvest: Forest Selection [Type],0.12564827911362564
+Northwestern Glaciated Plains,Forest Harvest: Forest Clearcut [Type],1
+Northwestern Glaciated Plains,Forest Harvest: Forest Selection [Type],0
+Northwestern Great Plains,Forest Harvest: Forest Clearcut [Type],0.9846625766871165
+Northwestern Great Plains,Forest Harvest: Forest Selection [Type],0.015337423312883436
+Ouachita Mountains,Forest Harvest: Forest Clearcut [Type],0.9447368421052632
+Ouachita Mountains,Forest Harvest: Forest Selection [Type],0.05526315789473684
+Ozark Highlands,Forest Harvest: Forest Clearcut [Type],0.8987988755430616
+Ozark Highlands,Forest Harvest: Forest Selection [Type],0.10120112445693841
+Piedmont,Forest Harvest: Forest Clearcut [Type],0.9949750796633712
+Piedmont,Forest Harvest: Forest Selection [Type],0.0050249203366288095
+Puget Lowland,Forest Harvest: Forest Clearcut [Type],0.9898523985239852
+Puget Lowland,Forest Harvest: Forest Selection [Type],0.01014760147601476
+Ridge and Valley,Forest Harvest: Forest Clearcut [Type],0.9820291173794359
+Ridge and Valley,Forest Harvest: Forest Selection [Type],0.01797088262056415
+Sierra Nevada,Forest Harvest: Forest Clearcut [Type],0.6054464851171628
+Sierra Nevada,Forest Harvest: Forest Selection [Type],0.39455351488283724
+Snake River Plain,Forest Harvest: Forest Clearcut [Type],0.9876847290640394
+Snake River Plain,Forest Harvest: Forest Selection [Type],0.012315270935960592
+Sonoran Basin and Range,Forest Harvest: Forest Clearcut [Type],0.9842105263157894
+Sonoran Basin and Range,Forest Harvest: Forest Selection [Type],0.015789473684210527
+South Central Plains,Forest Harvest: Forest Clearcut [Type],0.995582202587567
+South Central Plains,Forest Harvest: Forest Selection [Type],0.004417797412432944
+Southeastern Plains,Forest Harvest: Forest Clearcut [Type],0.9980671951679879
+Southeastern Plains,Forest Harvest: Forest Selection [Type],0.00193280483201208
+Southeastern Wisconsin Till Plains,Forest Harvest: Forest Clearcut [Type],0.8666666666666667
+Southeastern Wisconsin Till Plains,Forest Harvest: Forest Selection [Type],0.13333333333333333
+Southern California Mountains,Forest Harvest: Forest Clearcut [Type],0.8321678321678322
+Southern California Mountains,Forest Harvest: Forest Selection [Type],0.16783216783216784
+Southern California/Northern Baja Coast,Forest Harvest: Forest Clearcut [Type],0.9974059662775616
+Southern California/Northern Baja Coast,Forest Harvest: Forest Selection [Type],0.0025940337224383916
+Southern Coastal Plain,Forest Harvest: Forest Clearcut [Type],0.9934454974324719
+Southern Coastal Plain,Forest Harvest: Forest Selection [Type],0.006554502567528076
+Southern Florida Coastal Plain,Forest Harvest: Forest Clearcut [Type],1
+Southern Florida Coastal Plain,Forest Harvest: Forest Selection [Type],0
+Southern Michigan/Northern Indiana Drift Plains,Forest Harvest: Forest Clearcut [Type],0.9826589595375722
+Southern Michigan/Northern Indiana Drift Plains,Forest Harvest: Forest Selection [Type],0.017341040462427744
+Southern Rockies,Forest Harvest: Forest Clearcut [Type],0.8161013485901103
+Southern Rockies,Forest Harvest: Forest Selection [Type],0.18389865140988967
+Southern Texas Plains,Forest Harvest: Forest Clearcut [Type],1
+Southern Texas Plains,Forest Harvest: Forest Selection [Type],0
+Southwestern Appalachians,Forest Harvest: Forest Clearcut [Type],0.9893773974623783
+Southwestern Appalachians,Forest Harvest: Forest Selection [Type],0.010622602537621718
+Southwestern Tablelands,Forest Harvest: Forest Clearcut [Type],1
+Southwestern Tablelands,Forest Harvest: Forest Selection [Type],0
+Texas Blackland Prairies,Forest Harvest: Forest Clearcut [Type],1
+Texas Blackland Prairies,Forest Harvest: Forest Selection [Type],0
+Wasatch and Uinta Mountains,Forest Harvest: Forest Clearcut [Type],0.8694543600203978
+Wasatch and Uinta Mountains,Forest Harvest: Forest Selection [Type],0.13054563997960225
+Western Allegheny Plateau,Forest Harvest: Forest Clearcut [Type],0.9638774577046182
+Western Allegheny Plateau,Forest Harvest: Forest Selection [Type],0.0361225422953818
+Western Corn Belt Plains,Forest Harvest: Forest Clearcut [Type],0.8821428571428571
+Western Corn Belt Plains,Forest Harvest: Forest Selection [Type],0.11785714285714285
+Western Gulf Coastal Plain,Forest Harvest: Forest Clearcut [Type],1
+Western Gulf Coastal Plain,Forest Harvest: Forest Selection [Type],0
+Willamette Valley,Forest Harvest: Forest Clearcut [Type],0.9309045226130653
+Willamette Valley,Forest Harvest: Forest Selection [Type],0.06909547738693467
+Wyoming Basin,Forest Harvest: Forest Clearcut [Type],0.9978947368421053
+Wyoming Basin,Forest Harvest: Forest Selection [Type],0.002105263157894737

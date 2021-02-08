@@ -1,0 +1,33 @@
+FromStratumID,FromSecondaryStratumID,FromStateClassID,FromStockTypeID,ToStockTypeID,TransitionGroupID,StateAttributeTypeID,FlowTypeID,Multiplier
+NA,NA,NA,Atmosphere,Biomass: Coarse Root,NA,Net Growth,Net Growth: Atmosphere -> Coarse Roots,0.0978
+NA,NA,NA,Atmosphere,Biomass: Fine Root,NA,Net Growth,Net Growth: Atmosphere -> Fine Roots,0.3882
+NA,NA,NA,Atmosphere,Biomass: Foliage,NA,Net Growth,Net Growth: Atmosphere -> Foliage,0.3182
+NA,NA,NA,Atmosphere,Biomass: Merchantable,NA,Net Growth,Net Growth: Atmosphere -> Merchantable,0.0
+NA,NA,NA,Atmosphere,Biomass: Other Wood,NA,Net Growth,Net Growth: Atmosphere -> Other Wood,0.1956
+NA,NA,NA,Biomass: Coarse Root,DOM: Aboveground Fast,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast,0.0238
+NA,NA,NA,Biomass: Coarse Root,DOM: Belowground Fast,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast,0.0238
+NA,NA,NA,Biomass: Fine Root,DOM: Aboveground Very Fast,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast,0.2501
+NA,NA,NA,Biomass: Fine Root,DOM: Belowground Very Fast,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast,0.2501
+NA,NA,NA,Biomass: Foliage,DOM: Aboveground Very Fast,NA,NA,Biomass Turnover: Foliage -> AG Very Fast,0.5003
+NA,NA,NA,Biomass: Merchantable,DOM: Snag Stem,NA,NA,Biomass Turnover: Merchantable -> Snag Stems,0.0
+NA,NA,NA,Biomass: Other Wood,DOM: Aboveground Fast,NA,NA,Biomass Turnover: Other Wood -> AG Fast,0.0357
+NA,NA,NA,Biomass: Other Wood,DOM: Snag Branch,NA,NA,Biomass Turnover: Other Wood -> Snag Branches,0.0119
+NA,NA,NA,DOM: Aboveground Fast,Atmosphere,NA,NA,Emission: AG Fast -> Atmosphere,1
+NA,NA,NA,DOM: Aboveground Fast,DOM: Aboveground Slow,NA,NA,Decay: AG Fast -> AG Slow,1
+NA,NA,NA,DOM: Aboveground Medium,Atmosphere,NA,NA,Emission: AG Medium -> Atmosphere,1
+NA,NA,NA,DOM: Aboveground Medium,DOM: Aboveground Slow,NA,NA,Decay: AG Medium -> AG Slow,1
+NA,NA,NA,DOM: Aboveground Slow,Atmosphere,NA,NA,Emission: AG Slow -> Atmosphere,1
+NA,NA,NA,DOM: Aboveground Slow,DOM: Belowground Slow,NA,NA,Transfer: AG Slow -> BG Slow,1
+NA,NA,NA,DOM: Aboveground Very Fast,Atmosphere,NA,NA,Emission: AG Very Fast -> Atmosphere,1
+NA,NA,NA,DOM: Aboveground Very Fast,DOM: Aboveground Slow,NA,NA,Decay: AG Very Fast -> AG Slow,1
+NA,NA,NA,DOM: Belowground Fast,Atmosphere,NA,NA,Emission: BG Fast -> Atmosphere,1
+NA,NA,NA,DOM: Belowground Fast,DOM: Belowground Slow,NA,NA,Decay: BG Fast -> BG Slow,1
+NA,NA,NA,DOM: Belowground Slow,Atmosphere,NA,NA,Emission: BG Slow -> Atmosphere,1
+NA,NA,NA,DOM: Belowground Very Fast,Atmosphere,NA,NA,Emission: BG Very Fast -> Atmosphere,1
+NA,NA,NA,DOM: Belowground Very Fast,DOM: Belowground Slow,NA,NA,Decay: BG Very Fast -> BG Slow,1
+NA,NA,NA,DOM: Snag Branch,Atmosphere,NA,NA,Emission: Snag Branch -> Atmosphere,0.0427
+NA,NA,NA,DOM: Snag Branch,DOM: Aboveground Fast,NA,NA,Transfer: Snag Branch -> AG Fast,0.1
+NA,NA,NA,DOM: Snag Branch,DOM: Aboveground Slow,NA,NA,Decay: Snag Branch -> AG Slow,0.0088
+NA,NA,NA,DOM: Snag Stem,Atmosphere,NA,NA,Emission: Snag Stem -> Atmosphere,0.0
+NA,NA,NA,DOM: Snag Stem,DOM: Aboveground Medium,NA,NA,Transfer: Snag Stem -> AG Medium,0.0
+NA,NA,NA,DOM: Snag Stem,DOM: Aboveground Slow,NA,NA,Decay: Snag Stem -> AG Slow,0.0

@@ -1,0 +1,72 @@
+Iteration,Timestep,FlowTypeID,Order
+,,Transfer: Snag Branch -> AG Fast,3
+,,Transfer: Snag Stem -> AG Medium,3
+,,Decay: AG Medium -> AG Slow,4
+,,Decay: Snag Branch -> AG Slow,4
+,,Decay: Snag Stem -> AG Slow,4
+,,Emission: AG Medium -> Atmosphere,4
+,,Emission: Snag Branch -> Atmosphere,4
+,,Emission: Snag Stem -> Atmosphere,4
+,,Emission: BG Slow -> Atmosphere,5
+,,Biomass Turnover: Coarse Roots -> AG Fast,6
+,,Biomass Turnover: Coarse Roots -> BG Fast,6
+,,Biomass Turnover: Fine Roots -> AG Very Fast,6
+,,Biomass Turnover: Fine Roots -> BG Very Fast,6
+,,Biomass Turnover: Foliage -> AG Very Fast,6
+,,Biomass Turnover: Merchantable -> Snag Stems,6
+,,Biomass Turnover: Other Wood -> AG Fast,6
+,,Biomass Turnover: Other Wood -> Snag Branches,6
+,,Decay: AG Fast -> AG Slow,6.5
+,,Decay: AG Very Fast -> AG Slow,6.5
+,,Decay: BG Fast -> BG Slow,6.5
+,,Decay: BG Very Fast -> BG Slow,6.5
+,,Emission: AG Fast -> Atmosphere,6.5
+,,Emission: AG Very Fast -> Atmosphere,6.5
+,,Emission: BG Fast -> Atmosphere,6.5
+,,Emission: BG Very Fast -> Atmosphere,6.5
+,,Emission: AG Slow -> Atmosphere,6.6
+,,Transfer: AG Slow -> BG Slow,6.7
+,,Net Growth: Atmosphere -> Coarse Roots,7
+,,Net Growth: Atmosphere -> Fine Roots,7
+,,Net Growth: Atmosphere -> Foliage,7
+,,Net Growth: Atmosphere -> Merchantable,7
+,,Net Growth: Atmosphere -> Other Wood,7
+,,Wildfire: Coarse Root -> Aboveground Fast,11
+,,Wildfire: Coarse Root -> Belowground Fast,11
+,,Wildfire: Fine Root -> CH4,11
+,,Wildfire: Fine Root -> CO,11
+,,Wildfire: Fine Root -> CO2,11
+,,Wildfire: Fine Root -> Aboveground Very Fast,11
+,,Wildfire: Fine Root -> Belowground Very Fast,11
+,,Wildfire: Foliage -> CH4,11
+,,Wildfire: Foliage -> CO,11
+,,Wildfire: Foliage -> CO2,11
+,,Wildfire: Merchantable -> Snag Stem,11
+,,Wildfire: Other Wood -> CH4,11
+,,Wildfire: Other Wood -> CO,11
+,,Wildfire: Other Wood -> CO2,11
+,,Wildfire: Other Wood -> Snag Branch,11
+,,Wildfire: Aboveground Fast -> CH4,10
+,,Wildfire: Aboveground Fast -> CO,10
+,,Wildfire: Aboveground Fast -> CO2,10
+,,Wildfire: Aboveground Medium -> CH4,10
+,,Wildfire: Aboveground Medium -> CO,10
+,,Wildfire: Aboveground Medium -> CO2,10
+,,Wildfire: Aboveground Slow -> CH4,10
+,,Wildfire: Aboveground Slow -> CO,10
+,,Wildfire: Aboveground Slow -> CO2,10
+,,Wildfire: Aboveground Very Fast -> CH4,10
+,,Wildfire: Aboveground Very Fast -> CO,10
+,,Wildfire: Aboveground Very Fast -> CO2,10
+,,Wildfire: Snag Branch -> Aboveground Fast,10
+,,Wildfire: Snag Stem -> Aboveground Medium,10
+,,97% clear-cut: Coarse Root -> Aboveground Fast,11
+,,97% clear-cut: Coarse Root -> Belowground Fast,11
+,,97% clear-cut: Fine Root -> Aboveground Very Fast,11
+,,97% clear-cut: Fine Root -> Belowground Very Fast,11
+,,97% clear-cut: Foliage -> Aboveground Very Fast,11
+,,97% clear-cut: Merchantable -> Aboveground Medium,11
+,,97% clear-cut: Merchantable -> Forestry Sector,11
+,,97% clear-cut: Other Wood -> Aboveground Fast,11
+,,97% clear-cut: Snag Branch -> Aboveground Fast,10
+,,97% clear-cut: Snag Stem -> Aboveground Medium,10

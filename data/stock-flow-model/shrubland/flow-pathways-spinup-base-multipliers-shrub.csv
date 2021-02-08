@@ -1,0 +1,33 @@
+StratumID,SecondaryStratumID,StateClassID,AgeMin,AgeMax,FlowGroupID,Value
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0.02
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0.02
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0.2499
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0.2499
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0.4575
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0.03
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0.01
+NA,NA,Shrubland: All,NA,NA,Decay: AG Fast -> AG Slow [Type],0.024
+NA,NA,Shrubland: All,NA,NA,Decay: AG Medium -> AG Slow [Type],0.0062
+NA,NA,Shrubland: All,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0.064
+NA,NA,Shrubland: All,NA,NA,Decay: BG Fast -> BG Slow [Type],0.024
+NA,NA,Shrubland: All,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0.0835
+NA,NA,Shrubland: All,NA,NA,Decay: Snag Branch -> AG Slow [Type],0.012
+NA,NA,Shrubland: All,NA,NA,Decay: Snag Stem -> AG Slow [Type],0.0031
+NA,NA,Shrubland: All,NA,NA,Emission: AG Fast -> Atmosphere [Type],0.117
+NA,NA,Shrubland: All,NA,NA,Emission: AG Medium -> Atmosphere [Type],0.0305
+NA,NA,Shrubland: All,NA,NA,Emission: AG Slow -> Atmosphere [Type],0.0146
+NA,NA,Shrubland: All,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0.2822
+NA,NA,Shrubland: All,NA,NA,Emission: BG Fast -> Atmosphere [Type],0.117
+NA,NA,Shrubland: All,NA,NA,Emission: BG Slow -> Atmosphere [Type],0.0033
+NA,NA,Shrubland: All,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0.4077
+NA,NA,Shrubland: All,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0.0585
+NA,NA,Shrubland: All,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0.0152
+NA,NA,Shrubland: All,NA,NA,Transfer: AG Slow -> BG Slow [Type],0.006
+NA,NA,Shrubland: All,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0.1
+NA,NA,Shrubland: All,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0.032
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0.0728
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0.4622
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0.3922
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0.0728

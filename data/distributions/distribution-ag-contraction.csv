@@ -1,0 +1,511 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+Coast Range,Ag Contraction: Pasture,Ag Change,2001,2006,440
+Puget Lowland,Ag Contraction: Pasture,Ag Change,2001,2006,520
+Willamette Valley,Ag Contraction: Pasture,Ag Change,2001,2006,1080
+Cascades,Ag Contraction: Pasture,Ag Change,2001,2006,220
+Sierra Nevada,Ag Contraction: Pasture,Ag Change,2001,2006,0
+Central California Foothills and Coastal Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,100
+Central California Valley,Ag Contraction: Pasture,Ag Change,2001,2006,120
+Southern California Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,0
+Eastern Cascades Slopes and Foothills,Ag Contraction: Pasture,Ag Change,2001,2006,880
+Columbia Plateau,Ag Contraction: Pasture,Ag Change,2001,2006,140
+Blue Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,180
+Snake River Plain,Ag Contraction: Pasture,Ag Change,2001,2006,80
+Central Basin and Range,Ag Contraction: Pasture,Ag Change,2001,2006,560
+Mojave Basin and Range,Ag Contraction: Pasture,Ag Change,2001,2006,20
+Northern Rockies,Ag Contraction: Pasture,Ag Change,2001,2006,220
+Idaho Batholith,Ag Contraction: Pasture,Ag Change,2001,2006,0
+Middle Rockies,Ag Contraction: Pasture,Ag Change,2001,2006,480
+Wyoming Basin,Ag Contraction: Pasture,Ag Change,2001,2006,300
+Wasatch and Uinta Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,120
+Colorado Plateaus,Ag Contraction: Pasture,Ag Change,2001,2006,600
+Southern Rockies,Ag Contraction: Pasture,Ag Change,2001,2006,280
+Arizona/New Mexico Plateau,Ag Contraction: Pasture,Ag Change,2001,2006,640
+Arizona/New Mexico Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,20
+Chihuahuan Deserts,Ag Contraction: Pasture,Ag Change,2001,2006,20
+High Plains,Ag Contraction: Pasture,Ag Change,2001,2006,900
+Southwestern Tablelands,Ag Contraction: Pasture,Ag Change,2001,2006,80
+Central Great Plains,Ag Contraction: Pasture,Ag Change,2001,2006,300
+Flint Hills,Ag Contraction: Pasture,Ag Change,2001,2006,460
+Cross Timbers,Ag Contraction: Pasture,Ag Change,2001,2006,760
+Edwards Plateau,Ag Contraction: Pasture,Ag Change,2001,2006,40
+Southern Texas Plains,Ag Contraction: Pasture,Ag Change,2001,2006,300
+Texas Blackland Prairies,Ag Contraction: Pasture,Ag Change,2001,2006,1840
+East Central Texas Plains,Ag Contraction: Pasture,Ag Change,2001,2006,5560
+Western Gulf Coastal Plain,Ag Contraction: Pasture,Ag Change,2001,2006,5920
+South Central Plains,Ag Contraction: Pasture,Ag Change,2001,2006,28340
+Ouachita Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,2320
+Arkansas Valley,Ag Contraction: Pasture,Ag Change,2001,2006,2180
+Boston Mountains,Ag Contraction: Pasture,Ag Change,2001,2006,780
+Ozark Highlands,Ag Contraction: Pasture,Ag Change,2001,2006,5080
+Central Irregular Plains,Ag Contraction: Pasture,Ag Change,2001,2006,6280
+Canadian Rockies,Ag Contraction: Pasture,Ag Change,2001,2006,20
+Northwestern Glaciated Plains,Ag Contraction: Pasture,Ag Change,2001,2006,1320
+Northwestern Great Plains,Ag Contraction: Pasture,Ag Change,2001,2006,1540
+Nebraska Sand Hills,Ag Contraction: Pasture,Ag Change,2001,2006,260
+Piedmont,Ag Contraction: Pasture,Ag Change,2001,2006,19940
+Northern Glaciated Plains,Ag Contraction: Pasture,Ag Change,2001,2006,3500
+Western Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2001,2006,2480
+Lake Agassiz Plain,Ag Contraction: Pasture,Ag Change,2001,2006,1420
+Northern Minnesota Wetlands,Ag Contraction: Pasture,Ag Change,2001,2006,1160
+Northern Lakes and Forests,Ag Contraction: Pasture,Ag Change,2001,2006,3180
+North Central Hardwood Forests,Ag Contraction: Pasture,Ag Change,2001,2006,2280
+Driftless Area,Ag Contraction: Pasture,Ag Change,2001,2006,1720
+Southeastern Wisconsin Till Plains,Ag Contraction: Pasture,Ag Change,2001,2006,360
+Central Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2001,2006,300
+Eastern Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2001,2006,700
+Southern Michigan/Northern Indiana Drift Plains,Ag Contraction: Pasture,Ag Change,2001,2006,340
+Huron/Erie Lake Plains,Ag Contraction: Pasture,Ag Change,2001,2006,20
+Northeastern Highlands,Ag Contraction: Pasture,Ag Change,2001,2006,1820
+Northeastern Coastal Zone,Ag Contraction: Pasture,Ag Change,2001,2006,1140
+Northern Allegheny Plateau,Ag Contraction: Pasture,Ag Change,2001,2006,1760
+Erie Drift Plain,Ag Contraction: Pasture,Ag Change,2001,2006,940
+North Central Appalachians,Ag Contraction: Pasture,Ag Change,2001,2006,620
+Middle Atlantic Coastal Plain,Ag Contraction: Pasture,Ag Change,2001,2006,520
+Northern Piedmont,Ag Contraction: Pasture,Ag Change,2001,2006,880
+Southeastern Plains,Ag Contraction: Pasture,Ag Change,2001,2006,55560
+Blue Ridge,Ag Contraction: Pasture,Ag Change,2001,2006,1860
+Ridge and Valley,Ag Contraction: Pasture,Ag Change,2001,2006,6420
+Southwestern Appalachians,Ag Contraction: Pasture,Ag Change,2001,2006,4700
+Central Appalachians,Ag Contraction: Pasture,Ag Change,2001,2006,2080
+Western Allegheny Plateau,Ag Contraction: Pasture,Ag Change,2001,2006,3940
+Interior Plateau,Ag Contraction: Pasture,Ag Change,2001,2006,7800
+Interior River Valleys and Hills,Ag Contraction: Pasture,Ag Change,2001,2006,2760
+Mississippi Alluvial Plain,Ag Contraction: Pasture,Ag Change,2001,2006,720
+Mississippi Valley Loess Plains,Ag Contraction: Pasture,Ag Change,2001,2006,11960
+Southern Coastal Plain,Ag Contraction: Pasture,Ag Change,2001,2006,15880
+Southern Florida Coastal Plain,Ag Contraction: Pasture,Ag Change,2001,2006,120
+North Cascades,Ag Contraction: Pasture,Ag Change,2001,2006,80
+Klamath Mountains/California High North Coast Range,Ag Contraction: Pasture,Ag Change,2001,2006,100
+Madrean Archipelago,Ag Contraction: Pasture,Ag Change,2001,2006,0
+Northern Basin and Range,Ag Contraction: Pasture,Ag Change,2001,2006,500
+Sonoran Basin and Range,Ag Contraction: Pasture,Ag Change,2001,2006,100
+Acadian Plains and Hills,Ag Contraction: Pasture,Ag Change,2001,2006,1100
+Eastern Great Lakes Lowlands,Ag Contraction: Pasture,Ag Change,2001,2006,1920
+Atlantic Coastal Pine Barrens,Ag Contraction: Pasture,Ag Change,2001,2006,120
+Southern California/Northern Baja Coast,Ag Contraction: Pasture,Ag Change,2001,2006,60
+Coast Range,Ag Contraction: Pasture,Ag Change,2007,2011,120
+Puget Lowland,Ag Contraction: Pasture,Ag Change,2007,2011,320
+Willamette Valley,Ag Contraction: Pasture,Ag Change,2007,2011,800
+Cascades,Ag Contraction: Pasture,Ag Change,2007,2011,140
+Sierra Nevada,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Central California Foothills and Coastal Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,80
+Central California Valley,Ag Contraction: Pasture,Ag Change,2007,2011,100
+Southern California Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Eastern Cascades Slopes and Foothills,Ag Contraction: Pasture,Ag Change,2007,2011,600
+Columbia Plateau,Ag Contraction: Pasture,Ag Change,2007,2011,320
+Blue Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,120
+Snake River Plain,Ag Contraction: Pasture,Ag Change,2007,2011,60
+Central Basin and Range,Ag Contraction: Pasture,Ag Change,2007,2011,260
+Mojave Basin and Range,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Northern Rockies,Ag Contraction: Pasture,Ag Change,2007,2011,180
+Idaho Batholith,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Middle Rockies,Ag Contraction: Pasture,Ag Change,2007,2011,120
+Wyoming Basin,Ag Contraction: Pasture,Ag Change,2007,2011,520
+Wasatch and Uinta Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,80
+Colorado Plateaus,Ag Contraction: Pasture,Ag Change,2007,2011,260
+Southern Rockies,Ag Contraction: Pasture,Ag Change,2007,2011,180
+Arizona/New Mexico Plateau,Ag Contraction: Pasture,Ag Change,2007,2011,180
+Arizona/New Mexico Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Chihuahuan Deserts,Ag Contraction: Pasture,Ag Change,2007,2011,20
+High Plains,Ag Contraction: Pasture,Ag Change,2007,2011,920
+Southwestern Tablelands,Ag Contraction: Pasture,Ag Change,2007,2011,20
+Central Great Plains,Ag Contraction: Pasture,Ag Change,2007,2011,420
+Flint Hills,Ag Contraction: Pasture,Ag Change,2007,2011,100
+Cross Timbers,Ag Contraction: Pasture,Ag Change,2007,2011,380
+Edwards Plateau,Ag Contraction: Pasture,Ag Change,2007,2011,20
+Southern Texas Plains,Ag Contraction: Pasture,Ag Change,2007,2011,140
+Texas Blackland Prairies,Ag Contraction: Pasture,Ag Change,2007,2011,1280
+East Central Texas Plains,Ag Contraction: Pasture,Ag Change,2007,2011,4900
+Western Gulf Coastal Plain,Ag Contraction: Pasture,Ag Change,2007,2011,3580
+South Central Plains,Ag Contraction: Pasture,Ag Change,2007,2011,12760
+Ouachita Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,860
+Arkansas Valley,Ag Contraction: Pasture,Ag Change,2007,2011,1840
+Boston Mountains,Ag Contraction: Pasture,Ag Change,2007,2011,620
+Ozark Highlands,Ag Contraction: Pasture,Ag Change,2007,2011,6380
+Central Irregular Plains,Ag Contraction: Pasture,Ag Change,2007,2011,6440
+Canadian Rockies,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Northwestern Glaciated Plains,Ag Contraction: Pasture,Ag Change,2007,2011,1320
+Northwestern Great Plains,Ag Contraction: Pasture,Ag Change,2007,2011,940
+Nebraska Sand Hills,Ag Contraction: Pasture,Ag Change,2007,2011,240
+Piedmont,Ag Contraction: Pasture,Ag Change,2007,2011,12140
+Northern Glaciated Plains,Ag Contraction: Pasture,Ag Change,2007,2011,2960
+Western Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2007,2011,1300
+Lake Agassiz Plain,Ag Contraction: Pasture,Ag Change,2007,2011,780
+Northern Minnesota Wetlands,Ag Contraction: Pasture,Ag Change,2007,2011,460
+Northern Lakes and Forests,Ag Contraction: Pasture,Ag Change,2007,2011,1580
+North Central Hardwood Forests,Ag Contraction: Pasture,Ag Change,2007,2011,1040
+Driftless Area,Ag Contraction: Pasture,Ag Change,2007,2011,600
+Southeastern Wisconsin Till Plains,Ag Contraction: Pasture,Ag Change,2007,2011,200
+Central Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2007,2011,180
+Eastern Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2007,2011,940
+Southern Michigan/Northern Indiana Drift Plains,Ag Contraction: Pasture,Ag Change,2007,2011,460
+Huron/Erie Lake Plains,Ag Contraction: Pasture,Ag Change,2007,2011,40
+Northeastern Highlands,Ag Contraction: Pasture,Ag Change,2007,2011,1760
+Northeastern Coastal Zone,Ag Contraction: Pasture,Ag Change,2007,2011,680
+Northern Allegheny Plateau,Ag Contraction: Pasture,Ag Change,2007,2011,3040
+Erie Drift Plain,Ag Contraction: Pasture,Ag Change,2007,2011,680
+North Central Appalachians,Ag Contraction: Pasture,Ag Change,2007,2011,780
+Middle Atlantic Coastal Plain,Ag Contraction: Pasture,Ag Change,2007,2011,280
+Northern Piedmont,Ag Contraction: Pasture,Ag Change,2007,2011,800
+Southeastern Plains,Ag Contraction: Pasture,Ag Change,2007,2011,22140
+Blue Ridge,Ag Contraction: Pasture,Ag Change,2007,2011,1700
+Ridge and Valley,Ag Contraction: Pasture,Ag Change,2007,2011,5880
+Southwestern Appalachians,Ag Contraction: Pasture,Ag Change,2007,2011,3020
+Central Appalachians,Ag Contraction: Pasture,Ag Change,2007,2011,1340
+Western Allegheny Plateau,Ag Contraction: Pasture,Ag Change,2007,2011,3780
+Interior Plateau,Ag Contraction: Pasture,Ag Change,2007,2011,9820
+Interior River Valleys and Hills,Ag Contraction: Pasture,Ag Change,2007,2011,3660
+Mississippi Alluvial Plain,Ag Contraction: Pasture,Ag Change,2007,2011,1300
+Mississippi Valley Loess Plains,Ag Contraction: Pasture,Ag Change,2007,2011,8140
+Southern Coastal Plain,Ag Contraction: Pasture,Ag Change,2007,2011,6320
+Southern Florida Coastal Plain,Ag Contraction: Pasture,Ag Change,2007,2011,60
+North Cascades,Ag Contraction: Pasture,Ag Change,2007,2011,20
+Klamath Mountains/California High North Coast Range,Ag Contraction: Pasture,Ag Change,2007,2011,60
+Madrean Archipelago,Ag Contraction: Pasture,Ag Change,2007,2011,0
+Northern Basin and Range,Ag Contraction: Pasture,Ag Change,2007,2011,320
+Sonoran Basin and Range,Ag Contraction: Pasture,Ag Change,2007,2011,60
+Acadian Plains and Hills,Ag Contraction: Pasture,Ag Change,2007,2011,480
+Eastern Great Lakes Lowlands,Ag Contraction: Pasture,Ag Change,2007,2011,2180
+Atlantic Coastal Pine Barrens,Ag Contraction: Pasture,Ag Change,2007,2011,20
+Southern California/Northern Baja Coast,Ag Contraction: Pasture,Ag Change,2007,2011,40
+Coast Range,Ag Contraction: Pasture,Ag Change,2012,2016,160
+Puget Lowland,Ag Contraction: Pasture,Ag Change,2012,2016,100
+Willamette Valley,Ag Contraction: Pasture,Ag Change,2012,2016,360
+Cascades,Ag Contraction: Pasture,Ag Change,2012,2016,140
+Sierra Nevada,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Central California Foothills and Coastal Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Central California Valley,Ag Contraction: Pasture,Ag Change,2012,2016,40
+Southern California Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Eastern Cascades Slopes and Foothills,Ag Contraction: Pasture,Ag Change,2012,2016,360
+Columbia Plateau,Ag Contraction: Pasture,Ag Change,2012,2016,240
+Blue Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,60
+Snake River Plain,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Central Basin and Range,Ag Contraction: Pasture,Ag Change,2012,2016,160
+Mojave Basin and Range,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Northern Rockies,Ag Contraction: Pasture,Ag Change,2012,2016,80
+Idaho Batholith,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Middle Rockies,Ag Contraction: Pasture,Ag Change,2012,2016,40
+Wyoming Basin,Ag Contraction: Pasture,Ag Change,2012,2016,360
+Wasatch and Uinta Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,20
+Colorado Plateaus,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Southern Rockies,Ag Contraction: Pasture,Ag Change,2012,2016,80
+Arizona/New Mexico Plateau,Ag Contraction: Pasture,Ag Change,2012,2016,40
+Arizona/New Mexico Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Chihuahuan Deserts,Ag Contraction: Pasture,Ag Change,2012,2016,0
+High Plains,Ag Contraction: Pasture,Ag Change,2012,2016,680
+Southwestern Tablelands,Ag Contraction: Pasture,Ag Change,2012,2016,60
+Central Great Plains,Ag Contraction: Pasture,Ag Change,2012,2016,300
+Flint Hills,Ag Contraction: Pasture,Ag Change,2012,2016,160
+Cross Timbers,Ag Contraction: Pasture,Ag Change,2012,2016,80
+Edwards Plateau,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Southern Texas Plains,Ag Contraction: Pasture,Ag Change,2012,2016,40
+Texas Blackland Prairies,Ag Contraction: Pasture,Ag Change,2012,2016,740
+East Central Texas Plains,Ag Contraction: Pasture,Ag Change,2012,2016,2760
+Western Gulf Coastal Plain,Ag Contraction: Pasture,Ag Change,2012,2016,2140
+South Central Plains,Ag Contraction: Pasture,Ag Change,2012,2016,5860
+Ouachita Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,700
+Arkansas Valley,Ag Contraction: Pasture,Ag Change,2012,2016,440
+Boston Mountains,Ag Contraction: Pasture,Ag Change,2012,2016,340
+Ozark Highlands,Ag Contraction: Pasture,Ag Change,2012,2016,2340
+Central Irregular Plains,Ag Contraction: Pasture,Ag Change,2012,2016,2600
+Canadian Rockies,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Northwestern Glaciated Plains,Ag Contraction: Pasture,Ag Change,2012,2016,640
+Northwestern Great Plains,Ag Contraction: Pasture,Ag Change,2012,2016,360
+Nebraska Sand Hills,Ag Contraction: Pasture,Ag Change,2012,2016,100
+Piedmont,Ag Contraction: Pasture,Ag Change,2012,2016,4840
+Northern Glaciated Plains,Ag Contraction: Pasture,Ag Change,2012,2016,2560
+Western Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2012,2016,1080
+Lake Agassiz Plain,Ag Contraction: Pasture,Ag Change,2012,2016,1180
+Northern Minnesota Wetlands,Ag Contraction: Pasture,Ag Change,2012,2016,640
+Northern Lakes and Forests,Ag Contraction: Pasture,Ag Change,2012,2016,1160
+North Central Hardwood Forests,Ag Contraction: Pasture,Ag Change,2012,2016,1380
+Driftless Area,Ag Contraction: Pasture,Ag Change,2012,2016,220
+Southeastern Wisconsin Till Plains,Ag Contraction: Pasture,Ag Change,2012,2016,320
+Central Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2012,2016,80
+Eastern Corn Belt Plains,Ag Contraction: Pasture,Ag Change,2012,2016,100
+Southern Michigan/Northern Indiana Drift Plains,Ag Contraction: Pasture,Ag Change,2012,2016,240
+Huron/Erie Lake Plains,Ag Contraction: Pasture,Ag Change,2012,2016,20
+Northeastern Highlands,Ag Contraction: Pasture,Ag Change,2012,2016,860
+Northeastern Coastal Zone,Ag Contraction: Pasture,Ag Change,2012,2016,420
+Northern Allegheny Plateau,Ag Contraction: Pasture,Ag Change,2012,2016,840
+Erie Drift Plain,Ag Contraction: Pasture,Ag Change,2012,2016,200
+North Central Appalachians,Ag Contraction: Pasture,Ag Change,2012,2016,120
+Middle Atlantic Coastal Plain,Ag Contraction: Pasture,Ag Change,2012,2016,60
+Northern Piedmont,Ag Contraction: Pasture,Ag Change,2012,2016,440
+Southeastern Plains,Ag Contraction: Pasture,Ag Change,2012,2016,8880
+Blue Ridge,Ag Contraction: Pasture,Ag Change,2012,2016,620
+Ridge and Valley,Ag Contraction: Pasture,Ag Change,2012,2016,2780
+Southwestern Appalachians,Ag Contraction: Pasture,Ag Change,2012,2016,1440
+Central Appalachians,Ag Contraction: Pasture,Ag Change,2012,2016,760
+Western Allegheny Plateau,Ag Contraction: Pasture,Ag Change,2012,2016,1840
+Interior Plateau,Ag Contraction: Pasture,Ag Change,2012,2016,3700
+Interior River Valleys and Hills,Ag Contraction: Pasture,Ag Change,2012,2016,1040
+Mississippi Alluvial Plain,Ag Contraction: Pasture,Ag Change,2012,2016,280
+Mississippi Valley Loess Plains,Ag Contraction: Pasture,Ag Change,2012,2016,1680
+Southern Coastal Plain,Ag Contraction: Pasture,Ag Change,2012,2016,3140
+Southern Florida Coastal Plain,Ag Contraction: Pasture,Ag Change,2012,2016,100
+North Cascades,Ag Contraction: Pasture,Ag Change,2012,2016,40
+Klamath Mountains/California High North Coast Range,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Madrean Archipelago,Ag Contraction: Pasture,Ag Change,2012,2016,0
+Northern Basin and Range,Ag Contraction: Pasture,Ag Change,2012,2016,20
+Sonoran Basin and Range,Ag Contraction: Pasture,Ag Change,2012,2016,60
+Acadian Plains and Hills,Ag Contraction: Pasture,Ag Change,2012,2016,120
+Eastern Great Lakes Lowlands,Ag Contraction: Pasture,Ag Change,2012,2016,1060
+Atlantic Coastal Pine Barrens,Ag Contraction: Pasture,Ag Change,2012,2016,20
+Southern California/Northern Baja Coast,Ag Contraction: Pasture,Ag Change,2012,2016,20
+Coast Range,Ag Contraction: Cropland,Ag Change,2001,2006,20
+Puget Lowland,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Willamette Valley,Ag Contraction: Cropland,Ag Change,2001,2006,80
+Cascades,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Sierra Nevada,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Central California Foothills and Coastal Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,280
+Central California Valley,Ag Contraction: Cropland,Ag Change,2001,2006,1260
+Southern California Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Eastern Cascades Slopes and Foothills,Ag Contraction: Cropland,Ag Change,2001,2006,360
+Columbia Plateau,Ag Contraction: Cropland,Ag Change,2001,2006,13840
+Blue Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,140
+Snake River Plain,Ag Contraction: Cropland,Ag Change,2001,2006,1120
+Central Basin and Range,Ag Contraction: Cropland,Ag Change,2001,2006,820
+Mojave Basin and Range,Ag Contraction: Cropland,Ag Change,2001,2006,100
+Northern Rockies,Ag Contraction: Cropland,Ag Change,2001,2006,420
+Idaho Batholith,Ag Contraction: Cropland,Ag Change,2001,2006,20
+Middle Rockies,Ag Contraction: Cropland,Ag Change,2001,2006,300
+Wyoming Basin,Ag Contraction: Cropland,Ag Change,2001,2006,120
+Wasatch and Uinta Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,20
+Colorado Plateaus,Ag Contraction: Cropland,Ag Change,2001,2006,360
+Southern Rockies,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Arizona/New Mexico Plateau,Ag Contraction: Cropland,Ag Change,2001,2006,80
+Arizona/New Mexico Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Chihuahuan Deserts,Ag Contraction: Cropland,Ag Change,2001,2006,300
+High Plains,Ag Contraction: Cropland,Ag Change,2001,2006,18540
+Southwestern Tablelands,Ag Contraction: Cropland,Ag Change,2001,2006,3160
+Central Great Plains,Ag Contraction: Cropland,Ag Change,2001,2006,21200
+Flint Hills,Ag Contraction: Cropland,Ag Change,2001,2006,920
+Cross Timbers,Ag Contraction: Cropland,Ag Change,2001,2006,3340
+Edwards Plateau,Ag Contraction: Cropland,Ag Change,2001,2006,20
+Southern Texas Plains,Ag Contraction: Cropland,Ag Change,2001,2006,500
+Texas Blackland Prairies,Ag Contraction: Cropland,Ag Change,2001,2006,2500
+East Central Texas Plains,Ag Contraction: Cropland,Ag Change,2001,2006,40
+Western Gulf Coastal Plain,Ag Contraction: Cropland,Ag Change,2001,2006,3620
+South Central Plains,Ag Contraction: Cropland,Ag Change,2001,2006,720
+Ouachita Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Arkansas Valley,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Boston Mountains,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Ozark Highlands,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Central Irregular Plains,Ag Contraction: Cropland,Ag Change,2001,2006,400
+Canadian Rockies,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Northwestern Glaciated Plains,Ag Contraction: Cropland,Ag Change,2001,2006,8560
+Northwestern Great Plains,Ag Contraction: Cropland,Ag Change,2001,2006,9140
+Nebraska Sand Hills,Ag Contraction: Cropland,Ag Change,2001,2006,640
+Piedmont,Ag Contraction: Cropland,Ag Change,2001,2006,100
+Northern Glaciated Plains,Ag Contraction: Cropland,Ag Change,2001,2006,2660
+Western Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2001,2006,2160
+Lake Agassiz Plain,Ag Contraction: Cropland,Ag Change,2001,2006,2240
+Northern Minnesota Wetlands,Ag Contraction: Cropland,Ag Change,2001,2006,920
+Northern Lakes and Forests,Ag Contraction: Cropland,Ag Change,2001,2006,760
+North Central Hardwood Forests,Ag Contraction: Cropland,Ag Change,2001,2006,920
+Driftless Area,Ag Contraction: Cropland,Ag Change,2001,2006,180
+Southeastern Wisconsin Till Plains,Ag Contraction: Cropland,Ag Change,2001,2006,540
+Central Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2001,2006,680
+Eastern Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2001,2006,560
+Southern Michigan/Northern Indiana Drift Plains,Ag Contraction: Cropland,Ag Change,2001,2006,1320
+Huron/Erie Lake Plains,Ag Contraction: Cropland,Ag Change,2001,2006,600
+Northeastern Highlands,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Northeastern Coastal Zone,Ag Contraction: Cropland,Ag Change,2001,2006,80
+Northern Allegheny Plateau,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Erie Drift Plain,Ag Contraction: Cropland,Ag Change,2001,2006,60
+North Central Appalachians,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Middle Atlantic Coastal Plain,Ag Contraction: Cropland,Ag Change,2001,2006,1940
+Northern Piedmont,Ag Contraction: Cropland,Ag Change,2001,2006,60
+Southeastern Plains,Ag Contraction: Cropland,Ag Change,2001,2006,7160
+Blue Ridge,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Ridge and Valley,Ag Contraction: Cropland,Ag Change,2001,2006,80
+Southwestern Appalachians,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Central Appalachians,Ag Contraction: Cropland,Ag Change,2001,2006,20
+Western Allegheny Plateau,Ag Contraction: Cropland,Ag Change,2001,2006,60
+Interior Plateau,Ag Contraction: Cropland,Ag Change,2001,2006,200
+Interior River Valleys and Hills,Ag Contraction: Cropland,Ag Change,2001,2006,1140
+Mississippi Alluvial Plain,Ag Contraction: Cropland,Ag Change,2001,2006,6380
+Mississippi Valley Loess Plains,Ag Contraction: Cropland,Ag Change,2001,2006,280
+Southern Coastal Plain,Ag Contraction: Cropland,Ag Change,2001,2006,1000
+Southern Florida Coastal Plain,Ag Contraction: Cropland,Ag Change,2001,2006,340
+North Cascades,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Klamath Mountains/California High North Coast Range,Ag Contraction: Cropland,Ag Change,2001,2006,0
+Madrean Archipelago,Ag Contraction: Cropland,Ag Change,2001,2006,40
+Northern Basin and Range,Ag Contraction: Cropland,Ag Change,2001,2006,760
+Sonoran Basin and Range,Ag Contraction: Cropland,Ag Change,2001,2006,1340
+Acadian Plains and Hills,Ag Contraction: Cropland,Ag Change,2001,2006,80
+Eastern Great Lakes Lowlands,Ag Contraction: Cropland,Ag Change,2001,2006,320
+Atlantic Coastal Pine Barrens,Ag Contraction: Cropland,Ag Change,2001,2006,60
+Southern California/Northern Baja Coast,Ag Contraction: Cropland,Ag Change,2001,2006,140
+Coast Range,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Puget Lowland,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Willamette Valley,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Cascades,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Sierra Nevada,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Central California Foothills and Coastal Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,60
+Central California Valley,Ag Contraction: Cropland,Ag Change,2007,2011,480
+Southern California Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Eastern Cascades Slopes and Foothills,Ag Contraction: Cropland,Ag Change,2007,2011,300
+Columbia Plateau,Ag Contraction: Cropland,Ag Change,2007,2011,9600
+Blue Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,60
+Snake River Plain,Ag Contraction: Cropland,Ag Change,2007,2011,900
+Central Basin and Range,Ag Contraction: Cropland,Ag Change,2007,2011,540
+Mojave Basin and Range,Ag Contraction: Cropland,Ag Change,2007,2011,40
+Northern Rockies,Ag Contraction: Cropland,Ag Change,2007,2011,220
+Idaho Batholith,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Middle Rockies,Ag Contraction: Cropland,Ag Change,2007,2011,140
+Wyoming Basin,Ag Contraction: Cropland,Ag Change,2007,2011,80
+Wasatch and Uinta Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Colorado Plateaus,Ag Contraction: Cropland,Ag Change,2007,2011,220
+Southern Rockies,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Arizona/New Mexico Plateau,Ag Contraction: Cropland,Ag Change,2007,2011,100
+Arizona/New Mexico Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Chihuahuan Deserts,Ag Contraction: Cropland,Ag Change,2007,2011,100
+High Plains,Ag Contraction: Cropland,Ag Change,2007,2011,6340
+Southwestern Tablelands,Ag Contraction: Cropland,Ag Change,2007,2011,1120
+Central Great Plains,Ag Contraction: Cropland,Ag Change,2007,2011,8580
+Flint Hills,Ag Contraction: Cropland,Ag Change,2007,2011,900
+Cross Timbers,Ag Contraction: Cropland,Ag Change,2007,2011,400
+Edwards Plateau,Ag Contraction: Cropland,Ag Change,2007,2011,60
+Southern Texas Plains,Ag Contraction: Cropland,Ag Change,2007,2011,360
+Texas Blackland Prairies,Ag Contraction: Cropland,Ag Change,2007,2011,800
+East Central Texas Plains,Ag Contraction: Cropland,Ag Change,2007,2011,80
+Western Gulf Coastal Plain,Ag Contraction: Cropland,Ag Change,2007,2011,2940
+South Central Plains,Ag Contraction: Cropland,Ag Change,2007,2011,480
+Ouachita Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Arkansas Valley,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Boston Mountains,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Ozark Highlands,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Central Irregular Plains,Ag Contraction: Cropland,Ag Change,2007,2011,760
+Canadian Rockies,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Northwestern Glaciated Plains,Ag Contraction: Cropland,Ag Change,2007,2011,6520
+Northwestern Great Plains,Ag Contraction: Cropland,Ag Change,2007,2011,3640
+Nebraska Sand Hills,Ag Contraction: Cropland,Ag Change,2007,2011,240
+Piedmont,Ag Contraction: Cropland,Ag Change,2007,2011,60
+Northern Glaciated Plains,Ag Contraction: Cropland,Ag Change,2007,2011,6220
+Western Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2007,2011,1500
+Lake Agassiz Plain,Ag Contraction: Cropland,Ag Change,2007,2011,2720
+Northern Minnesota Wetlands,Ag Contraction: Cropland,Ag Change,2007,2011,420
+Northern Lakes and Forests,Ag Contraction: Cropland,Ag Change,2007,2011,420
+North Central Hardwood Forests,Ag Contraction: Cropland,Ag Change,2007,2011,840
+Driftless Area,Ag Contraction: Cropland,Ag Change,2007,2011,160
+Southeastern Wisconsin Till Plains,Ag Contraction: Cropland,Ag Change,2007,2011,260
+Central Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2007,2011,400
+Eastern Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2007,2011,340
+Southern Michigan/Northern Indiana Drift Plains,Ag Contraction: Cropland,Ag Change,2007,2011,1080
+Huron/Erie Lake Plains,Ag Contraction: Cropland,Ag Change,2007,2011,520
+Northeastern Highlands,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Northeastern Coastal Zone,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Northern Allegheny Plateau,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Erie Drift Plain,Ag Contraction: Cropland,Ag Change,2007,2011,0
+North Central Appalachians,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Middle Atlantic Coastal Plain,Ag Contraction: Cropland,Ag Change,2007,2011,2300
+Northern Piedmont,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Southeastern Plains,Ag Contraction: Cropland,Ag Change,2007,2011,9140
+Blue Ridge,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Ridge and Valley,Ag Contraction: Cropland,Ag Change,2007,2011,60
+Southwestern Appalachians,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Central Appalachians,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Western Allegheny Plateau,Ag Contraction: Cropland,Ag Change,2007,2011,40
+Interior Plateau,Ag Contraction: Cropland,Ag Change,2007,2011,140
+Interior River Valleys and Hills,Ag Contraction: Cropland,Ag Change,2007,2011,1820
+Mississippi Alluvial Plain,Ag Contraction: Cropland,Ag Change,2007,2011,2660
+Mississippi Valley Loess Plains,Ag Contraction: Cropland,Ag Change,2007,2011,280
+Southern Coastal Plain,Ag Contraction: Cropland,Ag Change,2007,2011,680
+Southern Florida Coastal Plain,Ag Contraction: Cropland,Ag Change,2007,2011,700
+North Cascades,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Klamath Mountains/California High North Coast Range,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Madrean Archipelago,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Northern Basin and Range,Ag Contraction: Cropland,Ag Change,2007,2011,240
+Sonoran Basin and Range,Ag Contraction: Cropland,Ag Change,2007,2011,280
+Acadian Plains and Hills,Ag Contraction: Cropland,Ag Change,2007,2011,20
+Eastern Great Lakes Lowlands,Ag Contraction: Cropland,Ag Change,2007,2011,140
+Atlantic Coastal Pine Barrens,Ag Contraction: Cropland,Ag Change,2007,2011,0
+Southern California/Northern Baja Coast,Ag Contraction: Cropland,Ag Change,2007,2011,80
+Coast Range,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Puget Lowland,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Willamette Valley,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Cascades,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Sierra Nevada,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Central California Foothills and Coastal Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,60
+Central California Valley,Ag Contraction: Cropland,Ag Change,2012,2016,420
+Southern California Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Eastern Cascades Slopes and Foothills,Ag Contraction: Cropland,Ag Change,2012,2016,60
+Columbia Plateau,Ag Contraction: Cropland,Ag Change,2012,2016,1280
+Blue Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Snake River Plain,Ag Contraction: Cropland,Ag Change,2012,2016,280
+Central Basin and Range,Ag Contraction: Cropland,Ag Change,2012,2016,200
+Mojave Basin and Range,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Northern Rockies,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Idaho Batholith,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Middle Rockies,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Wyoming Basin,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Wasatch and Uinta Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Colorado Plateaus,Ag Contraction: Cropland,Ag Change,2012,2016,180
+Southern Rockies,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Arizona/New Mexico Plateau,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Arizona/New Mexico Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Chihuahuan Deserts,Ag Contraction: Cropland,Ag Change,2012,2016,80
+High Plains,Ag Contraction: Cropland,Ag Change,2012,2016,2440
+Southwestern Tablelands,Ag Contraction: Cropland,Ag Change,2012,2016,340
+Central Great Plains,Ag Contraction: Cropland,Ag Change,2012,2016,2020
+Flint Hills,Ag Contraction: Cropland,Ag Change,2012,2016,80
+Cross Timbers,Ag Contraction: Cropland,Ag Change,2012,2016,100
+Edwards Plateau,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Southern Texas Plains,Ag Contraction: Cropland,Ag Change,2012,2016,100
+Texas Blackland Prairies,Ag Contraction: Cropland,Ag Change,2012,2016,80
+East Central Texas Plains,Ag Contraction: Cropland,Ag Change,2012,2016,60
+Western Gulf Coastal Plain,Ag Contraction: Cropland,Ag Change,2012,2016,1480
+South Central Plains,Ag Contraction: Cropland,Ag Change,2012,2016,240
+Ouachita Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Arkansas Valley,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Boston Mountains,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Ozark Highlands,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Central Irregular Plains,Ag Contraction: Cropland,Ag Change,2012,2016,380
+Canadian Rockies,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Northwestern Glaciated Plains,Ag Contraction: Cropland,Ag Change,2012,2016,1620
+Northwestern Great Plains,Ag Contraction: Cropland,Ag Change,2012,2016,1060
+Nebraska Sand Hills,Ag Contraction: Cropland,Ag Change,2012,2016,100
+Piedmont,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Northern Glaciated Plains,Ag Contraction: Cropland,Ag Change,2012,2016,2360
+Western Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2012,2016,3380
+Lake Agassiz Plain,Ag Contraction: Cropland,Ag Change,2012,2016,2420
+Northern Minnesota Wetlands,Ag Contraction: Cropland,Ag Change,2012,2016,300
+Northern Lakes and Forests,Ag Contraction: Cropland,Ag Change,2012,2016,560
+North Central Hardwood Forests,Ag Contraction: Cropland,Ag Change,2012,2016,1440
+Driftless Area,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Southeastern Wisconsin Till Plains,Ag Contraction: Cropland,Ag Change,2012,2016,680
+Central Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2012,2016,300
+Eastern Corn Belt Plains,Ag Contraction: Cropland,Ag Change,2012,2016,180
+Southern Michigan/Northern Indiana Drift Plains,Ag Contraction: Cropland,Ag Change,2012,2016,1120
+Huron/Erie Lake Plains,Ag Contraction: Cropland,Ag Change,2012,2016,360
+Northeastern Highlands,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Northeastern Coastal Zone,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Northern Allegheny Plateau,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Erie Drift Plain,Ag Contraction: Cropland,Ag Change,2012,2016,0
+North Central Appalachians,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Middle Atlantic Coastal Plain,Ag Contraction: Cropland,Ag Change,2012,2016,660
+Northern Piedmont,Ag Contraction: Cropland,Ag Change,2012,2016,20
+Southeastern Plains,Ag Contraction: Cropland,Ag Change,2012,2016,1660
+Blue Ridge,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Ridge and Valley,Ag Contraction: Cropland,Ag Change,2012,2016,80
+Southwestern Appalachians,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Central Appalachians,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Western Allegheny Plateau,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Interior Plateau,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Interior River Valleys and Hills,Ag Contraction: Cropland,Ag Change,2012,2016,840
+Mississippi Alluvial Plain,Ag Contraction: Cropland,Ag Change,2012,2016,1760
+Mississippi Valley Loess Plains,Ag Contraction: Cropland,Ag Change,2012,2016,120
+Southern Coastal Plain,Ag Contraction: Cropland,Ag Change,2012,2016,340
+Southern Florida Coastal Plain,Ag Contraction: Cropland,Ag Change,2012,2016,460
+North Cascades,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Klamath Mountains/California High North Coast Range,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Madrean Archipelago,Ag Contraction: Cropland,Ag Change,2012,2016,0
+Northern Basin and Range,Ag Contraction: Cropland,Ag Change,2012,2016,100
+Sonoran Basin and Range,Ag Contraction: Cropland,Ag Change,2012,2016,160
+Acadian Plains and Hills,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Eastern Great Lakes Lowlands,Ag Contraction: Cropland,Ag Change,2012,2016,120
+Atlantic Coastal Pine Barrens,Ag Contraction: Cropland,Ag Change,2012,2016,40
+Southern California/Northern Baja Coast,Ag Contraction: Cropland,Ag Change,2012,2016,0

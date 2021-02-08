@@ -1,0 +1,9 @@
+Timestep,TransitionGroupID,Slope,Amount
+2021,Fire,-90,5
+2021,Fire,-16,1
+2021,Fire,0,17
+2021,Fire,16,34
+2021,Fire,25,100
+2021,Fire,35,200
+2021,Fire,45,300
+2021,Fire,55,400

@@ -1,0 +1,29 @@
+Iteration,Timestep,StratumIDSource,StateClassIDSource,StratumIDDest,StateClassIDDest,AgeMin,AgeMax,Location
+,,,Forest: Alder/Maple Group,,,,,A4
+,,,Forest: Aspen/Birch Group,,,,,A3
+,,,Forest: California Mixed Conifer Group,,,,,D3
+,,,Forest: Douglas-fir Group,,,,,B6
+,,,Forest: Elm/Ash/Cottonwood Group,,,,,A1
+,,,Forest: Exotic Hardwoods Group,,,,,D2
+,,,Forest: Exotic Softwoods Group,,,,,D4
+,,,Forest: Fir/Spruce/Mountain Hemlock Group,,,,,C1
+,,,Forest: Hemlock/Sitka Spruce Group,,,,,C3
+,,,Forest: Loblolly/Shortleaf Pine Group,,,,,B4
+,,,Forest: Lodgepole Pine Group,,,,,C2
+,,,Forest: Longleaf/Slash Pine Group,,,,,B3
+,,,Forest: Maple/Beech/Birch Group,,,,,A2
+,,,Forest: Oak/Gum/Cypress Group,,,,,D7
+,,,Forest: Oak/Hickory Group,,,,,D6
+,,,Forest: Oak/Pine Group,,,,,D5
+,,,Forest: Other Western Hardwoods Group,,,,,A7
+,,,Forest: Other Western Softwood Group,,,,,C7
+,,,Forest: Pinyon/Juniper Group,,,,,B5
+,,,Forest: Ponderosa Pine Group,,,,,B7
+,,,Forest: Redwood Group,,,,,C6
+,,,Forest: Spruce/Fir Group,,,,,B2
+,,,Forest: Tanoak/Laurel Group,,,,,A6
+,,,Forest: Tropical Hardwoods Group,,,,,D1
+,,,Forest: Western Larch Group,,,,,C4
+,,,Forest: Western Oak Group,,,,,A5
+,,,Forest: Western White Pine Group,,,,,C5
+,,,Forest: White/Red/Jack Pine Group,,,,,B1

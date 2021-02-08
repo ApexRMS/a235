@@ -1,0 +1,1345 @@
+Timestep,SecondaryStratumID,TransitionGroupID,Amount
+2020,Alabama,Reforestation: Cropland,0
+2020,Arizona,Reforestation: Cropland,0
+2020,Arkansas,Reforestation: Cropland,0
+2020,California,Reforestation: Cropland,0
+2020,Colorado,Reforestation: Cropland,0
+2020,Connecticut,Reforestation: Cropland,0
+2020,Delaware,Reforestation: Cropland,0
+2020,Florida,Reforestation: Cropland,0
+2020,Georgia,Reforestation: Cropland,0
+2020,Idaho,Reforestation: Cropland,0
+2020,Illinois,Reforestation: Cropland,0
+2020,Indiana,Reforestation: Cropland,0
+2020,Iowa,Reforestation: Cropland,0
+2020,Kansas,Reforestation: Cropland,0
+2020,Kentucky,Reforestation: Cropland,0
+2020,Louisiana,Reforestation: Cropland,0
+2020,Maine,Reforestation: Cropland,0
+2020,Maryland,Reforestation: Cropland,0
+2020,Massachusetts,Reforestation: Cropland,0
+2020,Michigan,Reforestation: Cropland,0
+2020,Minnesota,Reforestation: Cropland,0
+2020,Mississippi,Reforestation: Cropland,0
+2020,Missouri,Reforestation: Cropland,0
+2020,Montana,Reforestation: Cropland,0
+2020,Nebraska,Reforestation: Cropland,0
+2020,Nevada,Reforestation: Cropland,0
+2020,New Hampshire,Reforestation: Cropland,0
+2020,New Jersey,Reforestation: Cropland,0
+2020,New Mexico,Reforestation: Cropland,0
+2020,New York,Reforestation: Cropland,0
+2020,North Carolina,Reforestation: Cropland,0
+2020,North Dakota,Reforestation: Cropland,0
+2020,Ohio,Reforestation: Cropland,0
+2020,Oklahoma,Reforestation: Cropland,0
+2020,Oregon,Reforestation: Cropland,0
+2020,Pennsylvania,Reforestation: Cropland,0
+2020,Rhode Island,Reforestation: Cropland,0
+2020,South Carolina,Reforestation: Cropland,0
+2020,South Dakota,Reforestation: Cropland,0
+2020,Tennessee,Reforestation: Cropland,0
+2020,Texas,Reforestation: Cropland,0
+2020,Utah,Reforestation: Cropland,0
+2020,Vermont,Reforestation: Cropland,0
+2020,Virginia,Reforestation: Cropland,0
+2020,Washington,Reforestation: Cropland,0
+2020,West Virginia,Reforestation: Cropland,0
+2020,Wisconsin,Reforestation: Cropland,0
+2020,Wyoming,Reforestation: Cropland,0
+2020,Alabama,Reforestation: Pasture,0
+2020,Arizona,Reforestation: Pasture,0
+2020,Arkansas,Reforestation: Pasture,0
+2020,California,Reforestation: Pasture,0
+2020,Colorado,Reforestation: Pasture,0
+2020,Connecticut,Reforestation: Pasture,0
+2020,Delaware,Reforestation: Pasture,0
+2020,Florida,Reforestation: Pasture,0
+2020,Georgia,Reforestation: Pasture,0
+2020,Idaho,Reforestation: Pasture,0
+2020,Illinois,Reforestation: Pasture,0
+2020,Indiana,Reforestation: Pasture,0
+2020,Iowa,Reforestation: Pasture,0
+2020,Kansas,Reforestation: Pasture,0
+2020,Kentucky,Reforestation: Pasture,0
+2020,Louisiana,Reforestation: Pasture,0
+2020,Maine,Reforestation: Pasture,0
+2020,Maryland,Reforestation: Pasture,0
+2020,Massachusetts,Reforestation: Pasture,0
+2020,Michigan,Reforestation: Pasture,0
+2020,Minnesota,Reforestation: Pasture,0
+2020,Mississippi,Reforestation: Pasture,0
+2020,Missouri,Reforestation: Pasture,0
+2020,Montana,Reforestation: Pasture,0
+2020,Nebraska,Reforestation: Pasture,0
+2020,Nevada,Reforestation: Pasture,0
+2020,New Hampshire,Reforestation: Pasture,0
+2020,New Jersey,Reforestation: Pasture,0
+2020,New Mexico,Reforestation: Pasture,0
+2020,New York,Reforestation: Pasture,0
+2020,North Carolina,Reforestation: Pasture,0
+2020,North Dakota,Reforestation: Pasture,0
+2020,Ohio,Reforestation: Pasture,0
+2020,Oklahoma,Reforestation: Pasture,0
+2020,Oregon,Reforestation: Pasture,0
+2020,Pennsylvania,Reforestation: Pasture,0
+2020,Rhode Island,Reforestation: Pasture,0
+2020,South Carolina,Reforestation: Pasture,0
+2020,South Dakota,Reforestation: Pasture,0
+2020,Tennessee,Reforestation: Pasture,0
+2020,Texas,Reforestation: Pasture,0
+2020,Utah,Reforestation: Pasture,0
+2020,Vermont,Reforestation: Pasture,0
+2020,Virginia,Reforestation: Pasture,0
+2020,Washington,Reforestation: Pasture,0
+2020,West Virginia,Reforestation: Pasture,0
+2020,Wisconsin,Reforestation: Pasture,0
+2020,Wyoming,Reforestation: Pasture,0
+2020,Alabama,Reforestation: Grassland,0
+2020,Arizona,Reforestation: Grassland,0
+2020,Arkansas,Reforestation: Grassland,0
+2020,California,Reforestation: Grassland,0
+2020,Colorado,Reforestation: Grassland,0
+2020,Connecticut,Reforestation: Grassland,0
+2020,Delaware,Reforestation: Grassland,0
+2020,Florida,Reforestation: Grassland,0
+2020,Georgia,Reforestation: Grassland,0
+2020,Idaho,Reforestation: Grassland,0
+2020,Illinois,Reforestation: Grassland,0
+2020,Indiana,Reforestation: Grassland,0
+2020,Iowa,Reforestation: Grassland,0
+2020,Kansas,Reforestation: Grassland,0
+2020,Kentucky,Reforestation: Grassland,0
+2020,Louisiana,Reforestation: Grassland,0
+2020,Maine,Reforestation: Grassland,0
+2020,Maryland,Reforestation: Grassland,0
+2020,Massachusetts,Reforestation: Grassland,0
+2020,Michigan,Reforestation: Grassland,0
+2020,Minnesota,Reforestation: Grassland,0
+2020,Mississippi,Reforestation: Grassland,0
+2020,Missouri,Reforestation: Grassland,0
+2020,Montana,Reforestation: Grassland,0
+2020,Nebraska,Reforestation: Grassland,0
+2020,Nevada,Reforestation: Grassland,0
+2020,New Hampshire,Reforestation: Grassland,0
+2020,New Jersey,Reforestation: Grassland,0
+2020,New Mexico,Reforestation: Grassland,0
+2020,New York,Reforestation: Grassland,0
+2020,North Carolina,Reforestation: Grassland,0
+2020,North Dakota,Reforestation: Grassland,0
+2020,Ohio,Reforestation: Grassland,0
+2020,Oklahoma,Reforestation: Grassland,0
+2020,Oregon,Reforestation: Grassland,0
+2020,Pennsylvania,Reforestation: Grassland,0
+2020,Rhode Island,Reforestation: Grassland,0
+2020,South Carolina,Reforestation: Grassland,0
+2020,South Dakota,Reforestation: Grassland,0
+2020,Tennessee,Reforestation: Grassland,0
+2020,Texas,Reforestation: Grassland,0
+2020,Utah,Reforestation: Grassland,0
+2020,Vermont,Reforestation: Grassland,0
+2020,Virginia,Reforestation: Grassland,0
+2020,Washington,Reforestation: Grassland,0
+2020,West Virginia,Reforestation: Grassland,0
+2020,Wisconsin,Reforestation: Grassland,0
+2020,Wyoming,Reforestation: Grassland,0
+2020,Alabama,Reforestation: Shrubland,0
+2020,Arizona,Reforestation: Shrubland,0
+2020,Arkansas,Reforestation: Shrubland,0
+2020,California,Reforestation: Shrubland,0
+2020,Colorado,Reforestation: Shrubland,0
+2020,Connecticut,Reforestation: Shrubland,0
+2020,Delaware,Reforestation: Shrubland,0
+2020,Florida,Reforestation: Shrubland,0
+2020,Georgia,Reforestation: Shrubland,0
+2020,Idaho,Reforestation: Shrubland,0
+2020,Illinois,Reforestation: Shrubland,0
+2020,Indiana,Reforestation: Shrubland,0
+2020,Iowa,Reforestation: Shrubland,0
+2020,Kansas,Reforestation: Shrubland,0
+2020,Kentucky,Reforestation: Shrubland,0
+2020,Louisiana,Reforestation: Shrubland,0
+2020,Maine,Reforestation: Shrubland,0
+2020,Maryland,Reforestation: Shrubland,0
+2020,Massachusetts,Reforestation: Shrubland,0
+2020,Michigan,Reforestation: Shrubland,0
+2020,Minnesota,Reforestation: Shrubland,0
+2020,Mississippi,Reforestation: Shrubland,0
+2020,Missouri,Reforestation: Shrubland,0
+2020,Montana,Reforestation: Shrubland,0
+2020,Nebraska,Reforestation: Shrubland,0
+2020,Nevada,Reforestation: Shrubland,0
+2020,New Hampshire,Reforestation: Shrubland,0
+2020,New Jersey,Reforestation: Shrubland,0
+2020,New Mexico,Reforestation: Shrubland,0
+2020,New York,Reforestation: Shrubland,0
+2020,North Carolina,Reforestation: Shrubland,0
+2020,North Dakota,Reforestation: Shrubland,0
+2020,Ohio,Reforestation: Shrubland,0
+2020,Oklahoma,Reforestation: Shrubland,0
+2020,Oregon,Reforestation: Shrubland,0
+2020,Pennsylvania,Reforestation: Shrubland,0
+2020,Rhode Island,Reforestation: Shrubland,0
+2020,South Carolina,Reforestation: Shrubland,0
+2020,South Dakota,Reforestation: Shrubland,0
+2020,Tennessee,Reforestation: Shrubland,0
+2020,Texas,Reforestation: Shrubland,0
+2020,Utah,Reforestation: Shrubland,0
+2020,Vermont,Reforestation: Shrubland,0
+2020,Virginia,Reforestation: Shrubland,0
+2020,Washington,Reforestation: Shrubland,0
+2020,West Virginia,Reforestation: Shrubland,0
+2020,Wisconsin,Reforestation: Shrubland,0
+2020,Wyoming,Reforestation: Shrubland,0
+2025,Alabama,Reforestation: Cropland,0
+2025,Arizona,Reforestation: Cropland,0
+2025,Arkansas,Reforestation: Cropland,0
+2025,California,Reforestation: Cropland,0
+2025,Colorado,Reforestation: Cropland,0
+2025,Connecticut,Reforestation: Cropland,29.172200000000004
+2025,Delaware,Reforestation: Cropland,645.6918
+2025,Florida,Reforestation: Cropland,15634.522
+2025,Georgia,Reforestation: Cropland,3393.0158
+2025,Idaho,Reforestation: Cropland,0
+2025,Illinois,Reforestation: Cropland,0
+2025,Indiana,Reforestation: Cropland,0
+2025,Iowa,Reforestation: Cropland,0
+2025,Kansas,Reforestation: Cropland,0
+2025,Kentucky,Reforestation: Cropland,0
+2025,Louisiana,Reforestation: Cropland,1140.5012000000002
+2025,Maine,Reforestation: Cropland,0
+2025,Maryland,Reforestation: Cropland,0
+2025,Massachusetts,Reforestation: Cropland,807.5250000000001
+2025,Michigan,Reforestation: Cropland,0
+2025,Minnesota,Reforestation: Cropland,0
+2025,Mississippi,Reforestation: Cropland,0
+2025,Missouri,Reforestation: Cropland,0
+2025,Montana,Reforestation: Cropland,0
+2025,Nebraska,Reforestation: Cropland,0
+2025,Nevada,Reforestation: Cropland,0
+2025,New Hampshire,Reforestation: Cropland,0
+2025,New Jersey,Reforestation: Cropland,3326.6538
+2025,New Mexico,Reforestation: Cropland,0
+2025,New York,Reforestation: Cropland,10037.4746
+2025,North Carolina,Reforestation: Cropland,0
+2025,North Dakota,Reforestation: Cropland,0
+2025,Ohio,Reforestation: Cropland,0
+2025,Oklahoma,Reforestation: Cropland,1142.0062
+2025,Oregon,Reforestation: Cropland,0
+2025,Pennsylvania,Reforestation: Cropland,3211.5296000000003
+2025,Rhode Island,Reforestation: Cropland,0
+2025,South Carolina,Reforestation: Cropland,3005.8437999999996
+2025,South Dakota,Reforestation: Cropland,0
+2025,Tennessee,Reforestation: Cropland,4018.6634
+2025,Texas,Reforestation: Cropland,1411.0124
+2025,Utah,Reforestation: Cropland,0
+2025,Vermont,Reforestation: Cropland,2111.787
+2025,Virginia,Reforestation: Cropland,786.9502
+2025,Washington,Reforestation: Cropland,0
+2025,West Virginia,Reforestation: Cropland,0
+2025,Wisconsin,Reforestation: Cropland,0
+2025,Wyoming,Reforestation: Cropland,0
+2025,Alabama,Reforestation: Pasture,251440.6
+2025,Arizona,Reforestation: Pasture,0
+2025,Arkansas,Reforestation: Pasture,277479.4
+2025,California,Reforestation: Pasture,0
+2025,Colorado,Reforestation: Pasture,0
+2025,Connecticut,Reforestation: Pasture,9646.8
+2025,Delaware,Reforestation: Pasture,8275.8
+2025,Florida,Reforestation: Pasture,189981
+2025,Georgia,Reforestation: Pasture,197542.4
+2025,Idaho,Reforestation: Pasture,0
+2025,Illinois,Reforestation: Pasture,28862.6
+2025,Indiana,Reforestation: Pasture,0
+2025,Iowa,Reforestation: Pasture,0
+2025,Kansas,Reforestation: Pasture,0
+2025,Kentucky,Reforestation: Pasture,359663.6
+2025,Louisiana,Reforestation: Pasture,86908
+2025,Maine,Reforestation: Pasture,19453.6
+2025,Maryland,Reforestation: Pasture,10131.2
+2025,Massachusetts,Reforestation: Pasture,11561.8
+2025,Michigan,Reforestation: Pasture,0
+2025,Minnesota,Reforestation: Pasture,0
+2025,Mississippi,Reforestation: Pasture,189199.8
+2025,Missouri,Reforestation: Pasture,0
+2025,Montana,Reforestation: Pasture,0
+2025,Nebraska,Reforestation: Pasture,0
+2025,Nevada,Reforestation: Pasture,0
+2025,New Hampshire,Reforestation: Pasture,8792
+2025,New Jersey,Reforestation: Pasture,11467.8
+2025,New Mexico,Reforestation: Pasture,0
+2025,New York,Reforestation: Pasture,242298.8
+2025,North Carolina,Reforestation: Pasture,208082.2
+2025,North Dakota,Reforestation: Pasture,0
+2025,Ohio,Reforestation: Pasture,187074.4
+2025,Oklahoma,Reforestation: Pasture,135377.6
+2025,Oregon,Reforestation: Pasture,0
+2025,Pennsylvania,Reforestation: Pasture,49437.6
+2025,Rhode Island,Reforestation: Pasture,297.4
+2025,South Carolina,Reforestation: Pasture,101206.2
+2025,South Dakota,Reforestation: Pasture,0
+2025,Tennessee,Reforestation: Pasture,312883.2
+2025,Texas,Reforestation: Pasture,272829.6
+2025,Utah,Reforestation: Pasture,0
+2025,Vermont,Reforestation: Pasture,34664.8
+2025,Virginia,Reforestation: Pasture,281320.4
+2025,Washington,Reforestation: Pasture,0
+2025,West Virginia,Reforestation: Pasture,74333.4
+2025,Wisconsin,Reforestation: Pasture,27853.2
+2025,Wyoming,Reforestation: Pasture,0
+2025,Alabama,Reforestation: Grassland,6518
+2025,Arizona,Reforestation: Grassland,0
+2025,Arkansas,Reforestation: Grassland,5463.6
+2025,California,Reforestation: Grassland,0
+2025,Colorado,Reforestation: Grassland,0
+2025,Connecticut,Reforestation: Grassland,114
+2025,Delaware,Reforestation: Grassland,64.6
+2025,Florida,Reforestation: Grassland,3428.4
+2025,Georgia,Reforestation: Grassland,6014
+2025,Idaho,Reforestation: Grassland,0
+2025,Illinois,Reforestation: Grassland,831.4
+2025,Indiana,Reforestation: Grassland,0
+2025,Iowa,Reforestation: Grassland,0
+2025,Kansas,Reforestation: Grassland,0
+2025,Kentucky,Reforestation: Grassland,11879
+2025,Louisiana,Reforestation: Grassland,444.4
+2025,Maine,Reforestation: Grassland,37
+2025,Maryland,Reforestation: Grassland,61.2
+2025,Massachusetts,Reforestation: Grassland,223.8
+2025,Michigan,Reforestation: Grassland,0
+2025,Minnesota,Reforestation: Grassland,0
+2025,Mississippi,Reforestation: Grassland,3994.4
+2025,Missouri,Reforestation: Grassland,0
+2025,Montana,Reforestation: Grassland,0
+2025,Nebraska,Reforestation: Grassland,0
+2025,Nevada,Reforestation: Grassland,0
+2025,New Hampshire,Reforestation: Grassland,74.6
+2025,New Jersey,Reforestation: Grassland,156
+2025,New Mexico,Reforestation: Grassland,0
+2025,New York,Reforestation: Grassland,347.6
+2025,North Carolina,Reforestation: Grassland,3539.4
+2025,North Dakota,Reforestation: Grassland,0
+2025,Ohio,Reforestation: Grassland,3063.8
+2025,Oklahoma,Reforestation: Grassland,15179.8
+2025,Oregon,Reforestation: Grassland,0
+2025,Pennsylvania,Reforestation: Grassland,342.6
+2025,Rhode Island,Reforestation: Grassland,14.88
+2025,South Carolina,Reforestation: Grassland,2690
+2025,South Dakota,Reforestation: Grassland,0
+2025,Tennessee,Reforestation: Grassland,9433.4
+2025,Texas,Reforestation: Grassland,14974.2
+2025,Utah,Reforestation: Grassland,0
+2025,Vermont,Reforestation: Grassland,16.02
+2025,Virginia,Reforestation: Grassland,3200.3999999999996
+2025,Washington,Reforestation: Grassland,0
+2025,West Virginia,Reforestation: Grassland,1114
+2025,Wisconsin,Reforestation: Grassland,932
+2025,Wyoming,Reforestation: Grassland,0
+2025,Alabama,Reforestation: Shrubland,22508.260799999996
+2025,Arizona,Reforestation: Shrubland,0
+2025,Arkansas,Reforestation: Shrubland,15762.651799999998
+2025,California,Reforestation: Shrubland,0
+2025,Colorado,Reforestation: Shrubland,0
+2025,Connecticut,Reforestation: Shrubland,1100.679
+2025,Delaware,Reforestation: Shrubland,382.0062
+2025,Florida,Reforestation: Shrubland,12399.787
+2025,Georgia,Reforestation: Shrubland,11996.5726
+2025,Idaho,Reforestation: Shrubland,0
+2025,Illinois,Reforestation: Shrubland,4818.548400000001
+2025,Indiana,Reforestation: Shrubland,0
+2025,Iowa,Reforestation: Shrubland,0
+2025,Kansas,Reforestation: Shrubland,0
+2025,Kentucky,Reforestation: Shrubland,23042.5826
+2025,Louisiana,Reforestation: Shrubland,1759.3556
+2025,Maine,Reforestation: Shrubland,230.0042
+2025,Maryland,Reforestation: Shrubland,3600.4752
+2025,Massachusetts,Reforestation: Shrubland,1168.721
+2025,Michigan,Reforestation: Shrubland,4349.688
+2025,Minnesota,Reforestation: Shrubland,0
+2025,Mississippi,Reforestation: Shrubland,16334.401200000002
+2025,Missouri,Reforestation: Shrubland,9363.9174
+2025,Montana,Reforestation: Shrubland,0
+2025,Nebraska,Reforestation: Shrubland,0
+2025,Nevada,Reforestation: Shrubland,0
+2025,New Hampshire,Reforestation: Shrubland,690.534
+2025,New Jersey,Reforestation: Shrubland,1108.9412
+2025,New Mexico,Reforestation: Shrubland,0
+2025,New York,Reforestation: Shrubland,2362.8382
+2025,North Carolina,Reforestation: Shrubland,8104.9374
+2025,North Dakota,Reforestation: Shrubland,358.394
+2025,Ohio,Reforestation: Shrubland,8238.2392
+2025,Oklahoma,Reforestation: Shrubland,8244.179399999999
+2025,Oregon,Reforestation: Shrubland,0
+2025,Pennsylvania,Reforestation: Shrubland,14016.054
+2025,Rhode Island,Reforestation: Shrubland,200.0108
+2025,South Carolina,Reforestation: Shrubland,5268.2182
+2025,South Dakota,Reforestation: Shrubland,0
+2025,Tennessee,Reforestation: Shrubland,23855.541999999998
+2025,Texas,Reforestation: Shrubland,19163.5854
+2025,Utah,Reforestation: Shrubland,0
+2025,Vermont,Reforestation: Shrubland,167.42419999999998
+2025,Virginia,Reforestation: Shrubland,8905.9564
+2025,Washington,Reforestation: Shrubland,0
+2025,West Virginia,Reforestation: Shrubland,6764.822600000001
+2025,Wisconsin,Reforestation: Shrubland,2764.4314
+2025,Wyoming,Reforestation: Shrubland,0
+2030,Alabama,Reforestation: Cropland,6595.1831999999995
+2030,Arizona,Reforestation: Cropland,844.7148
+2030,Arkansas,Reforestation: Cropland,5817.340200000001
+2030,California,Reforestation: Cropland,0
+2030,Colorado,Reforestation: Cropland,0
+2030,Connecticut,Reforestation: Cropland,116.6886
+2030,Delaware,Reforestation: Cropland,2582.7670000000007
+2030,Florida,Reforestation: Cropland,0
+2030,Georgia,Reforestation: Cropland,13572.063
+2030,Idaho,Reforestation: Cropland,0
+2030,Illinois,Reforestation: Cropland,16579.7018
+2030,Indiana,Reforestation: Cropland,0
+2030,Iowa,Reforestation: Cropland,0
+2030,Kansas,Reforestation: Cropland,1377.0214
+2030,Kentucky,Reforestation: Cropland,9258.6014
+2030,Louisiana,Reforestation: Cropland,4562.0046
+2030,Maine,Reforestation: Cropland,2862.2702
+2030,Maryland,Reforestation: Cropland,8948.931
+2030,Massachusetts,Reforestation: Cropland,0
+2030,Michigan,Reforestation: Cropland,0
+2030,Minnesota,Reforestation: Cropland,0
+2030,Mississippi,Reforestation: Cropland,35071.587799999994
+2030,Missouri,Reforestation: Cropland,9209.0186
+2030,Montana,Reforestation: Cropland,17257.882999999998
+2030,Nebraska,Reforestation: Cropland,0
+2030,Nevada,Reforestation: Cropland,0
+2030,New Hampshire,Reforestation: Cropland,547.4233999999999
+2030,New Jersey,Reforestation: Cropland,0
+2030,New Mexico,Reforestation: Cropland,0
+2030,New York,Reforestation: Cropland,0
+2030,North Carolina,Reforestation: Cropland,9291.8104
+2030,North Dakota,Reforestation: Cropland,0
+2030,Ohio,Reforestation: Cropland,12832.6636
+2030,Oklahoma,Reforestation: Cropland,0
+2030,Oregon,Reforestation: Cropland,16397.9432
+2030,Pennsylvania,Reforestation: Cropland,12846.1182
+2030,Rhode Island,Reforestation: Cropland,28.686799999999998
+2030,South Carolina,Reforestation: Cropland,0
+2030,South Dakota,Reforestation: Cropland,0
+2030,Tennessee,Reforestation: Cropland,16074.6538
+2030,Texas,Reforestation: Cropland,0
+2030,Utah,Reforestation: Cropland,0
+2030,Vermont,Reforestation: Cropland,0
+2030,Virginia,Reforestation: Cropland,3147.800399999999
+2030,Washington,Reforestation: Cropland,9361.926199999998
+2030,West Virginia,Reforestation: Cropland,3085.8106
+2030,Wisconsin,Reforestation: Cropland,40070.1412
+2030,Wyoming,Reforestation: Cropland,2499.2768
+2030,Alabama,Reforestation: Pasture,0
+2030,Arizona,Reforestation: Pasture,637.6
+2030,Arkansas,Reforestation: Pasture,0
+2030,California,Reforestation: Pasture,0
+2030,Colorado,Reforestation: Pasture,0
+2030,Connecticut,Reforestation: Pasture,0
+2030,Delaware,Reforestation: Pasture,0
+2030,Florida,Reforestation: Pasture,0
+2030,Georgia,Reforestation: Pasture,0
+2030,Idaho,Reforestation: Pasture,0
+2030,Illinois,Reforestation: Pasture,115450.8
+2030,Indiana,Reforestation: Pasture,86916
+2030,Iowa,Reforestation: Pasture,97388.6
+2030,Kansas,Reforestation: Pasture,102946.8
+2030,Kentucky,Reforestation: Pasture,0
+2030,Louisiana,Reforestation: Pasture,0
+2030,Maine,Reforestation: Pasture,0
+2030,Maryland,Reforestation: Pasture,40524.4
+2030,Massachusetts,Reforestation: Pasture,0
+2030,Michigan,Reforestation: Pasture,175201.8
+2030,Minnesota,Reforestation: Pasture,165404.2
+2030,Mississippi,Reforestation: Pasture,0
+2030,Missouri,Reforestation: Pasture,495086.2
+2030,Montana,Reforestation: Pasture,42317.4
+2030,Nebraska,Reforestation: Pasture,6769
+2030,Nevada,Reforestation: Pasture,0
+2030,New Hampshire,Reforestation: Pasture,0
+2030,New Jersey,Reforestation: Pasture,0
+2030,New Mexico,Reforestation: Pasture,0
+2030,New York,Reforestation: Pasture,0
+2030,North Carolina,Reforestation: Pasture,0
+2030,North Dakota,Reforestation: Pasture,15896.4
+2030,Ohio,Reforestation: Pasture,0
+2030,Oklahoma,Reforestation: Pasture,0
+2030,Oregon,Reforestation: Pasture,47152.2
+2030,Pennsylvania,Reforestation: Pasture,197750.8
+2030,Rhode Island,Reforestation: Pasture,1190
+2030,South Carolina,Reforestation: Pasture,0
+2030,South Dakota,Reforestation: Pasture,27887.6
+2030,Tennessee,Reforestation: Pasture,0
+2030,Texas,Reforestation: Pasture,0
+2030,Utah,Reforestation: Pasture,0
+2030,Vermont,Reforestation: Pasture,0
+2030,Virginia,Reforestation: Pasture,0
+2030,Washington,Reforestation: Pasture,42064.2
+2030,West Virginia,Reforestation: Pasture,0
+2030,Wisconsin,Reforestation: Pasture,111412.8
+2030,Wyoming,Reforestation: Pasture,0
+2030,Alabama,Reforestation: Grassland,0
+2030,Arizona,Reforestation: Grassland,9276.8
+2030,Arkansas,Reforestation: Grassland,0
+2030,California,Reforestation: Grassland,0
+2030,Colorado,Reforestation: Grassland,0
+2030,Connecticut,Reforestation: Grassland,0
+2030,Delaware,Reforestation: Grassland,0
+2030,Florida,Reforestation: Grassland,0
+2030,Georgia,Reforestation: Grassland,0
+2030,Idaho,Reforestation: Grassland,0
+2030,Illinois,Reforestation: Grassland,3325.4
+2030,Indiana,Reforestation: Grassland,7966.4
+2030,Iowa,Reforestation: Grassland,22066.2
+2030,Kansas,Reforestation: Grassland,54325
+2030,Kentucky,Reforestation: Grassland,0
+2030,Louisiana,Reforestation: Grassland,0
+2030,Maine,Reforestation: Grassland,0
+2030,Maryland,Reforestation: Grassland,244.8
+2030,Massachusetts,Reforestation: Grassland,0
+2030,Michigan,Reforestation: Grassland,19709.2
+2030,Minnesota,Reforestation: Grassland,9932.2
+2030,Mississippi,Reforestation: Grassland,0
+2030,Missouri,Reforestation: Grassland,11437.2
+2030,Montana,Reforestation: Grassland,66342
+2030,Nebraska,Reforestation: Grassland,82996
+2030,Nevada,Reforestation: Grassland,0
+2030,New Hampshire,Reforestation: Grassland,0
+2030,New Jersey,Reforestation: Grassland,0
+2030,New Mexico,Reforestation: Grassland,0
+2030,New York,Reforestation: Grassland,0
+2030,North Carolina,Reforestation: Grassland,0
+2030,North Dakota,Reforestation: Grassland,30015
+2030,Ohio,Reforestation: Grassland,0
+2030,Oklahoma,Reforestation: Grassland,0
+2030,Oregon,Reforestation: Grassland,10314.6
+2030,Pennsylvania,Reforestation: Grassland,1370.2
+2030,Rhode Island,Reforestation: Grassland,59.52
+2030,South Carolina,Reforestation: Grassland,0
+2030,South Dakota,Reforestation: Grassland,124154
+2030,Tennessee,Reforestation: Grassland,0
+2030,Texas,Reforestation: Grassland,0
+2030,Utah,Reforestation: Grassland,0
+2030,Vermont,Reforestation: Grassland,0
+2030,Virginia,Reforestation: Grassland,0
+2030,Washington,Reforestation: Grassland,6826
+2030,West Virginia,Reforestation: Grassland,0
+2030,Wisconsin,Reforestation: Grassland,3728.4
+2030,Wyoming,Reforestation: Grassland,0
+2030,Alabama,Reforestation: Shrubland,0
+2030,Arizona,Reforestation: Shrubland,121120.87140000002
+2030,Arkansas,Reforestation: Shrubland,0
+2030,California,Reforestation: Shrubland,113567.7474
+2030,Colorado,Reforestation: Shrubland,0
+2030,Connecticut,Reforestation: Shrubland,0
+2030,Delaware,Reforestation: Shrubland,0
+2030,Florida,Reforestation: Shrubland,0
+2030,Georgia,Reforestation: Shrubland,0
+2030,Idaho,Reforestation: Shrubland,133280.9956
+2030,Illinois,Reforestation: Shrubland,19274.1932
+2030,Indiana,Reforestation: Shrubland,24714.245600000002
+2030,Iowa,Reforestation: Shrubland,7812.6536
+2030,Kansas,Reforestation: Shrubland,8242.898599999999
+2030,Kentucky,Reforestation: Shrubland,0
+2030,Louisiana,Reforestation: Shrubland,0
+2030,Maine,Reforestation: Shrubland,0
+2030,Maryland,Reforestation: Shrubland,0
+2030,Massachusetts,Reforestation: Shrubland,0
+2030,Michigan,Reforestation: Shrubland,17398.7516
+2030,Minnesota,Reforestation: Shrubland,21207.173600000002
+2030,Mississippi,Reforestation: Shrubland,0
+2030,Missouri,Reforestation: Shrubland,37455.6698
+2030,Montana,Reforestation: Shrubland,151378.79940000002
+2030,Nebraska,Reforestation: Shrubland,3596.1324
+2030,Nevada,Reforestation: Shrubland,80467.88279999999
+2030,New Hampshire,Reforestation: Shrubland,0
+2030,New Jersey,Reforestation: Shrubland,0
+2030,New Mexico,Reforestation: Shrubland,164383.4254
+2030,New York,Reforestation: Shrubland,0
+2030,North Carolina,Reforestation: Shrubland,0
+2030,North Dakota,Reforestation: Shrubland,2973.45
+2030,Ohio,Reforestation: Shrubland,0
+2030,Oklahoma,Reforestation: Shrubland,0
+2030,Oregon,Reforestation: Shrubland,37505.205
+2030,Pennsylvania,Reforestation: Shrubland,0
+2030,Rhode Island,Reforestation: Shrubland,0
+2030,South Carolina,Reforestation: Shrubland,0
+2030,South Dakota,Reforestation: Shrubland,17950.038200000003
+2030,Tennessee,Reforestation: Shrubland,0
+2030,Texas,Reforestation: Shrubland,0
+2030,Utah,Reforestation: Shrubland,188300.49680000002
+2030,Vermont,Reforestation: Shrubland,0
+2030,Virginia,Reforestation: Shrubland,0
+2030,Washington,Reforestation: Shrubland,19198.4028
+2030,West Virginia,Reforestation: Shrubland,0
+2030,Wisconsin,Reforestation: Shrubland,11057.7254
+2030,Wyoming,Reforestation: Shrubland,0
+2035,Alabama,Reforestation: Cropland,0
+2035,Arizona,Reforestation: Cropland,0
+2035,Arkansas,Reforestation: Cropland,0
+2035,California,Reforestation: Cropland,0
+2035,Colorado,Reforestation: Cropland,0
+2035,Connecticut,Reforestation: Cropland,0
+2035,Delaware,Reforestation: Cropland,0
+2035,Florida,Reforestation: Cropland,0
+2035,Georgia,Reforestation: Cropland,0
+2035,Idaho,Reforestation: Cropland,0
+2035,Illinois,Reforestation: Cropland,0
+2035,Indiana,Reforestation: Cropland,0
+2035,Iowa,Reforestation: Cropland,0
+2035,Kansas,Reforestation: Cropland,344.25519999999995
+2035,Kentucky,Reforestation: Cropland,0
+2035,Louisiana,Reforestation: Cropland,0
+2035,Maine,Reforestation: Cropland,0
+2035,Maryland,Reforestation: Cropland,0
+2035,Massachusetts,Reforestation: Cropland,0
+2035,Michigan,Reforestation: Cropland,25148.4062
+2035,Minnesota,Reforestation: Cropland,0
+2035,Mississippi,Reforestation: Cropland,0
+2035,Missouri,Reforestation: Cropland,2302.254599999999
+2035,Montana,Reforestation: Cropland,0
+2035,Nebraska,Reforestation: Cropland,0
+2035,Nevada,Reforestation: Cropland,0
+2035,New Hampshire,Reforestation: Cropland,0
+2035,New Jersey,Reforestation: Cropland,0
+2035,New Mexico,Reforestation: Cropland,0
+2035,New York,Reforestation: Cropland,0
+2035,North Carolina,Reforestation: Cropland,0
+2035,North Dakota,Reforestation: Cropland,8552.0128
+2035,Ohio,Reforestation: Cropland,0
+2035,Oklahoma,Reforestation: Cropland,0
+2035,Oregon,Reforestation: Cropland,4099.4858
+2035,Pennsylvania,Reforestation: Cropland,0
+2035,Rhode Island,Reforestation: Cropland,0
+2035,South Carolina,Reforestation: Cropland,0
+2035,South Dakota,Reforestation: Cropland,0
+2035,Tennessee,Reforestation: Cropland,0
+2035,Texas,Reforestation: Cropland,0
+2035,Utah,Reforestation: Cropland,0
+2035,Vermont,Reforestation: Cropland,0
+2035,Virginia,Reforestation: Cropland,0
+2035,Washington,Reforestation: Cropland,2340.481600000002
+2035,West Virginia,Reforestation: Cropland,0
+2035,Wisconsin,Reforestation: Cropland,0
+2035,Wyoming,Reforestation: Cropland,0
+2035,Alabama,Reforestation: Pasture,0
+2035,Arizona,Reforestation: Pasture,0
+2035,Arkansas,Reforestation: Pasture,0
+2035,California,Reforestation: Pasture,40466
+2035,Colorado,Reforestation: Pasture,0
+2035,Connecticut,Reforestation: Pasture,0
+2035,Delaware,Reforestation: Pasture,0
+2035,Florida,Reforestation: Pasture,0
+2035,Georgia,Reforestation: Pasture,0
+2035,Idaho,Reforestation: Pasture,0
+2035,Illinois,Reforestation: Pasture,0
+2035,Indiana,Reforestation: Pasture,21728.8
+2035,Iowa,Reforestation: Pasture,24347
+2035,Kansas,Reforestation: Pasture,0
+2035,Kentucky,Reforestation: Pasture,0
+2035,Louisiana,Reforestation: Pasture,0
+2035,Maine,Reforestation: Pasture,0
+2035,Maryland,Reforestation: Pasture,0
+2035,Massachusetts,Reforestation: Pasture,0
+2035,Michigan,Reforestation: Pasture,0
+2035,Minnesota,Reforestation: Pasture,0
+2035,Mississippi,Reforestation: Pasture,0
+2035,Missouri,Reforestation: Pasture,0
+2035,Montana,Reforestation: Pasture,10579.4
+2035,Nebraska,Reforestation: Pasture,0
+2035,Nevada,Reforestation: Pasture,16357.4
+2035,New Hampshire,Reforestation: Pasture,0
+2035,New Jersey,Reforestation: Pasture,0
+2035,New Mexico,Reforestation: Pasture,1931.8
+2035,New York,Reforestation: Pasture,0
+2035,North Carolina,Reforestation: Pasture,0
+2035,North Dakota,Reforestation: Pasture,0
+2035,Ohio,Reforestation: Pasture,0
+2035,Oklahoma,Reforestation: Pasture,0
+2035,Oregon,Reforestation: Pasture,0
+2035,Pennsylvania,Reforestation: Pasture,0
+2035,Rhode Island,Reforestation: Pasture,0
+2035,South Carolina,Reforestation: Pasture,0
+2035,South Dakota,Reforestation: Pasture,0
+2035,Tennessee,Reforestation: Pasture,0
+2035,Texas,Reforestation: Pasture,0
+2035,Utah,Reforestation: Pasture,17410.8
+2035,Vermont,Reforestation: Pasture,0
+2035,Virginia,Reforestation: Pasture,0
+2035,Washington,Reforestation: Pasture,0
+2035,West Virginia,Reforestation: Pasture,0
+2035,Wisconsin,Reforestation: Pasture,0
+2035,Wyoming,Reforestation: Pasture,39396.8
+2035,Alabama,Reforestation: Grassland,0
+2035,Arizona,Reforestation: Grassland,0
+2035,Arkansas,Reforestation: Grassland,0
+2035,California,Reforestation: Grassland,22887.6
+2035,Colorado,Reforestation: Grassland,0
+2035,Connecticut,Reforestation: Grassland,0
+2035,Delaware,Reforestation: Grassland,0
+2035,Florida,Reforestation: Grassland,0
+2035,Georgia,Reforestation: Grassland,0
+2035,Idaho,Reforestation: Grassland,0
+2035,Illinois,Reforestation: Grassland,0
+2035,Indiana,Reforestation: Grassland,1991.6
+2035,Iowa,Reforestation: Grassland,5516.6
+2035,Kansas,Reforestation: Grassland,0
+2035,Kentucky,Reforestation: Grassland,0
+2035,Louisiana,Reforestation: Grassland,0
+2035,Maine,Reforestation: Grassland,0
+2035,Maryland,Reforestation: Grassland,0
+2035,Massachusetts,Reforestation: Grassland,0
+2035,Michigan,Reforestation: Grassland,0
+2035,Minnesota,Reforestation: Grassland,0
+2035,Mississippi,Reforestation: Grassland,0
+2035,Missouri,Reforestation: Grassland,0
+2035,Montana,Reforestation: Grassland,16585.4
+2035,Nebraska,Reforestation: Grassland,0
+2035,Nevada,Reforestation: Grassland,14588.8
+2035,New Hampshire,Reforestation: Grassland,0
+2035,New Jersey,Reforestation: Grassland,0
+2035,New Mexico,Reforestation: Grassland,40320.2
+2035,New York,Reforestation: Grassland,0
+2035,North Carolina,Reforestation: Grassland,0
+2035,North Dakota,Reforestation: Grassland,0
+2035,Ohio,Reforestation: Grassland,0
+2035,Oklahoma,Reforestation: Grassland,0
+2035,Oregon,Reforestation: Grassland,0
+2035,Pennsylvania,Reforestation: Grassland,0
+2035,Rhode Island,Reforestation: Grassland,0
+2035,South Carolina,Reforestation: Grassland,0
+2035,South Dakota,Reforestation: Grassland,0
+2035,Tennessee,Reforestation: Grassland,0
+2035,Texas,Reforestation: Grassland,0
+2035,Utah,Reforestation: Grassland,7834.2
+2035,Vermont,Reforestation: Grassland,0
+2035,Virginia,Reforestation: Grassland,0
+2035,Washington,Reforestation: Grassland,0
+2035,West Virginia,Reforestation: Grassland,0
+2035,Wisconsin,Reforestation: Grassland,0
+2035,Wyoming,Reforestation: Grassland,29084
+2035,Alabama,Reforestation: Shrubland,0
+2035,Arizona,Reforestation: Shrubland,0
+2035,Arkansas,Reforestation: Shrubland,0
+2035,California,Reforestation: Shrubland,6709.854200000013
+2035,Colorado,Reforestation: Shrubland,0
+2035,Connecticut,Reforestation: Shrubland,0
+2035,Delaware,Reforestation: Shrubland,0
+2035,Florida,Reforestation: Shrubland,0
+2035,Georgia,Reforestation: Shrubland,0
+2035,Idaho,Reforestation: Shrubland,33320.248999999996
+2035,Illinois,Reforestation: Shrubland,0
+2035,Indiana,Reforestation: Shrubland,0
+2035,Iowa,Reforestation: Shrubland,0
+2035,Kansas,Reforestation: Shrubland,0
+2035,Kentucky,Reforestation: Shrubland,0
+2035,Louisiana,Reforestation: Shrubland,0
+2035,Maine,Reforestation: Shrubland,0
+2035,Maryland,Reforestation: Shrubland,0
+2035,Massachusetts,Reforestation: Shrubland,0
+2035,Michigan,Reforestation: Shrubland,0
+2035,Minnesota,Reforestation: Shrubland,0
+2035,Mississippi,Reforestation: Shrubland,0
+2035,Missouri,Reforestation: Shrubland,0
+2035,Montana,Reforestation: Shrubland,13885.86499999999
+2035,Nebraska,Reforestation: Shrubland,0
+2035,Nevada,Reforestation: Shrubland,0
+2035,New Hampshire,Reforestation: Shrubland,0
+2035,New Jersey,Reforestation: Shrubland,0
+2035,New Mexico,Reforestation: Shrubland,0
+2035,New York,Reforestation: Shrubland,0
+2035,North Carolina,Reforestation: Shrubland,0
+2035,North Dakota,Reforestation: Shrubland,0
+2035,Ohio,Reforestation: Shrubland,0
+2035,Oklahoma,Reforestation: Shrubland,0
+2035,Oregon,Reforestation: Shrubland,0
+2035,Pennsylvania,Reforestation: Shrubland,0
+2035,Rhode Island,Reforestation: Shrubland,0
+2035,South Carolina,Reforestation: Shrubland,0
+2035,South Dakota,Reforestation: Shrubland,0
+2035,Tennessee,Reforestation: Shrubland,0
+2035,Texas,Reforestation: Shrubland,0
+2035,Utah,Reforestation: Shrubland,0
+2035,Vermont,Reforestation: Shrubland,0
+2035,Virginia,Reforestation: Shrubland,0
+2035,Washington,Reforestation: Shrubland,0
+2035,West Virginia,Reforestation: Shrubland,0
+2035,Wisconsin,Reforestation: Shrubland,0
+2035,Wyoming,Reforestation: Shrubland,131209.4678
+2040,Alabama,Reforestation: Cropland,0
+2040,Arizona,Reforestation: Cropland,0
+2040,Arkansas,Reforestation: Cropland,0
+2040,California,Reforestation: Cropland,0
+2040,Colorado,Reforestation: Cropland,0
+2040,Connecticut,Reforestation: Cropland,0
+2040,Delaware,Reforestation: Cropland,0
+2040,Florida,Reforestation: Cropland,0
+2040,Georgia,Reforestation: Cropland,0
+2040,Idaho,Reforestation: Cropland,0
+2040,Illinois,Reforestation: Cropland,0
+2040,Indiana,Reforestation: Cropland,0
+2040,Iowa,Reforestation: Cropland,0
+2040,Kansas,Reforestation: Cropland,0
+2040,Kentucky,Reforestation: Cropland,0
+2040,Louisiana,Reforestation: Cropland,0
+2040,Maine,Reforestation: Cropland,0
+2040,Maryland,Reforestation: Cropland,0
+2040,Massachusetts,Reforestation: Cropland,0
+2040,Michigan,Reforestation: Cropland,0
+2040,Minnesota,Reforestation: Cropland,0
+2040,Mississippi,Reforestation: Cropland,0
+2040,Missouri,Reforestation: Cropland,0
+2040,Montana,Reforestation: Cropland,0
+2040,Nebraska,Reforestation: Cropland,9460.1598
+2040,Nevada,Reforestation: Cropland,0
+2040,New Hampshire,Reforestation: Cropland,0
+2040,New Jersey,Reforestation: Cropland,0
+2040,New Mexico,Reforestation: Cropland,1901.6907999999999
+2040,New York,Reforestation: Cropland,0
+2040,North Carolina,Reforestation: Cropland,0
+2040,North Dakota,Reforestation: Cropland,0
+2040,Ohio,Reforestation: Cropland,0
+2040,Oklahoma,Reforestation: Cropland,0
+2040,Oregon,Reforestation: Cropland,0
+2040,Pennsylvania,Reforestation: Cropland,0
+2040,Rhode Island,Reforestation: Cropland,0
+2040,South Carolina,Reforestation: Cropland,0
+2040,South Dakota,Reforestation: Cropland,0
+2040,Tennessee,Reforestation: Cropland,0
+2040,Texas,Reforestation: Cropland,0
+2040,Utah,Reforestation: Cropland,1723.8257999999998
+2040,Vermont,Reforestation: Cropland,0
+2040,Virginia,Reforestation: Cropland,0
+2040,Washington,Reforestation: Cropland,0
+2040,West Virginia,Reforestation: Cropland,0
+2040,Wisconsin,Reforestation: Cropland,0
+2040,Wyoming,Reforestation: Cropland,0
+2040,Alabama,Reforestation: Pasture,0
+2040,Arizona,Reforestation: Pasture,0
+2040,Arkansas,Reforestation: Pasture,0
+2040,California,Reforestation: Pasture,10116.400000000005
+2040,Colorado,Reforestation: Pasture,0
+2040,Connecticut,Reforestation: Pasture,0
+2040,Delaware,Reforestation: Pasture,0
+2040,Florida,Reforestation: Pasture,0
+2040,Georgia,Reforestation: Pasture,0
+2040,Idaho,Reforestation: Pasture,0
+2040,Illinois,Reforestation: Pasture,0
+2040,Indiana,Reforestation: Pasture,0
+2040,Iowa,Reforestation: Pasture,0
+2040,Kansas,Reforestation: Pasture,0
+2040,Kentucky,Reforestation: Pasture,0
+2040,Louisiana,Reforestation: Pasture,0
+2040,Maine,Reforestation: Pasture,0
+2040,Maryland,Reforestation: Pasture,0
+2040,Massachusetts,Reforestation: Pasture,0
+2040,Michigan,Reforestation: Pasture,0
+2040,Minnesota,Reforestation: Pasture,0
+2040,Mississippi,Reforestation: Pasture,0
+2040,Missouri,Reforestation: Pasture,0
+2040,Montana,Reforestation: Pasture,0
+2040,Nebraska,Reforestation: Pasture,0
+2040,Nevada,Reforestation: Pasture,0
+2040,New Hampshire,Reforestation: Pasture,0
+2040,New Jersey,Reforestation: Pasture,0
+2040,New Mexico,Reforestation: Pasture,0
+2040,New York,Reforestation: Pasture,0
+2040,North Carolina,Reforestation: Pasture,0
+2040,North Dakota,Reforestation: Pasture,0
+2040,Ohio,Reforestation: Pasture,0
+2040,Oklahoma,Reforestation: Pasture,0
+2040,Oregon,Reforestation: Pasture,0
+2040,Pennsylvania,Reforestation: Pasture,0
+2040,Rhode Island,Reforestation: Pasture,0
+2040,South Carolina,Reforestation: Pasture,0
+2040,South Dakota,Reforestation: Pasture,0
+2040,Tennessee,Reforestation: Pasture,0
+2040,Texas,Reforestation: Pasture,0
+2040,Utah,Reforestation: Pasture,0
+2040,Vermont,Reforestation: Pasture,0
+2040,Virginia,Reforestation: Pasture,0
+2040,Washington,Reforestation: Pasture,0
+2040,West Virginia,Reforestation: Pasture,0
+2040,Wisconsin,Reforestation: Pasture,0
+2040,Wyoming,Reforestation: Pasture,0
+2040,Alabama,Reforestation: Grassland,0
+2040,Arizona,Reforestation: Grassland,0
+2040,Arkansas,Reforestation: Grassland,0
+2040,California,Reforestation: Grassland,5721.8
+2040,Colorado,Reforestation: Grassland,0
+2040,Connecticut,Reforestation: Grassland,0
+2040,Delaware,Reforestation: Grassland,0
+2040,Florida,Reforestation: Grassland,0
+2040,Georgia,Reforestation: Grassland,0
+2040,Idaho,Reforestation: Grassland,0
+2040,Illinois,Reforestation: Grassland,0
+2040,Indiana,Reforestation: Grassland,0
+2040,Iowa,Reforestation: Grassland,0
+2040,Kansas,Reforestation: Grassland,0
+2040,Kentucky,Reforestation: Grassland,0
+2040,Louisiana,Reforestation: Grassland,0
+2040,Maine,Reforestation: Grassland,0
+2040,Maryland,Reforestation: Grassland,0
+2040,Massachusetts,Reforestation: Grassland,0
+2040,Michigan,Reforestation: Grassland,0
+2040,Minnesota,Reforestation: Grassland,0
+2040,Mississippi,Reforestation: Grassland,0
+2040,Missouri,Reforestation: Grassland,0
+2040,Montana,Reforestation: Grassland,0
+2040,Nebraska,Reforestation: Grassland,0
+2040,Nevada,Reforestation: Grassland,0
+2040,New Hampshire,Reforestation: Grassland,0
+2040,New Jersey,Reforestation: Grassland,0
+2040,New Mexico,Reforestation: Grassland,0
+2040,New York,Reforestation: Grassland,0
+2040,North Carolina,Reforestation: Grassland,0
+2040,North Dakota,Reforestation: Grassland,0
+2040,Ohio,Reforestation: Grassland,0
+2040,Oklahoma,Reforestation: Grassland,0
+2040,Oregon,Reforestation: Grassland,0
+2040,Pennsylvania,Reforestation: Grassland,0
+2040,Rhode Island,Reforestation: Grassland,0
+2040,South Carolina,Reforestation: Grassland,0
+2040,South Dakota,Reforestation: Grassland,0
+2040,Tennessee,Reforestation: Grassland,0
+2040,Texas,Reforestation: Grassland,0
+2040,Utah,Reforestation: Grassland,0
+2040,Vermont,Reforestation: Grassland,0
+2040,Virginia,Reforestation: Grassland,0
+2040,Washington,Reforestation: Grassland,0
+2040,West Virginia,Reforestation: Grassland,0
+2040,Wisconsin,Reforestation: Grassland,0
+2040,Wyoming,Reforestation: Grassland,0
+2040,Alabama,Reforestation: Shrubland,0
+2040,Arizona,Reforestation: Shrubland,0
+2040,Arkansas,Reforestation: Shrubland,0
+2040,California,Reforestation: Shrubland,0
+2040,Colorado,Reforestation: Shrubland,0
+2040,Connecticut,Reforestation: Shrubland,0
+2040,Delaware,Reforestation: Shrubland,0
+2040,Florida,Reforestation: Shrubland,0
+2040,Georgia,Reforestation: Shrubland,0
+2040,Idaho,Reforestation: Shrubland,0
+2040,Illinois,Reforestation: Shrubland,0
+2040,Indiana,Reforestation: Shrubland,0
+2040,Iowa,Reforestation: Shrubland,0
+2040,Kansas,Reforestation: Shrubland,0
+2040,Kentucky,Reforestation: Shrubland,0
+2040,Louisiana,Reforestation: Shrubland,0
+2040,Maine,Reforestation: Shrubland,0
+2040,Maryland,Reforestation: Shrubland,0
+2040,Massachusetts,Reforestation: Shrubland,0
+2040,Michigan,Reforestation: Shrubland,0
+2040,Minnesota,Reforestation: Shrubland,0
+2040,Mississippi,Reforestation: Shrubland,0
+2040,Missouri,Reforestation: Shrubland,0
+2040,Montana,Reforestation: Shrubland,0
+2040,Nebraska,Reforestation: Shrubland,0
+2040,Nevada,Reforestation: Shrubland,0
+2040,New Hampshire,Reforestation: Shrubland,0
+2040,New Jersey,Reforestation: Shrubland,0
+2040,New Mexico,Reforestation: Shrubland,0
+2040,New York,Reforestation: Shrubland,0
+2040,North Carolina,Reforestation: Shrubland,0
+2040,North Dakota,Reforestation: Shrubland,0
+2040,Ohio,Reforestation: Shrubland,0
+2040,Oklahoma,Reforestation: Shrubland,0
+2040,Oregon,Reforestation: Shrubland,0
+2040,Pennsylvania,Reforestation: Shrubland,0
+2040,Rhode Island,Reforestation: Shrubland,0
+2040,South Carolina,Reforestation: Shrubland,0
+2040,South Dakota,Reforestation: Shrubland,0
+2040,Tennessee,Reforestation: Shrubland,0
+2040,Texas,Reforestation: Shrubland,0
+2040,Utah,Reforestation: Shrubland,0
+2040,Vermont,Reforestation: Shrubland,0
+2040,Virginia,Reforestation: Shrubland,0
+2040,Washington,Reforestation: Shrubland,0
+2040,West Virginia,Reforestation: Shrubland,0
+2040,Wisconsin,Reforestation: Shrubland,0
+2040,Wyoming,Reforestation: Shrubland,0
+2045,Alabama,Reforestation: Cropland,0
+2045,Arizona,Reforestation: Cropland,0
+2045,Arkansas,Reforestation: Cropland,0
+2045,California,Reforestation: Cropland,13397.625399999999
+2045,Colorado,Reforestation: Cropland,794.849
+2045,Connecticut,Reforestation: Cropland,0
+2045,Delaware,Reforestation: Cropland,0
+2045,Florida,Reforestation: Cropland,0
+2045,Georgia,Reforestation: Cropland,0
+2045,Idaho,Reforestation: Cropland,0
+2045,Illinois,Reforestation: Cropland,0
+2045,Indiana,Reforestation: Cropland,4070.8469999999993
+2045,Iowa,Reforestation: Cropland,2985.839
+2045,Kansas,Reforestation: Cropland,0
+2045,Kentucky,Reforestation: Cropland,0
+2045,Louisiana,Reforestation: Cropland,0
+2045,Maine,Reforestation: Cropland,0
+2045,Maryland,Reforestation: Cropland,0
+2045,Massachusetts,Reforestation: Cropland,0
+2045,Michigan,Reforestation: Cropland,0
+2045,Minnesota,Reforestation: Cropland,3870.2709999999997
+2045,Mississippi,Reforestation: Cropland,0
+2045,Missouri,Reforestation: Cropland,0
+2045,Montana,Reforestation: Cropland,0
+2045,Nebraska,Reforestation: Cropland,0
+2045,Nevada,Reforestation: Cropland,910.827
+2045,New Hampshire,Reforestation: Cropland,0
+2045,New Jersey,Reforestation: Cropland,0
+2045,New Mexico,Reforestation: Cropland,0
+2045,New York,Reforestation: Cropland,0
+2045,North Carolina,Reforestation: Cropland,0
+2045,North Dakota,Reforestation: Cropland,0
+2045,Ohio,Reforestation: Cropland,0
+2045,Oklahoma,Reforestation: Cropland,0
+2045,Oregon,Reforestation: Cropland,0
+2045,Pennsylvania,Reforestation: Cropland,0
+2045,Rhode Island,Reforestation: Cropland,0
+2045,South Carolina,Reforestation: Cropland,0
+2045,South Dakota,Reforestation: Cropland,1642.8812000000003
+2045,Tennessee,Reforestation: Cropland,0
+2045,Texas,Reforestation: Cropland,0
+2045,Utah,Reforestation: Cropland,0
+2045,Vermont,Reforestation: Cropland,0
+2045,Virginia,Reforestation: Cropland,0
+2045,Washington,Reforestation: Cropland,0
+2045,West Virginia,Reforestation: Cropland,0
+2045,Wisconsin,Reforestation: Cropland,0
+2045,Wyoming,Reforestation: Cropland,0
+2045,Alabama,Reforestation: Pasture,0
+2045,Arizona,Reforestation: Pasture,0
+2045,Arkansas,Reforestation: Pasture,0
+2045,California,Reforestation: Pasture,0
+2045,Colorado,Reforestation: Pasture,8576.8
+2045,Connecticut,Reforestation: Pasture,0
+2045,Delaware,Reforestation: Pasture,0
+2045,Florida,Reforestation: Pasture,0
+2045,Georgia,Reforestation: Pasture,0
+2045,Idaho,Reforestation: Pasture,5847.4
+2045,Illinois,Reforestation: Pasture,0
+2045,Indiana,Reforestation: Pasture,0
+2045,Iowa,Reforestation: Pasture,0
+2045,Kansas,Reforestation: Pasture,0
+2045,Kentucky,Reforestation: Pasture,0
+2045,Louisiana,Reforestation: Pasture,0
+2045,Maine,Reforestation: Pasture,0
+2045,Maryland,Reforestation: Pasture,0
+2045,Massachusetts,Reforestation: Pasture,0
+2045,Michigan,Reforestation: Pasture,0
+2045,Minnesota,Reforestation: Pasture,0
+2045,Mississippi,Reforestation: Pasture,0
+2045,Missouri,Reforestation: Pasture,0
+2045,Montana,Reforestation: Pasture,0
+2045,Nebraska,Reforestation: Pasture,0
+2045,Nevada,Reforestation: Pasture,0
+2045,New Hampshire,Reforestation: Pasture,0
+2045,New Jersey,Reforestation: Pasture,0
+2045,New Mexico,Reforestation: Pasture,0
+2045,New York,Reforestation: Pasture,0
+2045,North Carolina,Reforestation: Pasture,0
+2045,North Dakota,Reforestation: Pasture,0
+2045,Ohio,Reforestation: Pasture,0
+2045,Oklahoma,Reforestation: Pasture,0
+2045,Oregon,Reforestation: Pasture,0
+2045,Pennsylvania,Reforestation: Pasture,0
+2045,Rhode Island,Reforestation: Pasture,0
+2045,South Carolina,Reforestation: Pasture,0
+2045,South Dakota,Reforestation: Pasture,0
+2045,Tennessee,Reforestation: Pasture,0
+2045,Texas,Reforestation: Pasture,0
+2045,Utah,Reforestation: Pasture,0
+2045,Vermont,Reforestation: Pasture,0
+2045,Virginia,Reforestation: Pasture,0
+2045,Washington,Reforestation: Pasture,0
+2045,West Virginia,Reforestation: Pasture,0
+2045,Wisconsin,Reforestation: Pasture,0
+2045,Wyoming,Reforestation: Pasture,0
+2045,Alabama,Reforestation: Grassland,0
+2045,Arizona,Reforestation: Grassland,0
+2045,Arkansas,Reforestation: Grassland,0
+2045,California,Reforestation: Grassland,0
+2045,Colorado,Reforestation: Grassland,19547
+2045,Connecticut,Reforestation: Grassland,0
+2045,Delaware,Reforestation: Grassland,0
+2045,Florida,Reforestation: Grassland,0
+2045,Georgia,Reforestation: Grassland,0
+2045,Idaho,Reforestation: Grassland,14625
+2045,Illinois,Reforestation: Grassland,0
+2045,Indiana,Reforestation: Grassland,0
+2045,Iowa,Reforestation: Grassland,0
+2045,Kansas,Reforestation: Grassland,0
+2045,Kentucky,Reforestation: Grassland,0
+2045,Louisiana,Reforestation: Grassland,0
+2045,Maine,Reforestation: Grassland,0
+2045,Maryland,Reforestation: Grassland,0
+2045,Massachusetts,Reforestation: Grassland,0
+2045,Michigan,Reforestation: Grassland,0
+2045,Minnesota,Reforestation: Grassland,0
+2045,Mississippi,Reforestation: Grassland,0
+2045,Missouri,Reforestation: Grassland,0
+2045,Montana,Reforestation: Grassland,0
+2045,Nebraska,Reforestation: Grassland,0
+2045,Nevada,Reforestation: Grassland,0
+2045,New Hampshire,Reforestation: Grassland,0
+2045,New Jersey,Reforestation: Grassland,0
+2045,New Mexico,Reforestation: Grassland,0
+2045,New York,Reforestation: Grassland,0
+2045,North Carolina,Reforestation: Grassland,0
+2045,North Dakota,Reforestation: Grassland,0
+2045,Ohio,Reforestation: Grassland,0
+2045,Oklahoma,Reforestation: Grassland,0
+2045,Oregon,Reforestation: Grassland,0
+2045,Pennsylvania,Reforestation: Grassland,0
+2045,Rhode Island,Reforestation: Grassland,0
+2045,South Carolina,Reforestation: Grassland,0
+2045,South Dakota,Reforestation: Grassland,0
+2045,Tennessee,Reforestation: Grassland,0
+2045,Texas,Reforestation: Grassland,0
+2045,Utah,Reforestation: Grassland,0
+2045,Vermont,Reforestation: Grassland,0
+2045,Virginia,Reforestation: Grassland,0
+2045,Washington,Reforestation: Grassland,0
+2045,West Virginia,Reforestation: Grassland,0
+2045,Wisconsin,Reforestation: Grassland,0
+2045,Wyoming,Reforestation: Grassland,0
+2045,Alabama,Reforestation: Shrubland,0
+2045,Arizona,Reforestation: Shrubland,0
+2045,Arkansas,Reforestation: Shrubland,0
+2045,California,Reforestation: Shrubland,0
+2045,Colorado,Reforestation: Shrubland,48550.199199999995
+2045,Connecticut,Reforestation: Shrubland,0
+2045,Delaware,Reforestation: Shrubland,0
+2045,Florida,Reforestation: Shrubland,0
+2045,Georgia,Reforestation: Shrubland,0
+2045,Idaho,Reforestation: Shrubland,0
+2045,Illinois,Reforestation: Shrubland,0
+2045,Indiana,Reforestation: Shrubland,0
+2045,Iowa,Reforestation: Shrubland,0
+2045,Kansas,Reforestation: Shrubland,0
+2045,Kentucky,Reforestation: Shrubland,0
+2045,Louisiana,Reforestation: Shrubland,0
+2045,Maine,Reforestation: Shrubland,0
+2045,Maryland,Reforestation: Shrubland,0
+2045,Massachusetts,Reforestation: Shrubland,0
+2045,Michigan,Reforestation: Shrubland,0
+2045,Minnesota,Reforestation: Shrubland,0
+2045,Mississippi,Reforestation: Shrubland,0
+2045,Missouri,Reforestation: Shrubland,0
+2045,Montana,Reforestation: Shrubland,0
+2045,Nebraska,Reforestation: Shrubland,0
+2045,Nevada,Reforestation: Shrubland,0
+2045,New Hampshire,Reforestation: Shrubland,0
+2045,New Jersey,Reforestation: Shrubland,0
+2045,New Mexico,Reforestation: Shrubland,0
+2045,New York,Reforestation: Shrubland,0
+2045,North Carolina,Reforestation: Shrubland,0
+2045,North Dakota,Reforestation: Shrubland,0
+2045,Ohio,Reforestation: Shrubland,0
+2045,Oklahoma,Reforestation: Shrubland,0
+2045,Oregon,Reforestation: Shrubland,0
+2045,Pennsylvania,Reforestation: Shrubland,0
+2045,Rhode Island,Reforestation: Shrubland,0
+2045,South Carolina,Reforestation: Shrubland,0
+2045,South Dakota,Reforestation: Shrubland,0
+2045,Tennessee,Reforestation: Shrubland,0
+2045,Texas,Reforestation: Shrubland,0
+2045,Utah,Reforestation: Shrubland,0
+2045,Vermont,Reforestation: Shrubland,0
+2045,Virginia,Reforestation: Shrubland,0
+2045,Washington,Reforestation: Shrubland,0
+2045,West Virginia,Reforestation: Shrubland,0
+2045,Wisconsin,Reforestation: Shrubland,0
+2045,Wyoming,Reforestation: Shrubland,0
+2050,Alabama,Reforestation: Cropland,0
+2050,Arizona,Reforestation: Cropland,0
+2050,Arkansas,Reforestation: Cropland,0
+2050,California,Reforestation: Cropland,27331.156000000006
+2050,Colorado,Reforestation: Cropland,1621.4919999999997
+2050,Connecticut,Reforestation: Cropland,0
+2050,Delaware,Reforestation: Cropland,0
+2050,Florida,Reforestation: Cropland,0
+2050,Georgia,Reforestation: Cropland,0
+2050,Idaho,Reforestation: Cropland,0
+2050,Illinois,Reforestation: Cropland,0
+2050,Indiana,Reforestation: Cropland,8304.528
+2050,Iowa,Reforestation: Cropland,6091.1114
+2050,Kansas,Reforestation: Cropland,0
+2050,Kentucky,Reforestation: Cropland,0
+2050,Louisiana,Reforestation: Cropland,0
+2050,Maine,Reforestation: Cropland,0
+2050,Maryland,Reforestation: Cropland,0
+2050,Massachusetts,Reforestation: Cropland,0
+2050,Michigan,Reforestation: Cropland,0
+2050,Minnesota,Reforestation: Cropland,7895.352600000001
+2050,Mississippi,Reforestation: Cropland,0
+2050,Missouri,Reforestation: Cropland,0
+2050,Montana,Reforestation: Cropland,0
+2050,Nebraska,Reforestation: Cropland,0
+2050,Nevada,Reforestation: Cropland,1858.0874
+2050,New Hampshire,Reforestation: Cropland,0
+2050,New Jersey,Reforestation: Cropland,0
+2050,New Mexico,Reforestation: Cropland,0
+2050,New York,Reforestation: Cropland,0
+2050,North Carolina,Reforestation: Cropland,0
+2050,North Dakota,Reforestation: Cropland,0
+2050,Ohio,Reforestation: Cropland,0
+2050,Oklahoma,Reforestation: Cropland,0
+2050,Oregon,Reforestation: Cropland,0
+2050,Pennsylvania,Reforestation: Cropland,0
+2050,Rhode Island,Reforestation: Cropland,0
+2050,South Carolina,Reforestation: Cropland,0
+2050,South Dakota,Reforestation: Cropland,3351.4778000000006
+2050,Tennessee,Reforestation: Cropland,0
+2050,Texas,Reforestation: Cropland,0
+2050,Utah,Reforestation: Cropland,0
+2050,Vermont,Reforestation: Cropland,0
+2050,Virginia,Reforestation: Cropland,0
+2050,Washington,Reforestation: Cropland,0
+2050,West Virginia,Reforestation: Cropland,0
+2050,Wisconsin,Reforestation: Cropland,0
+2050,Wyoming,Reforestation: Cropland,0
+2050,Alabama,Reforestation: Pasture,0
+2050,Arizona,Reforestation: Pasture,0
+2050,Arkansas,Reforestation: Pasture,0
+2050,California,Reforestation: Pasture,0
+2050,Colorado,Reforestation: Pasture,17496.800000000003
+2050,Connecticut,Reforestation: Pasture,0
+2050,Delaware,Reforestation: Pasture,0
+2050,Florida,Reforestation: Pasture,0
+2050,Georgia,Reforestation: Pasture,0
+2050,Idaho,Reforestation: Pasture,11928.8
+2050,Illinois,Reforestation: Pasture,0
+2050,Indiana,Reforestation: Pasture,0
+2050,Iowa,Reforestation: Pasture,0
+2050,Kansas,Reforestation: Pasture,0
+2050,Kentucky,Reforestation: Pasture,0
+2050,Louisiana,Reforestation: Pasture,0
+2050,Maine,Reforestation: Pasture,0
+2050,Maryland,Reforestation: Pasture,0
+2050,Massachusetts,Reforestation: Pasture,0
+2050,Michigan,Reforestation: Pasture,0
+2050,Minnesota,Reforestation: Pasture,0
+2050,Mississippi,Reforestation: Pasture,0
+2050,Missouri,Reforestation: Pasture,0
+2050,Montana,Reforestation: Pasture,0
+2050,Nebraska,Reforestation: Pasture,0
+2050,Nevada,Reforestation: Pasture,0
+2050,New Hampshire,Reforestation: Pasture,0
+2050,New Jersey,Reforestation: Pasture,0
+2050,New Mexico,Reforestation: Pasture,0
+2050,New York,Reforestation: Pasture,0
+2050,North Carolina,Reforestation: Pasture,0
+2050,North Dakota,Reforestation: Pasture,0
+2050,Ohio,Reforestation: Pasture,0
+2050,Oklahoma,Reforestation: Pasture,0
+2050,Oregon,Reforestation: Pasture,0
+2050,Pennsylvania,Reforestation: Pasture,0
+2050,Rhode Island,Reforestation: Pasture,0
+2050,South Carolina,Reforestation: Pasture,0
+2050,South Dakota,Reforestation: Pasture,0
+2050,Tennessee,Reforestation: Pasture,0
+2050,Texas,Reforestation: Pasture,0
+2050,Utah,Reforestation: Pasture,0
+2050,Vermont,Reforestation: Pasture,0
+2050,Virginia,Reforestation: Pasture,0
+2050,Washington,Reforestation: Pasture,0
+2050,West Virginia,Reforestation: Pasture,0
+2050,Wisconsin,Reforestation: Pasture,0
+2050,Wyoming,Reforestation: Pasture,0
+2050,Alabama,Reforestation: Grassland,0
+2050,Arizona,Reforestation: Grassland,0
+2050,Arkansas,Reforestation: Grassland,0
+2050,California,Reforestation: Grassland,0
+2050,Colorado,Reforestation: Grassland,39875.8
+2050,Connecticut,Reforestation: Grassland,0
+2050,Delaware,Reforestation: Grassland,0
+2050,Florida,Reforestation: Grassland,0
+2050,Georgia,Reforestation: Grassland,0
+2050,Idaho,Reforestation: Grassland,29835.2
+2050,Illinois,Reforestation: Grassland,0
+2050,Indiana,Reforestation: Grassland,0
+2050,Iowa,Reforestation: Grassland,0
+2050,Kansas,Reforestation: Grassland,0
+2050,Kentucky,Reforestation: Grassland,0
+2050,Louisiana,Reforestation: Grassland,0
+2050,Maine,Reforestation: Grassland,0
+2050,Maryland,Reforestation: Grassland,0
+2050,Massachusetts,Reforestation: Grassland,0
+2050,Michigan,Reforestation: Grassland,0
+2050,Minnesota,Reforestation: Grassland,0
+2050,Mississippi,Reforestation: Grassland,0
+2050,Missouri,Reforestation: Grassland,0
+2050,Montana,Reforestation: Grassland,0
+2050,Nebraska,Reforestation: Grassland,0
+2050,Nevada,Reforestation: Grassland,0
+2050,New Hampshire,Reforestation: Grassland,0
+2050,New Jersey,Reforestation: Grassland,0
+2050,New Mexico,Reforestation: Grassland,0
+2050,New York,Reforestation: Grassland,0
+2050,North Carolina,Reforestation: Grassland,0
+2050,North Dakota,Reforestation: Grassland,0
+2050,Ohio,Reforestation: Grassland,0
+2050,Oklahoma,Reforestation: Grassland,0
+2050,Oregon,Reforestation: Grassland,0
+2050,Pennsylvania,Reforestation: Grassland,0
+2050,Rhode Island,Reforestation: Grassland,0
+2050,South Carolina,Reforestation: Grassland,0
+2050,South Dakota,Reforestation: Grassland,0
+2050,Tennessee,Reforestation: Grassland,0
+2050,Texas,Reforestation: Grassland,0
+2050,Utah,Reforestation: Grassland,0
+2050,Vermont,Reforestation: Grassland,0
+2050,Virginia,Reforestation: Grassland,0
+2050,Washington,Reforestation: Grassland,0
+2050,West Virginia,Reforestation: Grassland,0
+2050,Wisconsin,Reforestation: Grassland,0
+2050,Wyoming,Reforestation: Grassland,0
+2050,Alabama,Reforestation: Shrubland,0
+2050,Arizona,Reforestation: Shrubland,0
+2050,Arkansas,Reforestation: Shrubland,0
+2050,California,Reforestation: Shrubland,0
+2050,Colorado,Reforestation: Shrubland,99042.4064
+2050,Connecticut,Reforestation: Shrubland,0
+2050,Delaware,Reforestation: Shrubland,0
+2050,Florida,Reforestation: Shrubland,0
+2050,Georgia,Reforestation: Shrubland,0
+2050,Idaho,Reforestation: Shrubland,0
+2050,Illinois,Reforestation: Shrubland,0
+2050,Indiana,Reforestation: Shrubland,0
+2050,Iowa,Reforestation: Shrubland,0
+2050,Kansas,Reforestation: Shrubland,0
+2050,Kentucky,Reforestation: Shrubland,0
+2050,Louisiana,Reforestation: Shrubland,0
+2050,Maine,Reforestation: Shrubland,0
+2050,Maryland,Reforestation: Shrubland,0
+2050,Massachusetts,Reforestation: Shrubland,0
+2050,Michigan,Reforestation: Shrubland,0
+2050,Minnesota,Reforestation: Shrubland,0
+2050,Mississippi,Reforestation: Shrubland,0
+2050,Missouri,Reforestation: Shrubland,0
+2050,Montana,Reforestation: Shrubland,0
+2050,Nebraska,Reforestation: Shrubland,0
+2050,Nevada,Reforestation: Shrubland,0
+2050,New Hampshire,Reforestation: Shrubland,0
+2050,New Jersey,Reforestation: Shrubland,0
+2050,New Mexico,Reforestation: Shrubland,0
+2050,New York,Reforestation: Shrubland,0
+2050,North Carolina,Reforestation: Shrubland,0
+2050,North Dakota,Reforestation: Shrubland,0
+2050,Ohio,Reforestation: Shrubland,0
+2050,Oklahoma,Reforestation: Shrubland,0
+2050,Oregon,Reforestation: Shrubland,0
+2050,Pennsylvania,Reforestation: Shrubland,0
+2050,Rhode Island,Reforestation: Shrubland,0
+2050,South Carolina,Reforestation: Shrubland,0
+2050,South Dakota,Reforestation: Shrubland,0
+2050,Tennessee,Reforestation: Shrubland,0
+2050,Texas,Reforestation: Shrubland,0
+2050,Utah,Reforestation: Shrubland,0
+2050,Vermont,Reforestation: Shrubland,0
+2050,Virginia,Reforestation: Shrubland,0
+2050,Washington,Reforestation: Shrubland,0
+2050,West Virginia,Reforestation: Shrubland,0
+2050,Wisconsin,Reforestation: Shrubland,0
+2050,Wyoming,Reforestation: Shrubland,0

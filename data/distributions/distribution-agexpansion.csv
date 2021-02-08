@@ -1,0 +1,511 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+Coast Range,Ag Expansion: Pasture,Ag Change,2001,2006,40
+Puget Lowland,Ag Expansion: Pasture,Ag Change,2001,2006,140
+Willamette Valley,Ag Expansion: Pasture,Ag Change,2001,2006,100
+Cascades,Ag Expansion: Pasture,Ag Change,2001,2006,40
+Sierra Nevada,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Central California Foothills and Coastal Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,80
+Central California Valley,Ag Expansion: Pasture,Ag Change,2001,2006,160
+Southern California Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Eastern Cascades Slopes and Foothills,Ag Expansion: Pasture,Ag Change,2001,2006,160
+Columbia Plateau,Ag Expansion: Pasture,Ag Change,2001,2006,240
+Blue Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,80
+Snake River Plain,Ag Expansion: Pasture,Ag Change,2001,2006,140
+Central Basin and Range,Ag Expansion: Pasture,Ag Change,2001,2006,220
+Mojave Basin and Range,Ag Expansion: Pasture,Ag Change,2001,2006,20
+Northern Rockies,Ag Expansion: Pasture,Ag Change,2001,2006,220
+Idaho Batholith,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Middle Rockies,Ag Expansion: Pasture,Ag Change,2001,2006,320
+Wyoming Basin,Ag Expansion: Pasture,Ag Change,2001,2006,420
+Wasatch and Uinta Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,60
+Colorado Plateaus,Ag Expansion: Pasture,Ag Change,2001,2006,200
+Southern Rockies,Ag Expansion: Pasture,Ag Change,2001,2006,140
+Arizona/New Mexico Plateau,Ag Expansion: Pasture,Ag Change,2001,2006,300
+Arizona/New Mexico Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Chihuahuan Deserts,Ag Expansion: Pasture,Ag Change,2001,2006,0
+High Plains,Ag Expansion: Pasture,Ag Change,2001,2006,940
+Southwestern Tablelands,Ag Expansion: Pasture,Ag Change,2001,2006,60
+Central Great Plains,Ag Expansion: Pasture,Ag Change,2001,2006,280
+Flint Hills,Ag Expansion: Pasture,Ag Change,2001,2006,40
+Cross Timbers,Ag Expansion: Pasture,Ag Change,2001,2006,260
+Edwards Plateau,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Southern Texas Plains,Ag Expansion: Pasture,Ag Change,2001,2006,220
+Texas Blackland Prairies,Ag Expansion: Pasture,Ag Change,2001,2006,980
+East Central Texas Plains,Ag Expansion: Pasture,Ag Change,2001,2006,1440
+Western Gulf Coastal Plain,Ag Expansion: Pasture,Ag Change,2001,2006,660
+South Central Plains,Ag Expansion: Pasture,Ag Change,2001,2006,1500
+Ouachita Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,180
+Arkansas Valley,Ag Expansion: Pasture,Ag Change,2001,2006,320
+Boston Mountains,Ag Expansion: Pasture,Ag Change,2001,2006,220
+Ozark Highlands,Ag Expansion: Pasture,Ag Change,2001,2006,1020
+Central Irregular Plains,Ag Expansion: Pasture,Ag Change,2001,2006,1620
+Canadian Rockies,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Northwestern Glaciated Plains,Ag Expansion: Pasture,Ag Change,2001,2006,1640
+Northwestern Great Plains,Ag Expansion: Pasture,Ag Change,2001,2006,1220
+Nebraska Sand Hills,Ag Expansion: Pasture,Ag Change,2001,2006,240
+Piedmont,Ag Expansion: Pasture,Ag Change,2001,2006,2180
+Northern Glaciated Plains,Ag Expansion: Pasture,Ag Change,2001,2006,2380
+Western Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2001,2006,2240
+Lake Agassiz Plain,Ag Expansion: Pasture,Ag Change,2001,2006,760
+Northern Minnesota Wetlands,Ag Expansion: Pasture,Ag Change,2001,2006,640
+Northern Lakes and Forests,Ag Expansion: Pasture,Ag Change,2001,2006,1980
+North Central Hardwood Forests,Ag Expansion: Pasture,Ag Change,2001,2006,1820
+Driftless Area,Ag Expansion: Pasture,Ag Change,2001,2006,380
+Southeastern Wisconsin Till Plains,Ag Expansion: Pasture,Ag Change,2001,2006,520
+Central Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2001,2006,80
+Eastern Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2001,2006,180
+Southern Michigan/Northern Indiana Drift Plains,Ag Expansion: Pasture,Ag Change,2001,2006,140
+Huron/Erie Lake Plains,Ag Expansion: Pasture,Ag Change,2001,2006,60
+Northeastern Highlands,Ag Expansion: Pasture,Ag Change,2001,2006,600
+Northeastern Coastal Zone,Ag Expansion: Pasture,Ag Change,2001,2006,660
+Northern Allegheny Plateau,Ag Expansion: Pasture,Ag Change,2001,2006,700
+Erie Drift Plain,Ag Expansion: Pasture,Ag Change,2001,2006,140
+North Central Appalachians,Ag Expansion: Pasture,Ag Change,2001,2006,80
+Middle Atlantic Coastal Plain,Ag Expansion: Pasture,Ag Change,2001,2006,60
+Northern Piedmont,Ag Expansion: Pasture,Ag Change,2001,2006,220
+Southeastern Plains,Ag Expansion: Pasture,Ag Change,2001,2006,3400
+Blue Ridge,Ag Expansion: Pasture,Ag Change,2001,2006,220
+Ridge and Valley,Ag Expansion: Pasture,Ag Change,2001,2006,1520
+Southwestern Appalachians,Ag Expansion: Pasture,Ag Change,2001,2006,420
+Central Appalachians,Ag Expansion: Pasture,Ag Change,2001,2006,320
+Western Allegheny Plateau,Ag Expansion: Pasture,Ag Change,2001,2006,940
+Interior Plateau,Ag Expansion: Pasture,Ag Change,2001,2006,1820
+Interior River Valleys and Hills,Ag Expansion: Pasture,Ag Change,2001,2006,380
+Mississippi Alluvial Plain,Ag Expansion: Pasture,Ag Change,2001,2006,200
+Mississippi Valley Loess Plains,Ag Expansion: Pasture,Ag Change,2001,2006,800
+Southern Coastal Plain,Ag Expansion: Pasture,Ag Change,2001,2006,3600
+Southern Florida Coastal Plain,Ag Expansion: Pasture,Ag Change,2001,2006,20
+North Cascades,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Klamath Mountains/California High North Coast Range,Ag Expansion: Pasture,Ag Change,2001,2006,20
+Madrean Archipelago,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Northern Basin and Range,Ag Expansion: Pasture,Ag Change,2001,2006,80
+Sonoran Basin and Range,Ag Expansion: Pasture,Ag Change,2001,2006,40
+Acadian Plains and Hills,Ag Expansion: Pasture,Ag Change,2001,2006,40
+Eastern Great Lakes Lowlands,Ag Expansion: Pasture,Ag Change,2001,2006,1200
+Atlantic Coastal Pine Barrens,Ag Expansion: Pasture,Ag Change,2001,2006,0
+Southern California/Northern Baja Coast,Ag Expansion: Pasture,Ag Change,2001,2006,100
+Coast Range,Ag Expansion: Pasture,Ag Change,2007,2011,80
+Puget Lowland,Ag Expansion: Pasture,Ag Change,2007,2011,160
+Willamette Valley,Ag Expansion: Pasture,Ag Change,2007,2011,140
+Cascades,Ag Expansion: Pasture,Ag Change,2007,2011,20
+Sierra Nevada,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Central California Foothills and Coastal Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,20
+Central California Valley,Ag Expansion: Pasture,Ag Change,2007,2011,160
+Southern California Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Eastern Cascades Slopes and Foothills,Ag Expansion: Pasture,Ag Change,2007,2011,120
+Columbia Plateau,Ag Expansion: Pasture,Ag Change,2007,2011,300
+Blue Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,120
+Snake River Plain,Ag Expansion: Pasture,Ag Change,2007,2011,40
+Central Basin and Range,Ag Expansion: Pasture,Ag Change,2007,2011,200
+Mojave Basin and Range,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Northern Rockies,Ag Expansion: Pasture,Ag Change,2007,2011,120
+Idaho Batholith,Ag Expansion: Pasture,Ag Change,2007,2011,20
+Middle Rockies,Ag Expansion: Pasture,Ag Change,2007,2011,260
+Wyoming Basin,Ag Expansion: Pasture,Ag Change,2007,2011,100
+Wasatch and Uinta Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Colorado Plateaus,Ag Expansion: Pasture,Ag Change,2007,2011,180
+Southern Rockies,Ag Expansion: Pasture,Ag Change,2007,2011,60
+Arizona/New Mexico Plateau,Ag Expansion: Pasture,Ag Change,2007,2011,200
+Arizona/New Mexico Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Chihuahuan Deserts,Ag Expansion: Pasture,Ag Change,2007,2011,0
+High Plains,Ag Expansion: Pasture,Ag Change,2007,2011,2120
+Southwestern Tablelands,Ag Expansion: Pasture,Ag Change,2007,2011,140
+Central Great Plains,Ag Expansion: Pasture,Ag Change,2007,2011,840
+Flint Hills,Ag Expansion: Pasture,Ag Change,2007,2011,220
+Cross Timbers,Ag Expansion: Pasture,Ag Change,2007,2011,220
+Edwards Plateau,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Southern Texas Plains,Ag Expansion: Pasture,Ag Change,2007,2011,60
+Texas Blackland Prairies,Ag Expansion: Pasture,Ag Change,2007,2011,920
+East Central Texas Plains,Ag Expansion: Pasture,Ag Change,2007,2011,1580
+Western Gulf Coastal Plain,Ag Expansion: Pasture,Ag Change,2007,2011,1160
+South Central Plains,Ag Expansion: Pasture,Ag Change,2007,2011,3280
+Ouachita Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,520
+Arkansas Valley,Ag Expansion: Pasture,Ag Change,2007,2011,400
+Boston Mountains,Ag Expansion: Pasture,Ag Change,2007,2011,240
+Ozark Highlands,Ag Expansion: Pasture,Ag Change,2007,2011,1380
+Central Irregular Plains,Ag Expansion: Pasture,Ag Change,2007,2011,2340
+Canadian Rockies,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Northwestern Glaciated Plains,Ag Expansion: Pasture,Ag Change,2007,2011,2440
+Northwestern Great Plains,Ag Expansion: Pasture,Ag Change,2007,2011,1380
+Nebraska Sand Hills,Ag Expansion: Pasture,Ag Change,2007,2011,80
+Piedmont,Ag Expansion: Pasture,Ag Change,2007,2011,3120
+Northern Glaciated Plains,Ag Expansion: Pasture,Ag Change,2007,2011,1800
+Western Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2007,2011,1040
+Lake Agassiz Plain,Ag Expansion: Pasture,Ag Change,2007,2011,440
+Northern Minnesota Wetlands,Ag Expansion: Pasture,Ag Change,2007,2011,360
+Northern Lakes and Forests,Ag Expansion: Pasture,Ag Change,2007,2011,820
+North Central Hardwood Forests,Ag Expansion: Pasture,Ag Change,2007,2011,380
+Driftless Area,Ag Expansion: Pasture,Ag Change,2007,2011,740
+Southeastern Wisconsin Till Plains,Ag Expansion: Pasture,Ag Change,2007,2011,100
+Central Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2007,2011,180
+Eastern Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2007,2011,160
+Southern Michigan/Northern Indiana Drift Plains,Ag Expansion: Pasture,Ag Change,2007,2011,60
+Huron/Erie Lake Plains,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Northeastern Highlands,Ag Expansion: Pasture,Ag Change,2007,2011,320
+Northeastern Coastal Zone,Ag Expansion: Pasture,Ag Change,2007,2011,500
+Northern Allegheny Plateau,Ag Expansion: Pasture,Ag Change,2007,2011,500
+Erie Drift Plain,Ag Expansion: Pasture,Ag Change,2007,2011,160
+North Central Appalachians,Ag Expansion: Pasture,Ag Change,2007,2011,160
+Middle Atlantic Coastal Plain,Ag Expansion: Pasture,Ag Change,2007,2011,60
+Northern Piedmont,Ag Expansion: Pasture,Ag Change,2007,2011,320
+Southeastern Plains,Ag Expansion: Pasture,Ag Change,2007,2011,4660
+Blue Ridge,Ag Expansion: Pasture,Ag Change,2007,2011,500
+Ridge and Valley,Ag Expansion: Pasture,Ag Change,2007,2011,1380
+Southwestern Appalachians,Ag Expansion: Pasture,Ag Change,2007,2011,1140
+Central Appalachians,Ag Expansion: Pasture,Ag Change,2007,2011,360
+Western Allegheny Plateau,Ag Expansion: Pasture,Ag Change,2007,2011,840
+Interior Plateau,Ag Expansion: Pasture,Ag Change,2007,2011,1940
+Interior River Valleys and Hills,Ag Expansion: Pasture,Ag Change,2007,2011,760
+Mississippi Alluvial Plain,Ag Expansion: Pasture,Ag Change,2007,2011,40
+Mississippi Valley Loess Plains,Ag Expansion: Pasture,Ag Change,2007,2011,820
+Southern Coastal Plain,Ag Expansion: Pasture,Ag Change,2007,2011,5940
+Southern Florida Coastal Plain,Ag Expansion: Pasture,Ag Change,2007,2011,20
+North Cascades,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Klamath Mountains/California High North Coast Range,Ag Expansion: Pasture,Ag Change,2007,2011,20
+Madrean Archipelago,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Northern Basin and Range,Ag Expansion: Pasture,Ag Change,2007,2011,140
+Sonoran Basin and Range,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Acadian Plains and Hills,Ag Expansion: Pasture,Ag Change,2007,2011,120
+Eastern Great Lakes Lowlands,Ag Expansion: Pasture,Ag Change,2007,2011,540
+Atlantic Coastal Pine Barrens,Ag Expansion: Pasture,Ag Change,2007,2011,60
+Southern California/Northern Baja Coast,Ag Expansion: Pasture,Ag Change,2007,2011,0
+Coast Range,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Puget Lowland,Ag Expansion: Pasture,Ag Change,2012,2016,100
+Willamette Valley,Ag Expansion: Pasture,Ag Change,2012,2016,300
+Cascades,Ag Expansion: Pasture,Ag Change,2012,2016,80
+Sierra Nevada,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Central California Foothills and Coastal Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,20
+Central California Valley,Ag Expansion: Pasture,Ag Change,2012,2016,100
+Southern California Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Eastern Cascades Slopes and Foothills,Ag Expansion: Pasture,Ag Change,2012,2016,60
+Columbia Plateau,Ag Expansion: Pasture,Ag Change,2012,2016,600
+Blue Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,40
+Snake River Plain,Ag Expansion: Pasture,Ag Change,2012,2016,160
+Central Basin and Range,Ag Expansion: Pasture,Ag Change,2012,2016,240
+Mojave Basin and Range,Ag Expansion: Pasture,Ag Change,2012,2016,40
+Northern Rockies,Ag Expansion: Pasture,Ag Change,2012,2016,40
+Idaho Batholith,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Middle Rockies,Ag Expansion: Pasture,Ag Change,2012,2016,120
+Wyoming Basin,Ag Expansion: Pasture,Ag Change,2012,2016,60
+Wasatch and Uinta Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Colorado Plateaus,Ag Expansion: Pasture,Ag Change,2012,2016,20
+Southern Rockies,Ag Expansion: Pasture,Ag Change,2012,2016,40
+Arizona/New Mexico Plateau,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Arizona/New Mexico Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Chihuahuan Deserts,Ag Expansion: Pasture,Ag Change,2012,2016,0
+High Plains,Ag Expansion: Pasture,Ag Change,2012,2016,4980
+Southwestern Tablelands,Ag Expansion: Pasture,Ag Change,2012,2016,300
+Central Great Plains,Ag Expansion: Pasture,Ag Change,2012,2016,3820
+Flint Hills,Ag Expansion: Pasture,Ag Change,2012,2016,260
+Cross Timbers,Ag Expansion: Pasture,Ag Change,2012,2016,1200
+Edwards Plateau,Ag Expansion: Pasture,Ag Change,2012,2016,20
+Southern Texas Plains,Ag Expansion: Pasture,Ag Change,2012,2016,140
+Texas Blackland Prairies,Ag Expansion: Pasture,Ag Change,2012,2016,1840
+East Central Texas Plains,Ag Expansion: Pasture,Ag Change,2012,2016,2420
+Western Gulf Coastal Plain,Ag Expansion: Pasture,Ag Change,2012,2016,1780
+South Central Plains,Ag Expansion: Pasture,Ag Change,2012,2016,2640
+Ouachita Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,320
+Arkansas Valley,Ag Expansion: Pasture,Ag Change,2012,2016,600
+Boston Mountains,Ag Expansion: Pasture,Ag Change,2012,2016,180
+Ozark Highlands,Ag Expansion: Pasture,Ag Change,2012,2016,1480
+Central Irregular Plains,Ag Expansion: Pasture,Ag Change,2012,2016,1700
+Canadian Rockies,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Northwestern Glaciated Plains,Ag Expansion: Pasture,Ag Change,2012,2016,3640
+Northwestern Great Plains,Ag Expansion: Pasture,Ag Change,2012,2016,3860
+Nebraska Sand Hills,Ag Expansion: Pasture,Ag Change,2012,2016,380
+Piedmont,Ag Expansion: Pasture,Ag Change,2012,2016,2100
+Northern Glaciated Plains,Ag Expansion: Pasture,Ag Change,2012,2016,1760
+Western Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2012,2016,580
+Lake Agassiz Plain,Ag Expansion: Pasture,Ag Change,2012,2016,520
+Northern Minnesota Wetlands,Ag Expansion: Pasture,Ag Change,2012,2016,280
+Northern Lakes and Forests,Ag Expansion: Pasture,Ag Change,2012,2016,560
+North Central Hardwood Forests,Ag Expansion: Pasture,Ag Change,2012,2016,420
+Driftless Area,Ag Expansion: Pasture,Ag Change,2012,2016,260
+Southeastern Wisconsin Till Plains,Ag Expansion: Pasture,Ag Change,2012,2016,80
+Central Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2012,2016,100
+Eastern Corn Belt Plains,Ag Expansion: Pasture,Ag Change,2012,2016,260
+Southern Michigan/Northern Indiana Drift Plains,Ag Expansion: Pasture,Ag Change,2012,2016,60
+Huron/Erie Lake Plains,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Northeastern Highlands,Ag Expansion: Pasture,Ag Change,2012,2016,520
+Northeastern Coastal Zone,Ag Expansion: Pasture,Ag Change,2012,2016,140
+Northern Allegheny Plateau,Ag Expansion: Pasture,Ag Change,2012,2016,760
+Erie Drift Plain,Ag Expansion: Pasture,Ag Change,2012,2016,220
+North Central Appalachians,Ag Expansion: Pasture,Ag Change,2012,2016,60
+Middle Atlantic Coastal Plain,Ag Expansion: Pasture,Ag Change,2012,2016,60
+Northern Piedmont,Ag Expansion: Pasture,Ag Change,2012,2016,160
+Southeastern Plains,Ag Expansion: Pasture,Ag Change,2012,2016,4240
+Blue Ridge,Ag Expansion: Pasture,Ag Change,2012,2016,560
+Ridge and Valley,Ag Expansion: Pasture,Ag Change,2012,2016,1540
+Southwestern Appalachians,Ag Expansion: Pasture,Ag Change,2012,2016,340
+Central Appalachians,Ag Expansion: Pasture,Ag Change,2012,2016,360
+Western Allegheny Plateau,Ag Expansion: Pasture,Ag Change,2012,2016,720
+Interior Plateau,Ag Expansion: Pasture,Ag Change,2012,2016,2060
+Interior River Valleys and Hills,Ag Expansion: Pasture,Ag Change,2012,2016,740
+Mississippi Alluvial Plain,Ag Expansion: Pasture,Ag Change,2012,2016,40
+Mississippi Valley Loess Plains,Ag Expansion: Pasture,Ag Change,2012,2016,940
+Southern Coastal Plain,Ag Expansion: Pasture,Ag Change,2012,2016,6020
+Southern Florida Coastal Plain,Ag Expansion: Pasture,Ag Change,2012,2016,20
+North Cascades,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Klamath Mountains/California High North Coast Range,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Madrean Archipelago,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Northern Basin and Range,Ag Expansion: Pasture,Ag Change,2012,2016,80
+Sonoran Basin and Range,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Acadian Plains and Hills,Ag Expansion: Pasture,Ag Change,2012,2016,80
+Eastern Great Lakes Lowlands,Ag Expansion: Pasture,Ag Change,2012,2016,800
+Atlantic Coastal Pine Barrens,Ag Expansion: Pasture,Ag Change,2012,2016,20
+Southern California/Northern Baja Coast,Ag Expansion: Pasture,Ag Change,2012,2016,0
+Coast Range,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Puget Lowland,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Willamette Valley,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Cascades,Ag Expansion: Cropland,Ag Change,2001,2006,40
+Sierra Nevada,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Central California Foothills and Coastal Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,1940
+Central California Valley,Ag Expansion: Cropland,Ag Change,2001,2006,4440
+Southern California Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Eastern Cascades Slopes and Foothills,Ag Expansion: Cropland,Ag Change,2001,2006,740
+Columbia Plateau,Ag Expansion: Cropland,Ag Change,2001,2006,5860
+Blue Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,760
+Snake River Plain,Ag Expansion: Cropland,Ag Change,2001,2006,3480
+Central Basin and Range,Ag Expansion: Cropland,Ag Change,2001,2006,3340
+Mojave Basin and Range,Ag Expansion: Cropland,Ag Change,2001,2006,160
+Northern Rockies,Ag Expansion: Cropland,Ag Change,2001,2006,1000
+Idaho Batholith,Ag Expansion: Cropland,Ag Change,2001,2006,40
+Middle Rockies,Ag Expansion: Cropland,Ag Change,2001,2006,2380
+Wyoming Basin,Ag Expansion: Cropland,Ag Change,2001,2006,1120
+Wasatch and Uinta Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,300
+Colorado Plateaus,Ag Expansion: Cropland,Ag Change,2001,2006,1100
+Southern Rockies,Ag Expansion: Cropland,Ag Change,2001,2006,100
+Arizona/New Mexico Plateau,Ag Expansion: Cropland,Ag Change,2001,2006,1040
+Arizona/New Mexico Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,40
+Chihuahuan Deserts,Ag Expansion: Cropland,Ag Change,2001,2006,1780
+High Plains,Ag Expansion: Cropland,Ag Change,2001,2006,26820
+Southwestern Tablelands,Ag Expansion: Cropland,Ag Change,2001,2006,6620
+Central Great Plains,Ag Expansion: Cropland,Ag Change,2001,2006,29840
+Flint Hills,Ag Expansion: Cropland,Ag Change,2001,2006,2200
+Cross Timbers,Ag Expansion: Cropland,Ag Change,2001,2006,4800
+Edwards Plateau,Ag Expansion: Cropland,Ag Change,2001,2006,1060
+Southern Texas Plains,Ag Expansion: Cropland,Ag Change,2001,2006,2560
+Texas Blackland Prairies,Ag Expansion: Cropland,Ag Change,2001,2006,6000
+East Central Texas Plains,Ag Expansion: Cropland,Ag Change,2001,2006,440
+Western Gulf Coastal Plain,Ag Expansion: Cropland,Ag Change,2001,2006,1260
+South Central Plains,Ag Expansion: Cropland,Ag Change,2001,2006,620
+Ouachita Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Arkansas Valley,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Boston Mountains,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Ozark Highlands,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Central Irregular Plains,Ag Expansion: Cropland,Ag Change,2001,2006,1860
+Canadian Rockies,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Northwestern Glaciated Plains,Ag Expansion: Cropland,Ag Change,2001,2006,30940
+Northwestern Great Plains,Ag Expansion: Cropland,Ag Change,2001,2006,37200
+Nebraska Sand Hills,Ag Expansion: Cropland,Ag Change,2001,2006,3260
+Piedmont,Ag Expansion: Cropland,Ag Change,2001,2006,260
+Northern Glaciated Plains,Ag Expansion: Cropland,Ag Change,2001,2006,10520
+Western Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2001,2006,9780
+Lake Agassiz Plain,Ag Expansion: Cropland,Ag Change,2001,2006,3020
+Northern Minnesota Wetlands,Ag Expansion: Cropland,Ag Change,2001,2006,580
+Northern Lakes and Forests,Ag Expansion: Cropland,Ag Change,2001,2006,2100
+North Central Hardwood Forests,Ag Expansion: Cropland,Ag Change,2001,2006,1680
+Driftless Area,Ag Expansion: Cropland,Ag Change,2001,2006,460
+Southeastern Wisconsin Till Plains,Ag Expansion: Cropland,Ag Change,2001,2006,960
+Central Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2001,2006,260
+Eastern Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2001,2006,460
+Southern Michigan/Northern Indiana Drift Plains,Ag Expansion: Cropland,Ag Change,2001,2006,1340
+Huron/Erie Lake Plains,Ag Expansion: Cropland,Ag Change,2001,2006,520
+Northeastern Highlands,Ag Expansion: Cropland,Ag Change,2001,2006,80
+Northeastern Coastal Zone,Ag Expansion: Cropland,Ag Change,2001,2006,60
+Northern Allegheny Plateau,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Erie Drift Plain,Ag Expansion: Cropland,Ag Change,2001,2006,180
+North Central Appalachians,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Middle Atlantic Coastal Plain,Ag Expansion: Cropland,Ag Change,2001,2006,740
+Northern Piedmont,Ag Expansion: Cropland,Ag Change,2001,2006,400
+Southeastern Plains,Ag Expansion: Cropland,Ag Change,2001,2006,4640
+Blue Ridge,Ag Expansion: Cropland,Ag Change,2001,2006,40
+Ridge and Valley,Ag Expansion: Cropland,Ag Change,2001,2006,380
+Southwestern Appalachians,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Central Appalachians,Ag Expansion: Cropland,Ag Change,2001,2006,0
+Western Allegheny Plateau,Ag Expansion: Cropland,Ag Change,2001,2006,560
+Interior Plateau,Ag Expansion: Cropland,Ag Change,2001,2006,460
+Interior River Valleys and Hills,Ag Expansion: Cropland,Ag Change,2001,2006,540
+Mississippi Alluvial Plain,Ag Expansion: Cropland,Ag Change,2001,2006,3720
+Mississippi Valley Loess Plains,Ag Expansion: Cropland,Ag Change,2001,2006,180
+Southern Coastal Plain,Ag Expansion: Cropland,Ag Change,2001,2006,840
+Southern Florida Coastal Plain,Ag Expansion: Cropland,Ag Change,2001,2006,160
+North Cascades,Ag Expansion: Cropland,Ag Change,2001,2006,20
+Klamath Mountains/California High North Coast Range,Ag Expansion: Cropland,Ag Change,2001,2006,80
+Madrean Archipelago,Ag Expansion: Cropland,Ag Change,2001,2006,720
+Northern Basin and Range,Ag Expansion: Cropland,Ag Change,2001,2006,1700
+Sonoran Basin and Range,Ag Expansion: Cropland,Ag Change,2001,2006,2260
+Acadian Plains and Hills,Ag Expansion: Cropland,Ag Change,2001,2006,40
+Eastern Great Lakes Lowlands,Ag Expansion: Cropland,Ag Change,2001,2006,360
+Atlantic Coastal Pine Barrens,Ag Expansion: Cropland,Ag Change,2001,2006,180
+Southern California/Northern Baja Coast,Ag Expansion: Cropland,Ag Change,2001,2006,280
+Coast Range,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Puget Lowland,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Willamette Valley,Ag Expansion: Cropland,Ag Change,2007,2011,80
+Cascades,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Sierra Nevada,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Central California Foothills and Coastal Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,2240
+Central California Valley,Ag Expansion: Cropland,Ag Change,2007,2011,4080
+Southern California Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Eastern Cascades Slopes and Foothills,Ag Expansion: Cropland,Ag Change,2007,2011,560
+Columbia Plateau,Ag Expansion: Cropland,Ag Change,2007,2011,7020
+Blue Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,620
+Snake River Plain,Ag Expansion: Cropland,Ag Change,2007,2011,4520
+Central Basin and Range,Ag Expansion: Cropland,Ag Change,2007,2011,2560
+Mojave Basin and Range,Ag Expansion: Cropland,Ag Change,2007,2011,60
+Northern Rockies,Ag Expansion: Cropland,Ag Change,2007,2011,960
+Idaho Batholith,Ag Expansion: Cropland,Ag Change,2007,2011,60
+Middle Rockies,Ag Expansion: Cropland,Ag Change,2007,2011,3600
+Wyoming Basin,Ag Expansion: Cropland,Ag Change,2007,2011,860
+Wasatch and Uinta Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,360
+Colorado Plateaus,Ag Expansion: Cropland,Ag Change,2007,2011,1460
+Southern Rockies,Ag Expansion: Cropland,Ag Change,2007,2011,320
+Arizona/New Mexico Plateau,Ag Expansion: Cropland,Ag Change,2007,2011,1740
+Arizona/New Mexico Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,40
+Chihuahuan Deserts,Ag Expansion: Cropland,Ag Change,2007,2011,1500
+High Plains,Ag Expansion: Cropland,Ag Change,2007,2011,38320
+Southwestern Tablelands,Ag Expansion: Cropland,Ag Change,2007,2011,6760
+Central Great Plains,Ag Expansion: Cropland,Ag Change,2007,2011,32640
+Flint Hills,Ag Expansion: Cropland,Ag Change,2007,2011,1680
+Cross Timbers,Ag Expansion: Cropland,Ag Change,2007,2011,4260
+Edwards Plateau,Ag Expansion: Cropland,Ag Change,2007,2011,1080
+Southern Texas Plains,Ag Expansion: Cropland,Ag Change,2007,2011,1520
+Texas Blackland Prairies,Ag Expansion: Cropland,Ag Change,2007,2011,5380
+East Central Texas Plains,Ag Expansion: Cropland,Ag Change,2007,2011,420
+Western Gulf Coastal Plain,Ag Expansion: Cropland,Ag Change,2007,2011,1240
+South Central Plains,Ag Expansion: Cropland,Ag Change,2007,2011,880
+Ouachita Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Arkansas Valley,Ag Expansion: Cropland,Ag Change,2007,2011,20
+Boston Mountains,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Ozark Highlands,Ag Expansion: Cropland,Ag Change,2007,2011,20
+Central Irregular Plains,Ag Expansion: Cropland,Ag Change,2007,2011,640
+Canadian Rockies,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Northwestern Glaciated Plains,Ag Expansion: Cropland,Ag Change,2007,2011,44640
+Northwestern Great Plains,Ag Expansion: Cropland,Ag Change,2007,2011,40480
+Nebraska Sand Hills,Ag Expansion: Cropland,Ag Change,2007,2011,2500
+Piedmont,Ag Expansion: Cropland,Ag Change,2007,2011,420
+Northern Glaciated Plains,Ag Expansion: Cropland,Ag Change,2007,2011,14980
+Western Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2007,2011,13720
+Lake Agassiz Plain,Ag Expansion: Cropland,Ag Change,2007,2011,2000
+Northern Minnesota Wetlands,Ag Expansion: Cropland,Ag Change,2007,2011,720
+Northern Lakes and Forests,Ag Expansion: Cropland,Ag Change,2007,2011,860
+North Central Hardwood Forests,Ag Expansion: Cropland,Ag Change,2007,2011,640
+Driftless Area,Ag Expansion: Cropland,Ag Change,2007,2011,220
+Southeastern Wisconsin Till Plains,Ag Expansion: Cropland,Ag Change,2007,2011,100
+Central Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2007,2011,380
+Eastern Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2007,2011,380
+Southern Michigan/Northern Indiana Drift Plains,Ag Expansion: Cropland,Ag Change,2007,2011,1060
+Huron/Erie Lake Plains,Ag Expansion: Cropland,Ag Change,2007,2011,220
+Northeastern Highlands,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Northeastern Coastal Zone,Ag Expansion: Cropland,Ag Change,2007,2011,100
+Northern Allegheny Plateau,Ag Expansion: Cropland,Ag Change,2007,2011,40
+Erie Drift Plain,Ag Expansion: Cropland,Ag Change,2007,2011,40
+North Central Appalachians,Ag Expansion: Cropland,Ag Change,2007,2011,20
+Middle Atlantic Coastal Plain,Ag Expansion: Cropland,Ag Change,2007,2011,500
+Northern Piedmont,Ag Expansion: Cropland,Ag Change,2007,2011,60
+Southeastern Plains,Ag Expansion: Cropland,Ag Change,2007,2011,3100
+Blue Ridge,Ag Expansion: Cropland,Ag Change,2007,2011,40
+Ridge and Valley,Ag Expansion: Cropland,Ag Change,2007,2011,160
+Southwestern Appalachians,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Central Appalachians,Ag Expansion: Cropland,Ag Change,2007,2011,60
+Western Allegheny Plateau,Ag Expansion: Cropland,Ag Change,2007,2011,40
+Interior Plateau,Ag Expansion: Cropland,Ag Change,2007,2011,360
+Interior River Valleys and Hills,Ag Expansion: Cropland,Ag Change,2007,2011,280
+Mississippi Alluvial Plain,Ag Expansion: Cropland,Ag Change,2007,2011,5000
+Mississippi Valley Loess Plains,Ag Expansion: Cropland,Ag Change,2007,2011,40
+Southern Coastal Plain,Ag Expansion: Cropland,Ag Change,2007,2011,880
+Southern Florida Coastal Plain,Ag Expansion: Cropland,Ag Change,2007,2011,140
+North Cascades,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Klamath Mountains/California High North Coast Range,Ag Expansion: Cropland,Ag Change,2007,2011,20
+Madrean Archipelago,Ag Expansion: Cropland,Ag Change,2007,2011,620
+Northern Basin and Range,Ag Expansion: Cropland,Ag Change,2007,2011,2700
+Sonoran Basin and Range,Ag Expansion: Cropland,Ag Change,2007,2011,1740
+Acadian Plains and Hills,Ag Expansion: Cropland,Ag Change,2007,2011,0
+Eastern Great Lakes Lowlands,Ag Expansion: Cropland,Ag Change,2007,2011,140
+Atlantic Coastal Pine Barrens,Ag Expansion: Cropland,Ag Change,2007,2011,40
+Southern California/Northern Baja Coast,Ag Expansion: Cropland,Ag Change,2007,2011,220
+Coast Range,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Puget Lowland,Ag Expansion: Cropland,Ag Change,2012,2016,40
+Willamette Valley,Ag Expansion: Cropland,Ag Change,2012,2016,120
+Cascades,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Sierra Nevada,Ag Expansion: Cropland,Ag Change,2012,2016,20
+Central California Foothills and Coastal Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,4960
+Central California Valley,Ag Expansion: Cropland,Ag Change,2012,2016,4880
+Southern California Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,20
+Eastern Cascades Slopes and Foothills,Ag Expansion: Cropland,Ag Change,2012,2016,1020
+Columbia Plateau,Ag Expansion: Cropland,Ag Change,2012,2016,9940
+Blue Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,740
+Snake River Plain,Ag Expansion: Cropland,Ag Change,2012,2016,3680
+Central Basin and Range,Ag Expansion: Cropland,Ag Change,2012,2016,3180
+Mojave Basin and Range,Ag Expansion: Cropland,Ag Change,2012,2016,500
+Northern Rockies,Ag Expansion: Cropland,Ag Change,2012,2016,1580
+Idaho Batholith,Ag Expansion: Cropland,Ag Change,2012,2016,320
+Middle Rockies,Ag Expansion: Cropland,Ag Change,2012,2016,4860
+Wyoming Basin,Ag Expansion: Cropland,Ag Change,2012,2016,960
+Wasatch and Uinta Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,480
+Colorado Plateaus,Ag Expansion: Cropland,Ag Change,2012,2016,2320
+Southern Rockies,Ag Expansion: Cropland,Ag Change,2012,2016,260
+Arizona/New Mexico Plateau,Ag Expansion: Cropland,Ag Change,2012,2016,1040
+Arizona/New Mexico Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Chihuahuan Deserts,Ag Expansion: Cropland,Ag Change,2012,2016,2080
+High Plains,Ag Expansion: Cropland,Ag Change,2012,2016,57320
+Southwestern Tablelands,Ag Expansion: Cropland,Ag Change,2012,2016,8360
+Central Great Plains,Ag Expansion: Cropland,Ag Change,2012,2016,34920
+Flint Hills,Ag Expansion: Cropland,Ag Change,2012,2016,1600
+Cross Timbers,Ag Expansion: Cropland,Ag Change,2012,2016,6640
+Edwards Plateau,Ag Expansion: Cropland,Ag Change,2012,2016,1820
+Southern Texas Plains,Ag Expansion: Cropland,Ag Change,2012,2016,1680
+Texas Blackland Prairies,Ag Expansion: Cropland,Ag Change,2012,2016,4880
+East Central Texas Plains,Ag Expansion: Cropland,Ag Change,2012,2016,580
+Western Gulf Coastal Plain,Ag Expansion: Cropland,Ag Change,2012,2016,2120
+South Central Plains,Ag Expansion: Cropland,Ag Change,2012,2016,960
+Ouachita Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Arkansas Valley,Ag Expansion: Cropland,Ag Change,2012,2016,60
+Boston Mountains,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Ozark Highlands,Ag Expansion: Cropland,Ag Change,2012,2016,40
+Central Irregular Plains,Ag Expansion: Cropland,Ag Change,2012,2016,1660
+Canadian Rockies,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Northwestern Glaciated Plains,Ag Expansion: Cropland,Ag Change,2012,2016,55200
+Northwestern Great Plains,Ag Expansion: Cropland,Ag Change,2012,2016,56980
+Nebraska Sand Hills,Ag Expansion: Cropland,Ag Change,2012,2016,3120
+Piedmont,Ag Expansion: Cropland,Ag Change,2012,2016,1580
+Northern Glaciated Plains,Ag Expansion: Cropland,Ag Change,2012,2016,18960
+Western Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2012,2016,12280
+Lake Agassiz Plain,Ag Expansion: Cropland,Ag Change,2012,2016,2180
+Northern Minnesota Wetlands,Ag Expansion: Cropland,Ag Change,2012,2016,480
+Northern Lakes and Forests,Ag Expansion: Cropland,Ag Change,2012,2016,2260
+North Central Hardwood Forests,Ag Expansion: Cropland,Ag Change,2012,2016,1720
+Driftless Area,Ag Expansion: Cropland,Ag Change,2012,2016,540
+Southeastern Wisconsin Till Plains,Ag Expansion: Cropland,Ag Change,2012,2016,140
+Central Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2012,2016,280
+Eastern Corn Belt Plains,Ag Expansion: Cropland,Ag Change,2012,2016,360
+Southern Michigan/Northern Indiana Drift Plains,Ag Expansion: Cropland,Ag Change,2012,2016,1160
+Huron/Erie Lake Plains,Ag Expansion: Cropland,Ag Change,2012,2016,380
+Northeastern Highlands,Ag Expansion: Cropland,Ag Change,2012,2016,100
+Northeastern Coastal Zone,Ag Expansion: Cropland,Ag Change,2012,2016,180
+Northern Allegheny Plateau,Ag Expansion: Cropland,Ag Change,2012,2016,160
+Erie Drift Plain,Ag Expansion: Cropland,Ag Change,2012,2016,160
+North Central Appalachians,Ag Expansion: Cropland,Ag Change,2012,2016,40
+Middle Atlantic Coastal Plain,Ag Expansion: Cropland,Ag Change,2012,2016,1780
+Northern Piedmont,Ag Expansion: Cropland,Ag Change,2012,2016,60
+Southeastern Plains,Ag Expansion: Cropland,Ag Change,2012,2016,8960
+Blue Ridge,Ag Expansion: Cropland,Ag Change,2012,2016,40
+Ridge and Valley,Ag Expansion: Cropland,Ag Change,2012,2016,620
+Southwestern Appalachians,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Central Appalachians,Ag Expansion: Cropland,Ag Change,2012,2016,160
+Western Allegheny Plateau,Ag Expansion: Cropland,Ag Change,2012,2016,660
+Interior Plateau,Ag Expansion: Cropland,Ag Change,2012,2016,900
+Interior River Valleys and Hills,Ag Expansion: Cropland,Ag Change,2012,2016,1480
+Mississippi Alluvial Plain,Ag Expansion: Cropland,Ag Change,2012,2016,2880
+Mississippi Valley Loess Plains,Ag Expansion: Cropland,Ag Change,2012,2016,160
+Southern Coastal Plain,Ag Expansion: Cropland,Ag Change,2012,2016,2760
+Southern Florida Coastal Plain,Ag Expansion: Cropland,Ag Change,2012,2016,160
+North Cascades,Ag Expansion: Cropland,Ag Change,2012,2016,0
+Klamath Mountains/California High North Coast Range,Ag Expansion: Cropland,Ag Change,2012,2016,60
+Madrean Archipelago,Ag Expansion: Cropland,Ag Change,2012,2016,1940
+Northern Basin and Range,Ag Expansion: Cropland,Ag Change,2012,2016,3820
+Sonoran Basin and Range,Ag Expansion: Cropland,Ag Change,2012,2016,1720
+Acadian Plains and Hills,Ag Expansion: Cropland,Ag Change,2012,2016,120
+Eastern Great Lakes Lowlands,Ag Expansion: Cropland,Ag Change,2012,2016,280
+Atlantic Coastal Pine Barrens,Ag Expansion: Cropland,Ag Change,2012,2016,120
+Southern California/Northern Baja Coast,Ag Expansion: Cropland,Ag Change,2012,2016,260

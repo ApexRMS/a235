@@ -1,0 +1,57 @@
+StratumID,SecondaryStratumID,TertiaryStratumID,StateClassID,MostRecentDisturbanceTGID,HistoricalDisturbanceTGID,ReturnInterval,SpinupDuration,MaxAgeForLastCycle
+Puget Lowland,Washington,,Forest: White/Red/Jack Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Spruce/Fir Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Longleaf/Slash Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Loblolly/Shortleaf Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Pinyon/Juniper Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Douglas-fir Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Ponderosa Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Western White Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Fir/Spruce/Mountain Hemlock Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Lodgepole Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Hemlock/Sitka Spruce Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Western Larch Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Redwood Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],1000,3000,299
+Puget Lowland,Washington,,Forest: Other Western Softwood Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: California Mixed Conifer Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Exotic Softwoods Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Oak/Pine Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Oak/Hickory Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Oak/Gum/Cypress Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Elm/Ash/Cottonwood Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Maple/Beech/Birch Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Aspen/Birch Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],75,3000,299
+Puget Lowland,Washington,,Forest: Alder/Maple Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Western Oak Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Tanoak/Laurel Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Other Western Hardwoods Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Tropical Hardwoods Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Exotic Hardwoods Group,Management: Forest Clearcut [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: White/Red/Jack Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Spruce/Fir Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Longleaf/Slash Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Loblolly/Shortleaf Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Pinyon/Juniper Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Douglas-fir Group,Fire: High Severity [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Ponderosa Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Western White Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Fir/Spruce/Mountain Hemlock Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Lodgepole Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Hemlock/Sitka Spruce Group,Fire: High Severity [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Western Larch Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Redwood Group,Fire: High Severity [Type],Fire: High Severity [Type],1000,3000,299
+Puget Lowland,Washington,,Forest: Other Western Softwood Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: California Mixed Conifer Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Exotic Softwoods Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Oak/Pine Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Oak/Hickory Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Oak/Gum/Cypress Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Elm/Ash/Cottonwood Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Maple/Beech/Birch Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Aspen/Birch Group,Fire: High Severity [Type],Fire: High Severity [Type],75,3000,299
+Puget Lowland,Washington,,Forest: Alder/Maple Group,Fire: High Severity [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Western Oak Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Tanoak/Laurel Group,Fire: High Severity [Type],Fire: High Severity [Type],300,3000,299
+Puget Lowland,Washington,,Forest: Other Western Hardwoods Group,Fire: High Severity [Type],Fire: High Severity [Type],150,3000,299
+Puget Lowland,Washington,,Forest: Tropical Hardwoods Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299
+Puget Lowland,Washington,,Forest: Exotic Hardwoods Group,Fire: High Severity [Type],Fire: High Severity [Type],125,3000,299

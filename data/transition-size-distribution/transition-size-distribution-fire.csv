@@ -1,0 +1,473 @@
+Timestep,StratumID,TransitionGroupID,MaximumArea,RelativeAmount
+2021,Coast Range,Fire,200,0.23880597014925373
+2021,Coast Range,Fire,500,0.2798507462686567
+2021,Coast Range,Fire,1000,0.14925373134328357
+2021,Coast Range,Fire,2000,0.11567164179104478
+2021,Coast Range,Fire,5000,0.11940298507462686
+2021,Coast Range,Fire,10000,0.055970149253731345
+2021,Coast Range,Fire,20000,0.026119402985074626
+2021,Coast Range,Fire,50000,0.011194029850746268
+2021,Coast Range,Fire,100000,0.0037313432835820895
+2021,Puget Lowland,Fire,200,0.25
+2021,Puget Lowland,Fire,500,0.25
+2021,Puget Lowland,Fire,1000,0.25
+2021,Puget Lowland,Fire,5000,0.25
+2021,Willamette Valley,Fire,100000,1
+2021,Cascades,Fire,200,0.21144278606965175
+2021,Cascades,Fire,500,0.2263681592039801
+2021,Cascades,Fire,1000,0.13432835820895522
+2021,Cascades,Fire,2000,0.13432835820895522
+2021,Cascades,Fire,5000,0.12437810945273632
+2021,Cascades,Fire,10000,0.08208955223880597
+2021,Cascades,Fire,20000,0.0472636815920398
+2021,Cascades,Fire,50000,0.03233830845771144
+2021,Cascades,Fire,100000,0.007462686567164179
+2021,Sierra Nevada,Fire,200,0.2552083333333333
+2021,Sierra Nevada,Fire,500,0.2799479166666667
+2021,Sierra Nevada,Fire,1000,0.16145833333333334
+2021,Sierra Nevada,Fire,2000,0.1171875
+2021,Sierra Nevada,Fire,5000,0.09244791666666667
+2021,Sierra Nevada,Fire,10000,0.048177083333333336
+2021,Sierra Nevada,Fire,20000,0.032552083333333336
+2021,Sierra Nevada,Fire,50000,0.009114583333333334
+2021,Sierra Nevada,Fire,100000,0.0026041666666666665
+2021,Sierra Nevada,Fire,200000,0.0013020833333333333
+2021,Central California Foothills and Coastal Mountains,Fire,200,0.3097125867195243
+2021,Central California Foothills and Coastal Mountains,Fire,500,0.34390485629335976
+2021,Central California Foothills and Coastal Mountains,Fire,1000,0.1506442021803766
+2021,Central California Foothills and Coastal Mountains,Fire,2000,0.0817641228939544
+2021,Central California Foothills and Coastal Mountains,Fire,5000,0.05847373637264618
+2021,Central California Foothills and Coastal Mountains,Fire,10000,0.020317145688800792
+2021,Central California Foothills and Coastal Mountains,Fire,20000,0.018830525272547076
+2021,Central California Foothills and Coastal Mountains,Fire,50000,0.013379583746283449
+2021,Central California Foothills and Coastal Mountains,Fire,100000,0.002477700693756194
+2021,Central California Foothills and Coastal Mountains,Fire,200000,4.955401387512388e-4
+2021,Central California Valley,Fire,200,0.5
+2021,Central California Valley,Fire,500,0.32941176470588235
+2021,Central California Valley,Fire,1000,0.11176470588235295
+2021,Central California Valley,Fire,2000,0.047058823529411764
+2021,Central California Valley,Fire,5000,0.011764705882352941
+2021,Southern California Mountains,Fire,200,0.21794871794871795
+2021,Southern California Mountains,Fire,500,0.23557692307692307
+2021,Southern California Mountains,Fire,1000,0.15705128205128205
+2021,Southern California Mountains,Fire,2000,0.12980769230769232
+2021,Southern California Mountains,Fire,5000,0.11858974358974358
+2021,Southern California Mountains,Fire,10000,0.07051282051282051
+2021,Southern California Mountains,Fire,20000,0.035256410256410256
+2021,Southern California Mountains,Fire,50000,0.02403846153846154
+2021,Southern California Mountains,Fire,100000,0.008012820512820512
+2021,Southern California Mountains,Fire,200000,0.003205128205128205
+2021,Eastern Cascades Slopes and Foothills,Fire,200,0.302158273381295
+2021,Eastern Cascades Slopes and Foothills,Fire,500,0.28776978417266186
+2021,Eastern Cascades Slopes and Foothills,Fire,1000,0.18465227817745802
+2021,Eastern Cascades Slopes and Foothills,Fire,2000,0.11270983213429256
+2021,Eastern Cascades Slopes and Foothills,Fire,5000,0.06235011990407674
+2021,Eastern Cascades Slopes and Foothills,Fire,10000,0.02877697841726619
+2021,Eastern Cascades Slopes and Foothills,Fire,20000,0.019184652278177457
+2021,Eastern Cascades Slopes and Foothills,Fire,50000,0.002398081534772182
+2021,Columbia Plateau,Fire,200,0.17350746268656717
+2021,Columbia Plateau,Fire,500,0.21641791044776118
+2021,Columbia Plateau,Fire,1000,0.16977611940298507
+2021,Columbia Plateau,Fire,2000,0.1455223880597015
+2021,Columbia Plateau,Fire,5000,0.12686567164179105
+2021,Columbia Plateau,Fire,10000,0.07835820895522388
+2021,Columbia Plateau,Fire,20000,0.048507462686567165
+2021,Columbia Plateau,Fire,50000,0.03171641791044776
+2021,Columbia Plateau,Fire,100000,0.007462686567164179
+2021,Columbia Plateau,Fire,200000,0.0018656716417910447
+2021,Blue Mountains,Fire,200,0.18581560283687942
+2021,Blue Mountains,Fire,500,0.24680851063829787
+2021,Blue Mountains,Fire,1000,0.16170212765957448
+2021,Blue Mountains,Fire,2000,0.11347517730496454
+2021,Blue Mountains,Fire,5000,0.12198581560283688
+2021,Blue Mountains,Fire,10000,0.08368794326241134
+2021,Blue Mountains,Fire,20000,0.03687943262411347
+2021,Blue Mountains,Fire,50000,0.04680851063829787
+2021,Blue Mountains,Fire,100000,0.0014184397163120568
+2021,Blue Mountains,Fire,500000,0.0014184397163120568
+2021,Snake River Plain,Fire,200,0.25663716814159293
+2021,Snake River Plain,Fire,500,0.27551622418879057
+2021,Snake River Plain,Fire,1000,0.1687315634218289
+2021,Snake River Plain,Fire,2000,0.10737463126843658
+2021,Snake River Plain,Fire,5000,0.09970501474926254
+2021,Snake River Plain,Fire,10000,0.04601769911504425
+2021,Snake River Plain,Fire,20000,0.024188790560471976
+2021,Snake River Plain,Fire,50000,0.012979351032448377
+2021,Snake River Plain,Fire,100000,0.007669616519174041
+2021,Snake River Plain,Fire,200000,0.0011799410029498525
+2021,Central Basin and Range,Fire,200,0.1794871794871795
+2021,Central Basin and Range,Fire,500,0.243006993006993
+2021,Central Basin and Range,Fire,1000,0.16958041958041958
+2021,Central Basin and Range,Fire,2000,0.1357808857808858
+2021,Central Basin and Range,Fire,5000,0.1381118881118881
+2021,Central Basin and Range,Fire,10000,0.06468531468531469
+2021,Central Basin and Range,Fire,20000,0.04079254079254079
+2021,Central Basin and Range,Fire,50000,0.016317016317016316
+2021,Central Basin and Range,Fire,100000,0.008741258741258742
+2021,Central Basin and Range,Fire,200000,0.002913752913752914
+2021,Central Basin and Range,Fire,500000,0.00058275058275058275
+2021,Mojave Basin and Range,Fire,200,0.23544973544973544
+2021,Mojave Basin and Range,Fire,500,0.2857142857142857
+2021,Mojave Basin and Range,Fire,1000,0.1455026455026455
+2021,Mojave Basin and Range,Fire,2000,0.1111111111111111
+2021,Mojave Basin and Range,Fire,5000,0.12169312169312169
+2021,Mojave Basin and Range,Fire,10000,0.04497354497354497
+2021,Mojave Basin and Range,Fire,20000,0.037037037037037035
+2021,Mojave Basin and Range,Fire,50000,0.018518518518518517
+2021,Northern Rockies,Fire,200,0.18635170603674542
+2021,Northern Rockies,Fire,500,0.2545931758530184
+2021,Northern Rockies,Fire,1000,0.14435695538057744
+2021,Northern Rockies,Fire,2000,0.11811023622047244
+2021,Northern Rockies,Fire,5000,0.13910761154855644
+2021,Northern Rockies,Fire,10000,0.06036745406824147
+2021,Northern Rockies,Fire,20000,0.047244094488188976
+2021,Northern Rockies,Fire,50000,0.031496062992125984
+2021,Northern Rockies,Fire,100000,0.005249343832020997
+2021,Northern Rockies,Fire,200000,0.005249343832020997
+2021,Northern Rockies,Fire,500000,0.007874015748031496
+2021,Idaho Batholith,Fire,200,0.19467213114754098
+2021,Idaho Batholith,Fire,500,0.2551229508196721
+2021,Idaho Batholith,Fire,1000,0.13831967213114754
+2021,Idaho Batholith,Fire,2000,0.13319672131147542
+2021,Idaho Batholith,Fire,5000,0.1362704918032787
+2021,Idaho Batholith,Fire,10000,0.05430327868852459
+2021,Idaho Batholith,Fire,20000,0.04815573770491803
+2021,Idaho Batholith,Fire,50000,0.025614754098360656
+2021,Idaho Batholith,Fire,100000,0.012295081967213115
+2021,Idaho Batholith,Fire,200000,0.0020491803278688526
+2021,Middle Rockies,Fire,200,0.17941585535465926
+2021,Middle Rockies,Fire,500,0.23226703755215578
+2021,Middle Rockies,Fire,1000,0.16550764951321278
+2021,Middle Rockies,Fire,2000,0.14881780250347706
+2021,Middle Rockies,Fire,5000,0.12795549374130738
+2021,Middle Rockies,Fire,10000,0.08205841446453407
+2021,Middle Rockies,Fire,20000,0.03477051460361613
+2021,Middle Rockies,Fire,50000,0.01808066759388039
+2021,Middle Rockies,Fire,100000,0.009735744089012517
+2021,Middle Rockies,Fire,200000,0.0013908205841446453
+2021,Wyoming Basin,Fire,200,0.2893081761006289
+2021,Wyoming Basin,Fire,500,0.2641509433962264
+2021,Wyoming Basin,Fire,1000,0.11949685534591195
+2021,Wyoming Basin,Fire,2000,0.1509433962264151
+2021,Wyoming Basin,Fire,5000,0.0880503144654088
+2021,Wyoming Basin,Fire,10000,0.05660377358490566
+2021,Wyoming Basin,Fire,20000,0.018867924528301886
+2021,Wyoming Basin,Fire,100000,0.012578616352201259
+2021,Wasatch and Uinta Mountains,Fire,200,0.30980392156862746
+2021,Wasatch and Uinta Mountains,Fire,500,0.26666666666666666
+2021,Wasatch and Uinta Mountains,Fire,1000,0.1843137254901961
+2021,Wasatch and Uinta Mountains,Fire,2000,0.10196078431372549
+2021,Wasatch and Uinta Mountains,Fire,5000,0.07450980392156863
+2021,Wasatch and Uinta Mountains,Fire,10000,0.0196078431372549
+2021,Wasatch and Uinta Mountains,Fire,20000,0.027450980392156862
+2021,Wasatch and Uinta Mountains,Fire,50000,0.01568627450980392
+2021,Colorado Plateaus,Fire,200,0.332579185520362
+2021,Colorado Plateaus,Fire,500,0.3167420814479638
+2021,Colorado Plateaus,Fire,1000,0.16063348416289594
+2021,Colorado Plateaus,Fire,2000,0.11538461538461539
+2021,Colorado Plateaus,Fire,5000,0.049773755656108594
+2021,Colorado Plateaus,Fire,10000,0.01809954751131222
+2021,Colorado Plateaus,Fire,20000,0.004524886877828055
+2021,Colorado Plateaus,Fire,50000,0.0022624434389140274
+2021,Southern Rockies,Fire,200,0.2682926829268293
+2021,Southern Rockies,Fire,500,0.26287262872628725
+2021,Southern Rockies,Fire,1000,0.13279132791327913
+2021,Southern Rockies,Fire,2000,0.12195121951219512
+2021,Southern Rockies,Fire,5000,0.0948509485094851
+2021,Southern Rockies,Fire,10000,0.06504065040650407
+2021,Southern Rockies,Fire,20000,0.02710027100271003
+2021,Southern Rockies,Fire,50000,0.018970189701897018
+2021,Southern Rockies,Fire,100000,0.008130081300813009
+2021,Arizona/New Mexico Plateau,Fire,200,0.21359223300970873
+2021,Arizona/New Mexico Plateau,Fire,500,0.30097087378640774
+2021,Arizona/New Mexico Plateau,Fire,1000,0.23300970873786409
+2021,Arizona/New Mexico Plateau,Fire,2000,0.08737864077669903
+2021,Arizona/New Mexico Plateau,Fire,5000,0.07766990291262135
+2021,Arizona/New Mexico Plateau,Fire,10000,0.05825242718446602
+2021,Arizona/New Mexico Plateau,Fire,20000,0.019417475728155338
+2021,Arizona/New Mexico Plateau,Fire,50000,0.009708737864077669
+2021,Arizona/New Mexico Mountains,Fire,200,0.2205726405090138
+2021,Arizona/New Mexico Mountains,Fire,500,0.22693531283138918
+2021,Arizona/New Mexico Mountains,Fire,1000,0.16012725344644752
+2021,Arizona/New Mexico Mountains,Fire,2000,0.14528101802757157
+2021,Arizona/New Mexico Mountains,Fire,5000,0.14528101802757157
+2021,Arizona/New Mexico Mountains,Fire,10000,0.05726405090137858
+2021,Arizona/New Mexico Mountains,Fire,20000,0.024390243902439025
+2021,Arizona/New Mexico Mountains,Fire,50000,0.014846235418875928
+2021,Arizona/New Mexico Mountains,Fire,100000,0.0010604453870625664
+2021,Arizona/New Mexico Mountains,Fire,200000,0.003181336161187699
+2021,Arizona/New Mexico Mountains,Fire,500000,0.0010604453870625664
+2021,Chihuahuan Deserts,Fire,200,0.23577235772357724
+2021,Chihuahuan Deserts,Fire,500,0.2764227642276423
+2021,Chihuahuan Deserts,Fire,1000,0.16260162601626016
+2021,Chihuahuan Deserts,Fire,2000,0.16260162601626016
+2021,Chihuahuan Deserts,Fire,5000,0.07317073170731707
+2021,Chihuahuan Deserts,Fire,10000,0.04878048780487805
+2021,Chihuahuan Deserts,Fire,50000,0.016260162601626018
+2021,Chihuahuan Deserts,Fire,100000,0.016260162601626018
+2021,Chihuahuan Deserts,Fire,200000,0.008130081300813009
+2021,High Plains,Fire,200,0.19834710743801653
+2021,High Plains,Fire,500,0.2727272727272727
+2021,High Plains,Fire,1000,0.17355371900826447
+2021,High Plains,Fire,2000,0.06611570247933884
+2021,High Plains,Fire,5000,0.09917355371900827
+2021,High Plains,Fire,10000,0.09090909090909091
+2021,High Plains,Fire,20000,0.01652892561983471
+2021,High Plains,Fire,50000,0.05785123966942149
+2021,High Plains,Fire,100000,0.008264462809917356
+2021,High Plains,Fire,200000,0.008264462809917356
+2021,High Plains,Fire,500000,0.008264462809917356
+2021,Southwestern Tablelands,Fire,200,0.2867647058823529
+2021,Southwestern Tablelands,Fire,500,0.22794117647058823
+2021,Southwestern Tablelands,Fire,1000,0.17647058823529413
+2021,Southwestern Tablelands,Fire,2000,0.058823529411764705
+2021,Southwestern Tablelands,Fire,5000,0.125
+2021,Southwestern Tablelands,Fire,10000,0.058823529411764705
+2021,Southwestern Tablelands,Fire,20000,0.04411764705882353
+2021,Southwestern Tablelands,Fire,50000,0.007352941176470588
+2021,Southwestern Tablelands,Fire,100000,0.014705882352941176
+2021,Central Great Plains,Fire,200,0.14285714285714285
+2021,Central Great Plains,Fire,500,0.14285714285714285
+2021,Central Great Plains,Fire,1000,0.2857142857142857
+2021,Central Great Plains,Fire,2000,0.14285714285714285
+2021,Central Great Plains,Fire,5000,0.047619047619047616
+2021,Central Great Plains,Fire,10000,0.047619047619047616
+2021,Central Great Plains,Fire,20000,0.14285714285714285
+2021,Central Great Plains,Fire,50000,0.047619047619047616
+2021,Flint Hills,Fire,200,0.07692307692307693
+2021,Flint Hills,Fire,500,0.07692307692307693
+2021,Flint Hills,Fire,1000,0.15384615384615385
+2021,Flint Hills,Fire,10000,0.6153846153846154
+2021,Flint Hills,Fire,50000,0.07692307692307693
+2021,Cross Timbers,Fire,200,0.13793103448275862
+2021,Cross Timbers,Fire,500,0.3103448275862069
+2021,Cross Timbers,Fire,1000,0.1724137931034483
+2021,Cross Timbers,Fire,2000,0.1724137931034483
+2021,Cross Timbers,Fire,5000,0.13793103448275862
+2021,Cross Timbers,Fire,50000,0.034482758620689655
+2021,Cross Timbers,Fire,100000,0.034482758620689655
+2021,Edwards Plateau,Fire,500,0.2
+2021,Edwards Plateau,Fire,1000,0.2
+2021,Edwards Plateau,Fire,2000,0.2
+2021,Edwards Plateau,Fire,5000,0.2
+2021,Edwards Plateau,Fire,20000,0.2
+2021,Southern Texas Plains,Fire,200,1
+2021,East Central Texas Plains,Fire,500,1
+2021,Western Gulf Coastal Plain,Fire,200,0.1839080459770115
+2021,Western Gulf Coastal Plain,Fire,500,0.27586206896551724
+2021,Western Gulf Coastal Plain,Fire,1000,0.19540229885057472
+2021,Western Gulf Coastal Plain,Fire,2000,0.16091954022988506
+2021,Western Gulf Coastal Plain,Fire,5000,0.1724137931034483
+2021,Western Gulf Coastal Plain,Fire,10000,0.011494252873563218
+2021,South Central Plains,Fire,200,0.125
+2021,South Central Plains,Fire,500,0.375
+2021,South Central Plains,Fire,1000,0.16666666666666666
+2021,South Central Plains,Fire,2000,0.08333333333333333
+2021,South Central Plains,Fire,5000,0.125
+2021,South Central Plains,Fire,10000,0.08333333333333333
+2021,South Central Plains,Fire,20000,0.041666666666666664
+2021,Ouachita Mountains,Fire,200,0.3888888888888889
+2021,Ouachita Mountains,Fire,500,0.3333333333333333
+2021,Ouachita Mountains,Fire,1000,0.1388888888888889
+2021,Ouachita Mountains,Fire,2000,0.05555555555555555
+2021,Ouachita Mountains,Fire,5000,0.08333333333333333
+2021,Arkansas Valley,Fire,200,0.5
+2021,Arkansas Valley,Fire,500,0.5
+2021,Boston Mountains,Fire,200,0.2727272727272727
+2021,Boston Mountains,Fire,500,0.4090909090909091
+2021,Boston Mountains,Fire,1000,0.13636363636363635
+2021,Boston Mountains,Fire,2000,0.18181818181818182
+2021,Ozark Highlands,Fire,200,0.5164835164835165
+2021,Ozark Highlands,Fire,500,0.4065934065934066
+2021,Ozark Highlands,Fire,1000,0.06593406593406594
+2021,Ozark Highlands,Fire,2000,0.01098901098901099
+2021,Central Irregular Plains,Fire,200,0.75
+2021,Central Irregular Plains,Fire,500,0.25
+2021,Canadian Rockies,Fire,200,0.12048192771084337
+2021,Canadian Rockies,Fire,500,0.20481927710843373
+2021,Canadian Rockies,Fire,1000,0.13855421686746988
+2021,Canadian Rockies,Fire,2000,0.1566265060240964
+2021,Canadian Rockies,Fire,5000,0.18674698795180722
+2021,Canadian Rockies,Fire,10000,0.10240963855421686
+2021,Canadian Rockies,Fire,20000,0.03614457831325301
+2021,Canadian Rockies,Fire,50000,0.05421686746987952
+2021,Northwestern Glaciated Plains,Fire,200,0.17073170731707318
+2021,Northwestern Glaciated Plains,Fire,500,0.2682926829268293
+2021,Northwestern Glaciated Plains,Fire,1000,0.0975609756097561
+2021,Northwestern Glaciated Plains,Fire,2000,0.14634146341463414
+2021,Northwestern Glaciated Plains,Fire,5000,0.21951219512195122
+2021,Northwestern Glaciated Plains,Fire,10000,0.04878048780487805
+2021,Northwestern Glaciated Plains,Fire,20000,0.024390243902439025
+2021,Northwestern Glaciated Plains,Fire,100000,0.024390243902439025
+2021,Northwestern Great Plains,Fire,200,0.29431438127090304
+2021,Northwestern Great Plains,Fire,500,0.27759197324414714
+2021,Northwestern Great Plains,Fire,1000,0.12709030100334448
+2021,Northwestern Great Plains,Fire,2000,0.11036789297658862
+2021,Northwestern Great Plains,Fire,5000,0.09698996655518395
+2021,Northwestern Great Plains,Fire,10000,0.03511705685618729
+2021,Northwestern Great Plains,Fire,20000,0.030100334448160536
+2021,Northwestern Great Plains,Fire,50000,0.021739130434782608
+2021,Northwestern Great Plains,Fire,100000,0.0016722408026755853
+2021,Northwestern Great Plains,Fire,200000,0.005016722408026756
+2021,Nebraska Sand Hills,Fire,200,0.19047619047619047
+2021,Nebraska Sand Hills,Fire,500,0.38095238095238093
+2021,Nebraska Sand Hills,Fire,1000,0.047619047619047616
+2021,Nebraska Sand Hills,Fire,2000,0.09523809523809523
+2021,Nebraska Sand Hills,Fire,5000,0.14285714285714285
+2021,Nebraska Sand Hills,Fire,10000,0.047619047619047616
+2021,Nebraska Sand Hills,Fire,20000,0.047619047619047616
+2021,Nebraska Sand Hills,Fire,50000,0.047619047619047616
+2021,Piedmont,Fire,200,0.1881720430107527
+2021,Piedmont,Fire,500,0.478494623655914
+2021,Piedmont,Fire,1000,0.25806451612903225
+2021,Piedmont,Fire,2000,0.05913978494623656
+2021,Piedmont,Fire,5000,0.016129032258064516
+2021,Northern Glaciated Plains,Fire,200,0.5
+2021,Northern Glaciated Plains,Fire,500,0.16666666666666666
+2021,Northern Glaciated Plains,Fire,1000,0.3333333333333333
+2021,Western Corn Belt Plains,Fire,200,0.75
+2021,Western Corn Belt Plains,Fire,500,0.25
+2021,Lake Agassiz Plain,Fire,200,0.3333333333333333
+2021,Lake Agassiz Plain,Fire,500,0.5555555555555556
+2021,Lake Agassiz Plain,Fire,1000,0.1111111111111111
+2021,Northern Minnesota Wetlands,Fire,200,0.2222222222222222
+2021,Northern Minnesota Wetlands,Fire,500,0.1111111111111111
+2021,Northern Minnesota Wetlands,Fire,1000,0.3333333333333333
+2021,Northern Minnesota Wetlands,Fire,2000,0.1111111111111111
+2021,Northern Minnesota Wetlands,Fire,5000,0.1111111111111111
+2021,Northern Minnesota Wetlands,Fire,10000,0.1111111111111111
+2021,Northern Lakes and Forests,Fire,200,0.19047619047619047
+2021,Northern Lakes and Forests,Fire,500,0.2976190476190476
+2021,Northern Lakes and Forests,Fire,1000,0.17857142857142858
+2021,Northern Lakes and Forests,Fire,2000,0.13095238095238096
+2021,Northern Lakes and Forests,Fire,5000,0.10714285714285714
+2021,Northern Lakes and Forests,Fire,10000,0.047619047619047616
+2021,Northern Lakes and Forests,Fire,20000,0.023809523809523808
+2021,Northern Lakes and Forests,Fire,50000,0.023809523809523808
+2021,North Central Hardwood Forests,Fire,200,1
+2021,Driftless Area,Fire,200,1
+2021,Southeastern Wisconsin Till Plains,Fire,200,1
+2021,Central Corn Belt Plains,Fire,200,1
+2021,Eastern Corn Belt Plains,Fire,200,1
+2021,Southern Michigan/Northern Indiana Drift Plains,Fire,200,0.5
+2021,Southern Michigan/Northern Indiana Drift Plains,Fire,500,0.5
+2021,Northeastern Highlands,Fire,200,0.6666666666666666
+2021,Northeastern Highlands,Fire,5000,0.3333333333333333
+2021,North Central Appalachians,Fire,200,0.5
+2021,North Central Appalachians,Fire,500,0.5
+2021,Middle Atlantic Coastal Plain,Fire,200,0.2682926829268293
+2021,Middle Atlantic Coastal Plain,Fire,500,0.34146341463414637
+2021,Middle Atlantic Coastal Plain,Fire,1000,0.14634146341463414
+2021,Middle Atlantic Coastal Plain,Fire,2000,0.024390243902439025
+2021,Middle Atlantic Coastal Plain,Fire,5000,0.07317073170731707
+2021,Middle Atlantic Coastal Plain,Fire,10000,0.07317073170731707
+2021,Middle Atlantic Coastal Plain,Fire,20000,0.04878048780487805
+2021,Middle Atlantic Coastal Plain,Fire,50000,0.024390243902439025
+2021,Northern Piedmont,Fire,500,0.3333333333333333
+2021,Northern Piedmont,Fire,5000,0.3333333333333333
+2021,Northern Piedmont,Fire,10000,0.3333333333333333
+2021,Southeastern Plains,Fire,200,0.4166666666666667
+2021,Southeastern Plains,Fire,500,0.4166666666666667
+2021,Southeastern Plains,Fire,1000,0.10416666666666667
+2021,Southeastern Plains,Fire,2000,0.041666666666666664
+2021,Southeastern Plains,Fire,5000,0.020833333333333332
+2021,Blue Ridge,Fire,200,0.3961038961038961
+2021,Blue Ridge,Fire,500,0.33766233766233766
+2021,Blue Ridge,Fire,1000,0.09090909090909091
+2021,Blue Ridge,Fire,2000,0.1038961038961039
+2021,Blue Ridge,Fire,5000,0.05194805194805195
+2021,Blue Ridge,Fire,10000,0.006493506493506494
+2021,Blue Ridge,Fire,20000,0.012987012987012988
+2021,Ridge and Valley,Fire,200,0.336734693877551
+2021,Ridge and Valley,Fire,500,0.3877551020408163
+2021,Ridge and Valley,Fire,1000,0.20408163265306123
+2021,Ridge and Valley,Fire,2000,0.04081632653061224
+2021,Ridge and Valley,Fire,5000,0.030612244897959183
+2021,Southwestern Appalachians,Fire,200,0.5161290322580645
+2021,Southwestern Appalachians,Fire,500,0.2903225806451613
+2021,Southwestern Appalachians,Fire,1000,0.1935483870967742
+2021,Central Appalachians,Fire,200,0.5106382978723404
+2021,Central Appalachians,Fire,500,0.3617021276595745
+2021,Central Appalachians,Fire,1000,0.0851063829787234
+2021,Central Appalachians,Fire,2000,0.02127659574468085
+2021,Central Appalachians,Fire,5000,0.02127659574468085
+2021,Western Allegheny Plateau,Fire,200,0.42857142857142855
+2021,Western Allegheny Plateau,Fire,500,0.42857142857142855
+2021,Western Allegheny Plateau,Fire,1000,0.14285714285714285
+2021,Interior Plateau,Fire,200,0.75
+2021,Interior Plateau,Fire,500,0.25
+2021,Interior River Valleys and Hills,Fire,200,0.6666666666666666
+2021,Interior River Valleys and Hills,Fire,500,0.3333333333333333
+2021,Mississippi Alluvial Plain,Fire,200,0.6666666666666666
+2021,Mississippi Alluvial Plain,Fire,500,0.3333333333333333
+2021,Mississippi Valley Loess Plains,Fire,200,1
+2021,Southern Coastal Plain,Fire,200,0.2540983606557377
+2021,Southern Coastal Plain,Fire,500,0.319672131147541
+2021,Southern Coastal Plain,Fire,1000,0.18032786885245902
+2021,Southern Coastal Plain,Fire,2000,0.08196721311475409
+2021,Southern Coastal Plain,Fire,5000,0.07377049180327869
+2021,Southern Coastal Plain,Fire,10000,0.040983606557377046
+2021,Southern Coastal Plain,Fire,20000,0.02459016393442623
+2021,Southern Coastal Plain,Fire,100000,0.01639344262295082
+2021,Southern Coastal Plain,Fire,200000,0.00819672131147541
+2021,Southern Florida Coastal Plain,Fire,200,0.28975265017667845
+2021,Southern Florida Coastal Plain,Fire,500,0.3250883392226148
+2021,Southern Florida Coastal Plain,Fire,1000,0.17314487632508835
+2021,Southern Florida Coastal Plain,Fire,2000,0.0706713780918728
+2021,Southern Florida Coastal Plain,Fire,5000,0.05653710247349823
+2021,Southern Florida Coastal Plain,Fire,10000,0.04240282685512368
+2021,Southern Florida Coastal Plain,Fire,20000,0.03180212014134275
+2021,Southern Florida Coastal Plain,Fire,50000,0.01060070671378092
+2021,North Cascades,Fire,200,0.25396825396825395
+2021,North Cascades,Fire,500,0.24603174603174602
+2021,North Cascades,Fire,1000,0.1388888888888889
+2021,North Cascades,Fire,2000,0.1349206349206349
+2021,North Cascades,Fire,5000,0.10317460317460317
+2021,North Cascades,Fire,10000,0.051587301587301584
+2021,North Cascades,Fire,20000,0.027777777777777776
+2021,North Cascades,Fire,50000,0.031746031746031744
+2021,North Cascades,Fire,100000,0.011904761904761904
+2021,Klamath Mountains/California High North Coast Range,Fire,200,0.2389937106918239
+2021,Klamath Mountains/California High North Coast Range,Fire,500,0.2468553459119497
+2021,Klamath Mountains/California High North Coast Range,Fire,1000,0.16666666666666666
+2021,Klamath Mountains/California High North Coast Range,Fire,2000,0.10534591194968554
+2021,Klamath Mountains/California High North Coast Range,Fire,5000,0.1179245283018868
+2021,Klamath Mountains/California High North Coast Range,Fire,10000,0.059748427672955975
+2021,Klamath Mountains/California High North Coast Range,Fire,20000,0.036163522012578615
+2021,Klamath Mountains/California High North Coast Range,Fire,50000,0.0220125786163522
+2021,Klamath Mountains/California High North Coast Range,Fire,100000,0.0047169811320754715
+2021,Klamath Mountains/California High North Coast Range,Fire,500000,0.0015723270440251573
+2021,Madrean Archipelago,Fire,200,0.24404761904761904
+2021,Madrean Archipelago,Fire,500,0.27380952380952384
+2021,Madrean Archipelago,Fire,1000,0.1488095238095238
+2021,Madrean Archipelago,Fire,2000,0.12202380952380952
+2021,Madrean Archipelago,Fire,5000,0.11011904761904762
+2021,Madrean Archipelago,Fire,10000,0.047619047619047616
+2021,Madrean Archipelago,Fire,20000,0.03571428571428571
+2021,Madrean Archipelago,Fire,50000,0.011904761904761904
+2021,Madrean Archipelago,Fire,100000,0.005952380952380952
+2021,Northern Basin and Range,Fire,200,0.21428571428571427
+2021,Northern Basin and Range,Fire,500,0.26326530612244897
+2021,Northern Basin and Range,Fire,1000,0.15714285714285714
+2021,Northern Basin and Range,Fire,2000,0.13741496598639455
+2021,Northern Basin and Range,Fire,5000,0.12653061224489795
+2021,Northern Basin and Range,Fire,10000,0.05102040816326531
+2021,Northern Basin and Range,Fire,20000,0.02585034013605442
+2021,Northern Basin and Range,Fire,50000,0.021768707482993196
+2021,Northern Basin and Range,Fire,100000,0.0013605442176870747
+2021,Northern Basin and Range,Fire,200000,6.802721088435374e-4
+2021,Northern Basin and Range,Fire,500000,6.802721088435374e-4
+2021,Sonoran Basin and Range,Fire,200,0.4222222222222222
+2021,Sonoran Basin and Range,Fire,500,0.28888888888888886
+2021,Sonoran Basin and Range,Fire,1000,0.15555555555555556
+2021,Sonoran Basin and Range,Fire,2000,0.07777777777777778
+2021,Sonoran Basin and Range,Fire,5000,0.05555555555555555
+2021,Acadian Plains and Hills,Fire,10000,1
+2021,Southern California/Northern Baja Coast,Fire,200,0.3093681917211329
+2021,Southern California/Northern Baja Coast,Fire,500,0.30610021786492375
+2021,Southern California/Northern Baja Coast,Fire,1000,0.1579520697167756
+2021,Southern California/Northern Baja Coast,Fire,2000,0.09368191721132897
+2021,Southern California/Northern Baja Coast,Fire,5000,0.07298474945533769
+2021,Southern California/Northern Baja Coast,Fire,10000,0.034858387799564274
+2021,Southern California/Northern Baja Coast,Fire,20000,0.017429193899782137
+2021,Southern California/Northern Baja Coast,Fire,50000,0.007625272331154684

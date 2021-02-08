@@ -1,0 +1,353 @@
+StratumID,SecondaryStratumID,StateClassID,AgeMin,AgeMax,FlowGroupID,Value
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Developed: High Intensity,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Developed: Medium Intensity,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Developed: Low Intensity,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Developed: Open Space,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Developed: Open Space,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Developed: Open Space,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Developed: Open Space,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Developed: Open Space,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Developed: Open Space,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Developed: Open Space,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Developed: Open Space,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Grassland: All,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Grassland: All,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Grassland: All,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Grassland: All,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Grassland: All,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Grassland: All,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Grassland: All,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Grassland: All,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Shrubland: All,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Shrubland: All,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Shrubland: All,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Shrubland: All,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Wetland: Herbaceous,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Wetland: Woody,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Wetland: Woody,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Wetland: Woody,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Wetland: Woody,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Wetland: Woody,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Wetland: Woody,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Wetland: Woody,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Wetland: Woody,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Agriculture: Cropland,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Agriculture: Pasture,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Coarse Roots -> AG Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Coarse Roots -> BG Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Fine Roots -> AG Very Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Fine Roots -> BG Very Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Foliage -> AG Very Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Merchantable -> Snag Stems [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Other Wood -> AG Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Biomass Turnover: Other Wood -> Snag Branches [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: AG Fast -> AG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: AG Medium -> AG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: AG Very Fast -> AG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: BG Fast -> BG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: BG Very Fast -> BG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: Snag Branch -> AG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Decay: Snag Stem -> AG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: AG Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: AG Medium -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: AG Slow -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: AG Very Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: BG Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: BG Slow -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: BG Very Fast -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: Snag Branch -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Emission: Snag Stem -> Atmosphere [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Transfer: AG Slow -> BG Slow [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Transfer: Snag Branch -> AG Fast [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Transfer: Snag Stem -> AG Medium [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Net Growth: Atmosphere -> Coarse Roots [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Net Growth: Atmosphere -> Fine Roots [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Net Growth: Atmosphere -> Foliage [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Net Growth: Atmosphere -> Merchantable [Type],0
+NA,NA,Shrubland: Post Fire Shrub,NA,NA,Net Growth: Atmosphere -> Other Wood [Type],0

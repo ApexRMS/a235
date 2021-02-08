@@ -1,0 +1,2353 @@
+Timestep,StratumID,TransitionGroupID,Amount
+2020,Acadian Plains and Hills,Reforestation: Cropland,0
+2020,Acadian Plains and Hills,Reforestation: Pasture,0
+2020,Acadian Plains and Hills,Reforestation: Grassland,0
+2020,Acadian Plains and Hills,Reforestation: Shrubland,0
+2020,Arizona/New Mexico Mountains,Reforestation: Cropland,0
+2020,Arizona/New Mexico Mountains,Reforestation: Pasture,0
+2020,Arizona/New Mexico Mountains,Reforestation: Grassland,0
+2020,Arizona/New Mexico Mountains,Reforestation: Shrubland,0
+2020,Arizona/New Mexico Plateau,Reforestation: Cropland,0
+2020,Arizona/New Mexico Plateau,Reforestation: Pasture,0
+2020,Arizona/New Mexico Plateau,Reforestation: Grassland,0
+2020,Arizona/New Mexico Plateau,Reforestation: Shrubland,0
+2020,Arkansas Valley,Reforestation: Cropland,0
+2020,Arkansas Valley,Reforestation: Pasture,0
+2020,Arkansas Valley,Reforestation: Grassland,0
+2020,Arkansas Valley,Reforestation: Shrubland,0
+2020,Atlantic Coastal Pine Barrens,Reforestation: Cropland,0
+2020,Atlantic Coastal Pine Barrens,Reforestation: Pasture,0
+2020,Atlantic Coastal Pine Barrens,Reforestation: Grassland,0
+2020,Blue Mountains,Reforestation: Cropland,0
+2020,Blue Mountains,Reforestation: Pasture,0
+2020,Blue Mountains,Reforestation: Grassland,0
+2020,Blue Mountains,Reforestation: Shrubland,0
+2020,Blue Ridge,Reforestation: Cropland,0
+2020,Blue Ridge,Reforestation: Pasture,0
+2020,Blue Ridge,Reforestation: Grassland,0
+2020,Blue Ridge,Reforestation: Shrubland,0
+2020,Boston Mountains,Reforestation: Cropland,0
+2020,Boston Mountains,Reforestation: Pasture,0
+2020,Boston Mountains,Reforestation: Grassland,0
+2020,Boston Mountains,Reforestation: Shrubland,0
+2020,Canadian Rockies,Reforestation: Cropland,0
+2020,Canadian Rockies,Reforestation: Pasture,0
+2020,Canadian Rockies,Reforestation: Grassland,0
+2020,Canadian Rockies,Reforestation: Shrubland,0
+2020,Cascades,Reforestation: Cropland,0
+2020,Cascades,Reforestation: Pasture,0
+2020,Cascades,Reforestation: Grassland,0
+2020,Cascades,Reforestation: Shrubland,0
+2020,Central Appalachians,Reforestation: Cropland,0
+2020,Central Appalachians,Reforestation: Pasture,0
+2020,Central Appalachians,Reforestation: Grassland,0
+2020,Central Appalachians,Reforestation: Shrubland,0
+2020,Central Basin and Range,Reforestation: Cropland,0
+2020,Central Basin and Range,Reforestation: Pasture,0
+2020,Central Basin and Range,Reforestation: Grassland,0
+2020,Central Basin and Range,Reforestation: Shrubland,0
+2020,Central California Foothills and Coastal Mountains,Reforestation: Cropland,0
+2020,Central California Foothills and Coastal Mountains,Reforestation: Pasture,0
+2020,Central California Foothills and Coastal Mountains,Reforestation: Grassland,0
+2020,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,0
+2020,Central California Valley,Reforestation: Cropland,0
+2020,Central California Valley,Reforestation: Pasture,0
+2020,Central California Valley,Reforestation: Grassland,0
+2020,Central California Valley,Reforestation: Shrubland,0
+2020,Central Corn Belt Plains,Reforestation: Cropland,0
+2020,Central Corn Belt Plains,Reforestation: Pasture,0
+2020,Central Corn Belt Plains,Reforestation: Grassland,0
+2020,Central Corn Belt Plains,Reforestation: Shrubland,0
+2020,Central Great Plains,Reforestation: Cropland,0
+2020,Central Great Plains,Reforestation: Pasture,0
+2020,Central Great Plains,Reforestation: Grassland,0
+2020,Central Great Plains,Reforestation: Shrubland,0
+2020,Central Irregular Plains,Reforestation: Cropland,0
+2020,Central Irregular Plains,Reforestation: Pasture,0
+2020,Central Irregular Plains,Reforestation: Grassland,0
+2020,Central Irregular Plains,Reforestation: Shrubland,0
+2020,Chihuahuan Deserts,Reforestation: Cropland,0
+2020,Chihuahuan Deserts,Reforestation: Pasture,0
+2020,Chihuahuan Deserts,Reforestation: Grassland,0
+2020,Chihuahuan Deserts,Reforestation: Shrubland,0
+2020,Coast Range,Reforestation: Cropland,0
+2020,Coast Range,Reforestation: Pasture,0
+2020,Coast Range,Reforestation: Grassland,0
+2020,Coast Range,Reforestation: Shrubland,0
+2020,Colorado Plateaus,Reforestation: Cropland,0
+2020,Colorado Plateaus,Reforestation: Pasture,0
+2020,Colorado Plateaus,Reforestation: Grassland,0
+2020,Colorado Plateaus,Reforestation: Shrubland,0
+2020,Columbia Plateau,Reforestation: Cropland,0
+2020,Columbia Plateau,Reforestation: Pasture,0
+2020,Columbia Plateau,Reforestation: Grassland,0
+2020,Columbia Plateau,Reforestation: Shrubland,0
+2020,Cross Timbers,Reforestation: Cropland,0
+2020,Cross Timbers,Reforestation: Pasture,0
+2020,Cross Timbers,Reforestation: Grassland,0
+2020,Cross Timbers,Reforestation: Shrubland,0
+2020,Driftless Area,Reforestation: Cropland,0
+2020,Driftless Area,Reforestation: Pasture,0
+2020,Driftless Area,Reforestation: Grassland,0
+2020,Driftless Area,Reforestation: Shrubland,0
+2020,East Central Texas Plains,Reforestation: Cropland,0
+2020,East Central Texas Plains,Reforestation: Pasture,0
+2020,East Central Texas Plains,Reforestation: Grassland,0
+2020,East Central Texas Plains,Reforestation: Shrubland,0
+2020,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,0
+2020,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,0
+2020,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,0
+2020,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,0
+2020,Eastern Corn Belt Plains,Reforestation: Cropland,0
+2020,Eastern Corn Belt Plains,Reforestation: Pasture,0
+2020,Eastern Corn Belt Plains,Reforestation: Grassland,0
+2020,Eastern Corn Belt Plains,Reforestation: Shrubland,0
+2020,Eastern Great Lakes Lowlands,Reforestation: Cropland,0
+2020,Eastern Great Lakes Lowlands,Reforestation: Pasture,0
+2020,Eastern Great Lakes Lowlands,Reforestation: Grassland,0
+2020,Edwards Plateau,Reforestation: Cropland,0
+2020,Edwards Plateau,Reforestation: Pasture,0
+2020,Edwards Plateau,Reforestation: Grassland,0
+2020,Edwards Plateau,Reforestation: Shrubland,0
+2020,Erie Drift Plain,Reforestation: Cropland,0
+2020,Erie Drift Plain,Reforestation: Pasture,0
+2020,Erie Drift Plain,Reforestation: Grassland,0
+2020,Erie Drift Plain,Reforestation: Shrubland,0
+2020,Flint Hills,Reforestation: Cropland,0
+2020,Flint Hills,Reforestation: Pasture,0
+2020,Flint Hills,Reforestation: Grassland,0
+2020,Flint Hills,Reforestation: Shrubland,0
+2020,High Plains,Reforestation: Cropland,0
+2020,High Plains,Reforestation: Pasture,0
+2020,High Plains,Reforestation: Grassland,0
+2020,High Plains,Reforestation: Shrubland,0
+2020,Huron/Erie Lake Plains,Reforestation: Cropland,0
+2020,Huron/Erie Lake Plains,Reforestation: Pasture,0
+2020,Huron/Erie Lake Plains,Reforestation: Grassland,0
+2020,Huron/Erie Lake Plains,Reforestation: Shrubland,0
+2020,Idaho Batholith,Reforestation: Cropland,0
+2020,Idaho Batholith,Reforestation: Pasture,0
+2020,Idaho Batholith,Reforestation: Grassland,0
+2020,Idaho Batholith,Reforestation: Shrubland,0
+2020,Interior Plateau,Reforestation: Cropland,0
+2020,Interior Plateau,Reforestation: Pasture,0
+2020,Interior Plateau,Reforestation: Grassland,0
+2020,Interior Plateau,Reforestation: Shrubland,0
+2020,Interior River Valleys and Hills,Reforestation: Cropland,0
+2020,Interior River Valleys and Hills,Reforestation: Pasture,0
+2020,Interior River Valleys and Hills,Reforestation: Grassland,0
+2020,Interior River Valleys and Hills,Reforestation: Shrubland,0
+2020,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,0
+2020,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,0
+2020,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,0
+2020,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,0
+2020,Lake Agassiz Plain,Reforestation: Cropland,0
+2020,Lake Agassiz Plain,Reforestation: Pasture,0
+2020,Lake Agassiz Plain,Reforestation: Grassland,0
+2020,Lake Agassiz Plain,Reforestation: Shrubland,0
+2020,Madrean Archipelago,Reforestation: Cropland,0
+2020,Madrean Archipelago,Reforestation: Pasture,0
+2020,Madrean Archipelago,Reforestation: Grassland,0
+2020,Madrean Archipelago,Reforestation: Shrubland,0
+2020,Middle Atlantic Coastal Plain,Reforestation: Cropland,0
+2020,Middle Atlantic Coastal Plain,Reforestation: Pasture,0
+2020,Middle Atlantic Coastal Plain,Reforestation: Grassland,0
+2020,Middle Atlantic Coastal Plain,Reforestation: Shrubland,0
+2020,Middle Rockies,Reforestation: Cropland,0
+2020,Middle Rockies,Reforestation: Pasture,0
+2020,Middle Rockies,Reforestation: Grassland,0
+2020,Middle Rockies,Reforestation: Shrubland,0
+2020,Mississippi Alluvial Plain,Reforestation: Cropland,0
+2020,Mississippi Alluvial Plain,Reforestation: Pasture,0
+2020,Mississippi Alluvial Plain,Reforestation: Grassland,0
+2020,Mississippi Alluvial Plain,Reforestation: Shrubland,0
+2020,Mississippi Valley Loess Plains,Reforestation: Cropland,0
+2020,Mississippi Valley Loess Plains,Reforestation: Pasture,0
+2020,Mississippi Valley Loess Plains,Reforestation: Grassland,0
+2020,Mississippi Valley Loess Plains,Reforestation: Shrubland,0
+2020,Mojave Basin and Range,Reforestation: Cropland,0
+2020,Mojave Basin and Range,Reforestation: Pasture,0
+2020,Mojave Basin and Range,Reforestation: Grassland,0
+2020,Mojave Basin and Range,Reforestation: Shrubland,0
+2020,Nebraska Sand Hills,Reforestation: Cropland,0
+2020,Nebraska Sand Hills,Reforestation: Pasture,0
+2020,Nebraska Sand Hills,Reforestation: Grassland,0
+2020,Nebraska Sand Hills,Reforestation: Shrubland,0
+2020,North Cascades,Reforestation: Cropland,0
+2020,North Cascades,Reforestation: Pasture,0
+2020,North Cascades,Reforestation: Grassland,0
+2020,North Cascades,Reforestation: Shrubland,0
+2020,North Central Appalachians,Reforestation: Cropland,0
+2020,North Central Appalachians,Reforestation: Pasture,0
+2020,North Central Appalachians,Reforestation: Grassland,0
+2020,North Central Appalachians,Reforestation: Shrubland,0
+2020,North Central Hardwood Forests,Reforestation: Cropland,0
+2020,North Central Hardwood Forests,Reforestation: Pasture,0
+2020,North Central Hardwood Forests,Reforestation: Grassland,0
+2020,North Central Hardwood Forests,Reforestation: Shrubland,0
+2020,Northeastern Coastal Zone,Reforestation: Cropland,0
+2020,Northeastern Coastal Zone,Reforestation: Pasture,0
+2020,Northeastern Coastal Zone,Reforestation: Grassland,0
+2020,Northeastern Highlands,Reforestation: Cropland,0
+2020,Northeastern Highlands,Reforestation: Pasture,0
+2020,Northeastern Highlands,Reforestation: Grassland,0
+2020,Northern Allegheny Plateau,Reforestation: Cropland,0
+2020,Northern Allegheny Plateau,Reforestation: Pasture,0
+2020,Northern Allegheny Plateau,Reforestation: Grassland,0
+2020,Northern Allegheny Plateau,Reforestation: Shrubland,0
+2020,Northern Basin and Range,Reforestation: Cropland,0
+2020,Northern Basin and Range,Reforestation: Pasture,0
+2020,Northern Basin and Range,Reforestation: Grassland,0
+2020,Northern Basin and Range,Reforestation: Shrubland,0
+2020,Northern Glaciated Plains,Reforestation: Cropland,0
+2020,Northern Glaciated Plains,Reforestation: Pasture,0
+2020,Northern Glaciated Plains,Reforestation: Grassland,0
+2020,Northern Glaciated Plains,Reforestation: Shrubland,0
+2020,Northern Lakes and Forests,Reforestation: Cropland,0
+2020,Northern Lakes and Forests,Reforestation: Pasture,0
+2020,Northern Lakes and Forests,Reforestation: Grassland,0
+2020,Northern Lakes and Forests,Reforestation: Shrubland,0
+2020,Northern Minnesota Wetlands,Reforestation: Cropland,0
+2020,Northern Minnesota Wetlands,Reforestation: Pasture,0
+2020,Northern Minnesota Wetlands,Reforestation: Grassland,0
+2020,Northern Minnesota Wetlands,Reforestation: Shrubland,0
+2020,Northern Piedmont,Reforestation: Cropland,0
+2020,Northern Piedmont,Reforestation: Pasture,0
+2020,Northern Piedmont,Reforestation: Grassland,0
+2020,Northern Piedmont,Reforestation: Shrubland,0
+2020,Northern Rockies,Reforestation: Cropland,0
+2020,Northern Rockies,Reforestation: Pasture,0
+2020,Northern Rockies,Reforestation: Grassland,0
+2020,Northern Rockies,Reforestation: Shrubland,0
+2020,Northwestern Glaciated Plains,Reforestation: Cropland,0
+2020,Northwestern Glaciated Plains,Reforestation: Pasture,0
+2020,Northwestern Glaciated Plains,Reforestation: Grassland,0
+2020,Northwestern Glaciated Plains,Reforestation: Shrubland,0
+2020,Northwestern Great Plains,Reforestation: Cropland,0
+2020,Northwestern Great Plains,Reforestation: Pasture,0
+2020,Northwestern Great Plains,Reforestation: Grassland,0
+2020,Northwestern Great Plains,Reforestation: Shrubland,0
+2020,Ouachita Mountains,Reforestation: Cropland,0
+2020,Ouachita Mountains,Reforestation: Pasture,0
+2020,Ouachita Mountains,Reforestation: Grassland,0
+2020,Ouachita Mountains,Reforestation: Shrubland,0
+2020,Ozark Highlands,Reforestation: Cropland,0
+2020,Ozark Highlands,Reforestation: Pasture,0
+2020,Ozark Highlands,Reforestation: Grassland,0
+2020,Ozark Highlands,Reforestation: Shrubland,0
+2020,Piedmont,Reforestation: Cropland,0
+2020,Piedmont,Reforestation: Pasture,0
+2020,Piedmont,Reforestation: Grassland,0
+2020,Piedmont,Reforestation: Shrubland,0
+2020,Puget Lowland,Reforestation: Cropland,0
+2020,Puget Lowland,Reforestation: Pasture,0
+2020,Puget Lowland,Reforestation: Grassland,0
+2020,Puget Lowland,Reforestation: Shrubland,0
+2020,Ridge and Valley,Reforestation: Cropland,0
+2020,Ridge and Valley,Reforestation: Pasture,0
+2020,Ridge and Valley,Reforestation: Grassland,0
+2020,Ridge and Valley,Reforestation: Shrubland,0
+2020,Sierra Nevada,Reforestation: Cropland,0
+2020,Sierra Nevada,Reforestation: Pasture,0
+2020,Sierra Nevada,Reforestation: Grassland,0
+2020,Sierra Nevada,Reforestation: Shrubland,0
+2020,Snake River Plain,Reforestation: Cropland,0
+2020,Snake River Plain,Reforestation: Pasture,0
+2020,Snake River Plain,Reforestation: Grassland,0
+2020,Snake River Plain,Reforestation: Shrubland,0
+2020,Sonoran Basin and Range,Reforestation: Cropland,0
+2020,Sonoran Basin and Range,Reforestation: Pasture,0
+2020,Sonoran Basin and Range,Reforestation: Grassland,0
+2020,Sonoran Basin and Range,Reforestation: Shrubland,0
+2020,South Central Plains,Reforestation: Cropland,0
+2020,South Central Plains,Reforestation: Pasture,0
+2020,South Central Plains,Reforestation: Grassland,0
+2020,South Central Plains,Reforestation: Shrubland,0
+2020,Southeastern Plains,Reforestation: Cropland,0
+2020,Southeastern Plains,Reforestation: Pasture,0
+2020,Southeastern Plains,Reforestation: Grassland,0
+2020,Southeastern Plains,Reforestation: Shrubland,0
+2020,Southeastern Wisconsin Till Plains,Reforestation: Cropland,0
+2020,Southeastern Wisconsin Till Plains,Reforestation: Pasture,0
+2020,Southeastern Wisconsin Till Plains,Reforestation: Grassland,0
+2020,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,0
+2020,Southern California Mountains,Reforestation: Cropland,0
+2020,Southern California Mountains,Reforestation: Pasture,0
+2020,Southern California Mountains,Reforestation: Grassland,0
+2020,Southern California Mountains,Reforestation: Shrubland,0
+2020,Southern California/Northern Baja Coast,Reforestation: Cropland,0
+2020,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2020,Southern California/Northern Baja Coast,Reforestation: Grassland,0
+2020,Southern California/Northern Baja Coast,Reforestation: Shrubland,0
+2020,Southern Coastal Plain,Reforestation: Cropland,0
+2020,Southern Coastal Plain,Reforestation: Pasture,0
+2020,Southern Coastal Plain,Reforestation: Grassland,0
+2020,Southern Coastal Plain,Reforestation: Shrubland,0
+2020,Southern Florida Coastal Plain,Reforestation: Cropland,0
+2020,Southern Florida Coastal Plain,Reforestation: Pasture,0
+2020,Southern Florida Coastal Plain,Reforestation: Grassland,0
+2020,Southern Florida Coastal Plain,Reforestation: Shrubland,0
+2020,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,0
+2020,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,0
+2020,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,0
+2020,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,0
+2020,Southern Rockies,Reforestation: Cropland,0
+2020,Southern Rockies,Reforestation: Pasture,0
+2020,Southern Rockies,Reforestation: Grassland,0
+2020,Southern Rockies,Reforestation: Shrubland,0
+2020,Southern Texas Plains,Reforestation: Cropland,0
+2020,Southern Texas Plains,Reforestation: Pasture,0
+2020,Southern Texas Plains,Reforestation: Grassland,0
+2020,Southern Texas Plains,Reforestation: Shrubland,0
+2020,Southwestern Appalachians,Reforestation: Cropland,0
+2020,Southwestern Appalachians,Reforestation: Pasture,0
+2020,Southwestern Appalachians,Reforestation: Grassland,0
+2020,Southwestern Appalachians,Reforestation: Shrubland,0
+2020,Southwestern Tablelands,Reforestation: Cropland,0
+2020,Southwestern Tablelands,Reforestation: Pasture,0
+2020,Southwestern Tablelands,Reforestation: Grassland,0
+2020,Southwestern Tablelands,Reforestation: Shrubland,0
+2020,Texas Blackland Prairies,Reforestation: Cropland,0
+2020,Texas Blackland Prairies,Reforestation: Pasture,0
+2020,Texas Blackland Prairies,Reforestation: Grassland,0
+2020,Texas Blackland Prairies,Reforestation: Shrubland,0
+2020,Wasatch and Uinta Mountains,Reforestation: Cropland,0
+2020,Wasatch and Uinta Mountains,Reforestation: Pasture,0
+2020,Wasatch and Uinta Mountains,Reforestation: Grassland,0
+2020,Wasatch and Uinta Mountains,Reforestation: Shrubland,0
+2020,Western Allegheny Plateau,Reforestation: Cropland,0
+2020,Western Allegheny Plateau,Reforestation: Pasture,0
+2020,Western Allegheny Plateau,Reforestation: Grassland,0
+2020,Western Allegheny Plateau,Reforestation: Shrubland,0
+2020,Western Corn Belt Plains,Reforestation: Cropland,0
+2020,Western Corn Belt Plains,Reforestation: Pasture,0
+2020,Western Corn Belt Plains,Reforestation: Grassland,0
+2020,Western Corn Belt Plains,Reforestation: Shrubland,0
+2020,Western Gulf Coastal Plain,Reforestation: Cropland,0
+2020,Western Gulf Coastal Plain,Reforestation: Pasture,0
+2020,Western Gulf Coastal Plain,Reforestation: Grassland,0
+2020,Western Gulf Coastal Plain,Reforestation: Shrubland,0
+2020,Willamette Valley,Reforestation: Cropland,0
+2020,Willamette Valley,Reforestation: Pasture,0
+2020,Willamette Valley,Reforestation: Grassland,0
+2020,Willamette Valley,Reforestation: Shrubland,0
+2020,Wyoming Basin,Reforestation: Cropland,0
+2020,Wyoming Basin,Reforestation: Pasture,0
+2020,Wyoming Basin,Reforestation: Grassland,0
+2020,Wyoming Basin,Reforestation: Shrubland,0
+2025,Acadian Plains and Hills,Reforestation: Cropland,0
+2025,Acadian Plains and Hills,Reforestation: Pasture,15562.88
+2025,Acadian Plains and Hills,Reforestation: Grassland,22.2
+2025,Acadian Plains and Hills,Reforestation: Shrubland,230.0042
+2025,Arizona/New Mexico Mountains,Reforestation: Cropland,0
+2025,Arizona/New Mexico Mountains,Reforestation: Pasture,0
+2025,Arizona/New Mexico Mountains,Reforestation: Grassland,0
+2025,Arizona/New Mexico Mountains,Reforestation: Shrubland,6.593354687768794
+2025,Arizona/New Mexico Plateau,Reforestation: Cropland,0
+2025,Arizona/New Mexico Plateau,Reforestation: Pasture,0
+2025,Arizona/New Mexico Plateau,Reforestation: Grassland,0
+2025,Arizona/New Mexico Plateau,Reforestation: Shrubland,0
+2025,Arkansas Valley,Reforestation: Cropland,89.219234375
+2025,Arkansas Valley,Reforestation: Pasture,67750.95853027036
+2025,Arkansas Valley,Reforestation: Grassland,1507.7256051214308
+2025,Arkansas Valley,Reforestation: Shrubland,3732.760844929811
+2025,Atlantic Coastal Pine Barrens,Reforestation: Cropland,1088.231964993223
+2025,Atlantic Coastal Pine Barrens,Reforestation: Pasture,2851.4451671482198
+2025,Atlantic Coastal Pine Barrens,Reforestation: Grassland,176.0346560846561
+2025,Blue Mountains,Reforestation: Cropland,0
+2025,Blue Mountains,Reforestation: Pasture,0
+2025,Blue Mountains,Reforestation: Grassland,0
+2025,Blue Mountains,Reforestation: Shrubland,0
+2025,Blue Ridge,Reforestation: Cropland,30.7563657712537
+2025,Blue Ridge,Reforestation: Pasture,166768.4937369047
+2025,Blue Ridge,Reforestation: Grassland,202.31212364512243
+2025,Blue Ridge,Reforestation: Shrubland,289.46205
+2025,Boston Mountains,Reforestation: Cropland,0
+2025,Boston Mountains,Reforestation: Pasture,58050.12288702377
+2025,Boston Mountains,Reforestation: Grassland,218.15949192155273
+2025,Boston Mountains,Reforestation: Shrubland,685.3326869565216
+2025,Canadian Rockies,Reforestation: Cropland,0
+2025,Canadian Rockies,Reforestation: Pasture,0
+2025,Canadian Rockies,Reforestation: Grassland,0
+2025,Canadian Rockies,Reforestation: Shrubland,0
+2025,Cascades,Reforestation: Cropland,0
+2025,Cascades,Reforestation: Pasture,0
+2025,Cascades,Reforestation: Grassland,0
+2025,Cascades,Reforestation: Shrubland,0
+2025,Central Appalachians,Reforestation: Cropland,157.8031837526157
+2025,Central Appalachians,Reforestation: Pasture,40491.73308961034
+2025,Central Appalachians,Reforestation: Grassland,956.5545303508007
+2025,Central Appalachians,Reforestation: Shrubland,3586.762170000001
+2025,Central Basin and Range,Reforestation: Cropland,0
+2025,Central Basin and Range,Reforestation: Pasture,0
+2025,Central Basin and Range,Reforestation: Grassland,0
+2025,Central Basin and Range,Reforestation: Shrubland,0
+2025,Central California Foothills and Coastal Mountains,Reforestation: Cropland,0
+2025,Central California Foothills and Coastal Mountains,Reforestation: Pasture,0
+2025,Central California Foothills and Coastal Mountains,Reforestation: Grassland,0
+2025,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,0
+2025,Central California Valley,Reforestation: Cropland,0
+2025,Central California Valley,Reforestation: Pasture,0
+2025,Central California Valley,Reforestation: Grassland,0
+2025,Central California Valley,Reforestation: Shrubland,0
+2025,Central Corn Belt Plains,Reforestation: Cropland,0
+2025,Central Corn Belt Plains,Reforestation: Pasture,3188.4596786563757
+2025,Central Corn Belt Plains,Reforestation: Grassland,324.2933163014118
+2025,Central Corn Belt Plains,Reforestation: Shrubland,1963.1123111111112
+2025,Central Great Plains,Reforestation: Cropland,592.5186116554055
+2025,Central Great Plains,Reforestation: Pasture,573.1481795088907
+2025,Central Great Plains,Reforestation: Grassland,15573.094778558021
+2025,Central Great Plains,Reforestation: Shrubland,8074.304085450707
+2025,Central Irregular Plains,Reforestation: Cropland,160.594621875
+2025,Central Irregular Plains,Reforestation: Pasture,4355.926164267569
+2025,Central Irregular Plains,Reforestation: Grassland,200.52575957727873
+2025,Central Irregular Plains,Reforestation: Shrubland,5136.832909301413
+2025,Chihuahuan Deserts,Reforestation: Cropland,0
+2025,Chihuahuan Deserts,Reforestation: Pasture,0
+2025,Chihuahuan Deserts,Reforestation: Grassland,514.1517293233082
+2025,Chihuahuan Deserts,Reforestation: Shrubland,3319.7540852915877
+2025,Coast Range,Reforestation: Cropland,0
+2025,Coast Range,Reforestation: Pasture,0
+2025,Coast Range,Reforestation: Grassland,0
+2025,Coast Range,Reforestation: Shrubland,0
+2025,Colorado Plateaus,Reforestation: Cropland,0
+2025,Colorado Plateaus,Reforestation: Pasture,0
+2025,Colorado Plateaus,Reforestation: Grassland,0
+2025,Colorado Plateaus,Reforestation: Shrubland,0
+2025,Columbia Plateau,Reforestation: Cropland,0
+2025,Columbia Plateau,Reforestation: Pasture,0
+2025,Columbia Plateau,Reforestation: Grassland,0
+2025,Columbia Plateau,Reforestation: Shrubland,0
+2025,Cross Timbers,Reforestation: Cropland,164.26628665540542
+2025,Cross Timbers,Reforestation: Pasture,3676.5848030266648
+2025,Cross Timbers,Reforestation: Grassland,4743.679280897091
+2025,Cross Timbers,Reforestation: Shrubland,1063.1151944678752
+2025,Driftless Area,Reforestation: Cropland,0
+2025,Driftless Area,Reforestation: Pasture,1819.2800485413331
+2025,Driftless Area,Reforestation: Grassland,105.75886524822695
+2025,Driftless Area,Reforestation: Shrubland,1048.037361111111
+2025,East Central Texas Plains,Reforestation: Cropland,324.15149729729734
+2025,East Central Texas Plains,Reforestation: Pasture,61751.16749207545
+2025,East Central Texas Plains,Reforestation: Grassland,275.1052021732005
+2025,East Central Texas Plains,Reforestation: Shrubland,764.8291437811802
+2025,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,0
+2025,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,0
+2025,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,0
+2025,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,0
+2025,Eastern Corn Belt Plains,Reforestation: Cropland,0
+2025,Eastern Corn Belt Plains,Reforestation: Pasture,14899.730973451327
+2025,Eastern Corn Belt Plains,Reforestation: Grassland,2265.6672268907564
+2025,Eastern Corn Belt Plains,Reforestation: Shrubland,6348.267060465117
+2025,Eastern Great Lakes Lowlands,Reforestation: Cropland,4543.770127045564
+2025,Eastern Great Lakes Lowlands,Reforestation: Pasture,85742.49398653857
+2025,Eastern Great Lakes Lowlands,Reforestation: Grassland,267.06251478369126
+2025,Edwards Plateau,Reforestation: Cropland,0
+2025,Edwards Plateau,Reforestation: Pasture,185.0947082767978
+2025,Edwards Plateau,Reforestation: Grassland,195.1524812030075
+2025,Edwards Plateau,Reforestation: Shrubland,4710.951924410803
+2025,Erie Drift Plain,Reforestation: Cropland,281.5442031104245
+2025,Erie Drift Plain,Reforestation: Pasture,13463.077033207834
+2025,Erie Drift Plain,Reforestation: Grassland,205.94048019207682
+2025,Erie Drift Plain,Reforestation: Shrubland,421.9089687380862
+2025,Flint Hills,Reforestation: Cropland,0
+2025,Flint Hills,Reforestation: Pasture,0
+2025,Flint Hills,Reforestation: Grassland,160.42060766182297
+2025,Flint Hills,Reforestation: Shrubland,12.942196860282573
+2025,High Plains,Reforestation: Cropland,38.135470270270275
+2025,High Plains,Reforestation: Pasture,0
+2025,High Plains,Reforestation: Grassland,922.2658708197177
+2025,High Plains,Reforestation: Shrubland,898.7618690800487
+2025,Huron/Erie Lake Plains,Reforestation: Cropland,0
+2025,Huron/Erie Lake Plains,Reforestation: Pasture,118.25183312262959
+2025,Huron/Erie Lake Plains,Reforestation: Grassland,393.54933973589436
+2025,Huron/Erie Lake Plains,Reforestation: Shrubland,869.9376000000001
+2025,Idaho Batholith,Reforestation: Cropland,0
+2025,Idaho Batholith,Reforestation: Pasture,0
+2025,Idaho Batholith,Reforestation: Grassland,0
+2025,Idaho Batholith,Reforestation: Shrubland,0
+2025,Interior Plateau,Reforestation: Cropland,427.35786156716415
+2025,Interior Plateau,Reforestation: Pasture,438302.53548127756
+2025,Interior Plateau,Reforestation: Grassland,13420.973007446255
+2025,Interior Plateau,Reforestation: Shrubland,17721.814013278043
+2025,Interior River Valleys and Hills,Reforestation: Cropland,0
+2025,Interior River Valleys and Hills,Reforestation: Pasture,42605.60525227913
+2025,Interior River Valleys and Hills,Reforestation: Grassland,1358.4940416780819
+2025,Interior River Valleys and Hills,Reforestation: Shrubland,5486.270593333334
+2025,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,0
+2025,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,0
+2025,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,0
+2025,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,0
+2025,Lake Agassiz Plain,Reforestation: Cropland,0
+2025,Lake Agassiz Plain,Reforestation: Pasture,0
+2025,Lake Agassiz Plain,Reforestation: Grassland,0
+2025,Lake Agassiz Plain,Reforestation: Shrubland,0
+2025,Madrean Archipelago,Reforestation: Cropland,0
+2025,Madrean Archipelago,Reforestation: Pasture,0
+2025,Madrean Archipelago,Reforestation: Grassland,0
+2025,Madrean Archipelago,Reforestation: Shrubland,0
+2025,Middle Atlantic Coastal Plain,Reforestation: Cropland,2071.2436614797657
+2025,Middle Atlantic Coastal Plain,Reforestation: Pasture,17502.676236374307
+2025,Middle Atlantic Coastal Plain,Reforestation: Grassland,799.8711162783424
+2025,Middle Atlantic Coastal Plain,Reforestation: Shrubland,4879.429285272727
+2025,Middle Rockies,Reforestation: Cropland,0
+2025,Middle Rockies,Reforestation: Pasture,0
+2025,Middle Rockies,Reforestation: Grassland,0
+2025,Middle Rockies,Reforestation: Shrubland,0
+2025,Mississippi Alluvial Plain,Reforestation: Cropland,1132.8849776413986
+2025,Mississippi Alluvial Plain,Reforestation: Pasture,9470.088889965224
+2025,Mississippi Alluvial Plain,Reforestation: Grassland,732.0953343090482
+2025,Mississippi Alluvial Plain,Reforestation: Shrubland,1362.1405949275363
+2025,Mississippi Valley Loess Plains,Reforestation: Cropland,2357.9975956009425
+2025,Mississippi Valley Loess Plains,Reforestation: Pasture,99362.16722732093
+2025,Mississippi Valley Loess Plains,Reforestation: Grassland,2565.8312989256187
+2025,Mississippi Valley Loess Plains,Reforestation: Shrubland,23072.785205800064
+2025,Mojave Basin and Range,Reforestation: Cropland,0
+2025,Mojave Basin and Range,Reforestation: Pasture,0
+2025,Mojave Basin and Range,Reforestation: Grassland,0
+2025,Mojave Basin and Range,Reforestation: Shrubland,0
+2025,Nebraska Sand Hills,Reforestation: Cropland,0
+2025,Nebraska Sand Hills,Reforestation: Pasture,0
+2025,Nebraska Sand Hills,Reforestation: Grassland,0
+2025,Nebraska Sand Hills,Reforestation: Shrubland,0
+2025,North Cascades,Reforestation: Cropland,0
+2025,North Cascades,Reforestation: Pasture,0
+2025,North Cascades,Reforestation: Grassland,0
+2025,North Cascades,Reforestation: Shrubland,0
+2025,North Central Appalachians,Reforestation: Cropland,216.15930057529613
+2025,North Central Appalachians,Reforestation: Pasture,3427.942802206474
+2025,North Central Appalachians,Reforestation: Grassland,14.682857142857143
+2025,North Central Appalachians,Reforestation: Shrubland,0
+2025,North Central Hardwood Forests,Reforestation: Cropland,0
+2025,North Central Hardwood Forests,Reforestation: Pasture,12989.642201834864
+2025,North Central Hardwood Forests,Reforestation: Grassland,409.81560283687946
+2025,North Central Hardwood Forests,Reforestation: Shrubland,1159.9041954545453
+2025,Northeastern Coastal Zone,Reforestation: Cropland,732.632230964467
+2025,Northeastern Coastal Zone,Reforestation: Pasture,37023.861754962985
+2025,Northeastern Coastal Zone,Reforestation: Grassland,341.43
+2025,Northeastern Highlands,Reforestation: Cropland,2822.0899932844095
+2025,Northeastern Highlands,Reforestation: Pasture,78789.91753747247
+2025,Northeastern Highlands,Reforestation: Grassland,51.13703703703703
+2025,Northern Allegheny Plateau,Reforestation: Cropland,4277.057004914293
+2025,Northern Allegheny Plateau,Reforestation: Pasture,108421.43258680221
+2025,Northern Allegheny Plateau,Reforestation: Grassland,45.05925925925926
+2025,Northern Allegheny Plateau,Reforestation: Shrubland,809.3593762622951
+2025,Northern Basin and Range,Reforestation: Cropland,0
+2025,Northern Basin and Range,Reforestation: Pasture,0
+2025,Northern Basin and Range,Reforestation: Grassland,0
+2025,Northern Basin and Range,Reforestation: Shrubland,0
+2025,Northern Glaciated Plains,Reforestation: Cropland,0
+2025,Northern Glaciated Plains,Reforestation: Pasture,0
+2025,Northern Glaciated Plains,Reforestation: Grassland,0
+2025,Northern Glaciated Plains,Reforestation: Shrubland,0.9778826739427012
+2025,Northern Lakes and Forests,Reforestation: Cropland,0
+2025,Northern Lakes and Forests,Reforestation: Pasture,7325.306422018349
+2025,Northern Lakes and Forests,Reforestation: Grassland,99.14893617021276
+2025,Northern Lakes and Forests,Reforestation: Shrubland,2803.1238636363637
+2025,Northern Minnesota Wetlands,Reforestation: Cropland,0
+2025,Northern Minnesota Wetlands,Reforestation: Pasture,0
+2025,Northern Minnesota Wetlands,Reforestation: Grassland,0
+2025,Northern Minnesota Wetlands,Reforestation: Shrubland,0
+2025,Northern Piedmont,Reforestation: Cropland,779.4848391153511
+2025,Northern Piedmont,Reforestation: Pasture,32581.62369966808
+2025,Northern Piedmont,Reforestation: Grassland,225.63647416413374
+2025,Northern Piedmont,Reforestation: Shrubland,12017.868166
+2025,Northern Rockies,Reforestation: Cropland,0
+2025,Northern Rockies,Reforestation: Pasture,0
+2025,Northern Rockies,Reforestation: Grassland,0
+2025,Northern Rockies,Reforestation: Shrubland,0
+2025,Northwestern Glaciated Plains,Reforestation: Cropland,0
+2025,Northwestern Glaciated Plains,Reforestation: Pasture,0
+2025,Northwestern Glaciated Plains,Reforestation: Grassland,0
+2025,Northwestern Glaciated Plains,Reforestation: Shrubland,1.9557653478854025
+2025,Northwestern Great Plains,Reforestation: Cropland,0
+2025,Northwestern Great Plains,Reforestation: Pasture,0
+2025,Northwestern Great Plains,Reforestation: Grassland,0
+2025,Northwestern Great Plains,Reforestation: Shrubland,355.4603519781719
+2025,Ouachita Mountains,Reforestation: Cropland,53.531540625000005
+2025,Ouachita Mountains,Reforestation: Pasture,53781.98518003421
+2025,Ouachita Mountains,Reforestation: Grassland,714.8016380449142
+2025,Ouachita Mountains,Reforestation: Shrubland,2336.211077296203
+2025,Ozark Highlands,Reforestation: Cropland,35.68769375
+2025,Ozark Highlands,Reforestation: Pasture,171291.18667869215
+2025,Ozark Highlands,Reforestation: Grassland,2860.1364861294587
+2025,Ozark Highlands,Reforestation: Shrubland,6906.467872101449
+2025,Piedmont,Reforestation: Cropland,192.00520038541214
+2025,Piedmont,Reforestation: Pasture,328156.79276491853
+2025,Piedmont,Reforestation: Grassland,3140.6692184096855
+2025,Piedmont,Reforestation: Shrubland,2489.253520976431
+2025,Puget Lowland,Reforestation: Cropland,0
+2025,Puget Lowland,Reforestation: Pasture,0
+2025,Puget Lowland,Reforestation: Grassland,0
+2025,Puget Lowland,Reforestation: Shrubland,0
+2025,Ridge and Valley,Reforestation: Cropland,4101.424858537885
+2025,Ridge and Valley,Reforestation: Pasture,375596.1489044214
+2025,Ridge and Valley,Reforestation: Grassland,7370.896198303425
+2025,Ridge and Valley,Reforestation: Shrubland,23574.489150838708
+2025,Sierra Nevada,Reforestation: Cropland,0
+2025,Sierra Nevada,Reforestation: Pasture,0
+2025,Sierra Nevada,Reforestation: Grassland,0
+2025,Sierra Nevada,Reforestation: Shrubland,0
+2025,Snake River Plain,Reforestation: Cropland,0
+2025,Snake River Plain,Reforestation: Pasture,0
+2025,Snake River Plain,Reforestation: Grassland,0
+2025,Snake River Plain,Reforestation: Shrubland,0
+2025,Sonoran Basin and Range,Reforestation: Cropland,0
+2025,Sonoran Basin and Range,Reforestation: Pasture,0
+2025,Sonoran Basin and Range,Reforestation: Grassland,0
+2025,Sonoran Basin and Range,Reforestation: Shrubland,0
+2025,South Central Plains,Reforestation: Cropland,609.0895252756046
+2025,South Central Plains,Reforestation: Pasture,314735.9333542583
+2025,South Central Plains,Reforestation: Grassland,1469.866642751594
+2025,South Central Plains,Reforestation: Shrubland,5365.116422874849
+2025,Southeastern Plains,Reforestation: Cropland,6060.032796422832
+2025,Southeastern Plains,Reforestation: Pasture,357593.34775238746
+2025,Southeastern Plains,Reforestation: Grassland,16786.632450214413
+2025,Southeastern Plains,Reforestation: Shrubland,49709.10612969704
+2025,Southeastern Wisconsin Till Plains,Reforestation: Cropland,0
+2025,Southeastern Wisconsin Till Plains,Reforestation: Pasture,5287.484182321246
+2025,Southeastern Wisconsin Till Plains,Reforestation: Grassland,285.8645323539979
+2025,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,859.553402020202
+2025,Southern California Mountains,Reforestation: Cropland,0
+2025,Southern California Mountains,Reforestation: Pasture,0
+2025,Southern California Mountains,Reforestation: Grassland,0
+2025,Southern California Mountains,Reforestation: Shrubland,0
+2025,Southern California/Northern Baja Coast,Reforestation: Cropland,0
+2025,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2025,Southern California/Northern Baja Coast,Reforestation: Grassland,0
+2025,Southern California/Northern Baja Coast,Reforestation: Shrubland,0
+2025,Southern Coastal Plain,Reforestation: Cropland,14984.033295741196
+2025,Southern Coastal Plain,Reforestation: Pasture,190551.0452482394
+2025,Southern Coastal Plain,Reforestation: Grassland,3355.54302313634
+2025,Southern Coastal Plain,Reforestation: Shrubland,12495.410085858586
+2025,Southern Florida Coastal Plain,Reforestation: Cropland,888.3251136363637
+2025,Southern Florida Coastal Plain,Reforestation: Pasture,2805.9748045178103
+2025,Southern Florida Coastal Plain,Reforestation: Grassland,192.41020408163266
+2025,Southern Florida Coastal Plain,Reforestation: Shrubland,125.25037373737375
+2025,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,0
+2025,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,0
+2025,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,0
+2025,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,869.9376000000001
+2025,Southern Rockies,Reforestation: Cropland,0
+2025,Southern Rockies,Reforestation: Pasture,0
+2025,Southern Rockies,Reforestation: Grassland,0
+2025,Southern Rockies,Reforestation: Shrubland,0
+2025,Southern Texas Plains,Reforestation: Cropland,0
+2025,Southern Texas Plains,Reforestation: Pasture,0
+2025,Southern Texas Plains,Reforestation: Grassland,45.03518796992482
+2025,Southern Texas Plains,Reforestation: Shrubland,527.4683750215036
+2025,Southwestern Appalachians,Reforestation: Cropland,41.2362848880597
+2025,Southwestern Appalachians,Reforestation: Pasture,101362.68716953276
+2025,Southwestern Appalachians,Reforestation: Grassland,2027.086296376052
+2025,Southwestern Appalachians,Reforestation: Shrubland,3398.4957451564087
+2025,Southwestern Tablelands,Reforestation: Cropland,282.34436224662164
+2025,Southwestern Tablelands,Reforestation: Pasture,0
+2025,Southwestern Tablelands,Reforestation: Grassland,3252.5851163576044
+2025,Southwestern Tablelands,Reforestation: Shrubland,7034.308048510606
+2025,Texas Blackland Prairies,Reforestation: Cropland,152.5418810810811
+2025,Texas Blackland Prairies,Reforestation: Pasture,11105.68249660787
+2025,Texas Blackland Prairies,Reforestation: Grassland,2702.111278195489
+2025,Texas Blackland Prairies,Reforestation: Shrubland,487.9082468948908
+2025,Wasatch and Uinta Mountains,Reforestation: Cropland,0
+2025,Wasatch and Uinta Mountains,Reforestation: Pasture,0
+2025,Wasatch and Uinta Mountains,Reforestation: Grassland,0
+2025,Wasatch and Uinta Mountains,Reforestation: Shrubland,0
+2025,Western Allegheny Plateau,Reforestation: Cropland,865.7166747826087
+2025,Western Allegheny Plateau,Reforestation: Pasture,235418.7697920085
+2025,Western Allegheny Plateau,Reforestation: Grassland,441.9860883959788
+2025,Western Allegheny Plateau,Reforestation: Shrubland,3883.430010852713
+2025,Western Corn Belt Plains,Reforestation: Cropland,0
+2025,Western Corn Belt Plains,Reforestation: Pasture,511.0678899082569
+2025,Western Corn Belt Plains,Reforestation: Grassland,6.609929078014185
+2025,Western Corn Belt Plains,Reforestation: Shrubland,0
+2025,Western Gulf Coastal Plain,Reforestation: Cropland,148.48074068278808
+2025,Western Gulf Coastal Plain,Reforestation: Pasture,10815.44537833869
+2025,Western Gulf Coastal Plain,Reforestation: Grassland,206.43688446468283
+2025,Western Gulf Coastal Plain,Reforestation: Shrubland,286.1152158729108
+2025,Willamette Valley,Reforestation: Cropland,0
+2025,Willamette Valley,Reforestation: Pasture,0
+2025,Willamette Valley,Reforestation: Grassland,0
+2025,Willamette Valley,Reforestation: Shrubland,0
+2025,Wyoming Basin,Reforestation: Cropland,0
+2025,Wyoming Basin,Reforestation: Pasture,0
+2025,Wyoming Basin,Reforestation: Grassland,0
+2025,Wyoming Basin,Reforestation: Shrubland,0
+2030,Acadian Plains and Hills,Reforestation: Cropland,2710.827332275132
+2030,Acadian Plains and Hills,Reforestation: Pasture,0
+2030,Acadian Plains and Hills,Reforestation: Grassland,0
+2030,Acadian Plains and Hills,Reforestation: Shrubland,0
+2030,Arizona/New Mexico Mountains,Reforestation: Cropland,0
+2030,Arizona/New Mexico Mountains,Reforestation: Pasture,0
+2030,Arizona/New Mexico Mountains,Reforestation: Grassland,2159.6783068783066
+2030,Arizona/New Mexico Mountains,Reforestation: Shrubland,77437.86838259044
+2030,Arizona/New Mexico Plateau,Reforestation: Cropland,181.01031428571426
+2030,Arizona/New Mexico Plateau,Reforestation: Pasture,275.7189189189189
+2030,Arizona/New Mexico Plateau,Reforestation: Grassland,3396.5849735449733
+2030,Arizona/New Mexico Plateau,Reforestation: Shrubland,81046.53184118874
+2030,Arkansas Valley,Reforestation: Cropland,116.34680400000002
+2030,Arkansas Valley,Reforestation: Pasture,0
+2030,Arkansas Valley,Reforestation: Grassland,0
+2030,Arkansas Valley,Reforestation: Shrubland,0
+2030,Atlantic Coastal Pine Barrens,Reforestation: Cropland,0
+2030,Atlantic Coastal Pine Barrens,Reforestation: Pasture,0
+2030,Atlantic Coastal Pine Barrens,Reforestation: Grassland,0
+2030,Blue Mountains,Reforestation: Cropland,4725.883732169179
+2030,Blue Mountains,Reforestation: Pasture,859.7175315568022
+2030,Blue Mountains,Reforestation: Grassland,6090.124805233423
+2030,Blue Mountains,Reforestation: Shrubland,20231.565553270084
+2030,Blue Ridge,Reforestation: Cropland,236.95818611493885
+2030,Blue Ridge,Reforestation: Pasture,1706.8820028204063
+2030,Blue Ridge,Reforestation: Grassland,0
+2030,Blue Ridge,Reforestation: Shrubland,0
+2030,Boston Mountains,Reforestation: Cropland,19.391134000000005
+2030,Boston Mountains,Reforestation: Pasture,0
+2030,Boston Mountains,Reforestation: Grassland,0
+2030,Boston Mountains,Reforestation: Shrubland,0
+2030,Canadian Rockies,Reforestation: Cropland,0
+2030,Canadian Rockies,Reforestation: Pasture,392.7368909512761
+2030,Canadian Rockies,Reforestation: Grassland,589.9045382098817
+2030,Canadian Rockies,Reforestation: Shrubland,2804.0224197411826
+2030,Cascades,Reforestation: Cropland,172.63805354322403
+2030,Cascades,Reforestation: Pasture,2209.0825027907376
+2030,Cascades,Reforestation: Grassland,174.520880166518
+2030,Cascades,Reforestation: Shrubland,3396.360459619307
+2030,Central Appalachians,Reforestation: Cropland,1823.6010463827365
+2030,Central Appalachians,Reforestation: Pasture,30099.117267634454
+2030,Central Appalachians,Reforestation: Grassland,117.44571428571429
+2030,Central Appalachians,Reforestation: Shrubland,0
+2030,Central Basin and Range,Reforestation: Cropland,0
+2030,Central Basin and Range,Reforestation: Pasture,0
+2030,Central Basin and Range,Reforestation: Grassland,0
+2030,Central Basin and Range,Reforestation: Shrubland,76635.61585571356
+2030,Central California Foothills and Coastal Mountains,Reforestation: Cropland,0
+2030,Central California Foothills and Coastal Mountains,Reforestation: Pasture,0
+2030,Central California Foothills and Coastal Mountains,Reforestation: Grassland,0
+2030,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,20772.354626952314
+2030,Central California Valley,Reforestation: Cropland,0
+2030,Central California Valley,Reforestation: Pasture,0
+2030,Central California Valley,Reforestation: Grassland,0
+2030,Central California Valley,Reforestation: Shrubland,313.9398684174153
+2030,Central Corn Belt Plains,Reforestation: Cropland,5564.677670170366
+2030,Central Corn Belt Plains,Reforestation: Pasture,14269.058223761083
+2030,Central Corn Belt Plains,Reforestation: Grassland,1945.6711311597487
+2030,Central Corn Belt Plains,Reforestation: Shrubland,10453.948618323588
+2030,Central Great Plains,Reforestation: Cropland,382.5059444444445
+2030,Central Great Plains,Reforestation: Pasture,1119.3084503165428
+2030,Central Great Plains,Reforestation: Grassland,38494.31854022648
+2030,Central Great Plains,Reforestation: Shrubland,1331.025188235294
+2030,Central Irregular Plains,Reforestation: Cropland,3181.3296685881364
+2030,Central Irregular Plains,Reforestation: Pasture,245721.78901660925
+2030,Central Irregular Plains,Reforestation: Grassland,15828.796671351218
+2030,Central Irregular Plains,Reforestation: Shrubland,25530.816926416122
+2030,Chihuahuan Deserts,Reforestation: Cropland,0
+2030,Chihuahuan Deserts,Reforestation: Pasture,17.232432432432432
+2030,Chihuahuan Deserts,Reforestation: Grassland,0
+2030,Chihuahuan Deserts,Reforestation: Shrubland,6609.4073317623015
+2030,Coast Range,Reforestation: Cropland,238.359048085011
+2030,Coast Range,Reforestation: Pasture,7055.820711566534
+2030,Coast Range,Reforestation: Grassland,226.87461195361288
+2030,Coast Range,Reforestation: Shrubland,637.590905955967
+2030,Colorado Plateaus,Reforestation: Cropland,60.336771428571424
+2030,Colorado Plateaus,Reforestation: Pasture,120.62702702702704
+2030,Colorado Plateaus,Reforestation: Grassland,58.90031746031745
+2030,Colorado Plateaus,Reforestation: Shrubland,153620.1382839547
+2030,Columbia Plateau,Reforestation: Cropland,9092.755138666296
+2030,Columbia Plateau,Reforestation: Pasture,7390.316896127314
+2030,Columbia Plateau,Reforestation: Grassland,4488.649223907226
+2030,Columbia Plateau,Reforestation: Shrubland,11720.15424585618
+2030,Cross Timbers,Reforestation: Cropland,76.50118888888889
+2030,Cross Timbers,Reforestation: Pasture,11107.939884393063
+2030,Cross Timbers,Reforestation: Grassland,1139.0103056147832
+2030,Cross Timbers,Reforestation: Shrubland,0
+2030,Driftless Area,Reforestation: Cropland,2654.5499731141194
+2030,Driftless Area,Reforestation: Pasture,47812.619125564044
+2030,Driftless Area,Reforestation: Grassland,7406.840024025802
+2030,Driftless Area,Reforestation: Shrubland,4192.149364814814
+2030,East Central Texas Plains,Reforestation: Cropland,0
+2030,East Central Texas Plains,Reforestation: Pasture,0
+2030,East Central Texas Plains,Reforestation: Grassland,0
+2030,East Central Texas Plains,Reforestation: Shrubland,0
+2030,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,7557.4490129771
+2030,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,15305.770770243578
+2030,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,1734.5431578947369
+2030,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,33583.53743946694
+2030,Eastern Corn Belt Plains,Reforestation: Cropland,2383.2089542857143
+2030,Eastern Corn Belt Plains,Reforestation: Pasture,25646.035086059404
+2030,Eastern Corn Belt Plains,Reforestation: Grassland,5304.031183873008
+2030,Eastern Corn Belt Plains,Reforestation: Shrubland,11926.310611578949
+2030,Eastern Great Lakes Lowlands,Reforestation: Cropland,36.664753142857144
+2030,Eastern Great Lakes Lowlands,Reforestation: Pasture,0
+2030,Eastern Great Lakes Lowlands,Reforestation: Grassland,0
+2030,Edwards Plateau,Reforestation: Cropland,0
+2030,Edwards Plateau,Reforestation: Pasture,0
+2030,Edwards Plateau,Reforestation: Grassland,0
+2030,Edwards Plateau,Reforestation: Shrubland,0
+2030,Erie Drift Plain,Reforestation: Cropland,1803.41736889441
+2030,Erie Drift Plain,Reforestation: Pasture,3936.971547075902
+2030,Erie Drift Plain,Reforestation: Grassland,58.722857142857144
+2030,Erie Drift Plain,Reforestation: Shrubland,0
+2030,Flint Hills,Reforestation: Cropland,131.14489523809524
+2030,Flint Hills,Reforestation: Pasture,13488.212716763006
+2030,Flint Hills,Reforestation: Grassland,26506.12117981521
+2030,Flint Hills,Reforestation: Shrubland,0
+2030,High Plains,Reforestation: Cropland,759.0542364965171
+2030,High Plains,Reforestation: Pasture,2029.6083126892374
+2030,High Plains,Reforestation: Grassland,16007.606282856914
+2030,High Plains,Reforestation: Shrubland,10749.153250931724
+2030,Huron/Erie Lake Plains,Reforestation: Cropland,714.9626862857143
+2030,Huron/Erie Lake Plains,Reforestation: Pasture,21500.718407960198
+2030,Huron/Erie Lake Plains,Reforestation: Grassland,1921.124329048624
+2030,Huron/Erie Lake Plains,Reforestation: Shrubland,3479.75032
+2030,Idaho Batholith,Reforestation: Cropland,0
+2030,Idaho Batholith,Reforestation: Pasture,147.27633410672854
+2030,Idaho Batholith,Reforestation: Grassland,1363.458602466236
+2030,Idaho Batholith,Reforestation: Shrubland,39374.671786818944
+2030,Interior Plateau,Reforestation: Cropland,5616.81235722605
+2030,Interior Plateau,Reforestation: Pasture,57556.0374029633
+2030,Interior Plateau,Reforestation: Grassland,466.7819992294698
+2030,Interior Plateau,Reforestation: Shrubland,1951.124652631579
+2030,Interior River Valleys and Hills,Reforestation: Cropland,15613.668511142783
+2030,Interior River Valleys and Hills,Reforestation: Pasture,167034.22715174893
+2030,Interior River Valleys and Hills,Reforestation: Grassland,5433.935784804099
+2030,Interior River Valleys and Hills,Reforestation: Shrubland,16269.28113957115
+2030,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,62.587569465648855
+2030,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,5158.305189340813
+2030,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,332.1650847457627
+2030,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,4660.3140952032645
+2030,Lake Agassiz Plain,Reforestation: Cropland,0
+2030,Lake Agassiz Plain,Reforestation: Pasture,3284.3875055383255
+2030,Lake Agassiz Plain,Reforestation: Grassland,435.92064761567724
+2030,Lake Agassiz Plain,Reforestation: Shrubland,0
+2030,Madrean Archipelago,Reforestation: Cropland,20.112257142857143
+2030,Madrean Archipelago,Reforestation: Pasture,0
+2030,Madrean Archipelago,Reforestation: Grassland,2532.7136507936502
+2030,Madrean Archipelago,Reforestation: Shrubland,28799.918984150576
+2030,Middle Atlantic Coastal Plain,Reforestation: Cropland,12324.589547209445
+2030,Middle Atlantic Coastal Plain,Reforestation: Pasture,7970.770107230747
+2030,Middle Atlantic Coastal Plain,Reforestation: Grassland,44.509090909090915
+2030,Middle Atlantic Coastal Plain,Reforestation: Shrubland,0
+2030,Middle Rockies,Reforestation: Cropland,2758.3996379358687
+2030,Middle Rockies,Reforestation: Pasture,23529.614294687013
+2030,Middle Rockies,Reforestation: Grassland,15963.539922098731
+2030,Middle Rockies,Reforestation: Shrubland,75011.1801602871
+2030,Mississippi Alluvial Plain,Reforestation: Cropland,35754.05624599578
+2030,Mississippi Alluvial Plain,Reforestation: Pasture,1154.9444790046657
+2030,Mississippi Alluvial Plain,Reforestation: Grassland,0
+2030,Mississippi Alluvial Plain,Reforestation: Shrubland,0
+2030,Mississippi Valley Loess Plains,Reforestation: Cropland,17623.711615638338
+2030,Mississippi Valley Loess Plains,Reforestation: Pasture,7571.302695697253
+2030,Mississippi Valley Loess Plains,Reforestation: Grassland,27.62608695652174
+2030,Mississippi Valley Loess Plains,Reforestation: Shrubland,0
+2030,Mojave Basin and Range,Reforestation: Cropland,0
+2030,Mojave Basin and Range,Reforestation: Pasture,0
+2030,Mojave Basin and Range,Reforestation: Grassland,186.51767195767195
+2030,Mojave Basin and Range,Reforestation: Shrubland,36423.090226669905
+2030,Nebraska Sand Hills,Reforestation: Cropland,0
+2030,Nebraska Sand Hills,Reforestation: Pasture,4466.619047619048
+2030,Nebraska Sand Hills,Reforestation: Grassland,21814.381804736127
+2030,Nebraska Sand Hills,Reforestation: Shrubland,0
+2030,North Cascades,Reforestation: Cropland,48.50738963730569
+2030,North Cascades,Reforestation: Pasture,1239.9877551020406
+2030,North Cascades,Reforestation: Grassland,1906.4898245614036
+2030,North Cascades,Reforestation: Shrubland,5634.8558867532465
+2030,North Central Appalachians,Reforestation: Cropland,321.152955
+2030,North Central Appalachians,Reforestation: Pasture,11072.732476150974
+2030,North Central Appalachians,Reforestation: Grassland,58.722857142857144
+2030,North Central Appalachians,Reforestation: Shrubland,0
+2030,North Central Hardwood Forests,Reforestation: Cropland,23735.939540618954
+2030,North Central Hardwood Forests,Reforestation: Pasture,136085.35218169237
+2030,North Central Hardwood Forests,Reforestation: Grassland,6573.24076966863
+2030,North Central Hardwood Forests,Reforestation: Shrubland,15608.844417774295
+2030,Northeastern Coastal Zone,Reforestation: Cropland,235.66968960043786
+2030,Northeastern Coastal Zone,Reforestation: Pasture,1190
+2030,Northeastern Coastal Zone,Reforestation: Grassland,59.52
+2030,Northeastern Highlands,Reforestation: Cropland,734.2405257331254
+2030,Northeastern Highlands,Reforestation: Pasture,410.10120282040646
+2030,Northeastern Highlands,Reforestation: Grassland,0
+2030,Northern Allegheny Plateau,Reforestation: Cropland,2094.475793478261
+2030,Northern Allegheny Plateau,Reforestation: Pasture,20012.938697635833
+2030,Northern Allegheny Plateau,Reforestation: Grassland,0
+2030,Northern Allegheny Plateau,Reforestation: Shrubland,0
+2030,Northern Basin and Range,Reforestation: Cropland,954.4604343511451
+2030,Northern Basin and Range,Reforestation: Pasture,15739.444039270686
+2030,Northern Basin and Range,Reforestation: Grassland,833.326440677966
+2030,Northern Basin and Range,Reforestation: Shrubland,71560.59630190898
+2030,Northern Glaciated Plains,Reforestation: Cropland,0
+2030,Northern Glaciated Plains,Reforestation: Pasture,22428.460857526235
+2030,Northern Glaciated Plains,Reforestation: Grassland,2878.702150455236
+2030,Northern Glaciated Plains,Reforestation: Shrubland,8.113096862210096
+2030,Northern Lakes and Forests,Reforestation: Cropland,10637.576169632495
+2030,Northern Lakes and Forests,Reforestation: Pasture,138026.05841163013
+2030,Northern Lakes and Forests,Reforestation: Grassland,12119.219107376417
+2030,Northern Lakes and Forests,Reforestation: Shrubland,19987.877388401255
+2030,Northern Minnesota Wetlands,Reforestation: Cropland,0
+2030,Northern Minnesota Wetlands,Reforestation: Pasture,9570.156219864995
+2030,Northern Minnesota Wetlands,Reforestation: Grassland,156.41259842519685
+2030,Northern Minnesota Wetlands,Reforestation: Shrubland,1096.9227724137932
+2030,Northern Piedmont,Reforestation: Cropland,4918.905957073563
+2030,Northern Piedmont,Reforestation: Pasture,28566.041246509056
+2030,Northern Piedmont,Reforestation: Grassland,318.1428571428571
+2030,Northern Piedmont,Reforestation: Shrubland,0
+2030,Northern Rockies,Reforestation: Cropland,1642.4255448136437
+2030,Northern Rockies,Reforestation: Pasture,9418.76650883091
+2030,Northern Rockies,Reforestation: Grassland,3368.72777775325
+2030,Northern Rockies,Reforestation: Shrubland,9965.34743781278
+2030,Northwestern Glaciated Plains,Reforestation: Cropland,8448.754786542922
+2030,Northwestern Glaciated Plains,Reforestation: Pasture,9374.201823240059
+2030,Northwestern Glaciated Plains,Reforestation: Grassland,51763.801849903546
+2030,Northwestern Glaciated Plains,Reforestation: Shrubland,26037.65606662047
+2030,Northwestern Great Plains,Reforestation: Cropland,5143.291369189937
+2030,Northwestern Great Plains,Reforestation: Pasture,23621.658462795815
+2030,Northwestern Great Plains,Reforestation: Grassland,159040.87631687798
+2030,Northwestern Great Plains,Reforestation: Shrubland,88399.3075967199
+2030,Ouachita Mountains,Reforestation: Cropland,58.17340200000001
+2030,Ouachita Mountains,Reforestation: Pasture,0
+2030,Ouachita Mountains,Reforestation: Grassland,0
+2030,Ouachita Mountains,Reforestation: Shrubland,0
+2030,Ozark Highlands,Reforestation: Cropland,525.8983362631578
+2030,Ozark Highlands,Reforestation: Pasture,259186.0349865305
+2030,Ozark Highlands,Reforestation: Grassland,2955.991304347826
+2030,Ozark Highlands,Reforestation: Shrubland,13005.440902777778
+2030,Piedmont,Reforestation: Cropland,671.3413711257305
+2030,Piedmont,Reforestation: Pasture,0
+2030,Piedmont,Reforestation: Grassland,0
+2030,Piedmont,Reforestation: Shrubland,0
+2030,Puget Lowland,Reforestation: Cropland,242.53694818652843
+2030,Puget Lowland,Reforestation: Pasture,21842.861224489792
+2030,Puget Lowland,Reforestation: Grassland,167.6561403508772
+2030,Puget Lowland,Reforestation: Shrubland,274.2628971428571
+2030,Ridge and Valley,Reforestation: Cropland,6423.763895115856
+2030,Ridge and Valley,Reforestation: Pasture,75386.36657895756
+2030,Ridge and Valley,Reforestation: Grassland,620.6103896103896
+2030,Ridge and Valley,Reforestation: Shrubland,0
+2030,Sierra Nevada,Reforestation: Cropland,0
+2030,Sierra Nevada,Reforestation: Pasture,0
+2030,Sierra Nevada,Reforestation: Grassland,0
+2030,Sierra Nevada,Reforestation: Shrubland,10544.17749806726
+2030,Snake River Plain,Reforestation: Cropland,1486.4547748091604
+2030,Snake River Plain,Reforestation: Pasture,595.1890603085553
+2030,Snake River Plain,Reforestation: Grassland,303.0277966101695
+2030,Snake River Plain,Reforestation: Shrubland,20105.60207439408
+2030,Sonoran Basin and Range,Reforestation: Cropland,583.2554571428572
+2030,Sonoran Basin and Range,Reforestation: Pasture,224.02162162162165
+2030,Sonoran Basin and Range,Reforestation: Grassland,942.4050793650792
+2030,Sonoran Basin and Range,Reforestation: Shrubland,25780.007546178298
+2030,South Central Plains,Reforestation: Cropland,524.0564097368422
+2030,South Central Plains,Reforestation: Pasture,0
+2030,South Central Plains,Reforestation: Grassland,0
+2030,South Central Plains,Reforestation: Shrubland,0
+2030,Southeastern Plains,Reforestation: Cropland,31673.521172470566
+2030,Southeastern Plains,Reforestation: Pasture,1945.1712
+2030,Southeastern Plains,Reforestation: Grassland,44.509090909090915
+2030,Southeastern Plains,Reforestation: Shrubland,0
+2030,Southeastern Wisconsin Till Plains,Reforestation: Cropland,2862.551815263635
+2030,Southeastern Wisconsin Till Plains,Reforestation: Pasture,21149.937999126258
+2030,Southeastern Wisconsin Till Plains,Reforestation: Grassland,1143.5620134924754
+2030,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,3438.213542087542
+2030,Southern California Mountains,Reforestation: Cropland,0
+2030,Southern California Mountains,Reforestation: Pasture,0
+2030,Southern California Mountains,Reforestation: Grassland,0
+2030,Southern California Mountains,Reforestation: Shrubland,15330.730241050447
+2030,Southern California/Northern Baja Coast,Reforestation: Cropland,0
+2030,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2030,Southern California/Northern Baja Coast,Reforestation: Grassland,0
+2030,Southern California/Northern Baja Coast,Reforestation: Shrubland,5271.573623842432
+2030,Southern Coastal Plain,Reforestation: Cropland,2920.3814553291163
+2030,Southern Coastal Plain,Reforestation: Pasture,0
+2030,Southern Coastal Plain,Reforestation: Grassland,0
+2030,Southern Coastal Plain,Reforestation: Shrubland,0
+2030,Southern Florida Coastal Plain,Reforestation: Cropland,0
+2030,Southern Florida Coastal Plain,Reforestation: Pasture,0
+2030,Southern Florida Coastal Plain,Reforestation: Grassland,0
+2030,Southern Florida Coastal Plain,Reforestation: Shrubland,0
+2030,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,0
+2030,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,74781.19954585235
+2030,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,3548.9128562597257
+2030,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,9333.124277894738
+2030,Southern Rockies,Reforestation: Cropland,0
+2030,Southern Rockies,Reforestation: Pasture,0
+2030,Southern Rockies,Reforestation: Grassland,0
+2030,Southern Rockies,Reforestation: Shrubland,9971.985734854763
+2030,Southern Texas Plains,Reforestation: Cropland,0
+2030,Southern Texas Plains,Reforestation: Pasture,0
+2030,Southern Texas Plains,Reforestation: Grassland,0
+2030,Southern Texas Plains,Reforestation: Shrubland,0
+2030,Southwestern Appalachians,Reforestation: Cropland,1049.8346815133011
+2030,Southwestern Appalachians,Reforestation: Pasture,0
+2030,Southwestern Appalachians,Reforestation: Grassland,0
+2030,Southwestern Appalachians,Reforestation: Shrubland,0
+2030,Southwestern Tablelands,Reforestation: Cropland,32.78622380952381
+2030,Southwestern Tablelands,Reforestation: Pasture,0
+2030,Southwestern Tablelands,Reforestation: Grassland,3204.6730632551526
+2030,Southwestern Tablelands,Reforestation: Shrubland,42306.10026153003
+2030,Texas Blackland Prairies,Reforestation: Cropland,0
+2030,Texas Blackland Prairies,Reforestation: Pasture,0
+2030,Texas Blackland Prairies,Reforestation: Grassland,0
+2030,Texas Blackland Prairies,Reforestation: Shrubland,0
+2030,Wasatch and Uinta Mountains,Reforestation: Cropland,0
+2030,Wasatch and Uinta Mountains,Reforestation: Pasture,0
+2030,Wasatch and Uinta Mountains,Reforestation: Grassland,0
+2030,Wasatch and Uinta Mountains,Reforestation: Shrubland,19202.234580685745
+2030,Western Allegheny Plateau,Reforestation: Cropland,13656.962424876638
+2030,Western Allegheny Plateau,Reforestation: Pasture,57168.10767316465
+2030,Western Allegheny Plateau,Reforestation: Grassland,352.33714285714285
+2030,Western Allegheny Plateau,Reforestation: Shrubland,0
+2030,Western Corn Belt Plains,Reforestation: Cropland,2550.24563946537
+2030,Western Corn Belt Plains,Reforestation: Pasture,93061.91933449684
+2030,Western Corn Belt Plains,Reforestation: Grassland,29402.575845504518
+2030,Western Corn Belt Plains,Reforestation: Shrubland,2969.8587908045974
+2030,Western Gulf Coastal Plain,Reforestation: Cropland,60.02637631578947
+2030,Western Gulf Coastal Plain,Reforestation: Pasture,0
+2030,Western Gulf Coastal Plain,Reforestation: Grassland,0
+2030,Western Gulf Coastal Plain,Reforestation: Shrubland,0
+2030,Willamette Valley,Reforestation: Cropland,676.9942718572427
+2030,Willamette Valley,Reforestation: Pasture,9912.23084981538
+2030,Willamette Valley,Reforestation: Grassland,68.89220933690159
+2030,Willamette Valley,Reforestation: Shrubland,185.8482216020476
+2030,Wyoming Basin,Reforestation: Cropland,1528.3347338129497
+2030,Wyoming Basin,Reforestation: Pasture,49.092111368909514
+2030,Wyoming Basin,Reforestation: Grassland,5.565137152923413
+2030,Wyoming Basin,Reforestation: Shrubland,5906.254901698331
+2035,Acadian Plains and Hills,Reforestation: Cropland,0
+2035,Acadian Plains and Hills,Reforestation: Pasture,0
+2035,Acadian Plains and Hills,Reforestation: Grassland,0
+2035,Acadian Plains and Hills,Reforestation: Shrubland,0
+2035,Arizona/New Mexico Mountains,Reforestation: Cropland,0
+2035,Arizona/New Mexico Mountains,Reforestation: Pasture,86.49850746268656
+2035,Arizona/New Mexico Mountains,Reforestation: Grassland,9589.861892130857
+2035,Arizona/New Mexico Mountains,Reforestation: Shrubland,0
+2035,Arizona/New Mexico Plateau,Reforestation: Cropland,0
+2035,Arizona/New Mexico Plateau,Reforestation: Pasture,922.6507462686567
+2035,Arizona/New Mexico Plateau,Reforestation: Grassland,4099.755083996462
+2035,Arizona/New Mexico Plateau,Reforestation: Shrubland,0
+2035,Arkansas Valley,Reforestation: Cropland,0
+2035,Arkansas Valley,Reforestation: Pasture,0
+2035,Arkansas Valley,Reforestation: Grassland,0
+2035,Arkansas Valley,Reforestation: Shrubland,0
+2035,Atlantic Coastal Pine Barrens,Reforestation: Cropland,0
+2035,Atlantic Coastal Pine Barrens,Reforestation: Pasture,0
+2035,Atlantic Coastal Pine Barrens,Reforestation: Grassland,0
+2035,Blue Mountains,Reforestation: Cropland,1181.4709331286506
+2035,Blue Mountains,Reforestation: Pasture,0
+2035,Blue Mountains,Reforestation: Grassland,0
+2035,Blue Mountains,Reforestation: Shrubland,739.4165514305652
+2035,Blue Ridge,Reforestation: Cropland,0
+2035,Blue Ridge,Reforestation: Pasture,0
+2035,Blue Ridge,Reforestation: Grassland,0
+2035,Blue Ridge,Reforestation: Shrubland,0
+2035,Boston Mountains,Reforestation: Cropland,0
+2035,Boston Mountains,Reforestation: Pasture,0
+2035,Boston Mountains,Reforestation: Grassland,0
+2035,Boston Mountains,Reforestation: Shrubland,0
+2035,Canadian Rockies,Reforestation: Cropland,0
+2035,Canadian Rockies,Reforestation: Pasture,98.184686774942
+2035,Canadian Rockies,Reforestation: Grassland,147.4752453653217
+2035,Canadian Rockies,Reforestation: Shrubland,257.21089698046165
+2035,Cascades,Reforestation: Cropland,43.1595134721618
+2035,Cascades,Reforestation: Pasture,477.31847968545213
+2035,Cascades,Reforestation: Grassland,118.20072301600963
+2035,Cascades,Reforestation: Shrubland,142.2037747984338
+2035,Central Appalachians,Reforestation: Cropland,0
+2035,Central Appalachians,Reforestation: Pasture,0
+2035,Central Appalachians,Reforestation: Grassland,0
+2035,Central Appalachians,Reforestation: Shrubland,0
+2035,Central Basin and Range,Reforestation: Cropland,0
+2035,Central Basin and Range,Reforestation: Pasture,24005.975383614703
+2035,Central Basin and Range,Reforestation: Grassland,16534.24095037198
+2035,Central Basin and Range,Reforestation: Shrubland,587.0307563758508
+2035,Central California Foothills and Coastal Mountains,Reforestation: Cropland,0
+2035,Central California Foothills and Coastal Mountains,Reforestation: Pasture,1219.8138925294888
+2035,Central California Foothills and Coastal Mountains,Reforestation: Grassland,13317.281459803753
+2035,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,1227.2804042386572
+2035,Central California Valley,Reforestation: Cropland,0
+2035,Central California Valley,Reforestation: Pasture,23812.88859764089
+2035,Central California Valley,Reforestation: Grassland,3108.679015321053
+2035,Central California Valley,Reforestation: Shrubland,18.548318451969628
+2035,Central Corn Belt Plains,Reforestation: Cropland,0
+2035,Central Corn Belt Plains,Reforestation: Pasture,378.7904912836767
+2035,Central Corn Belt Plains,Reforestation: Grassland,162.1351154313487
+2035,Central Corn Belt Plains,Reforestation: Shrubland,0
+2035,Central Great Plains,Reforestation: Cropland,95.62644444444443
+2035,Central Great Plains,Reforestation: Pasture,0
+2035,Central Great Plains,Reforestation: Grassland,0
+2035,Central Great Plains,Reforestation: Shrubland,0
+2035,Central Irregular Plains,Reforestation: Cropland,795.3323715956553
+2035,Central Irregular Plains,Reforestation: Pasture,6150.821052631579
+2035,Central Irregular Plains,Reforestation: Grassland,265.00581867388365
+2035,Central Irregular Plains,Reforestation: Shrubland,0
+2035,Chihuahuan Deserts,Reforestation: Cropland,0
+2035,Chihuahuan Deserts,Reforestation: Pasture,86.49850746268656
+2035,Chihuahuan Deserts,Reforestation: Grassland,1853.8022988505745
+2035,Chihuahuan Deserts,Reforestation: Shrubland,0
+2035,Coast Range,Reforestation: Cropland,59.589762625743276
+2035,Coast Range,Reforestation: Pasture,3341.2293577981654
+2035,Coast Range,Reforestation: Grassland,319.14195214322604
+2035,Coast Range,Reforestation: Shrubland,31.68671068878145
+2035,Colorado Plateaus,Reforestation: Cropland,0
+2035,Colorado Plateaus,Reforestation: Pasture,4212.990443946402
+2035,Colorado Plateaus,Reforestation: Grassland,2732.1670638429255
+2035,Colorado Plateaus,Reforestation: Shrubland,0
+2035,Columbia Plateau,Reforestation: Cropland,2273.188828967094
+2035,Columbia Plateau,Reforestation: Pasture,0
+2035,Columbia Plateau,Reforestation: Grassland,0
+2035,Columbia Plateau,Reforestation: Shrubland,348.7813921842288
+2035,Cross Timbers,Reforestation: Cropland,19.125288888888885
+2035,Cross Timbers,Reforestation: Pasture,0
+2035,Cross Timbers,Reforestation: Grassland,0
+2035,Cross Timbers,Reforestation: Shrubland,0
+2035,Driftless Area,Reforestation: Cropland,0
+2035,Driftless Area,Reforestation: Pasture,3354.9933014354065
+2035,Driftless Area,Reforestation: Grassland,451.6296346414073
+2035,Driftless Area,Reforestation: Shrubland,0
+2035,East Central Texas Plains,Reforestation: Cropland,0
+2035,East Central Texas Plains,Reforestation: Pasture,0
+2035,East Central Texas Plains,Reforestation: Grassland,0
+2035,East Central Texas Plains,Reforestation: Shrubland,0
+2035,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,1889.362253244275
+2035,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,7106.741808650066
+2035,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,3073.21879841625
+2035,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,1457.5886916839468
+2035,Eastern Corn Belt Plains,Reforestation: Cropland,528.3278613445378
+2035,Eastern Corn Belt Plains,Reforestation: Pasture,4958.7118858954045
+2035,Eastern Corn Belt Plains,Reforestation: Grassland,1311.6004860267315
+2035,Eastern Corn Belt Plains,Reforestation: Shrubland,0
+2035,Eastern Great Lakes Lowlands,Reforestation: Cropland,0
+2035,Eastern Great Lakes Lowlands,Reforestation: Pasture,0
+2035,Eastern Great Lakes Lowlands,Reforestation: Grassland,0
+2035,Edwards Plateau,Reforestation: Cropland,0
+2035,Edwards Plateau,Reforestation: Pasture,0
+2035,Edwards Plateau,Reforestation: Grassland,0
+2035,Edwards Plateau,Reforestation: Shrubland,0
+2035,Erie Drift Plain,Reforestation: Cropland,0
+2035,Erie Drift Plain,Reforestation: Pasture,0
+2035,Erie Drift Plain,Reforestation: Grassland,0
+2035,Erie Drift Plain,Reforestation: Shrubland,0
+2035,Flint Hills,Reforestation: Cropland,32.78620952380952
+2035,Flint Hills,Reforestation: Pasture,0
+2035,Flint Hills,Reforestation: Grassland,0
+2035,Flint Hills,Reforestation: Shrubland,0
+2035,High Plains,Reforestation: Cropland,5.464368253968253
+2035,High Plains,Reforestation: Pasture,155.84177215189877
+2035,High Plains,Reforestation: Grassland,5371.803824424163
+2035,High Plains,Reforestation: Shrubland,813.0599547994856
+2035,Huron/Erie Lake Plains,Reforestation: Cropland,3821.5715303921565
+2035,Huron/Erie Lake Plains,Reforestation: Pasture,0
+2035,Huron/Erie Lake Plains,Reforestation: Grassland,4.839854191980558
+2035,Huron/Erie Lake Plains,Reforestation: Shrubland,0
+2035,Idaho Batholith,Reforestation: Cropland,0
+2035,Idaho Batholith,Reforestation: Pasture,36.819257540603246
+2035,Idaho Batholith,Reforestation: Grassland,340.8625954198473
+2035,Idaho Batholith,Reforestation: Shrubland,9588.33403347385
+2035,Interior Plateau,Reforestation: Cropland,0
+2035,Interior Plateau,Reforestation: Pasture,10296.214263074486
+2035,Interior Plateau,Reforestation: Grassland,108.89671931956258
+2035,Interior Plateau,Reforestation: Shrubland,0
+2035,Interior River Valleys and Hills,Reforestation: Cropland,693.7056623684207
+2035,Interior River Valleys and Hills,Reforestation: Pasture,5338.52707254377
+2035,Interior River Valleys and Hills,Reforestation: Grassland,378.5766128409051
+2035,Interior River Valleys and Hills,Reforestation: Shrubland,0
+2035,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,15.646892366412214
+2035,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,795.5307994757536
+2035,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,598.8836632811154
+2035,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,200.94011656300432
+2035,Lake Agassiz Plain,Reforestation: Cropland,274.5090528395062
+2035,Lake Agassiz Plain,Reforestation: Pasture,0
+2035,Lake Agassiz Plain,Reforestation: Grassland,0
+2035,Lake Agassiz Plain,Reforestation: Shrubland,0
+2035,Madrean Archipelago,Reforestation: Cropland,0
+2035,Madrean Archipelago,Reforestation: Pasture,0
+2035,Madrean Archipelago,Reforestation: Grassland,1390.351724137931
+2035,Madrean Archipelago,Reforestation: Shrubland,0
+2035,Middle Atlantic Coastal Plain,Reforestation: Cropland,0
+2035,Middle Atlantic Coastal Plain,Reforestation: Pasture,0
+2035,Middle Atlantic Coastal Plain,Reforestation: Grassland,0
+2035,Middle Atlantic Coastal Plain,Reforestation: Shrubland,0
+2035,Middle Rockies,Reforestation: Cropland,0
+2035,Middle Rockies,Reforestation: Pasture,6820.4809362976885
+2035,Middle Rockies,Reforestation: Grassland,8078.167628412472
+2035,Middle Rockies,Reforestation: Shrubland,32306.393827988868
+2035,Mississippi Alluvial Plain,Reforestation: Cropland,293.840389736842
+2035,Mississippi Alluvial Plain,Reforestation: Pasture,0
+2035,Mississippi Alluvial Plain,Reforestation: Grassland,0
+2035,Mississippi Alluvial Plain,Reforestation: Shrubland,0
+2035,Mississippi Valley Loess Plains,Reforestation: Cropland,30.29282368421051
+2035,Mississippi Valley Loess Plains,Reforestation: Pasture,0
+2035,Mississippi Valley Loess Plains,Reforestation: Grassland,0
+2035,Mississippi Valley Loess Plains,Reforestation: Shrubland,0
+2035,Mojave Basin and Range,Reforestation: Cropland,0
+2035,Mojave Basin and Range,Reforestation: Pasture,47.14776773238468
+2035,Mojave Basin and Range,Reforestation: Grassland,1238.6094945976558
+2035,Mojave Basin and Range,Reforestation: Shrubland,960.6483264915938
+2035,Nebraska Sand Hills,Reforestation: Cropland,0
+2035,Nebraska Sand Hills,Reforestation: Pasture,0
+2035,Nebraska Sand Hills,Reforestation: Grassland,0
+2035,Nebraska Sand Hills,Reforestation: Shrubland,0
+2035,North Cascades,Reforestation: Cropland,12.126847668393793
+2035,North Cascades,Reforestation: Pasture,0
+2035,North Cascades,Reforestation: Grassland,0
+2035,North Cascades,Reforestation: Shrubland,0
+2035,North Central Appalachians,Reforestation: Cropland,0
+2035,North Central Appalachians,Reforestation: Pasture,0
+2035,North Central Appalachians,Reforestation: Grassland,0
+2035,North Central Appalachians,Reforestation: Shrubland,0
+2035,North Central Hardwood Forests,Reforestation: Cropland,1743.481942436975
+2035,North Central Hardwood Forests,Reforestation: Pasture,0
+2035,North Central Hardwood Forests,Reforestation: Grassland,0
+2035,North Central Hardwood Forests,Reforestation: Shrubland,0
+2035,Northeastern Coastal Zone,Reforestation: Cropland,0
+2035,Northeastern Coastal Zone,Reforestation: Pasture,0
+2035,Northeastern Coastal Zone,Reforestation: Grassland,0
+2035,Northeastern Highlands,Reforestation: Cropland,0
+2035,Northeastern Highlands,Reforestation: Pasture,0
+2035,Northeastern Highlands,Reforestation: Grassland,0
+2035,Northern Allegheny Plateau,Reforestation: Cropland,0
+2035,Northern Allegheny Plateau,Reforestation: Pasture,0
+2035,Northern Allegheny Plateau,Reforestation: Grassland,0
+2035,Northern Allegheny Plateau,Reforestation: Shrubland,0
+2035,Northern Basin and Range,Reforestation: Cropland,238.61510858778627
+2035,Northern Basin and Range,Reforestation: Pasture,2783.0298616041423
+2035,Northern Basin and Range,Reforestation: Grassland,1579.1459606637534
+2035,Northern Basin and Range,Reforestation: Shrubland,9794.140831701929
+2035,Northern Glaciated Plains,Reforestation: Cropland,739.0628345679012
+2035,Northern Glaciated Plains,Reforestation: Pasture,0
+2035,Northern Glaciated Plains,Reforestation: Grassland,0
+2035,Northern Glaciated Plains,Reforestation: Shrubland,0
+2035,Northern Lakes and Forests,Reforestation: Cropland,7290.9244865546225
+2035,Northern Lakes and Forests,Reforestation: Pasture,0
+2035,Northern Lakes and Forests,Reforestation: Grassland,0
+2035,Northern Lakes and Forests,Reforestation: Shrubland,0
+2035,Northern Minnesota Wetlands,Reforestation: Cropland,0
+2035,Northern Minnesota Wetlands,Reforestation: Pasture,0
+2035,Northern Minnesota Wetlands,Reforestation: Grassland,0
+2035,Northern Minnesota Wetlands,Reforestation: Shrubland,0
+2035,Northern Piedmont,Reforestation: Cropland,0
+2035,Northern Piedmont,Reforestation: Pasture,0
+2035,Northern Piedmont,Reforestation: Grassland,0
+2035,Northern Piedmont,Reforestation: Shrubland,0
+2035,Northern Rockies,Reforestation: Cropland,125.31075924006919
+2035,Northern Rockies,Reforestation: Pasture,1877.7821345707655
+2035,Northern Rockies,Reforestation: Grassland,638.5956379498365
+2035,Northern Rockies,Reforestation: Shrubland,1231.9852632599507
+2035,Northwestern Glaciated Plains,Reforestation: Cropland,696.8306725925927
+2035,Northwestern Glaciated Plains,Reforestation: Pasture,1080.0315545243618
+2035,Northwestern Glaciated Plains,Reforestation: Grassland,5065.635550708834
+2035,Northwestern Glaciated Plains,Reforestation: Shrubland,2249.714489342805
+2035,Northwestern Great Plains,Reforestation: Cropland,6841.610240000001
+2035,Northwestern Great Plains,Reforestation: Pasture,2025.2359393814795
+2035,Northwestern Great Plains,Reforestation: Grassland,18629.88901539656
+2035,Northwestern Great Plains,Reforestation: Shrubland,21880.114802409236
+2035,Ouachita Mountains,Reforestation: Cropland,0
+2035,Ouachita Mountains,Reforestation: Pasture,0
+2035,Ouachita Mountains,Reforestation: Grassland,0
+2035,Ouachita Mountains,Reforestation: Shrubland,0
+2035,Ozark Highlands,Reforestation: Cropland,112.08344763157889
+2035,Ozark Highlands,Reforestation: Pasture,0
+2035,Ozark Highlands,Reforestation: Grassland,0
+2035,Ozark Highlands,Reforestation: Shrubland,0
+2035,Piedmont,Reforestation: Cropland,0
+2035,Piedmont,Reforestation: Pasture,0
+2035,Piedmont,Reforestation: Grassland,0
+2035,Piedmont,Reforestation: Shrubland,0
+2035,Puget Lowland,Reforestation: Cropland,60.63423834196896
+2035,Puget Lowland,Reforestation: Pasture,0
+2035,Puget Lowland,Reforestation: Grassland,0
+2035,Puget Lowland,Reforestation: Shrubland,0
+2035,Ridge and Valley,Reforestation: Cropland,0
+2035,Ridge and Valley,Reforestation: Pasture,0
+2035,Ridge and Valley,Reforestation: Grassland,0
+2035,Ridge and Valley,Reforestation: Shrubland,0
+2035,Sierra Nevada,Reforestation: Cropland,0
+2035,Sierra Nevada,Reforestation: Pasture,53.03538663171691
+2035,Sierra Nevada,Reforestation: Grassland,581.7008386536634
+2035,Sierra Nevada,Reforestation: Shrubland,598.9561166781859
+2035,Snake River Plain,Reforestation: Cropland,371.6136937022901
+2035,Snake River Plain,Reforestation: Pasture,0
+2035,Snake River Plain,Reforestation: Grassland,0
+2035,Snake River Plain,Reforestation: Shrubland,5005.239871379842
+2035,Sonoran Basin and Range,Reforestation: Cropland,0
+2035,Sonoran Basin and Range,Reforestation: Pasture,106.07077326343382
+2035,Sonoran Basin and Range,Reforestation: Grassland,169.42103632294712
+2035,Sonoran Basin and Range,Reforestation: Shrubland,276.67908357521367
+2035,South Central Plains,Reforestation: Cropland,0
+2035,South Central Plains,Reforestation: Pasture,0
+2035,South Central Plains,Reforestation: Grassland,0
+2035,South Central Plains,Reforestation: Shrubland,0
+2035,Southeastern Plains,Reforestation: Cropland,0
+2035,Southeastern Plains,Reforestation: Pasture,0
+2035,Southeastern Plains,Reforestation: Grassland,0
+2035,Southeastern Plains,Reforestation: Shrubland,0
+2035,Southeastern Wisconsin Till Plains,Reforestation: Cropland,0
+2035,Southeastern Wisconsin Till Plains,Reforestation: Pasture,0
+2035,Southeastern Wisconsin Till Plains,Reforestation: Grassland,0
+2035,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,0
+2035,Southern California Mountains,Reforestation: Cropland,0
+2035,Southern California Mountains,Reforestation: Pasture,0
+2035,Southern California Mountains,Reforestation: Grassland,650.103976588053
+2035,Southern California Mountains,Reforestation: Shrubland,905.7762177378502
+2035,Southern California/Northern Baja Coast,Reforestation: Cropland,0
+2035,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2035,Southern California/Northern Baja Coast,Reforestation: Grassland,374.3022895506972
+2035,Southern California/Northern Baja Coast,Reforestation: Shrubland,311.4571806726567
+2035,Southern Coastal Plain,Reforestation: Cropland,0
+2035,Southern Coastal Plain,Reforestation: Pasture,0
+2035,Southern Coastal Plain,Reforestation: Grassland,0
+2035,Southern Coastal Plain,Reforestation: Shrubland,0
+2035,Southern Florida Coastal Plain,Reforestation: Cropland,0
+2035,Southern Florida Coastal Plain,Reforestation: Pasture,0
+2035,Southern Florida Coastal Plain,Reforestation: Grassland,0
+2035,Southern Florida Coastal Plain,Reforestation: Shrubland,0
+2035,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,11764.10037927171
+2035,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,826.4519809825673
+2035,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,152.45540704738758
+2035,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,0
+2035,Southern Rockies,Reforestation: Cropland,0
+2035,Southern Rockies,Reforestation: Pasture,835.3456262988853
+2035,Southern Rockies,Reforestation: Grassland,5933.870051796808
+2035,Southern Rockies,Reforestation: Shrubland,8145.940301858997
+2035,Southern Texas Plains,Reforestation: Cropland,0
+2035,Southern Texas Plains,Reforestation: Pasture,0
+2035,Southern Texas Plains,Reforestation: Grassland,0
+2035,Southern Texas Plains,Reforestation: Shrubland,0
+2035,Southwestern Appalachians,Reforestation: Cropland,0
+2035,Southwestern Appalachians,Reforestation: Pasture,0
+2035,Southwestern Appalachians,Reforestation: Grassland,0
+2035,Southwestern Appalachians,Reforestation: Shrubland,0
+2035,Southwestern Tablelands,Reforestation: Cropland,8.19655238095238
+2035,Southwestern Tablelands,Reforestation: Pasture,0
+2035,Southwestern Tablelands,Reforestation: Grassland,18074.572413793103
+2035,Southwestern Tablelands,Reforestation: Shrubland,0
+2035,Texas Blackland Prairies,Reforestation: Cropland,0
+2035,Texas Blackland Prairies,Reforestation: Pasture,0
+2035,Texas Blackland Prairies,Reforestation: Grassland,0
+2035,Texas Blackland Prairies,Reforestation: Shrubland,0
+2035,Wasatch and Uinta Mountains,Reforestation: Cropland,0
+2035,Wasatch and Uinta Mountains,Reforestation: Pasture,1783.3734662514662
+2035,Wasatch and Uinta Mountains,Reforestation: Grassland,829.0158730158729
+2035,Wasatch and Uinta Mountains,Reforestation: Shrubland,579.8002742909794
+2035,Western Allegheny Plateau,Reforestation: Cropland,0
+2035,Western Allegheny Plateau,Reforestation: Pasture,0
+2035,Western Allegheny Plateau,Reforestation: Grassland,0
+2035,Western Allegheny Plateau,Reforestation: Shrubland,0
+2035,Western Corn Belt Plains,Reforestation: Cropland,560.0562414912278
+2035,Western Corn Belt Plains,Reforestation: Pasture,14771.289952153109
+2035,Western Corn Belt Plains,Reforestation: Grassland,4673.060351826793
+2035,Western Corn Belt Plains,Reforestation: Shrubland,0
+2035,Western Gulf Coastal Plain,Reforestation: Cropland,0
+2035,Western Gulf Coastal Plain,Reforestation: Pasture,0
+2035,Western Gulf Coastal Plain,Reforestation: Grassland,0
+2035,Western Gulf Coastal Plain,Reforestation: Shrubland,0
+2035,Willamette Valley,Reforestation: Cropland,169.248568655157
+2035,Willamette Valley,Reforestation: Pasture,0
+2035,Willamette Valley,Reforestation: Grassland,0
+2035,Willamette Valley,Reforestation: Shrubland,0
+2035,Wyoming Basin,Reforestation: Cropland,0
+2035,Wyoming Basin,Reforestation: Pasture,42371.68431244128
+2035,Wyoming Basin,Reforestation: Grassland,6861.4439420282715
+2035,Wyoming Basin,Reforestation: Shrubland,85466.50781094268
+2040,Acadian Plains and Hills,Reforestation: Cropland,0
+2040,Acadian Plains and Hills,Reforestation: Pasture,0
+2040,Acadian Plains and Hills,Reforestation: Grassland,0
+2040,Acadian Plains and Hills,Reforestation: Shrubland,0
+2040,Arizona/New Mexico Mountains,Reforestation: Cropland,66.14576695652174
+2040,Arizona/New Mexico Mountains,Reforestation: Pasture,0
+2040,Arizona/New Mexico Mountains,Reforestation: Grassland,0
+2040,Arizona/New Mexico Mountains,Reforestation: Shrubland,0
+2040,Arizona/New Mexico Plateau,Reforestation: Cropland,1058.3322713043478
+2040,Arizona/New Mexico Plateau,Reforestation: Pasture,0
+2040,Arizona/New Mexico Plateau,Reforestation: Grassland,0
+2040,Arizona/New Mexico Plateau,Reforestation: Shrubland,0
+2040,Arkansas Valley,Reforestation: Cropland,0
+2040,Arkansas Valley,Reforestation: Pasture,0
+2040,Arkansas Valley,Reforestation: Grassland,0
+2040,Arkansas Valley,Reforestation: Shrubland,0
+2040,Atlantic Coastal Pine Barrens,Reforestation: Cropland,0
+2040,Atlantic Coastal Pine Barrens,Reforestation: Pasture,0
+2040,Atlantic Coastal Pine Barrens,Reforestation: Grassland,0
+2040,Blue Mountains,Reforestation: Cropland,0
+2040,Blue Mountains,Reforestation: Pasture,0
+2040,Blue Mountains,Reforestation: Grassland,0
+2040,Blue Mountains,Reforestation: Shrubland,0
+2040,Blue Ridge,Reforestation: Cropland,0
+2040,Blue Ridge,Reforestation: Pasture,0
+2040,Blue Ridge,Reforestation: Grassland,0
+2040,Blue Ridge,Reforestation: Shrubland,0
+2040,Boston Mountains,Reforestation: Cropland,0
+2040,Boston Mountains,Reforestation: Pasture,0
+2040,Boston Mountains,Reforestation: Grassland,0
+2040,Boston Mountains,Reforestation: Shrubland,0
+2040,Canadian Rockies,Reforestation: Cropland,0
+2040,Canadian Rockies,Reforestation: Pasture,0
+2040,Canadian Rockies,Reforestation: Grassland,0
+2040,Canadian Rockies,Reforestation: Shrubland,0
+2040,Cascades,Reforestation: Cropland,0
+2040,Cascades,Reforestation: Pasture,119.32844036697253
+2040,Cascades,Reforestation: Grassland,29.549664313995525
+2040,Cascades,Reforestation: Shrubland,0
+2040,Central Appalachians,Reforestation: Cropland,0
+2040,Central Appalachians,Reforestation: Pasture,0
+2040,Central Appalachians,Reforestation: Grassland,0
+2040,Central Appalachians,Reforestation: Shrubland,0
+2040,Central Basin and Range,Reforestation: Cropland,1185.1302374999998
+2040,Central Basin and Range,Reforestation: Pasture,755.7467889908261
+2040,Central Basin and Range,Reforestation: Grassland,99.48386985711828
+2040,Central Basin and Range,Reforestation: Shrubland,0
+2040,Central California Foothills and Coastal Mountains,Reforestation: Cropland,0
+2040,Central California Foothills and Coastal Mountains,Reforestation: Pasture,304.9504587155965
+2040,Central California Foothills and Coastal Mountains,Reforestation: Grassland,3329.2621793768294
+2040,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,0
+2040,Central California Valley,Reforestation: Cropland,0
+2040,Central California Valley,Reforestation: Pasture,5953.163302752296
+2040,Central California Valley,Reforestation: Grassland,777.1561714580823
+2040,Central California Valley,Reforestation: Shrubland,0
+2040,Central Corn Belt Plains,Reforestation: Cropland,0
+2040,Central Corn Belt Plains,Reforestation: Pasture,0
+2040,Central Corn Belt Plains,Reforestation: Grassland,0
+2040,Central Corn Belt Plains,Reforestation: Shrubland,0
+2040,Central Great Plains,Reforestation: Cropland,5683.574267193675
+2040,Central Great Plains,Reforestation: Pasture,0
+2040,Central Great Plains,Reforestation: Grassland,0
+2040,Central Great Plains,Reforestation: Shrubland,0
+2040,Central Irregular Plains,Reforestation: Cropland,0
+2040,Central Irregular Plains,Reforestation: Pasture,0
+2040,Central Irregular Plains,Reforestation: Grassland,0
+2040,Central Irregular Plains,Reforestation: Shrubland,0
+2040,Chihuahuan Deserts,Reforestation: Cropland,198.43730086956518
+2040,Chihuahuan Deserts,Reforestation: Pasture,0
+2040,Chihuahuan Deserts,Reforestation: Grassland,0
+2040,Chihuahuan Deserts,Reforestation: Shrubland,0
+2040,Coast Range,Reforestation: Cropland,0
+2040,Coast Range,Reforestation: Pasture,835.2990825688078
+2040,Coast Range,Reforestation: Grassland,79.78409364778791
+2040,Coast Range,Reforestation: Shrubland,0
+2040,Colorado Plateaus,Reforestation: Cropland,162.35981847826085
+2040,Colorado Plateaus,Reforestation: Pasture,0
+2040,Colorado Plateaus,Reforestation: Grassland,0
+2040,Colorado Plateaus,Reforestation: Shrubland,0
+2040,Columbia Plateau,Reforestation: Cropland,0
+2040,Columbia Plateau,Reforestation: Pasture,0
+2040,Columbia Plateau,Reforestation: Grassland,0
+2040,Columbia Plateau,Reforestation: Shrubland,0
+2040,Cross Timbers,Reforestation: Cropland,0
+2040,Cross Timbers,Reforestation: Pasture,0
+2040,Cross Timbers,Reforestation: Grassland,0
+2040,Cross Timbers,Reforestation: Shrubland,0
+2040,Driftless Area,Reforestation: Cropland,0
+2040,Driftless Area,Reforestation: Pasture,0
+2040,Driftless Area,Reforestation: Grassland,0
+2040,Driftless Area,Reforestation: Shrubland,0
+2040,East Central Texas Plains,Reforestation: Cropland,0
+2040,East Central Texas Plains,Reforestation: Pasture,0
+2040,East Central Texas Plains,Reforestation: Grassland,0
+2040,East Central Texas Plains,Reforestation: Shrubland,0
+2040,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,0
+2040,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,1776.6678899082578
+2040,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,768.2912721638836
+2040,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,0
+2040,Eastern Corn Belt Plains,Reforestation: Cropland,0
+2040,Eastern Corn Belt Plains,Reforestation: Pasture,0
+2040,Eastern Corn Belt Plains,Reforestation: Grassland,0
+2040,Eastern Corn Belt Plains,Reforestation: Shrubland,0
+2040,Eastern Great Lakes Lowlands,Reforestation: Cropland,0
+2040,Eastern Great Lakes Lowlands,Reforestation: Pasture,0
+2040,Eastern Great Lakes Lowlands,Reforestation: Grassland,0
+2040,Edwards Plateau,Reforestation: Cropland,0
+2040,Edwards Plateau,Reforestation: Pasture,0
+2040,Edwards Plateau,Reforestation: Grassland,0
+2040,Edwards Plateau,Reforestation: Shrubland,0
+2040,Erie Drift Plain,Reforestation: Cropland,0
+2040,Erie Drift Plain,Reforestation: Pasture,0
+2040,Erie Drift Plain,Reforestation: Grassland,0
+2040,Erie Drift Plain,Reforestation: Shrubland,0
+2040,Flint Hills,Reforestation: Cropland,0
+2040,Flint Hills,Reforestation: Pasture,0
+2040,Flint Hills,Reforestation: Grassland,0
+2040,Flint Hills,Reforestation: Shrubland,0
+2040,High Plains,Reforestation: Cropland,610.4883647430829
+2040,High Plains,Reforestation: Pasture,0
+2040,High Plains,Reforestation: Grassland,0
+2040,High Plains,Reforestation: Shrubland,0
+2040,Huron/Erie Lake Plains,Reforestation: Cropland,0
+2040,Huron/Erie Lake Plains,Reforestation: Pasture,0
+2040,Huron/Erie Lake Plains,Reforestation: Grassland,0
+2040,Huron/Erie Lake Plains,Reforestation: Shrubland,0
+2040,Idaho Batholith,Reforestation: Cropland,0
+2040,Idaho Batholith,Reforestation: Pasture,0
+2040,Idaho Batholith,Reforestation: Grassland,0
+2040,Idaho Batholith,Reforestation: Shrubland,0
+2040,Interior Plateau,Reforestation: Cropland,0
+2040,Interior Plateau,Reforestation: Pasture,0
+2040,Interior Plateau,Reforestation: Grassland,0
+2040,Interior Plateau,Reforestation: Shrubland,0
+2040,Interior River Valleys and Hills,Reforestation: Cropland,0
+2040,Interior River Valleys and Hills,Reforestation: Pasture,0
+2040,Interior River Valleys and Hills,Reforestation: Grassland,0
+2040,Interior River Valleys and Hills,Reforestation: Shrubland,0
+2040,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,0
+2040,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,198.88073394495424
+2040,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,149.71829919091064
+2040,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,0
+2040,Lake Agassiz Plain,Reforestation: Cropland,0
+2040,Lake Agassiz Plain,Reforestation: Pasture,0
+2040,Lake Agassiz Plain,Reforestation: Grassland,0
+2040,Lake Agassiz Plain,Reforestation: Shrubland,0
+2040,Madrean Archipelago,Reforestation: Cropland,0
+2040,Madrean Archipelago,Reforestation: Pasture,0
+2040,Madrean Archipelago,Reforestation: Grassland,0
+2040,Madrean Archipelago,Reforestation: Shrubland,0
+2040,Middle Atlantic Coastal Plain,Reforestation: Cropland,0
+2040,Middle Atlantic Coastal Plain,Reforestation: Pasture,0
+2040,Middle Atlantic Coastal Plain,Reforestation: Grassland,0
+2040,Middle Atlantic Coastal Plain,Reforestation: Shrubland,0
+2040,Middle Rockies,Reforestation: Cropland,0
+2040,Middle Rockies,Reforestation: Pasture,0
+2040,Middle Rockies,Reforestation: Grassland,0
+2040,Middle Rockies,Reforestation: Shrubland,0
+2040,Mississippi Alluvial Plain,Reforestation: Cropland,0
+2040,Mississippi Alluvial Plain,Reforestation: Pasture,0
+2040,Mississippi Alluvial Plain,Reforestation: Grassland,0
+2040,Mississippi Alluvial Plain,Reforestation: Shrubland,0
+2040,Mississippi Valley Loess Plains,Reforestation: Cropland,0
+2040,Mississippi Valley Loess Plains,Reforestation: Pasture,0
+2040,Mississippi Valley Loess Plains,Reforestation: Grassland,0
+2040,Mississippi Valley Loess Plains,Reforestation: Shrubland,0
+2040,Mojave Basin and Range,Reforestation: Cropland,0
+2040,Mojave Basin and Range,Reforestation: Pasture,0
+2040,Mojave Basin and Range,Reforestation: Grassland,50.23442933379239
+2040,Mojave Basin and Range,Reforestation: Shrubland,0
+2040,Nebraska Sand Hills,Reforestation: Cropland,878.7104952569169
+2040,Nebraska Sand Hills,Reforestation: Pasture,0
+2040,Nebraska Sand Hills,Reforestation: Grassland,0
+2040,Nebraska Sand Hills,Reforestation: Shrubland,0
+2040,North Cascades,Reforestation: Cropland,0
+2040,North Cascades,Reforestation: Pasture,0
+2040,North Cascades,Reforestation: Grassland,0
+2040,North Cascades,Reforestation: Shrubland,0
+2040,North Central Appalachians,Reforestation: Cropland,0
+2040,North Central Appalachians,Reforestation: Pasture,0
+2040,North Central Appalachians,Reforestation: Grassland,0
+2040,North Central Appalachians,Reforestation: Shrubland,0
+2040,North Central Hardwood Forests,Reforestation: Cropland,0
+2040,North Central Hardwood Forests,Reforestation: Pasture,0
+2040,North Central Hardwood Forests,Reforestation: Grassland,0
+2040,North Central Hardwood Forests,Reforestation: Shrubland,0
+2040,Northeastern Coastal Zone,Reforestation: Cropland,0
+2040,Northeastern Coastal Zone,Reforestation: Pasture,0
+2040,Northeastern Coastal Zone,Reforestation: Grassland,0
+2040,Northeastern Highlands,Reforestation: Cropland,0
+2040,Northeastern Highlands,Reforestation: Pasture,0
+2040,Northeastern Highlands,Reforestation: Grassland,0
+2040,Northern Allegheny Plateau,Reforestation: Cropland,0
+2040,Northern Allegheny Plateau,Reforestation: Pasture,0
+2040,Northern Allegheny Plateau,Reforestation: Grassland,0
+2040,Northern Allegheny Plateau,Reforestation: Shrubland,0
+2040,Northern Basin and Range,Reforestation: Cropland,21.5478225
+2040,Northern Basin and Range,Reforestation: Pasture,132.58715596330282
+2040,Northern Basin and Range,Reforestation: Grassland,16.744809777930797
+2040,Northern Basin and Range,Reforestation: Shrubland,0
+2040,Northern Glaciated Plains,Reforestation: Cropland,0
+2040,Northern Glaciated Plains,Reforestation: Pasture,0
+2040,Northern Glaciated Plains,Reforestation: Grassland,0
+2040,Northern Glaciated Plains,Reforestation: Shrubland,0
+2040,Northern Lakes and Forests,Reforestation: Cropland,0
+2040,Northern Lakes and Forests,Reforestation: Pasture,0
+2040,Northern Lakes and Forests,Reforestation: Grassland,0
+2040,Northern Lakes and Forests,Reforestation: Shrubland,0
+2040,Northern Minnesota Wetlands,Reforestation: Cropland,0
+2040,Northern Minnesota Wetlands,Reforestation: Pasture,0
+2040,Northern Minnesota Wetlands,Reforestation: Grassland,0
+2040,Northern Minnesota Wetlands,Reforestation: Shrubland,0
+2040,Northern Piedmont,Reforestation: Cropland,0
+2040,Northern Piedmont,Reforestation: Pasture,0
+2040,Northern Piedmont,Reforestation: Grassland,0
+2040,Northern Piedmont,Reforestation: Shrubland,0
+2040,Northern Rockies,Reforestation: Cropland,0
+2040,Northern Rockies,Reforestation: Pasture,0
+2040,Northern Rockies,Reforestation: Grassland,0
+2040,Northern Rockies,Reforestation: Shrubland,0
+2040,Northwestern Glaciated Plains,Reforestation: Cropland,448.7032316205533
+2040,Northwestern Glaciated Plains,Reforestation: Pasture,0
+2040,Northwestern Glaciated Plains,Reforestation: Grassland,0
+2040,Northwestern Glaciated Plains,Reforestation: Shrubland,0
+2040,Northwestern Great Plains,Reforestation: Cropland,168.2637118577075
+2040,Northwestern Great Plains,Reforestation: Pasture,0
+2040,Northwestern Great Plains,Reforestation: Grassland,0
+2040,Northwestern Great Plains,Reforestation: Shrubland,0
+2040,Ouachita Mountains,Reforestation: Cropland,0
+2040,Ouachita Mountains,Reforestation: Pasture,0
+2040,Ouachita Mountains,Reforestation: Grassland,0
+2040,Ouachita Mountains,Reforestation: Shrubland,0
+2040,Ozark Highlands,Reforestation: Cropland,0
+2040,Ozark Highlands,Reforestation: Pasture,0
+2040,Ozark Highlands,Reforestation: Grassland,0
+2040,Ozark Highlands,Reforestation: Shrubland,0
+2040,Piedmont,Reforestation: Cropland,0
+2040,Piedmont,Reforestation: Pasture,0
+2040,Piedmont,Reforestation: Grassland,0
+2040,Piedmont,Reforestation: Shrubland,0
+2040,Puget Lowland,Reforestation: Cropland,0
+2040,Puget Lowland,Reforestation: Pasture,0
+2040,Puget Lowland,Reforestation: Grassland,0
+2040,Puget Lowland,Reforestation: Shrubland,0
+2040,Ridge and Valley,Reforestation: Cropland,0
+2040,Ridge and Valley,Reforestation: Pasture,0
+2040,Ridge and Valley,Reforestation: Grassland,0
+2040,Ridge and Valley,Reforestation: Shrubland,0
+2040,Sierra Nevada,Reforestation: Cropland,0
+2040,Sierra Nevada,Reforestation: Pasture,13.258715596330282
+2040,Sierra Nevada,Reforestation: Grassland,123.12360130831468
+2040,Sierra Nevada,Reforestation: Shrubland,0
+2040,Snake River Plain,Reforestation: Cropland,0
+2040,Snake River Plain,Reforestation: Pasture,0
+2040,Snake River Plain,Reforestation: Grassland,0
+2040,Snake River Plain,Reforestation: Shrubland,0
+2040,Sonoran Basin and Range,Reforestation: Cropland,0
+2040,Sonoran Basin and Range,Reforestation: Pasture,26.517431192660563
+2040,Sonoran Basin and Range,Reforestation: Grassland,42.35451885006025
+2040,Sonoran Basin and Range,Reforestation: Shrubland,0
+2040,South Central Plains,Reforestation: Cropland,0
+2040,South Central Plains,Reforestation: Pasture,0
+2040,South Central Plains,Reforestation: Grassland,0
+2040,South Central Plains,Reforestation: Shrubland,0
+2040,Southeastern Plains,Reforestation: Cropland,0
+2040,Southeastern Plains,Reforestation: Pasture,0
+2040,Southeastern Plains,Reforestation: Grassland,0
+2040,Southeastern Plains,Reforestation: Shrubland,0
+2040,Southeastern Wisconsin Till Plains,Reforestation: Cropland,0
+2040,Southeastern Wisconsin Till Plains,Reforestation: Pasture,0
+2040,Southeastern Wisconsin Till Plains,Reforestation: Grassland,0
+2040,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,0
+2040,Southern California Mountains,Reforestation: Cropland,0
+2040,Southern California Mountains,Reforestation: Pasture,0
+2040,Southern California Mountains,Reforestation: Grassland,162.52315372697538
+2040,Southern California Mountains,Reforestation: Shrubland,0
+2040,Southern California/Northern Baja Coast,Reforestation: Cropland,0
+2040,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2040,Southern California/Northern Baja Coast,Reforestation: Grassland,93.57393699431917
+2040,Southern California/Northern Baja Coast,Reforestation: Shrubland,0
+2040,Southern Coastal Plain,Reforestation: Cropland,0
+2040,Southern Coastal Plain,Reforestation: Pasture,0
+2040,Southern Coastal Plain,Reforestation: Grassland,0
+2040,Southern Coastal Plain,Reforestation: Shrubland,0
+2040,Southern Florida Coastal Plain,Reforestation: Cropland,0
+2040,Southern Florida Coastal Plain,Reforestation: Pasture,0
+2040,Southern Florida Coastal Plain,Reforestation: Grassland,0
+2040,Southern Florida Coastal Plain,Reforestation: Shrubland,0
+2040,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,0
+2040,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,0
+2040,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,0
+2040,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,0
+2040,Southern Rockies,Reforestation: Cropland,0
+2040,Southern Rockies,Reforestation: Pasture,0
+2040,Southern Rockies,Reforestation: Grassland,0
+2040,Southern Rockies,Reforestation: Shrubland,0
+2040,Southern Texas Plains,Reforestation: Cropland,0
+2040,Southern Texas Plains,Reforestation: Pasture,0
+2040,Southern Texas Plains,Reforestation: Grassland,0
+2040,Southern Texas Plains,Reforestation: Shrubland,0
+2040,Southwestern Appalachians,Reforestation: Cropland,0
+2040,Southwestern Appalachians,Reforestation: Pasture,0
+2040,Southwestern Appalachians,Reforestation: Grassland,0
+2040,Southwestern Appalachians,Reforestation: Shrubland,0
+2040,Southwestern Tablelands,Reforestation: Cropland,496.093252173913
+2040,Southwestern Tablelands,Reforestation: Pasture,0
+2040,Southwestern Tablelands,Reforestation: Grassland,0
+2040,Southwestern Tablelands,Reforestation: Shrubland,0
+2040,Texas Blackland Prairies,Reforestation: Cropland,0
+2040,Texas Blackland Prairies,Reforestation: Pasture,0
+2040,Texas Blackland Prairies,Reforestation: Grassland,0
+2040,Texas Blackland Prairies,Reforestation: Shrubland,0
+2040,Wasatch and Uinta Mountains,Reforestation: Cropland,387.86080499999997
+2040,Wasatch and Uinta Mountains,Reforestation: Pasture,0
+2040,Wasatch and Uinta Mountains,Reforestation: Grassland,0
+2040,Wasatch and Uinta Mountains,Reforestation: Shrubland,0
+2040,Western Allegheny Plateau,Reforestation: Cropland,0
+2040,Western Allegheny Plateau,Reforestation: Pasture,0
+2040,Western Allegheny Plateau,Reforestation: Grassland,0
+2040,Western Allegheny Plateau,Reforestation: Shrubland,0
+2040,Western Corn Belt Plains,Reforestation: Cropland,1720.0290545454545
+2040,Western Corn Belt Plains,Reforestation: Pasture,0
+2040,Western Corn Belt Plains,Reforestation: Grassland,0
+2040,Western Corn Belt Plains,Reforestation: Shrubland,0
+2040,Western Gulf Coastal Plain,Reforestation: Cropland,0
+2040,Western Gulf Coastal Plain,Reforestation: Pasture,0
+2040,Western Gulf Coastal Plain,Reforestation: Grassland,0
+2040,Western Gulf Coastal Plain,Reforestation: Shrubland,0
+2040,Willamette Valley,Reforestation: Cropland,0
+2040,Willamette Valley,Reforestation: Pasture,0
+2040,Willamette Valley,Reforestation: Grassland,0
+2040,Willamette Valley,Reforestation: Shrubland,0
+2040,Wyoming Basin,Reforestation: Cropland,0
+2040,Wyoming Basin,Reforestation: Pasture,0
+2040,Wyoming Basin,Reforestation: Grassland,0
+2040,Wyoming Basin,Reforestation: Shrubland,0
+2045,Acadian Plains and Hills,Reforestation: Cropland,0
+2045,Acadian Plains and Hills,Reforestation: Pasture,0
+2045,Acadian Plains and Hills,Reforestation: Grassland,0
+2045,Acadian Plains and Hills,Reforestation: Shrubland,0
+2045,Arizona/New Mexico Mountains,Reforestation: Cropland,0
+2045,Arizona/New Mexico Mountains,Reforestation: Pasture,0
+2045,Arizona/New Mexico Mountains,Reforestation: Grassland,0
+2045,Arizona/New Mexico Mountains,Reforestation: Shrubland,0
+2045,Arizona/New Mexico Plateau,Reforestation: Cropland,59.47849659863946
+2045,Arizona/New Mexico Plateau,Reforestation: Pasture,4070.345762711864
+2045,Arizona/New Mexico Plateau,Reforestation: Grassland,664.0667466027178
+2045,Arizona/New Mexico Plateau,Reforestation: Shrubland,4050.682035284081
+2045,Arkansas Valley,Reforestation: Cropland,0
+2045,Arkansas Valley,Reforestation: Pasture,0
+2045,Arkansas Valley,Reforestation: Grassland,0
+2045,Arkansas Valley,Reforestation: Shrubland,0
+2045,Atlantic Coastal Pine Barrens,Reforestation: Cropland,0
+2045,Atlantic Coastal Pine Barrens,Reforestation: Pasture,0
+2045,Atlantic Coastal Pine Barrens,Reforestation: Grassland,0
+2045,Blue Mountains,Reforestation: Cropland,0
+2045,Blue Mountains,Reforestation: Pasture,19.534743875278394
+2045,Blue Mountains,Reforestation: Grassland,661.2158908507223
+2045,Blue Mountains,Reforestation: Shrubland,0
+2045,Blue Ridge,Reforestation: Cropland,0
+2045,Blue Ridge,Reforestation: Pasture,0
+2045,Blue Ridge,Reforestation: Grassland,0
+2045,Blue Ridge,Reforestation: Shrubland,0
+2045,Boston Mountains,Reforestation: Cropland,0
+2045,Boston Mountains,Reforestation: Pasture,0
+2045,Boston Mountains,Reforestation: Grassland,0
+2045,Boston Mountains,Reforestation: Shrubland,0
+2045,Canadian Rockies,Reforestation: Cropland,0
+2045,Canadian Rockies,Reforestation: Pasture,0
+2045,Canadian Rockies,Reforestation: Grassland,0
+2045,Canadian Rockies,Reforestation: Shrubland,0
+2045,Cascades,Reforestation: Cropland,49.11153005865103
+2045,Cascades,Reforestation: Pasture,0
+2045,Cascades,Reforestation: Grassland,0
+2045,Cascades,Reforestation: Shrubland,0
+2045,Central Appalachians,Reforestation: Cropland,0
+2045,Central Appalachians,Reforestation: Pasture,0
+2045,Central Appalachians,Reforestation: Grassland,0
+2045,Central Appalachians,Reforestation: Shrubland,0
+2045,Central Basin and Range,Reforestation: Cropland,937.1542701307122
+2045,Central Basin and Range,Reforestation: Pasture,26.04632516703786
+2045,Central Basin and Range,Reforestation: Grassland,50.862760834670944
+2045,Central Basin and Range,Reforestation: Shrubland,0
+2045,Central California Foothills and Coastal Mountains,Reforestation: Cropland,329.0472513929618
+2045,Central California Foothills and Coastal Mountains,Reforestation: Pasture,0
+2045,Central California Foothills and Coastal Mountains,Reforestation: Grassland,0
+2045,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,0
+2045,Central California Valley,Reforestation: Cropland,11644.343776906158
+2045,Central California Valley,Reforestation: Pasture,0
+2045,Central California Valley,Reforestation: Grassland,0
+2045,Central California Valley,Reforestation: Shrubland,0
+2045,Central Corn Belt Plains,Reforestation: Cropland,321.8060869565217
+2045,Central Corn Belt Plains,Reforestation: Pasture,0
+2045,Central Corn Belt Plains,Reforestation: Grassland,0
+2045,Central Corn Belt Plains,Reforestation: Shrubland,0
+2045,Central Great Plains,Reforestation: Cropland,0
+2045,Central Great Plains,Reforestation: Pasture,0
+2045,Central Great Plains,Reforestation: Grassland,0
+2045,Central Great Plains,Reforestation: Shrubland,0
+2045,Central Irregular Plains,Reforestation: Cropland,191.91491330343794
+2045,Central Irregular Plains,Reforestation: Pasture,0
+2045,Central Irregular Plains,Reforestation: Grassland,0
+2045,Central Irregular Plains,Reforestation: Shrubland,0
+2045,Chihuahuan Deserts,Reforestation: Cropland,0
+2045,Chihuahuan Deserts,Reforestation: Pasture,0
+2045,Chihuahuan Deserts,Reforestation: Grassland,0
+2045,Chihuahuan Deserts,Reforestation: Shrubland,0
+2045,Coast Range,Reforestation: Cropland,9.822306011730204
+2045,Coast Range,Reforestation: Pasture,0
+2045,Coast Range,Reforestation: Grassland,0
+2045,Coast Range,Reforestation: Shrubland,0
+2045,Colorado Plateaus,Reforestation: Cropland,173.0283537414966
+2045,Colorado Plateaus,Reforestation: Pasture,1143.9946941783344
+2045,Colorado Plateaus,Reforestation: Grassland,1328.1334932054356
+2045,Colorado Plateaus,Reforestation: Shrubland,17345.865402627536
+2045,Columbia Plateau,Reforestation: Cropland,0
+2045,Columbia Plateau,Reforestation: Pasture,6.511581291759465
+2045,Columbia Plateau,Reforestation: Grassland,704.2536115569824
+2045,Columbia Plateau,Reforestation: Shrubland,0
+2045,Cross Timbers,Reforestation: Cropland,0
+2045,Cross Timbers,Reforestation: Pasture,0
+2045,Cross Timbers,Reforestation: Grassland,0
+2045,Cross Timbers,Reforestation: Shrubland,0
+2045,Driftless Area,Reforestation: Cropland,594.6284703494665
+2045,Driftless Area,Reforestation: Pasture,0
+2045,Driftless Area,Reforestation: Grassland,0
+2045,Driftless Area,Reforestation: Shrubland,0
+2045,East Central Texas Plains,Reforestation: Cropland,0
+2045,East Central Texas Plains,Reforestation: Pasture,0
+2045,East Central Texas Plains,Reforestation: Grassland,0
+2045,East Central Texas Plains,Reforestation: Shrubland,0
+2045,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,972.4082951612903
+2045,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,0
+2045,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,0
+2045,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,0
+2045,Eastern Corn Belt Plains,Reforestation: Cropland,1029.7794782608694
+2045,Eastern Corn Belt Plains,Reforestation: Pasture,0
+2045,Eastern Corn Belt Plains,Reforestation: Grassland,0
+2045,Eastern Corn Belt Plains,Reforestation: Shrubland,0
+2045,Eastern Great Lakes Lowlands,Reforestation: Cropland,0
+2045,Eastern Great Lakes Lowlands,Reforestation: Pasture,0
+2045,Eastern Great Lakes Lowlands,Reforestation: Grassland,0
+2045,Edwards Plateau,Reforestation: Cropland,0
+2045,Edwards Plateau,Reforestation: Pasture,0
+2045,Edwards Plateau,Reforestation: Grassland,0
+2045,Edwards Plateau,Reforestation: Shrubland,0
+2045,Erie Drift Plain,Reforestation: Cropland,0
+2045,Erie Drift Plain,Reforestation: Pasture,0
+2045,Erie Drift Plain,Reforestation: Grassland,0
+2045,Erie Drift Plain,Reforestation: Shrubland,0
+2045,Flint Hills,Reforestation: Cropland,0
+2045,Flint Hills,Reforestation: Pasture,0
+2045,Flint Hills,Reforestation: Grassland,0
+2045,Flint Hills,Reforestation: Shrubland,0
+2045,High Plains,Reforestation: Cropland,37.84995238095238
+2045,High Plains,Reforestation: Pasture,12.640825350036845
+2045,High Plains,Reforestation: Grassland,1671.8856914468427
+2045,High Plains,Reforestation: Shrubland,306.4933237331513
+2045,Huron/Erie Lake Plains,Reforestation: Cropland,0
+2045,Huron/Erie Lake Plains,Reforestation: Pasture,0
+2045,Huron/Erie Lake Plains,Reforestation: Grassland,0
+2045,Huron/Erie Lake Plains,Reforestation: Shrubland,0
+2045,Idaho Batholith,Reforestation: Cropland,0
+2045,Idaho Batholith,Reforestation: Pasture,319.0674832962138
+2045,Idaho Batholith,Reforestation: Grassland,6811.697431781701
+2045,Idaho Batholith,Reforestation: Shrubland,0
+2045,Interior Plateau,Reforestation: Cropland,394.21245652173906
+2045,Interior Plateau,Reforestation: Pasture,0
+2045,Interior Plateau,Reforestation: Grassland,0
+2045,Interior Plateau,Reforestation: Shrubland,0
+2045,Interior River Valleys and Hills,Reforestation: Cropland,1888.7909919412489
+2045,Interior River Valleys and Hills,Reforestation: Pasture,0
+2045,Interior River Valleys and Hills,Reforestation: Grassland,0
+2045,Interior River Valleys and Hills,Reforestation: Shrubland,0
+2045,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,132.60113115835776
+2045,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,0
+2045,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,0
+2045,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,0
+2045,Lake Agassiz Plain,Reforestation: Cropland,233.55083620689655
+2045,Lake Agassiz Plain,Reforestation: Pasture,0
+2045,Lake Agassiz Plain,Reforestation: Grassland,0
+2045,Lake Agassiz Plain,Reforestation: Shrubland,0
+2045,Madrean Archipelago,Reforestation: Cropland,0
+2045,Madrean Archipelago,Reforestation: Pasture,0
+2045,Madrean Archipelago,Reforestation: Grassland,0
+2045,Madrean Archipelago,Reforestation: Shrubland,0
+2045,Middle Atlantic Coastal Plain,Reforestation: Cropland,0
+2045,Middle Atlantic Coastal Plain,Reforestation: Pasture,0
+2045,Middle Atlantic Coastal Plain,Reforestation: Grassland,0
+2045,Middle Atlantic Coastal Plain,Reforestation: Shrubland,0
+2045,Middle Rockies,Reforestation: Cropland,4.748211560693642
+2045,Middle Rockies,Reforestation: Pasture,1041.8530066815144
+2045,Middle Rockies,Reforestation: Grassland,489.06500802568223
+2045,Middle Rockies,Reforestation: Shrubland,0
+2045,Mississippi Alluvial Plain,Reforestation: Cropland,0
+2045,Mississippi Alluvial Plain,Reforestation: Pasture,0
+2045,Mississippi Alluvial Plain,Reforestation: Grassland,0
+2045,Mississippi Alluvial Plain,Reforestation: Shrubland,0
+2045,Mississippi Valley Loess Plains,Reforestation: Cropland,0
+2045,Mississippi Valley Loess Plains,Reforestation: Pasture,0
+2045,Mississippi Valley Loess Plains,Reforestation: Grassland,0
+2045,Mississippi Valley Loess Plains,Reforestation: Shrubland,0
+2045,Mojave Basin and Range,Reforestation: Cropland,14.733459017595308
+2045,Mojave Basin and Range,Reforestation: Pasture,0
+2045,Mojave Basin and Range,Reforestation: Grassland,0
+2045,Mojave Basin and Range,Reforestation: Shrubland,0
+2045,Nebraska Sand Hills,Reforestation: Cropland,0
+2045,Nebraska Sand Hills,Reforestation: Pasture,0
+2045,Nebraska Sand Hills,Reforestation: Grassland,0
+2045,Nebraska Sand Hills,Reforestation: Shrubland,0
+2045,North Cascades,Reforestation: Cropland,0
+2045,North Cascades,Reforestation: Pasture,0
+2045,North Cascades,Reforestation: Grassland,0
+2045,North Cascades,Reforestation: Shrubland,0
+2045,North Central Appalachians,Reforestation: Cropland,0
+2045,North Central Appalachians,Reforestation: Pasture,0
+2045,North Central Appalachians,Reforestation: Grassland,0
+2045,North Central Appalachians,Reforestation: Shrubland,0
+2045,North Central Hardwood Forests,Reforestation: Cropland,1777.8461613300492
+2045,North Central Hardwood Forests,Reforestation: Pasture,0
+2045,North Central Hardwood Forests,Reforestation: Grassland,0
+2045,North Central Hardwood Forests,Reforestation: Shrubland,0
+2045,Northeastern Coastal Zone,Reforestation: Cropland,0
+2045,Northeastern Coastal Zone,Reforestation: Pasture,0
+2045,Northeastern Coastal Zone,Reforestation: Grassland,0
+2045,Northeastern Highlands,Reforestation: Cropland,0
+2045,Northeastern Highlands,Reforestation: Pasture,0
+2045,Northeastern Highlands,Reforestation: Grassland,0
+2045,Northern Allegheny Plateau,Reforestation: Cropland,0
+2045,Northern Allegheny Plateau,Reforestation: Pasture,0
+2045,Northern Allegheny Plateau,Reforestation: Grassland,0
+2045,Northern Allegheny Plateau,Reforestation: Shrubland,0
+2045,Northern Basin and Range,Reforestation: Cropland,111.18501403351067
+2045,Northern Basin and Range,Reforestation: Pasture,260.4632516703786
+2045,Northern Basin and Range,Reforestation: Grassland,1482.8451043338684
+2045,Northern Basin and Range,Reforestation: Shrubland,0
+2045,Northern Glaciated Plains,Reforestation: Cropland,588.9414218443009
+2045,Northern Glaciated Plains,Reforestation: Pasture,0
+2045,Northern Glaciated Plains,Reforestation: Grassland,0
+2045,Northern Glaciated Plains,Reforestation: Shrubland,0
+2045,Northern Lakes and Forests,Reforestation: Cropland,495.69973399014776
+2045,Northern Lakes and Forests,Reforestation: Pasture,0
+2045,Northern Lakes and Forests,Reforestation: Grassland,0
+2045,Northern Lakes and Forests,Reforestation: Shrubland,0
+2045,Northern Minnesota Wetlands,Reforestation: Cropland,352.7094261083744
+2045,Northern Minnesota Wetlands,Reforestation: Pasture,0
+2045,Northern Minnesota Wetlands,Reforestation: Grassland,0
+2045,Northern Minnesota Wetlands,Reforestation: Shrubland,0
+2045,Northern Piedmont,Reforestation: Cropland,0
+2045,Northern Piedmont,Reforestation: Pasture,0
+2045,Northern Piedmont,Reforestation: Grassland,0
+2045,Northern Piedmont,Reforestation: Shrubland,0
+2045,Northern Rockies,Reforestation: Cropland,0
+2045,Northern Rockies,Reforestation: Pasture,208.37060133630288
+2045,Northern Rockies,Reforestation: Grassland,500.8025682182985
+2045,Northern Rockies,Reforestation: Shrubland,0
+2045,Northwestern Glaciated Plains,Reforestation: Cropland,261.15163583815036
+2045,Northwestern Glaciated Plains,Reforestation: Pasture,0
+2045,Northwestern Glaciated Plains,Reforestation: Grassland,0
+2045,Northwestern Glaciated Plains,Reforestation: Shrubland,0
+2045,Northwestern Great Plains,Reforestation: Cropland,778.7066959537573
+2045,Northwestern Great Plains,Reforestation: Pasture,0
+2045,Northwestern Great Plains,Reforestation: Grassland,0
+2045,Northwestern Great Plains,Reforestation: Shrubland,0
+2045,Ouachita Mountains,Reforestation: Cropland,0
+2045,Ouachita Mountains,Reforestation: Pasture,0
+2045,Ouachita Mountains,Reforestation: Grassland,0
+2045,Ouachita Mountains,Reforestation: Shrubland,0
+2045,Ozark Highlands,Reforestation: Cropland,0
+2045,Ozark Highlands,Reforestation: Pasture,0
+2045,Ozark Highlands,Reforestation: Grassland,0
+2045,Ozark Highlands,Reforestation: Shrubland,0
+2045,Piedmont,Reforestation: Cropland,0
+2045,Piedmont,Reforestation: Pasture,0
+2045,Piedmont,Reforestation: Grassland,0
+2045,Piedmont,Reforestation: Shrubland,0
+2045,Puget Lowland,Reforestation: Cropland,0
+2045,Puget Lowland,Reforestation: Pasture,0
+2045,Puget Lowland,Reforestation: Grassland,0
+2045,Puget Lowland,Reforestation: Shrubland,0
+2045,Ridge and Valley,Reforestation: Cropland,0
+2045,Ridge and Valley,Reforestation: Pasture,0
+2045,Ridge and Valley,Reforestation: Grassland,0
+2045,Ridge and Valley,Reforestation: Shrubland,0
+2045,Sierra Nevada,Reforestation: Cropland,4.911153005865102
+2045,Sierra Nevada,Reforestation: Pasture,0
+2045,Sierra Nevada,Reforestation: Grassland,0
+2045,Sierra Nevada,Reforestation: Shrubland,0
+2045,Snake River Plain,Reforestation: Cropland,0
+2045,Snake River Plain,Reforestation: Pasture,3639.973942093541
+2045,Snake River Plain,Reforestation: Grassland,3904.6950240770466
+2045,Snake River Plain,Reforestation: Shrubland,0
+2045,Sonoran Basin and Range,Reforestation: Cropland,49.11153005865103
+2045,Sonoran Basin and Range,Reforestation: Pasture,0
+2045,Sonoran Basin and Range,Reforestation: Grassland,0
+2045,Sonoran Basin and Range,Reforestation: Shrubland,0
+2045,South Central Plains,Reforestation: Cropland,0
+2045,South Central Plains,Reforestation: Pasture,0
+2045,South Central Plains,Reforestation: Grassland,0
+2045,South Central Plains,Reforestation: Shrubland,0
+2045,Southeastern Plains,Reforestation: Cropland,0
+2045,Southeastern Plains,Reforestation: Pasture,0
+2045,Southeastern Plains,Reforestation: Grassland,0
+2045,Southeastern Plains,Reforestation: Shrubland,0
+2045,Southeastern Wisconsin Till Plains,Reforestation: Cropland,0
+2045,Southeastern Wisconsin Till Plains,Reforestation: Pasture,0
+2045,Southeastern Wisconsin Till Plains,Reforestation: Grassland,0
+2045,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,0
+2045,Southern California Mountains,Reforestation: Cropland,0
+2045,Southern California Mountains,Reforestation: Pasture,0
+2045,Southern California Mountains,Reforestation: Grassland,0
+2045,Southern California Mountains,Reforestation: Shrubland,0
+2045,Southern California/Northern Baja Coast,Reforestation: Cropland,54.02268306451612
+2045,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2045,Southern California/Northern Baja Coast,Reforestation: Grassland,0
+2045,Southern California/Northern Baja Coast,Reforestation: Shrubland,0
+2045,Southern Coastal Plain,Reforestation: Cropland,0
+2045,Southern Coastal Plain,Reforestation: Pasture,0
+2045,Southern Coastal Plain,Reforestation: Grassland,0
+2045,Southern Coastal Plain,Reforestation: Shrubland,0
+2045,Southern Florida Coastal Plain,Reforestation: Cropland,0
+2045,Southern Florida Coastal Plain,Reforestation: Pasture,0
+2045,Southern Florida Coastal Plain,Reforestation: Grassland,0
+2045,Southern Florida Coastal Plain,Reforestation: Shrubland,0
+2045,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,458.5736739130434
+2045,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,0
+2045,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,0
+2045,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,0
+2045,Southern Rockies,Reforestation: Cropland,0
+2045,Southern Rockies,Reforestation: Pasture,3204.44922623434
+2045,Southern Rockies,Reforestation: Grassland,9109.433253397283
+2045,Southern Rockies,Reforestation: Shrubland,19872.36442259
+2045,Southern Texas Plains,Reforestation: Cropland,0
+2045,Southern Texas Plains,Reforestation: Pasture,0
+2045,Southern Texas Plains,Reforestation: Grassland,0
+2045,Southern Texas Plains,Reforestation: Shrubland,0
+2045,Southwestern Appalachians,Reforestation: Cropland,0
+2045,Southwestern Appalachians,Reforestation: Pasture,0
+2045,Southwestern Appalachians,Reforestation: Grassland,0
+2045,Southwestern Appalachians,Reforestation: Shrubland,0
+2045,Southwestern Tablelands,Reforestation: Cropland,513.6779251700681
+2045,Southwestern Tablelands,Reforestation: Pasture,18.961238025055266
+2045,Southwestern Tablelands,Reforestation: Grassland,6640.667466027177
+2045,Southwestern Tablelands,Reforestation: Shrubland,4605.683459341409
+2045,Texas Blackland Prairies,Reforestation: Cropland,0
+2045,Texas Blackland Prairies,Reforestation: Pasture,0
+2045,Texas Blackland Prairies,Reforestation: Grassland,0
+2045,Texas Blackland Prairies,Reforestation: Shrubland,0
+2045,Wasatch and Uinta Mountains,Reforestation: Cropland,0
+2045,Wasatch and Uinta Mountains,Reforestation: Pasture,6.511581291759465
+2045,Wasatch and Uinta Mountains,Reforestation: Grassland,3.912520064205457
+2045,Wasatch and Uinta Mountains,Reforestation: Shrubland,0
+2045,Western Allegheny Plateau,Reforestation: Cropland,0
+2045,Western Allegheny Plateau,Reforestation: Pasture,0
+2045,Western Allegheny Plateau,Reforestation: Grassland,0
+2045,Western Allegheny Plateau,Reforestation: Shrubland,0
+2045,Western Corn Belt Plains,Reforestation: Cropland,3196.7780059213023
+2045,Western Corn Belt Plains,Reforestation: Pasture,0
+2045,Western Corn Belt Plains,Reforestation: Grassland,0
+2045,Western Corn Belt Plains,Reforestation: Shrubland,0
+2045,Western Gulf Coastal Plain,Reforestation: Cropland,0
+2045,Western Gulf Coastal Plain,Reforestation: Pasture,0
+2045,Western Gulf Coastal Plain,Reforestation: Grassland,0
+2045,Western Gulf Coastal Plain,Reforestation: Shrubland,0
+2045,Willamette Valley,Reforestation: Cropland,0
+2045,Willamette Valley,Reforestation: Pasture,0
+2045,Willamette Valley,Reforestation: Grassland,0
+2045,Willamette Valley,Reforestation: Shrubland,0
+2045,Wyoming Basin,Reforestation: Cropland,10.814272108843538
+2045,Wyoming Basin,Reforestation: Pasture,445.4757367965823
+2045,Wyoming Basin,Reforestation: Grassland,148.4634295773654
+2045,Wyoming Basin,Reforestation: Shrubland,2369.1105564238183
+2050,Acadian Plains and Hills,Reforestation: Cropland,0
+2050,Acadian Plains and Hills,Reforestation: Pasture,0
+2050,Acadian Plains and Hills,Reforestation: Grassland,0
+2050,Acadian Plains and Hills,Reforestation: Shrubland,0
+2050,Arizona/New Mexico Mountains,Reforestation: Cropland,0
+2050,Arizona/New Mexico Mountains,Reforestation: Pasture,0
+2050,Arizona/New Mexico Mountains,Reforestation: Grassland,0
+2050,Arizona/New Mexico Mountains,Reforestation: Shrubland,0
+2050,Arizona/New Mexico Plateau,Reforestation: Cropland,121.33613605442174
+2050,Arizona/New Mexico Plateau,Reforestation: Pasture,8303.566101694916
+2050,Arizona/New Mexico Plateau,Reforestation: Grassland,1354.693445243805
+2050,Arizona/New Mexico Plateau,Reforestation: Shrubland,8263.391354649379
+2050,Arkansas Valley,Reforestation: Cropland,0
+2050,Arkansas Valley,Reforestation: Pasture,0
+2050,Arkansas Valley,Reforestation: Grassland,0
+2050,Arkansas Valley,Reforestation: Shrubland,0
+2050,Atlantic Coastal Pine Barrens,Reforestation: Cropland,0
+2050,Atlantic Coastal Pine Barrens,Reforestation: Pasture,0
+2050,Atlantic Coastal Pine Barrens,Reforestation: Grassland,0
+2050,Blue Mountains,Reforestation: Cropland,0
+2050,Blue Mountains,Reforestation: Pasture,39.85122494432071
+2050,Blue Mountains,Reforestation: Grassland,1348.8894596040664
+2050,Blue Mountains,Reforestation: Shrubland,0
+2050,Blue Ridge,Reforestation: Cropland,0
+2050,Blue Ridge,Reforestation: Pasture,0
+2050,Blue Ridge,Reforestation: Grassland,0
+2050,Blue Ridge,Reforestation: Shrubland,0
+2050,Boston Mountains,Reforestation: Cropland,0
+2050,Boston Mountains,Reforestation: Pasture,0
+2050,Boston Mountains,Reforestation: Grassland,0
+2050,Boston Mountains,Reforestation: Shrubland,0
+2050,Canadian Rockies,Reforestation: Cropland,0
+2050,Canadian Rockies,Reforestation: Pasture,0
+2050,Canadian Rockies,Reforestation: Grassland,0
+2050,Canadian Rockies,Reforestation: Shrubland,0
+2050,Cascades,Reforestation: Cropland,100.18752199413493
+2050,Cascades,Reforestation: Pasture,0
+2050,Cascades,Reforestation: Grassland,0
+2050,Cascades,Reforestation: Shrubland,0
+2050,Central Appalachians,Reforestation: Cropland,0
+2050,Central Appalachians,Reforestation: Pasture,0
+2050,Central Appalachians,Reforestation: Grassland,0
+2050,Central Appalachians,Reforestation: Shrubland,0
+2050,Central Basin and Range,Reforestation: Cropland,1911.7950005246173
+2050,Central Basin and Range,Reforestation: Pasture,53.13496659242761
+2050,Central Basin and Range,Reforestation: Grassland,103.76072766185126
+2050,Central Basin and Range,Reforestation: Shrubland,0
+2050,Central California Foothills and Coastal Mountains,Reforestation: Cropland,671.2563973607039
+2050,Central California Foothills and Coastal Mountains,Reforestation: Pasture,0
+2050,Central California Foothills and Coastal Mountains,Reforestation: Grassland,0
+2050,Central California Foothills and Coastal Mountains,Reforestation: Shrubland,0
+2050,Central California Valley,Reforestation: Cropland,23754.46146480939
+2050,Central California Valley,Reforestation: Pasture,0
+2050,Central California Valley,Reforestation: Grassland,0
+2050,Central California Valley,Reforestation: Shrubland,0
+2050,Central Corn Belt Plains,Reforestation: Cropland,656.4844268774704
+2050,Central Corn Belt Plains,Reforestation: Pasture,0
+2050,Central Corn Belt Plains,Reforestation: Grassland,0
+2050,Central Corn Belt Plains,Reforestation: Shrubland,0
+2050,Central Great Plains,Reforestation: Cropland,0
+2050,Central Great Plains,Reforestation: Pasture,0
+2050,Central Great Plains,Reforestation: Grassland,0
+2050,Central Great Plains,Reforestation: Shrubland,0
+2050,Central Irregular Plains,Reforestation: Cropland,391.50641285500745
+2050,Central Irregular Plains,Reforestation: Pasture,0
+2050,Central Irregular Plains,Reforestation: Grassland,0
+2050,Central Irregular Plains,Reforestation: Shrubland,0
+2050,Chihuahuan Deserts,Reforestation: Cropland,0
+2050,Chihuahuan Deserts,Reforestation: Pasture,0
+2050,Chihuahuan Deserts,Reforestation: Grassland,0
+2050,Chihuahuan Deserts,Reforestation: Shrubland,0
+2050,Coast Range,Reforestation: Cropland,20.037504398826982
+2050,Coast Range,Reforestation: Pasture,0
+2050,Coast Range,Reforestation: Grassland,0
+2050,Coast Range,Reforestation: Shrubland,0
+2050,Colorado Plateaus,Reforestation: Cropland,352.977850340136
+2050,Colorado Plateaus,Reforestation: Pasture,2333.7662490788507
+2050,Colorado Plateaus,Reforestation: Grassland,2709.38689048761
+2050,Colorado Plateaus,Reforestation: Shrubland,35385.56543279304
+2050,Columbia Plateau,Reforestation: Cropland,0
+2050,Columbia Plateau,Reforestation: Pasture,13.283741648106902
+2050,Columbia Plateau,Reforestation: Grassland,1436.6869983948636
+2050,Columbia Plateau,Reforestation: Shrubland,0
+2050,Cross Timbers,Reforestation: Cropland,0
+2050,Cross Timbers,Reforestation: Pasture,0
+2050,Cross Timbers,Reforestation: Grassland,0
+2050,Cross Timbers,Reforestation: Shrubland,0
+2050,Driftless Area,Reforestation: Cropland,1213.0420445569816
+2050,Driftless Area,Reforestation: Pasture,0
+2050,Driftless Area,Reforestation: Grassland,0
+2050,Driftless Area,Reforestation: Shrubland,0
+2050,East Central Texas Plains,Reforestation: Cropland,0
+2050,East Central Texas Plains,Reforestation: Pasture,0
+2050,East Central Texas Plains,Reforestation: Grassland,0
+2050,East Central Texas Plains,Reforestation: Shrubland,0
+2050,Eastern Cascades Slopes and Foothills,Reforestation: Cropland,1983.7129354838717
+2050,Eastern Cascades Slopes and Foothills,Reforestation: Pasture,0
+2050,Eastern Cascades Slopes and Foothills,Reforestation: Grassland,0
+2050,Eastern Cascades Slopes and Foothills,Reforestation: Shrubland,0
+2050,Eastern Corn Belt Plains,Reforestation: Cropland,2100.750166007905
+2050,Eastern Corn Belt Plains,Reforestation: Pasture,0
+2050,Eastern Corn Belt Plains,Reforestation: Grassland,0
+2050,Eastern Corn Belt Plains,Reforestation: Shrubland,0
+2050,Eastern Great Lakes Lowlands,Reforestation: Cropland,0
+2050,Eastern Great Lakes Lowlands,Reforestation: Pasture,0
+2050,Eastern Great Lakes Lowlands,Reforestation: Grassland,0
+2050,Edwards Plateau,Reforestation: Cropland,0
+2050,Edwards Plateau,Reforestation: Pasture,0
+2050,Edwards Plateau,Reforestation: Grassland,0
+2050,Edwards Plateau,Reforestation: Shrubland,0
+2050,Erie Drift Plain,Reforestation: Cropland,0
+2050,Erie Drift Plain,Reforestation: Pasture,0
+2050,Erie Drift Plain,Reforestation: Grassland,0
+2050,Erie Drift Plain,Reforestation: Shrubland,0
+2050,Flint Hills,Reforestation: Cropland,0
+2050,Flint Hills,Reforestation: Pasture,0
+2050,Flint Hills,Reforestation: Grassland,0
+2050,Flint Hills,Reforestation: Shrubland,0
+2050,High Plains,Reforestation: Cropland,77.21390476190474
+2050,High Plains,Reforestation: Pasture,25.787472365512166
+2050,High Plains,Reforestation: Grassland,3410.63996802558
+2050,High Plains,Reforestation: Shrubland,625.2463806176421
+2050,Huron/Erie Lake Plains,Reforestation: Cropland,0
+2050,Huron/Erie Lake Plains,Reforestation: Pasture,0
+2050,Huron/Erie Lake Plains,Reforestation: Grassland,0
+2050,Huron/Erie Lake Plains,Reforestation: Shrubland,0
+2050,Idaho Batholith,Reforestation: Cropland,0
+2050,Idaho Batholith,Reforestation: Pasture,650.9033407572383
+2050,Idaho Batholith,Reforestation: Grassland,13895.955912252542
+2050,Idaho Batholith,Reforestation: Shrubland,0
+2050,Interior Plateau,Reforestation: Cropland,804.1934229249011
+2050,Interior Plateau,Reforestation: Pasture,0
+2050,Interior Plateau,Reforestation: Grassland,0
+2050,Interior Plateau,Reforestation: Shrubland,0
+2050,Interior River Valleys and Hills,Reforestation: Cropland,3853.1336773840967
+2050,Interior River Valleys and Hills,Reforestation: Pasture,0
+2050,Interior River Valleys and Hills,Reforestation: Grassland,0
+2050,Interior River Valleys and Hills,Reforestation: Shrubland,0
+2050,Klamath Mountains/California High North Coast Range,Reforestation: Cropland,270.5063093841643
+2050,Klamath Mountains/California High North Coast Range,Reforestation: Pasture,0
+2050,Klamath Mountains/California High North Coast Range,Reforestation: Grassland,0
+2050,Klamath Mountains/California High North Coast Range,Reforestation: Shrubland,0
+2050,Lake Agassiz Plain,Reforestation: Cropland,476.44369137931045
+2050,Lake Agassiz Plain,Reforestation: Pasture,0
+2050,Lake Agassiz Plain,Reforestation: Grassland,0
+2050,Lake Agassiz Plain,Reforestation: Shrubland,0
+2050,Madrean Archipelago,Reforestation: Cropland,0
+2050,Madrean Archipelago,Reforestation: Pasture,0
+2050,Madrean Archipelago,Reforestation: Grassland,0
+2050,Madrean Archipelago,Reforestation: Shrubland,0
+2050,Middle Atlantic Coastal Plain,Reforestation: Cropland,0
+2050,Middle Atlantic Coastal Plain,Reforestation: Pasture,0
+2050,Middle Atlantic Coastal Plain,Reforestation: Grassland,0
+2050,Middle Atlantic Coastal Plain,Reforestation: Shrubland,0
+2050,Middle Rockies,Reforestation: Cropland,9.686352023121389
+2050,Middle Rockies,Reforestation: Pasture,2125.3986636971044
+2050,Middle Rockies,Reforestation: Grassland,997.6993044408777
+2050,Middle Rockies,Reforestation: Shrubland,0
+2050,Mississippi Alluvial Plain,Reforestation: Cropland,0
+2050,Mississippi Alluvial Plain,Reforestation: Pasture,0
+2050,Mississippi Alluvial Plain,Reforestation: Grassland,0
+2050,Mississippi Alluvial Plain,Reforestation: Shrubland,0
+2050,Mississippi Valley Loess Plains,Reforestation: Cropland,0
+2050,Mississippi Valley Loess Plains,Reforestation: Pasture,0
+2050,Mississippi Valley Loess Plains,Reforestation: Grassland,0
+2050,Mississippi Valley Loess Plains,Reforestation: Shrubland,0
+2050,Mojave Basin and Range,Reforestation: Cropland,30.05625659824048
+2050,Mojave Basin and Range,Reforestation: Pasture,0
+2050,Mojave Basin and Range,Reforestation: Grassland,0
+2050,Mojave Basin and Range,Reforestation: Shrubland,0
+2050,Nebraska Sand Hills,Reforestation: Cropland,0
+2050,Nebraska Sand Hills,Reforestation: Pasture,0
+2050,Nebraska Sand Hills,Reforestation: Grassland,0
+2050,Nebraska Sand Hills,Reforestation: Shrubland,0
+2050,North Cascades,Reforestation: Cropland,0
+2050,North Cascades,Reforestation: Pasture,0
+2050,North Cascades,Reforestation: Grassland,0
+2050,North Cascades,Reforestation: Shrubland,0
+2050,North Central Appalachians,Reforestation: Cropland,0
+2050,North Central Appalachians,Reforestation: Pasture,0
+2050,North Central Appalachians,Reforestation: Grassland,0
+2050,North Central Appalachians,Reforestation: Shrubland,0
+2050,North Central Hardwood Forests,Reforestation: Cropland,3626.806058866996
+2050,North Central Hardwood Forests,Reforestation: Pasture,0
+2050,North Central Hardwood Forests,Reforestation: Grassland,0
+2050,North Central Hardwood Forests,Reforestation: Shrubland,0
+2050,Northeastern Coastal Zone,Reforestation: Cropland,0
+2050,Northeastern Coastal Zone,Reforestation: Pasture,0
+2050,Northeastern Coastal Zone,Reforestation: Grassland,0
+2050,Northeastern Highlands,Reforestation: Cropland,0
+2050,Northeastern Highlands,Reforestation: Pasture,0
+2050,Northeastern Highlands,Reforestation: Grassland,0
+2050,Northern Allegheny Plateau,Reforestation: Cropland,0
+2050,Northern Allegheny Plateau,Reforestation: Pasture,0
+2050,Northern Allegheny Plateau,Reforestation: Grassland,0
+2050,Northern Allegheny Plateau,Reforestation: Shrubland,0
+2050,Northern Basin and Range,Reforestation: Cropland,226.8174610589605
+2050,Northern Basin and Range,Reforestation: Pasture,531.3496659242761
+2050,Northern Basin and Range,Reforestation: Grassland,3025.0242910647407
+2050,Northern Basin and Range,Reforestation: Shrubland,0
+2050,Northern Glaciated Plains,Reforestation: Cropland,1201.4405484225065
+2050,Northern Glaciated Plains,Reforestation: Pasture,0
+2050,Northern Glaciated Plains,Reforestation: Grassland,0
+2050,Northern Glaciated Plains,Reforestation: Shrubland,0
+2050,Northern Lakes and Forests,Reforestation: Cropland,1011.2274266009855
+2050,Northern Lakes and Forests,Reforestation: Pasture,0
+2050,Northern Lakes and Forests,Reforestation: Grassland,0
+2050,Northern Lakes and Forests,Reforestation: Shrubland,0
+2050,Northern Minnesota Wetlands,Reforestation: Cropland,719.5272073891626
+2050,Northern Minnesota Wetlands,Reforestation: Pasture,0
+2050,Northern Minnesota Wetlands,Reforestation: Grassland,0
+2050,Northern Minnesota Wetlands,Reforestation: Shrubland,0
+2050,Northern Piedmont,Reforestation: Cropland,0
+2050,Northern Piedmont,Reforestation: Pasture,0
+2050,Northern Piedmont,Reforestation: Grassland,0
+2050,Northern Piedmont,Reforestation: Shrubland,0
+2050,Northern Rockies,Reforestation: Cropland,0
+2050,Northern Rockies,Reforestation: Pasture,425.0797327394209
+2050,Northern Rockies,Reforestation: Grassland,1021.6440877474585
+2050,Northern Rockies,Reforestation: Shrubland,0
+2050,Northwestern Glaciated Plains,Reforestation: Cropland,532.7493612716764
+2050,Northwestern Glaciated Plains,Reforestation: Pasture,0
+2050,Northwestern Glaciated Plains,Reforestation: Grassland,0
+2050,Northwestern Glaciated Plains,Reforestation: Shrubland,0
+2050,Northwestern Great Plains,Reforestation: Cropland,1588.5617317919077
+2050,Northwestern Great Plains,Reforestation: Pasture,0
+2050,Northwestern Great Plains,Reforestation: Grassland,0
+2050,Northwestern Great Plains,Reforestation: Shrubland,0
+2050,Ouachita Mountains,Reforestation: Cropland,0
+2050,Ouachita Mountains,Reforestation: Pasture,0
+2050,Ouachita Mountains,Reforestation: Grassland,0
+2050,Ouachita Mountains,Reforestation: Shrubland,0
+2050,Ozark Highlands,Reforestation: Cropland,0
+2050,Ozark Highlands,Reforestation: Pasture,0
+2050,Ozark Highlands,Reforestation: Grassland,0
+2050,Ozark Highlands,Reforestation: Shrubland,0
+2050,Piedmont,Reforestation: Cropland,0
+2050,Piedmont,Reforestation: Pasture,0
+2050,Piedmont,Reforestation: Grassland,0
+2050,Piedmont,Reforestation: Shrubland,0
+2050,Puget Lowland,Reforestation: Cropland,0
+2050,Puget Lowland,Reforestation: Pasture,0
+2050,Puget Lowland,Reforestation: Grassland,0
+2050,Puget Lowland,Reforestation: Shrubland,0
+2050,Ridge and Valley,Reforestation: Cropland,0
+2050,Ridge and Valley,Reforestation: Pasture,0
+2050,Ridge and Valley,Reforestation: Grassland,0
+2050,Ridge and Valley,Reforestation: Shrubland,0
+2050,Sierra Nevada,Reforestation: Cropland,10.018752199413491
+2050,Sierra Nevada,Reforestation: Pasture,0
+2050,Sierra Nevada,Reforestation: Grassland,0
+2050,Sierra Nevada,Reforestation: Shrubland,0
+2050,Snake River Plain,Reforestation: Cropland,0
+2050,Snake River Plain,Reforestation: Pasture,7425.61158129176
+2050,Snake River Plain,Reforestation: Grassland,7965.631246655966
+2050,Snake River Plain,Reforestation: Shrubland,0
+2050,Sonoran Basin and Range,Reforestation: Cropland,100.18752199413493
+2050,Sonoran Basin and Range,Reforestation: Pasture,0
+2050,Sonoran Basin and Range,Reforestation: Grassland,0
+2050,Sonoran Basin and Range,Reforestation: Shrubland,0
+2050,South Central Plains,Reforestation: Cropland,0
+2050,South Central Plains,Reforestation: Pasture,0
+2050,South Central Plains,Reforestation: Grassland,0
+2050,South Central Plains,Reforestation: Shrubland,0
+2050,Southeastern Plains,Reforestation: Cropland,0
+2050,Southeastern Plains,Reforestation: Pasture,0
+2050,Southeastern Plains,Reforestation: Grassland,0
+2050,Southeastern Plains,Reforestation: Shrubland,0
+2050,Southeastern Wisconsin Till Plains,Reforestation: Cropland,0
+2050,Southeastern Wisconsin Till Plains,Reforestation: Pasture,0
+2050,Southeastern Wisconsin Till Plains,Reforestation: Grassland,0
+2050,Southeastern Wisconsin Till Plains,Reforestation: Shrubland,0
+2050,Southern California Mountains,Reforestation: Cropland,0
+2050,Southern California Mountains,Reforestation: Pasture,0
+2050,Southern California Mountains,Reforestation: Grassland,0
+2050,Southern California Mountains,Reforestation: Shrubland,0
+2050,Southern California/Northern Baja Coast,Reforestation: Cropland,110.20627419354841
+2050,Southern California/Northern Baja Coast,Reforestation: Pasture,0
+2050,Southern California/Northern Baja Coast,Reforestation: Grassland,0
+2050,Southern California/Northern Baja Coast,Reforestation: Shrubland,0
+2050,Southern Coastal Plain,Reforestation: Cropland,0
+2050,Southern Coastal Plain,Reforestation: Pasture,0
+2050,Southern Coastal Plain,Reforestation: Grassland,0
+2050,Southern Coastal Plain,Reforestation: Shrubland,0
+2050,Southern Florida Coastal Plain,Reforestation: Cropland,0
+2050,Southern Florida Coastal Plain,Reforestation: Pasture,0
+2050,Southern Florida Coastal Plain,Reforestation: Grassland,0
+2050,Southern Florida Coastal Plain,Reforestation: Shrubland,0
+2050,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Cropland,935.4903083003953
+2050,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Pasture,0
+2050,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Grassland,0
+2050,Southern Michigan/Northern Indiana Drift Plains,Reforestation: Shrubland,0
+2050,Southern Rockies,Reforestation: Cropland,0
+2050,Southern Rockies,Reforestation: Pasture,6537.124244657333
+2050,Southern Rockies,Reforestation: Grassland,18583.206554756198
+2050,Southern Rockies,Reforestation: Shrubland,40539.62343518171
+2050,Southern Texas Plains,Reforestation: Cropland,0
+2050,Southern Texas Plains,Reforestation: Pasture,0
+2050,Southern Texas Plains,Reforestation: Grassland,0
+2050,Southern Texas Plains,Reforestation: Shrubland,0
+2050,Southwestern Appalachians,Reforestation: Cropland,0
+2050,Southwestern Appalachians,Reforestation: Pasture,0
+2050,Southwestern Appalachians,Reforestation: Grassland,0
+2050,Southwestern Appalachians,Reforestation: Shrubland,0
+2050,Southwestern Tablelands,Reforestation: Cropland,1047.9029931972789
+2050,Southwestern Tablelands,Reforestation: Pasture,38.681208548268245
+2050,Southwestern Tablelands,Reforestation: Grassland,13546.93445243805
+2050,Southwestern Tablelands,Reforestation: Shrubland,9395.594260092135
+2050,Texas Blackland Prairies,Reforestation: Cropland,0
+2050,Texas Blackland Prairies,Reforestation: Pasture,0
+2050,Texas Blackland Prairies,Reforestation: Grassland,0
+2050,Texas Blackland Prairies,Reforestation: Shrubland,0
+2050,Wasatch and Uinta Mountains,Reforestation: Cropland,0
+2050,Wasatch and Uinta Mountains,Reforestation: Pasture,13.283741648106902
+2050,Wasatch and Uinta Mountains,Reforestation: Grassland,7.981594435527019
+2050,Wasatch and Uinta Mountains,Reforestation: Shrubland,0
+2050,Western Allegheny Plateau,Reforestation: Cropland,0
+2050,Western Allegheny Plateau,Reforestation: Pasture,0
+2050,Western Allegheny Plateau,Reforestation: Grassland,0
+2050,Western Allegheny Plateau,Reforestation: Shrubland,0
+2050,Western Corn Belt Plains,Reforestation: Cropland,6521.426963347578
+2050,Western Corn Belt Plains,Reforestation: Pasture,0
+2050,Western Corn Belt Plains,Reforestation: Grassland,0
+2050,Western Corn Belt Plains,Reforestation: Shrubland,0
+2050,Western Gulf Coastal Plain,Reforestation: Cropland,0
+2050,Western Gulf Coastal Plain,Reforestation: Pasture,0
+2050,Western Gulf Coastal Plain,Reforestation: Grassland,0
+2050,Western Gulf Coastal Plain,Reforestation: Shrubland,0
+2050,Willamette Valley,Reforestation: Cropland,0
+2050,Willamette Valley,Reforestation: Pasture,0
+2050,Willamette Valley,Reforestation: Grassland,0
+2050,Willamette Valley,Reforestation: Shrubland,0
+2050,Wyoming Basin,Reforestation: Cropland,22.0611156462585
+2050,Wyoming Basin,Reforestation: Pasture,908.77806441236
+2050,Wyoming Basin,Reforestation: Grassland,302.86506679086904
+2050,Wyoming Basin,Reforestation: Shrubland,4832.985536666098

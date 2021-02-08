@@ -1,0 +1,511 @@
+StratumID,TransitionGroupID,Amount
+Acadian Plains and Hills,Intensification: Low to High [Type],0.05
+Acadian Plains and Hills,Intensification: Low to Medium [Type],0.15
+Acadian Plains and Hills,Intensification: Medium to High [Type],0
+Acadian Plains and Hills,Intensification: Open to High [Type],0.15
+Acadian Plains and Hills,Intensification: Open to Low [Type],0.25
+Acadian Plains and Hills,Intensification: Open to Medium [Type],0.4
+Arizona/New Mexico Mountains,Intensification: Low to High [Type],0.25
+Arizona/New Mexico Mountains,Intensification: Low to Medium [Type],0.416666667
+Arizona/New Mexico Mountains,Intensification: Medium to High [Type],0
+Arizona/New Mexico Mountains,Intensification: Open to High [Type],0
+Arizona/New Mexico Mountains,Intensification: Open to Low [Type],0
+Arizona/New Mexico Mountains,Intensification: Open to Medium [Type],0.333333333
+Arizona/New Mexico Plateau,Intensification: Low to High [Type],0.264705882
+Arizona/New Mexico Plateau,Intensification: Low to Medium [Type],0.294117647
+Arizona/New Mexico Plateau,Intensification: Medium to High [Type],0
+Arizona/New Mexico Plateau,Intensification: Open to High [Type],0.058823529
+Arizona/New Mexico Plateau,Intensification: Open to Low [Type],0.058823529
+Arizona/New Mexico Plateau,Intensification: Open to Medium [Type],0.323529412
+Arkansas Valley,Intensification: Low to High [Type],0.043478261
+Arkansas Valley,Intensification: Low to Medium [Type],0.217391304
+Arkansas Valley,Intensification: Medium to High [Type],0.043478261
+Arkansas Valley,Intensification: Open to High [Type],0.086956522
+Arkansas Valley,Intensification: Open to Low [Type],0.086956522
+Arkansas Valley,Intensification: Open to Medium [Type],0.52173913
+Atlantic Coastal Pine Barrens,Intensification: Low to High [Type],0.065420561
+Atlantic Coastal Pine Barrens,Intensification: Low to Medium [Type],0.08411215
+Atlantic Coastal Pine Barrens,Intensification: Medium to High [Type],0.037383178
+Atlantic Coastal Pine Barrens,Intensification: Open to High [Type],0.046728972
+Atlantic Coastal Pine Barrens,Intensification: Open to Low [Type],0.168224299
+Atlantic Coastal Pine Barrens,Intensification: Open to Medium [Type],0.598130841
+Blue Mountains,Intensification: Low to High [Type],0
+Blue Mountains,Intensification: Low to Medium [Type],1
+Blue Mountains,Intensification: Medium to High [Type],0
+Blue Mountains,Intensification: Open to High [Type],0
+Blue Mountains,Intensification: Open to Low [Type],0
+Blue Mountains,Intensification: Open to Medium [Type],0
+Blue Ridge,Intensification: Low to High [Type],0.133333333
+Blue Ridge,Intensification: Low to Medium [Type],0.233333333
+Blue Ridge,Intensification: Medium to High [Type],0
+Blue Ridge,Intensification: Open to High [Type],0.066666667
+Blue Ridge,Intensification: Open to Low [Type],0.233333333
+Blue Ridge,Intensification: Open to Medium [Type],0.333333333
+Boston Mountains,Intensification: Low to High [Type],1
+Boston Mountains,Intensification: Low to Medium [Type],0
+Boston Mountains,Intensification: Medium to High [Type],0
+Boston Mountains,Intensification: Open to High [Type],0
+Boston Mountains,Intensification: Open to Low [Type],0
+Boston Mountains,Intensification: Open to Medium [Type],0
+Canadian Rockies,Intensification: Low to High [Type],0
+Canadian Rockies,Intensification: Low to Medium [Type],0
+Canadian Rockies,Intensification: Medium to High [Type],0
+Canadian Rockies,Intensification: Open to High [Type],0
+Canadian Rockies,Intensification: Open to Low [Type],1
+Canadian Rockies,Intensification: Open to Medium [Type],0
+Cascades,Intensification: Low to High [Type],0
+Cascades,Intensification: Low to Medium [Type],0
+Cascades,Intensification: Medium to High [Type],0
+Cascades,Intensification: Open to High [Type],0
+Cascades,Intensification: Open to Low [Type],1
+Cascades,Intensification: Open to Medium [Type],0
+Central Appalachians,Intensification: Low to High [Type],0
+Central Appalachians,Intensification: Low to Medium [Type],0.117647059
+Central Appalachians,Intensification: Medium to High [Type],0.058823529
+Central Appalachians,Intensification: Open to High [Type],0.117647059
+Central Appalachians,Intensification: Open to Low [Type],0.058823529
+Central Appalachians,Intensification: Open to Medium [Type],0.647058824
+Central Basin and Range,Intensification: Low to High [Type],0.153846154
+Central Basin and Range,Intensification: Low to Medium [Type],0.138461538
+Central Basin and Range,Intensification: Medium to High [Type],0.076923077
+Central Basin and Range,Intensification: Open to High [Type],0.107692308
+Central Basin and Range,Intensification: Open to Low [Type],0.107692308
+Central Basin and Range,Intensification: Open to Medium [Type],0.415384615
+Central California Foothills and Coastal Mountains,Intensification: Low to High [Type],0.191011236
+Central California Foothills and Coastal Mountains,Intensification: Low to Medium [Type],0.134831461
+Central California Foothills and Coastal Mountains,Intensification: Medium to High [Type],0.011235955
+Central California Foothills and Coastal Mountains,Intensification: Open to High [Type],0.157303371
+Central California Foothills and Coastal Mountains,Intensification: Open to Low [Type],0.134831461
+Central California Foothills and Coastal Mountains,Intensification: Open to Medium [Type],0.370786517
+Central California Valley,Intensification: Low to High [Type],0.092436975
+Central California Valley,Intensification: Low to Medium [Type],0.067226891
+Central California Valley,Intensification: Medium to High [Type],0.016806723
+Central California Valley,Intensification: Open to High [Type],0.168067227
+Central California Valley,Intensification: Open to Low [Type],0.142857143
+Central California Valley,Intensification: Open to Medium [Type],0.512605042
+Central Corn Belt Plains,Intensification: Low to High [Type],0.238095238
+Central Corn Belt Plains,Intensification: Low to Medium [Type],0.253968254
+Central Corn Belt Plains,Intensification: Medium to High [Type],0.031746032
+Central Corn Belt Plains,Intensification: Open to High [Type],0.087301587
+Central Corn Belt Plains,Intensification: Open to Low [Type],0.063492063
+Central Corn Belt Plains,Intensification: Open to Medium [Type],0.325396825
+Central Great Plains,Intensification: Low to High [Type],0.145038168
+Central Great Plains,Intensification: Low to Medium [Type],0.13740458
+Central Great Plains,Intensification: Medium to High [Type],0.045801527
+Central Great Plains,Intensification: Open to High [Type],0.083969466
+Central Great Plains,Intensification: Open to Low [Type],0.122137405
+Central Great Plains,Intensification: Open to Medium [Type],0.465648855
+Central Irregular Plains,Intensification: Low to High [Type],0.228571429
+Central Irregular Plains,Intensification: Low to Medium [Type],0.1
+Central Irregular Plains,Intensification: Medium to High [Type],0.042857143
+Central Irregular Plains,Intensification: Open to High [Type],0.114285714
+Central Irregular Plains,Intensification: Open to Low [Type],0.071428571
+Central Irregular Plains,Intensification: Open to Medium [Type],0.442857143
+Chihuahuan Deserts,Intensification: Low to High [Type],0.259259259
+Chihuahuan Deserts,Intensification: Low to Medium [Type],0.185185185
+Chihuahuan Deserts,Intensification: Medium to High [Type],0.037037037
+Chihuahuan Deserts,Intensification: Open to High [Type],0.037037037
+Chihuahuan Deserts,Intensification: Open to Low [Type],0.037037037
+Chihuahuan Deserts,Intensification: Open to Medium [Type],0.444444444
+Coast Range,Intensification: Low to High [Type],0.176470588
+Coast Range,Intensification: Low to Medium [Type],0.235294118
+Coast Range,Intensification: Medium to High [Type],0.058823529
+Coast Range,Intensification: Open to High [Type],0
+Coast Range,Intensification: Open to Low [Type],0.176470588
+Coast Range,Intensification: Open to Medium [Type],0.352941176
+Colorado Plateaus,Intensification: Low to High [Type],0.166666667
+Colorado Plateaus,Intensification: Low to Medium [Type],0
+Colorado Plateaus,Intensification: Medium to High [Type],0
+Colorado Plateaus,Intensification: Open to High [Type],0.166666667
+Colorado Plateaus,Intensification: Open to Low [Type],0.166666667
+Colorado Plateaus,Intensification: Open to Medium [Type],0.5
+Columbia Plateau,Intensification: Low to High [Type],0.119047619
+Columbia Plateau,Intensification: Low to Medium [Type],0.095238095
+Columbia Plateau,Intensification: Medium to High [Type],0
+Columbia Plateau,Intensification: Open to High [Type],0.023809524
+Columbia Plateau,Intensification: Open to Low [Type],0.095238095
+Columbia Plateau,Intensification: Open to Medium [Type],0.666666667
+Cross Timbers,Intensification: Low to High [Type],0.028301887
+Cross Timbers,Intensification: Low to Medium [Type],0.160377358
+Cross Timbers,Intensification: Medium to High [Type],0
+Cross Timbers,Intensification: Open to High [Type],0.094339623
+Cross Timbers,Intensification: Open to Low [Type],0.132075472
+Cross Timbers,Intensification: Open to Medium [Type],0.58490566
+Driftless Area,Intensification: Low to High [Type],0.24137931
+Driftless Area,Intensification: Low to Medium [Type],0.137931034
+Driftless Area,Intensification: Medium to High [Type],0.068965517
+Driftless Area,Intensification: Open to High [Type],0.068965517
+Driftless Area,Intensification: Open to Low [Type],0.103448276
+Driftless Area,Intensification: Open to Medium [Type],0.379310345
+East Central Texas Plains,Intensification: Low to High [Type],0.205882353
+East Central Texas Plains,Intensification: Low to Medium [Type],0.117647059
+East Central Texas Plains,Intensification: Medium to High [Type],0
+East Central Texas Plains,Intensification: Open to High [Type],0.058823529
+East Central Texas Plains,Intensification: Open to Low [Type],0.058823529
+East Central Texas Plains,Intensification: Open to Medium [Type],0.558823529
+Eastern Cascades Slopes and Foothills,Intensification: Low to High [Type],0.5
+Eastern Cascades Slopes and Foothills,Intensification: Low to Medium [Type],0.5
+Eastern Cascades Slopes and Foothills,Intensification: Medium to High [Type],0
+Eastern Cascades Slopes and Foothills,Intensification: Open to High [Type],0
+Eastern Cascades Slopes and Foothills,Intensification: Open to Low [Type],0
+Eastern Cascades Slopes and Foothills,Intensification: Open to Medium [Type],0
+Eastern Corn Belt Plains,Intensification: Low to High [Type],0.168539326
+Eastern Corn Belt Plains,Intensification: Low to Medium [Type],0.123595506
+Eastern Corn Belt Plains,Intensification: Medium to High [Type],0.016853933
+Eastern Corn Belt Plains,Intensification: Open to High [Type],0.101123596
+Eastern Corn Belt Plains,Intensification: Open to Low [Type],0.117977528
+Eastern Corn Belt Plains,Intensification: Open to Medium [Type],0.471910112
+Eastern Great Lakes Lowlands,Intensification: Low to High [Type],0.151162791
+Eastern Great Lakes Lowlands,Intensification: Low to Medium [Type],0.220930233
+Eastern Great Lakes Lowlands,Intensification: Medium to High [Type],0.011627907
+Eastern Great Lakes Lowlands,Intensification: Open to High [Type],0.081395349
+Eastern Great Lakes Lowlands,Intensification: Open to Low [Type],0.139534884
+Eastern Great Lakes Lowlands,Intensification: Open to Medium [Type],0.395348837
+Edwards Plateau,Intensification: Low to High [Type],0.033898305
+Edwards Plateau,Intensification: Low to Medium [Type],0.050847458
+Edwards Plateau,Intensification: Medium to High [Type],0
+Edwards Plateau,Intensification: Open to High [Type],0.101694915
+Edwards Plateau,Intensification: Open to Low [Type],0.288135593
+Edwards Plateau,Intensification: Open to Medium [Type],0.525423729
+Erie Drift Plain,Intensification: Low to High [Type],0.152777778
+Erie Drift Plain,Intensification: Low to Medium [Type],0.138888889
+Erie Drift Plain,Intensification: Medium to High [Type],0.013888889
+Erie Drift Plain,Intensification: Open to High [Type],0.097222222
+Erie Drift Plain,Intensification: Open to Low [Type],0.111111111
+Erie Drift Plain,Intensification: Open to Medium [Type],0.486111111
+Flint Hills,Intensification: Low to High [Type],0
+Flint Hills,Intensification: Low to Medium [Type],0
+Flint Hills,Intensification: Medium to High [Type],0
+Flint Hills,Intensification: Open to High [Type],0.333333333
+Flint Hills,Intensification: Open to Low [Type],0.333333333
+Flint Hills,Intensification: Open to Medium [Type],0.333333333
+High Plains,Intensification: Low to High [Type],0.171428571
+High Plains,Intensification: Low to Medium [Type],0.152380952
+High Plains,Intensification: Medium to High [Type],0.00952381
+High Plains,Intensification: Open to High [Type],0.057142857
+High Plains,Intensification: Open to Low [Type],0.104761905
+High Plains,Intensification: Open to Medium [Type],0.504761905
+Huron/Erie Lake Plains,Intensification: Low to High [Type],0.202247191
+Huron/Erie Lake Plains,Intensification: Low to Medium [Type],0.179775281
+Huron/Erie Lake Plains,Intensification: Medium to High [Type],0.02247191
+Huron/Erie Lake Plains,Intensification: Open to High [Type],0.112359551
+Huron/Erie Lake Plains,Intensification: Open to Low [Type],0.146067416
+Huron/Erie Lake Plains,Intensification: Open to Medium [Type],0.337078652
+Idaho Batholith,Intensification: Low to High [Type],0
+Idaho Batholith,Intensification: Low to Medium [Type],0
+Idaho Batholith,Intensification: Medium to High [Type],0
+Idaho Batholith,Intensification: Open to High [Type],0
+Idaho Batholith,Intensification: Open to Low [Type],1
+Idaho Batholith,Intensification: Open to Medium [Type],0
+Interior Plateau,Intensification: Low to High [Type],0.170731707
+Interior Plateau,Intensification: Low to Medium [Type],0.115853659
+Interior Plateau,Intensification: Medium to High [Type],0.012195122
+Interior Plateau,Intensification: Open to High [Type],0.12195122
+Interior Plateau,Intensification: Open to Low [Type],0.115853659
+Interior Plateau,Intensification: Open to Medium [Type],0.463414634
+Interior River Valleys and Hills,Intensification: Low to High [Type],0.180851064
+Interior River Valleys and Hills,Intensification: Low to Medium [Type],0.159574468
+Interior River Valleys and Hills,Intensification: Medium to High [Type],0.053191489
+Interior River Valleys and Hills,Intensification: Open to High [Type],0.063829787
+Interior River Valleys and Hills,Intensification: Open to Low [Type],0.127659574
+Interior River Valleys and Hills,Intensification: Open to Medium [Type],0.414893617
+Klamath Mountains/California High North Coast Range,Intensification: Low to High [Type],0.083333333
+Klamath Mountains/California High North Coast Range,Intensification: Low to Medium [Type],0.083333333
+Klamath Mountains/California High North Coast Range,Intensification: Medium to High [Type],0.083333333
+Klamath Mountains/California High North Coast Range,Intensification: Open to High [Type],0.083333333
+Klamath Mountains/California High North Coast Range,Intensification: Open to Low [Type],0.166666667
+Klamath Mountains/California High North Coast Range,Intensification: Open to Medium [Type],0.5
+Lake Agassiz Plain,Intensification: Low to High [Type],0.176470588
+Lake Agassiz Plain,Intensification: Low to Medium [Type],0.176470588
+Lake Agassiz Plain,Intensification: Medium to High [Type],0
+Lake Agassiz Plain,Intensification: Open to High [Type],0.117647059
+Lake Agassiz Plain,Intensification: Open to Low [Type],0.117647059
+Lake Agassiz Plain,Intensification: Open to Medium [Type],0.411764706
+Madrean Archipelago,Intensification: Low to High [Type],0.5
+Madrean Archipelago,Intensification: Low to Medium [Type],0.25
+Madrean Archipelago,Intensification: Medium to High [Type],0
+Madrean Archipelago,Intensification: Open to High [Type],0
+Madrean Archipelago,Intensification: Open to Low [Type],0
+Madrean Archipelago,Intensification: Open to Medium [Type],0.25
+Middle Atlantic Coastal Plain,Intensification: Low to High [Type],0.117647059
+Middle Atlantic Coastal Plain,Intensification: Low to Medium [Type],0.098039216
+Middle Atlantic Coastal Plain,Intensification: Medium to High [Type],0.026143791
+Middle Atlantic Coastal Plain,Intensification: Open to High [Type],0.104575163
+Middle Atlantic Coastal Plain,Intensification: Open to Low [Type],0.150326797
+Middle Atlantic Coastal Plain,Intensification: Open to Medium [Type],0.503267974
+Middle Rockies,Intensification: Low to High [Type],0.133333333
+Middle Rockies,Intensification: Low to Medium [Type],0.133333333
+Middle Rockies,Intensification: Medium to High [Type],0
+Middle Rockies,Intensification: Open to High [Type],0.066666667
+Middle Rockies,Intensification: Open to Low [Type],0.066666667
+Middle Rockies,Intensification: Open to Medium [Type],0.6
+Mississippi Alluvial Plain,Intensification: Low to High [Type],0.182692308
+Mississippi Alluvial Plain,Intensification: Low to Medium [Type],0.134615385
+Mississippi Alluvial Plain,Intensification: Medium to High [Type],0.019230769
+Mississippi Alluvial Plain,Intensification: Open to High [Type],0.076923077
+Mississippi Alluvial Plain,Intensification: Open to Low [Type],0.105769231
+Mississippi Alluvial Plain,Intensification: Open to Medium [Type],0.480769231
+Mississippi Valley Loess Plains,Intensification: Low to High [Type],0.162162162
+Mississippi Valley Loess Plains,Intensification: Low to Medium [Type],0.054054054
+Mississippi Valley Loess Plains,Intensification: Medium to High [Type],0.027027027
+Mississippi Valley Loess Plains,Intensification: Open to High [Type],0.099099099
+Mississippi Valley Loess Plains,Intensification: Open to Low [Type],0.117117117
+Mississippi Valley Loess Plains,Intensification: Open to Medium [Type],0.540540541
+Mojave Basin and Range,Intensification: Low to High [Type],0.191176471
+Mojave Basin and Range,Intensification: Low to Medium [Type],0.161764706
+Mojave Basin and Range,Intensification: Medium to High [Type],0.014705882
+Mojave Basin and Range,Intensification: Open to High [Type],0.117647059
+Mojave Basin and Range,Intensification: Open to Low [Type],0.088235294
+Mojave Basin and Range,Intensification: Open to Medium [Type],0.426470588
+Nebraska Sand Hills,Intensification: Low to High [Type],0
+Nebraska Sand Hills,Intensification: Low to Medium [Type],0
+Nebraska Sand Hills,Intensification: Medium to High [Type],0
+Nebraska Sand Hills,Intensification: Open to High [Type],0
+Nebraska Sand Hills,Intensification: Open to Low [Type],1
+Nebraska Sand Hills,Intensification: Open to Medium [Type],0
+North Cascades,Intensification: Low to High [Type],0
+North Cascades,Intensification: Low to Medium [Type],0
+North Cascades,Intensification: Medium to High [Type],0
+North Cascades,Intensification: Open to High [Type],0
+North Cascades,Intensification: Open to Low [Type],0
+North Cascades,Intensification: Open to Medium [Type],1
+North Central Appalachians,Intensification: Low to High [Type],0
+North Central Appalachians,Intensification: Low to Medium [Type],0
+North Central Appalachians,Intensification: Medium to High [Type],0
+North Central Appalachians,Intensification: Open to High [Type],0.142857143
+North Central Appalachians,Intensification: Open to Low [Type],0.142857143
+North Central Appalachians,Intensification: Open to Medium [Type],0.714285714
+North Central Hardwood Forests,Intensification: Low to High [Type],0.11971831
+North Central Hardwood Forests,Intensification: Low to Medium [Type],0.154929577
+North Central Hardwood Forests,Intensification: Medium to High [Type],0.007042254
+North Central Hardwood Forests,Intensification: Open to High [Type],0.098591549
+North Central Hardwood Forests,Intensification: Open to Low [Type],0.098591549
+North Central Hardwood Forests,Intensification: Open to Medium [Type],0.521126761
+Northeastern Coastal Zone,Intensification: Low to High [Type],0.145748988
+Northeastern Coastal Zone,Intensification: Low to Medium [Type],0.190283401
+Northeastern Coastal Zone,Intensification: Medium to High [Type],0.032388664
+Northeastern Coastal Zone,Intensification: Open to High [Type],0.068825911
+Northeastern Coastal Zone,Intensification: Open to Low [Type],0.125506073
+Northeastern Coastal Zone,Intensification: Open to Medium [Type],0.437246964
+Northeastern Highlands,Intensification: Low to High [Type],0.125
+Northeastern Highlands,Intensification: Low to Medium [Type],0.333333333
+Northeastern Highlands,Intensification: Medium to High [Type],0
+Northeastern Highlands,Intensification: Open to High [Type],0
+Northeastern Highlands,Intensification: Open to Low [Type],0.041666667
+Northeastern Highlands,Intensification: Open to Medium [Type],0.5
+Northern Allegheny Plateau,Intensification: Low to High [Type],0.333333333
+Northern Allegheny Plateau,Intensification: Low to Medium [Type],0.266666667
+Northern Allegheny Plateau,Intensification: Medium to High [Type],0
+Northern Allegheny Plateau,Intensification: Open to High [Type],0
+Northern Allegheny Plateau,Intensification: Open to Low [Type],0.066666667
+Northern Allegheny Plateau,Intensification: Open to Medium [Type],0.333333333
+Northern Basin and Range,Intensification: Low to High [Type],0
+Northern Basin and Range,Intensification: Low to Medium [Type],0.5
+Northern Basin and Range,Intensification: Medium to High [Type],0
+Northern Basin and Range,Intensification: Open to High [Type],0
+Northern Basin and Range,Intensification: Open to Low [Type],0
+Northern Basin and Range,Intensification: Open to Medium [Type],0.5
+Northern Glaciated Plains,Intensification: Low to High [Type],0.136363636
+Northern Glaciated Plains,Intensification: Low to Medium [Type],0.136363636
+Northern Glaciated Plains,Intensification: Medium to High [Type],0
+Northern Glaciated Plains,Intensification: Open to High [Type],0.136363636
+Northern Glaciated Plains,Intensification: Open to Low [Type],0.136363636
+Northern Glaciated Plains,Intensification: Open to Medium [Type],0.454545455
+Northern Lakes and Forests,Intensification: Low to High [Type],0.106382979
+Northern Lakes and Forests,Intensification: Low to Medium [Type],0.170212766
+Northern Lakes and Forests,Intensification: Medium to High [Type],0.021276596
+Northern Lakes and Forests,Intensification: Open to High [Type],0.063829787
+Northern Lakes and Forests,Intensification: Open to Low [Type],0.063829787
+Northern Lakes and Forests,Intensification: Open to Medium [Type],0.574468085
+Northern Minnesota Wetlands,Intensification: Low to High [Type],1
+Northern Minnesota Wetlands,Intensification: Low to Medium [Type],0
+Northern Minnesota Wetlands,Intensification: Medium to High [Type],0
+Northern Minnesota Wetlands,Intensification: Open to High [Type],0
+Northern Minnesota Wetlands,Intensification: Open to Low [Type],0
+Northern Minnesota Wetlands,Intensification: Open to Medium [Type],0
+Northern Piedmont,Intensification: Low to High [Type],0.108974359
+Northern Piedmont,Intensification: Low to Medium [Type],0.108974359
+Northern Piedmont,Intensification: Medium to High [Type],0.012820513
+Northern Piedmont,Intensification: Open to High [Type],0.08974359
+Northern Piedmont,Intensification: Open to Low [Type],0.185897436
+Northern Piedmont,Intensification: Open to Medium [Type],0.493589744
+Northern Rockies,Intensification: Low to High [Type],0.166666667
+Northern Rockies,Intensification: Low to Medium [Type],0.166666667
+Northern Rockies,Intensification: Medium to High [Type],0
+Northern Rockies,Intensification: Open to High [Type],0
+Northern Rockies,Intensification: Open to Low [Type],0.25
+Northern Rockies,Intensification: Open to Medium [Type],0.416666667
+Northwestern Glaciated Plains,Intensification: Low to High [Type],0.090909091
+Northwestern Glaciated Plains,Intensification: Low to Medium [Type],0.272727273
+Northwestern Glaciated Plains,Intensification: Medium to High [Type],0
+Northwestern Glaciated Plains,Intensification: Open to High [Type],0
+Northwestern Glaciated Plains,Intensification: Open to Low [Type],0.272727273
+Northwestern Glaciated Plains,Intensification: Open to Medium [Type],0.363636364
+Northwestern Great Plains,Intensification: Low to High [Type],0.115384615
+Northwestern Great Plains,Intensification: Low to Medium [Type],0.115384615
+Northwestern Great Plains,Intensification: Medium to High [Type],0
+Northwestern Great Plains,Intensification: Open to High [Type],0.076923077
+Northwestern Great Plains,Intensification: Open to Low [Type],0.076923077
+Northwestern Great Plains,Intensification: Open to Medium [Type],0.615384615
+Ouachita Mountains,Intensification: Low to High [Type],0.133333333
+Ouachita Mountains,Intensification: Low to Medium [Type],0.2
+Ouachita Mountains,Intensification: Medium to High [Type],0
+Ouachita Mountains,Intensification: Open to High [Type],0.133333333
+Ouachita Mountains,Intensification: Open to Low [Type],0.066666667
+Ouachita Mountains,Intensification: Open to Medium [Type],0.466666667
+Ozark Highlands,Intensification: Low to High [Type],0.170212766
+Ozark Highlands,Intensification: Low to Medium [Type],0.170212766
+Ozark Highlands,Intensification: Medium to High [Type],0
+Ozark Highlands,Intensification: Open to High [Type],0.127659574
+Ozark Highlands,Intensification: Open to Low [Type],0.085106383
+Ozark Highlands,Intensification: Open to Medium [Type],0.446808511
+Piedmont,Intensification: Low to High [Type],0.130681818
+Piedmont,Intensification: Low to Medium [Type],0.122159091
+Piedmont,Intensification: Medium to High [Type],0.005681818
+Piedmont,Intensification: Open to High [Type],0.042613636
+Piedmont,Intensification: Open to Low [Type],0.144886364
+Piedmont,Intensification: Open to Medium [Type],0.553977273
+Puget Lowland,Intensification: Low to High [Type],0.21
+Puget Lowland,Intensification: Low to Medium [Type],0.24
+Puget Lowland,Intensification: Medium to High [Type],0.03
+Puget Lowland,Intensification: Open to High [Type],0.03
+Puget Lowland,Intensification: Open to Low [Type],0.12
+Puget Lowland,Intensification: Open to Medium [Type],0.37
+Ridge and Valley,Intensification: Low to High [Type],0.140271493
+Ridge and Valley,Intensification: Low to Medium [Type],0.14479638
+Ridge and Valley,Intensification: Medium to High [Type],0.045248869
+Ridge and Valley,Intensification: Open to High [Type],0.063348416
+Ridge and Valley,Intensification: Open to Low [Type],0.104072398
+Ridge and Valley,Intensification: Open to Medium [Type],0.502262443
+Sierra Nevada,Intensification: Low to High [Type],0.5
+Sierra Nevada,Intensification: Low to Medium [Type],0.5
+Sierra Nevada,Intensification: Medium to High [Type],0
+Sierra Nevada,Intensification: Open to High [Type],0
+Sierra Nevada,Intensification: Open to Low [Type],0
+Sierra Nevada,Intensification: Open to Medium [Type],0
+Snake River Plain,Intensification: Low to High [Type],0.162790698
+Snake River Plain,Intensification: Low to Medium [Type],0.139534884
+Snake River Plain,Intensification: Medium to High [Type],0.023255814
+Snake River Plain,Intensification: Open to High [Type],0.023255814
+Snake River Plain,Intensification: Open to Low [Type],0.162790698
+Snake River Plain,Intensification: Open to Medium [Type],0.488372093
+Sonoran Basin and Range,Intensification: Low to High [Type],0.22962963
+Sonoran Basin and Range,Intensification: Low to Medium [Type],0.118518519
+Sonoran Basin and Range,Intensification: Medium to High [Type],0.014814815
+Sonoran Basin and Range,Intensification: Open to High [Type],0.059259259
+Sonoran Basin and Range,Intensification: Open to Low [Type],0.155555556
+Sonoran Basin and Range,Intensification: Open to Medium [Type],0.422222222
+South Central Plains,Intensification: Low to High [Type],0.183673469
+South Central Plains,Intensification: Low to Medium [Type],0.214285714
+South Central Plains,Intensification: Medium to High [Type],0.06122449
+South Central Plains,Intensification: Open to High [Type],0.102040816
+South Central Plains,Intensification: Open to Low [Type],0.051020408
+South Central Plains,Intensification: Open to Medium [Type],0.387755102
+Southeastern Plains,Intensification: Low to High [Type],0.11147541
+Southeastern Plains,Intensification: Low to Medium [Type],0.108196721
+Southeastern Plains,Intensification: Medium to High [Type],0.02295082
+Southeastern Plains,Intensification: Open to High [Type],0.055737705
+Southeastern Plains,Intensification: Open to Low [Type],0.2
+Southeastern Plains,Intensification: Open to Medium [Type],0.501639344
+Southeastern Wisconsin Till Plains,Intensification: Low to High [Type],0.15
+Southeastern Wisconsin Till Plains,Intensification: Low to Medium [Type],0.116666667
+Southeastern Wisconsin Till Plains,Intensification: Medium to High [Type],0.016666667
+Southeastern Wisconsin Till Plains,Intensification: Open to High [Type],0.166666667
+Southeastern Wisconsin Till Plains,Intensification: Open to Low [Type],0.116666667
+Southeastern Wisconsin Till Plains,Intensification: Open to Medium [Type],0.433333333
+Southern California Mountains,Intensification: Low to High [Type],0
+Southern California Mountains,Intensification: Low to Medium [Type],0
+Southern California Mountains,Intensification: Medium to High [Type],0
+Southern California Mountains,Intensification: Open to High [Type],0
+Southern California Mountains,Intensification: Open to Low [Type],0
+Southern California Mountains,Intensification: Open to Medium [Type],1
+Southern California/Northern Baja Coast,Intensification: Low to High [Type],0.162698413
+Southern California/Northern Baja Coast,Intensification: Low to Medium [Type],0.103174603
+Southern California/Northern Baja Coast,Intensification: Medium to High [Type],0.027777778
+Southern California/Northern Baja Coast,Intensification: Open to High [Type],0.111111111
+Southern California/Northern Baja Coast,Intensification: Open to Low [Type],0.079365079
+Southern California/Northern Baja Coast,Intensification: Open to Medium [Type],0.515873016
+Southern Coastal Plain,Intensification: Low to High [Type],0.076767677
+Southern Coastal Plain,Intensification: Low to Medium [Type],0.113131313
+Southern Coastal Plain,Intensification: Medium to High [Type],0.016161616
+Southern Coastal Plain,Intensification: Open to High [Type],0.082828283
+Southern Coastal Plain,Intensification: Open to Low [Type],0.161616162
+Southern Coastal Plain,Intensification: Open to Medium [Type],0.549494949
+Southern Florida Coastal Plain,Intensification: Low to High [Type],0.161904762
+Southern Florida Coastal Plain,Intensification: Low to Medium [Type],0.152380952
+Southern Florida Coastal Plain,Intensification: Medium to High [Type],0.028571429
+Southern Florida Coastal Plain,Intensification: Open to High [Type],0.047619048
+Southern Florida Coastal Plain,Intensification: Open to Low [Type],0.219047619
+Southern Florida Coastal Plain,Intensification: Open to Medium [Type],0.39047619
+Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to High [Type],0.129032258
+Southern Michigan/Northern Indiana Drift Plains,Intensification: Low to Medium [Type],0.096774194
+Southern Michigan/Northern Indiana Drift Plains,Intensification: Medium to High [Type],0.008064516
+Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to High [Type],0.153225806
+Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Low [Type],0.14516129
+Southern Michigan/Northern Indiana Drift Plains,Intensification: Open to Medium [Type],0.467741935
+Southern Rockies,Intensification: Low to High [Type],0.166666667
+Southern Rockies,Intensification: Low to Medium [Type],0.166666667
+Southern Rockies,Intensification: Medium to High [Type],0
+Southern Rockies,Intensification: Open to High [Type],0
+Southern Rockies,Intensification: Open to Low [Type],0
+Southern Rockies,Intensification: Open to Medium [Type],0.666666667
+Southern Texas Plains,Intensification: Low to High [Type],0.095238095
+Southern Texas Plains,Intensification: Low to Medium [Type],0.19047619
+Southern Texas Plains,Intensification: Medium to High [Type],0
+Southern Texas Plains,Intensification: Open to High [Type],0.095238095
+Southern Texas Plains,Intensification: Open to Low [Type],0.047619048
+Southern Texas Plains,Intensification: Open to Medium [Type],0.571428571
+Southwestern Appalachians,Intensification: Low to High [Type],0.15
+Southwestern Appalachians,Intensification: Low to Medium [Type],0.1
+Southwestern Appalachians,Intensification: Medium to High [Type],0.05
+Southwestern Appalachians,Intensification: Open to High [Type],0
+Southwestern Appalachians,Intensification: Open to Low [Type],0.05
+Southwestern Appalachians,Intensification: Open to Medium [Type],0.65
+Southwestern Tablelands,Intensification: Low to High [Type],0.285714286
+Southwestern Tablelands,Intensification: Low to Medium [Type],0.071428571
+Southwestern Tablelands,Intensification: Medium to High [Type],0
+Southwestern Tablelands,Intensification: Open to High [Type],0
+Southwestern Tablelands,Intensification: Open to Low [Type],0.071428571
+Southwestern Tablelands,Intensification: Open to Medium [Type],0.571428571
+Texas Blackland Prairies,Intensification: Low to High [Type],0.173728814
+Texas Blackland Prairies,Intensification: Low to Medium [Type],0.105932203
+Texas Blackland Prairies,Intensification: Medium to High [Type],0.029661017
+Texas Blackland Prairies,Intensification: Open to High [Type],0.063559322
+Texas Blackland Prairies,Intensification: Open to Low [Type],0.144067797
+Texas Blackland Prairies,Intensification: Open to Medium [Type],0.483050847
+Wasatch and Uinta Mountains,Intensification: Low to High [Type],0
+Wasatch and Uinta Mountains,Intensification: Low to Medium [Type],0
+Wasatch and Uinta Mountains,Intensification: Medium to High [Type],0
+Wasatch and Uinta Mountains,Intensification: Open to High [Type],0.2
+Wasatch and Uinta Mountains,Intensification: Open to Low [Type],0.6
+Wasatch and Uinta Mountains,Intensification: Open to Medium [Type],0.2
+Western Allegheny Plateau,Intensification: Low to High [Type],0.121621622
+Western Allegheny Plateau,Intensification: Low to Medium [Type],0.162162162
+Western Allegheny Plateau,Intensification: Medium to High [Type],0.013513514
+Western Allegheny Plateau,Intensification: Open to High [Type],0.081081081
+Western Allegheny Plateau,Intensification: Open to Low [Type],0.148648649
+Western Allegheny Plateau,Intensification: Open to Medium [Type],0.472972973
+Western Corn Belt Plains,Intensification: Low to High [Type],0.165562914
+Western Corn Belt Plains,Intensification: Low to Medium [Type],0.198675497
+Western Corn Belt Plains,Intensification: Medium to High [Type],0.013245033
+Western Corn Belt Plains,Intensification: Open to High [Type],0.072847682
+Western Corn Belt Plains,Intensification: Open to Low [Type],0.125827815
+Western Corn Belt Plains,Intensification: Open to Medium [Type],0.42384106
+Western Gulf Coastal Plain,Intensification: Low to High [Type],0.13986014
+Western Gulf Coastal Plain,Intensification: Low to Medium [Type],0.101398601
+Western Gulf Coastal Plain,Intensification: Medium to High [Type],0.020979021
+Western Gulf Coastal Plain,Intensification: Open to High [Type],0.125874126
+Western Gulf Coastal Plain,Intensification: Open to Low [Type],0.111888112
+Western Gulf Coastal Plain,Intensification: Open to Medium [Type],0.5
+Willamette Valley,Intensification: Low to High [Type],0.375
+Willamette Valley,Intensification: Low to Medium [Type],0.166666667
+Willamette Valley,Intensification: Medium to High [Type],0.041666667
+Willamette Valley,Intensification: Open to High [Type],0.125
+Willamette Valley,Intensification: Open to Low [Type],0
+Willamette Valley,Intensification: Open to Medium [Type],0.291666667
+Wyoming Basin,Intensification: Low to High [Type],0
+Wyoming Basin,Intensification: Low to Medium [Type],0.444444444
+Wyoming Basin,Intensification: Medium to High [Type],0
+Wyoming Basin,Intensification: Open to High [Type],0.111111111
+Wyoming Basin,Intensification: Open to Low [Type],0.111111111
+Wyoming Basin,Intensification: Open to Medium [Type],0.333333333

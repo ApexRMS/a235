@@ -1,0 +1,1616 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Value
+Coast Range,Fire,Fire,2002,2002,0
+Puget Lowland,Fire,Fire,2002,2002,0
+Willamette Valley,Fire,Fire,2002,2002,0
+Cascades,Fire,Fire,2002,2002,4000
+Sierra Nevada,Fire,Fire,2002,2002,55200
+Central California Foothills and Coastal Mountains,Fire,Fire,2002,2002,26000
+Central California Valley,Fire,Fire,2002,2002,0
+Southern California Mountains,Fire,Fire,2002,2002,157100
+Eastern Cascades Slopes and Foothills,Fire,Fire,2002,2002,11100
+Columbia Plateau,Fire,Fire,2002,2002,82500
+Blue Mountains,Fire,Fire,2002,2002,198400
+Snake River Plain,Fire,Fire,2002,2002,66800
+Central Basin and Range,Fire,Fire,2002,2002,381700
+Mojave Basin and Range,Fire,Fire,2002,2002,3600
+Northern Rockies,Fire,Fire,2002,2002,69500
+Idaho Batholith,Fire,Fire,2002,2002,493100
+Middle Rockies,Fire,Fire,2002,2002,116500
+Wyoming Basin,Fire,Fire,2002,2002,7400
+Wasatch and Uinta Mountains,Fire,Fire,2002,2002,17900
+Colorado Plateaus,Fire,Fire,2002,2002,20300
+Southern Rockies,Fire,Fire,2002,2002,100
+Arizona/New Mexico Plateau,Fire,Fire,2002,2002,14500
+Arizona/New Mexico Mountains,Fire,Fire,2002,2002,33000
+Chihuahuan Deserts,Fire,Fire,2002,2002,0
+High Plains,Fire,Fire,2002,2002,2000
+Southwestern Tablelands,Fire,Fire,2002,2002,700
+Central Great Plains,Fire,Fire,2002,2002,0
+Flint Hills,Fire,Fire,2002,2002,0
+Cross Timbers,Fire,Fire,2002,2002,0
+Edwards Plateau,Fire,Fire,2002,2002,0
+Southern Texas Plains,Fire,Fire,2002,2002,0
+Texas Blackland Prairies,Fire,Fire,2002,2002,0
+East Central Texas Plains,Fire,Fire,2002,2002,0
+Western Gulf Coastal Plain,Fire,Fire,2002,2002,0
+South Central Plains,Fire,Fire,2002,2002,0
+Ouachita Mountains,Fire,Fire,2002,2002,0
+Arkansas Valley,Fire,Fire,2002,2002,0
+Boston Mountains,Fire,Fire,2002,2002,300
+Ozark Highlands,Fire,Fire,2002,2002,1000
+Central Irregular Plains,Fire,Fire,2002,2002,0
+Canadian Rockies,Fire,Fire,2002,2002,80000
+Northwestern Glaciated Plains,Fire,Fire,2002,2002,3200
+Northwestern Great Plains,Fire,Fire,2002,2002,40900
+Nebraska Sand Hills,Fire,Fire,2002,2002,0
+Piedmont,Fire,Fire,2002,2002,0
+Northern Glaciated Plains,Fire,Fire,2002,2002,0
+Western Corn Belt Plains,Fire,Fire,2002,2002,0
+Lake Agassiz Plain,Fire,Fire,2002,2002,0
+Northern Minnesota Wetlands,Fire,Fire,2002,2002,0
+Northern Lakes and Forests,Fire,Fire,2002,2002,16400
+North Central Hardwood Forests,Fire,Fire,2002,2002,0
+Driftless Area,Fire,Fire,2002,2002,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2002,2002,0
+Central Corn Belt Plains,Fire,Fire,2002,2002,0
+Eastern Corn Belt Plains,Fire,Fire,2002,2002,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2002,2002,0
+Huron/Erie Lake Plains,Fire,Fire,2002,2002,0
+Northeastern Highlands,Fire,Fire,2002,2002,0
+Northeastern Coastal Zone,Fire,Fire,2002,2002,0
+Northern Allegheny Plateau,Fire,Fire,2002,2002,0
+Erie Drift Plain,Fire,Fire,2002,2002,0
+North Central Appalachians,Fire,Fire,2002,2002,0
+Middle Atlantic Coastal Plain,Fire,Fire,2002,2002,0
+Northern Piedmont,Fire,Fire,2002,2002,0
+Southeastern Plains,Fire,Fire,2002,2002,0
+Blue Ridge,Fire,Fire,2002,2002,0
+Ridge and Valley,Fire,Fire,2002,2002,0
+Southwestern Appalachians,Fire,Fire,2002,2002,0
+Central Appalachians,Fire,Fire,2002,2002,0
+Western Allegheny Plateau,Fire,Fire,2002,2002,0
+Interior Plateau,Fire,Fire,2002,2002,0
+Interior River Valleys and Hills,Fire,Fire,2002,2002,0
+Mississippi Alluvial Plain,Fire,Fire,2002,2002,0
+Mississippi Valley Loess Plains,Fire,Fire,2002,2002,0
+Southern Coastal Plain,Fire,Fire,2002,2002,0
+Southern Florida Coastal Plain,Fire,Fire,2002,2002,33000
+North Cascades,Fire,Fire,2002,2002,4700
+Klamath Mountains/California High North Coast Range,Fire,Fire,2002,2002,8300
+Madrean Archipelago,Fire,Fire,2002,2002,6400
+Northern Basin and Range,Fire,Fire,2002,2002,521600
+Sonoran Basin and Range,Fire,Fire,2002,2002,0
+Acadian Plains and Hills,Fire,Fire,2002,2002,0
+Eastern Great Lakes Lowlands,Fire,Fire,2002,2002,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2002,2002,0
+Southern California/Northern Baja Coast,Fire,Fire,2002,2002,144900
+Coast Range,Fire,Fire,2003,2003,300
+Puget Lowland,Fire,Fire,2003,2003,0
+Willamette Valley,Fire,Fire,2003,2003,0
+Cascades,Fire,Fire,2003,2003,46400
+Sierra Nevada,Fire,Fire,2003,2003,69300
+Central California Foothills and Coastal Mountains,Fire,Fire,2003,2003,9800
+Central California Valley,Fire,Fire,2003,2003,500
+Southern California Mountains,Fire,Fire,2003,2003,69300
+Eastern Cascades Slopes and Foothills,Fire,Fire,2003,2003,61700
+Columbia Plateau,Fire,Fire,2003,2003,13200
+Blue Mountains,Fire,Fire,2003,2003,28800
+Snake River Plain,Fire,Fire,2003,2003,10500
+Central Basin and Range,Fire,Fire,2003,2003,27000
+Mojave Basin and Range,Fire,Fire,2003,2003,3700
+Northern Rockies,Fire,Fire,2003,2003,0
+Idaho Batholith,Fire,Fire,2003,2003,4000
+Middle Rockies,Fire,Fire,2003,2003,26000
+Wyoming Basin,Fire,Fire,2003,2003,9000
+Wasatch and Uinta Mountains,Fire,Fire,2003,2003,46300
+Colorado Plateaus,Fire,Fire,2003,2003,65000
+Southern Rockies,Fire,Fire,2003,2003,185900
+Arizona/New Mexico Plateau,Fire,Fire,2003,2003,6200
+Arizona/New Mexico Mountains,Fire,Fire,2003,2003,224900
+Chihuahuan Deserts,Fire,Fire,2003,2003,0
+High Plains,Fire,Fire,2003,2003,300
+Southwestern Tablelands,Fire,Fire,2003,2003,1400
+Central Great Plains,Fire,Fire,2003,2003,0
+Flint Hills,Fire,Fire,2003,2003,0
+Cross Timbers,Fire,Fire,2003,2003,0
+Edwards Plateau,Fire,Fire,2003,2003,0
+Southern Texas Plains,Fire,Fire,2003,2003,0
+Texas Blackland Prairies,Fire,Fire,2003,2003,0
+East Central Texas Plains,Fire,Fire,2003,2003,0
+Western Gulf Coastal Plain,Fire,Fire,2003,2003,0
+South Central Plains,Fire,Fire,2003,2003,0
+Ouachita Mountains,Fire,Fire,2003,2003,0
+Arkansas Valley,Fire,Fire,2003,2003,0
+Boston Mountains,Fire,Fire,2003,2003,0
+Ozark Highlands,Fire,Fire,2003,2003,600
+Central Irregular Plains,Fire,Fire,2003,2003,0
+Canadian Rockies,Fire,Fire,2003,2003,2500
+Northwestern Glaciated Plains,Fire,Fire,2003,2003,0
+Northwestern Great Plains,Fire,Fire,2003,2003,34700
+Nebraska Sand Hills,Fire,Fire,2003,2003,0
+Piedmont,Fire,Fire,2003,2003,0
+Northern Glaciated Plains,Fire,Fire,2003,2003,0
+Western Corn Belt Plains,Fire,Fire,2003,2003,0
+Lake Agassiz Plain,Fire,Fire,2003,2003,0
+Northern Minnesota Wetlands,Fire,Fire,2003,2003,0
+Northern Lakes and Forests,Fire,Fire,2003,2003,1200
+North Central Hardwood Forests,Fire,Fire,2003,2003,0
+Driftless Area,Fire,Fire,2003,2003,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2003,2003,0
+Central Corn Belt Plains,Fire,Fire,2003,2003,0
+Eastern Corn Belt Plains,Fire,Fire,2003,2003,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2003,2003,0
+Huron/Erie Lake Plains,Fire,Fire,2003,2003,0
+Northeastern Highlands,Fire,Fire,2003,2003,0
+Northeastern Coastal Zone,Fire,Fire,2003,2003,0
+Northern Allegheny Plateau,Fire,Fire,2003,2003,0
+Erie Drift Plain,Fire,Fire,2003,2003,0
+North Central Appalachians,Fire,Fire,2003,2003,0
+Middle Atlantic Coastal Plain,Fire,Fire,2003,2003,0
+Northern Piedmont,Fire,Fire,2003,2003,0
+Southeastern Plains,Fire,Fire,2003,2003,0
+Blue Ridge,Fire,Fire,2003,2003,2100
+Ridge and Valley,Fire,Fire,2003,2003,0
+Southwestern Appalachians,Fire,Fire,2003,2003,0
+Central Appalachians,Fire,Fire,2003,2003,0
+Western Allegheny Plateau,Fire,Fire,2003,2003,0
+Interior Plateau,Fire,Fire,2003,2003,0
+Interior River Valleys and Hills,Fire,Fire,2003,2003,0
+Mississippi Alluvial Plain,Fire,Fire,2003,2003,0
+Mississippi Valley Loess Plains,Fire,Fire,2003,2003,0
+Southern Coastal Plain,Fire,Fire,2003,2003,0
+Southern Florida Coastal Plain,Fire,Fire,2003,2003,0
+North Cascades,Fire,Fire,2003,2003,22300
+Klamath Mountains/California High North Coast Range,Fire,Fire,2003,2003,208500
+Madrean Archipelago,Fire,Fire,2003,2003,47400
+Northern Basin and Range,Fire,Fire,2003,2003,60600
+Sonoran Basin and Range,Fire,Fire,2003,2003,6300
+Acadian Plains and Hills,Fire,Fire,2003,2003,0
+Eastern Great Lakes Lowlands,Fire,Fire,2003,2003,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2003,2003,0
+Southern California/Northern Baja Coast,Fire,Fire,2003,2003,5000
+Coast Range,Fire,Fire,2004,2004,400
+Puget Lowland,Fire,Fire,2004,2004,0
+Willamette Valley,Fire,Fire,2004,2004,0
+Cascades,Fire,Fire,2004,2004,8300
+Sierra Nevada,Fire,Fire,2004,2004,13100
+Central California Foothills and Coastal Mountains,Fire,Fire,2004,2004,36400
+Central California Valley,Fire,Fire,2004,2004,1600
+Southern California Mountains,Fire,Fire,2004,2004,120300
+Eastern Cascades Slopes and Foothills,Fire,Fire,2004,2004,7400
+Columbia Plateau,Fire,Fire,2004,2004,23900
+Blue Mountains,Fire,Fire,2004,2004,86300
+Snake River Plain,Fire,Fire,2004,2004,169800
+Central Basin and Range,Fire,Fire,2004,2004,400800
+Mojave Basin and Range,Fire,Fire,2004,2004,75600
+Northern Rockies,Fire,Fire,2004,2004,6100
+Idaho Batholith,Fire,Fire,2004,2004,127400
+Middle Rockies,Fire,Fire,2004,2004,106100
+Wyoming Basin,Fire,Fire,2004,2004,11500
+Wasatch and Uinta Mountains,Fire,Fire,2004,2004,6400
+Colorado Plateaus,Fire,Fire,2004,2004,15300
+Southern Rockies,Fire,Fire,2004,2004,17300
+Arizona/New Mexico Plateau,Fire,Fire,2004,2004,2700
+Arizona/New Mexico Mountains,Fire,Fire,2004,2004,80700
+Chihuahuan Deserts,Fire,Fire,2004,2004,0
+High Plains,Fire,Fire,2004,2004,73300
+Southwestern Tablelands,Fire,Fire,2004,2004,163700
+Central Great Plains,Fire,Fire,2004,2004,38900
+Flint Hills,Fire,Fire,2004,2004,0
+Cross Timbers,Fire,Fire,2004,2004,0
+Edwards Plateau,Fire,Fire,2004,2004,0
+Southern Texas Plains,Fire,Fire,2004,2004,0
+Texas Blackland Prairies,Fire,Fire,2004,2004,0
+East Central Texas Plains,Fire,Fire,2004,2004,0
+Western Gulf Coastal Plain,Fire,Fire,2004,2004,0
+South Central Plains,Fire,Fire,2004,2004,0
+Ouachita Mountains,Fire,Fire,2004,2004,0
+Arkansas Valley,Fire,Fire,2004,2004,0
+Boston Mountains,Fire,Fire,2004,2004,0
+Ozark Highlands,Fire,Fire,2004,2004,0
+Central Irregular Plains,Fire,Fire,2004,2004,0
+Canadian Rockies,Fire,Fire,2004,2004,16600
+Northwestern Glaciated Plains,Fire,Fire,2004,2004,700
+Northwestern Great Plains,Fire,Fire,2004,2004,266400
+Nebraska Sand Hills,Fire,Fire,2004,2004,2100
+Piedmont,Fire,Fire,2004,2004,0
+Northern Glaciated Plains,Fire,Fire,2004,2004,0
+Western Corn Belt Plains,Fire,Fire,2004,2004,0
+Lake Agassiz Plain,Fire,Fire,2004,2004,0
+Northern Minnesota Wetlands,Fire,Fire,2004,2004,0
+Northern Lakes and Forests,Fire,Fire,2004,2004,18500
+North Central Hardwood Forests,Fire,Fire,2004,2004,0
+Driftless Area,Fire,Fire,2004,2004,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2004,2004,0
+Central Corn Belt Plains,Fire,Fire,2004,2004,0
+Eastern Corn Belt Plains,Fire,Fire,2004,2004,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2004,2004,0
+Huron/Erie Lake Plains,Fire,Fire,2004,2004,0
+Northeastern Highlands,Fire,Fire,2004,2004,0
+Northeastern Coastal Zone,Fire,Fire,2004,2004,0
+Northern Allegheny Plateau,Fire,Fire,2004,2004,0
+Erie Drift Plain,Fire,Fire,2004,2004,0
+North Central Appalachians,Fire,Fire,2004,2004,0
+Middle Atlantic Coastal Plain,Fire,Fire,2004,2004,0
+Northern Piedmont,Fire,Fire,2004,2004,0
+Southeastern Plains,Fire,Fire,2004,2004,0
+Blue Ridge,Fire,Fire,2004,2004,2000
+Ridge and Valley,Fire,Fire,2004,2004,0
+Southwestern Appalachians,Fire,Fire,2004,2004,700
+Central Appalachians,Fire,Fire,2004,2004,0
+Western Allegheny Plateau,Fire,Fire,2004,2004,0
+Interior Plateau,Fire,Fire,2004,2004,0
+Interior River Valleys and Hills,Fire,Fire,2004,2004,0
+Mississippi Alluvial Plain,Fire,Fire,2004,2004,0
+Mississippi Valley Loess Plains,Fire,Fire,2004,2004,0
+Southern Coastal Plain,Fire,Fire,2004,2004,0
+Southern Florida Coastal Plain,Fire,Fire,2004,2004,5600
+North Cascades,Fire,Fire,2004,2004,93300
+Klamath Mountains/California High North Coast Range,Fire,Fire,2004,2004,70000
+Madrean Archipelago,Fire,Fire,2004,2004,1500
+Northern Basin and Range,Fire,Fire,2004,2004,331900
+Sonoran Basin and Range,Fire,Fire,2004,2004,100
+Acadian Plains and Hills,Fire,Fire,2004,2004,0
+Eastern Great Lakes Lowlands,Fire,Fire,2004,2004,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2004,2004,0
+Southern California/Northern Baja Coast,Fire,Fire,2004,2004,21500
+Coast Range,Fire,Fire,2005,2005,3100
+Puget Lowland,Fire,Fire,2005,2005,0
+Willamette Valley,Fire,Fire,2005,2005,0
+Cascades,Fire,Fire,2005,2005,28400
+Sierra Nevada,Fire,Fire,2005,2005,11900
+Central California Foothills and Coastal Mountains,Fire,Fire,2005,2005,18200
+Central California Valley,Fire,Fire,2005,2005,200
+Southern California Mountains,Fire,Fire,2005,2005,103400
+Eastern Cascades Slopes and Foothills,Fire,Fire,2005,2005,2800
+Columbia Plateau,Fire,Fire,2005,2005,2100
+Blue Mountains,Fire,Fire,2005,2005,15700
+Snake River Plain,Fire,Fire,2005,2005,2900
+Central Basin and Range,Fire,Fire,2005,2005,34800
+Mojave Basin and Range,Fire,Fire,2005,2005,0
+Northern Rockies,Fire,Fire,2005,2005,1500
+Idaho Batholith,Fire,Fire,2005,2005,3900
+Middle Rockies,Fire,Fire,2005,2005,8900
+Wyoming Basin,Fire,Fire,2005,2005,0
+Wasatch and Uinta Mountains,Fire,Fire,2005,2005,10700
+Colorado Plateaus,Fire,Fire,2005,2005,7300
+Southern Rockies,Fire,Fire,2005,2005,5100
+Arizona/New Mexico Plateau,Fire,Fire,2005,2005,0
+Arizona/New Mexico Mountains,Fire,Fire,2005,2005,56000
+Chihuahuan Deserts,Fire,Fire,2005,2005,3800
+High Plains,Fire,Fire,2005,2005,34500
+Southwestern Tablelands,Fire,Fire,2005,2005,27800
+Central Great Plains,Fire,Fire,2005,2005,0
+Flint Hills,Fire,Fire,2005,2005,0
+Cross Timbers,Fire,Fire,2005,2005,0
+Edwards Plateau,Fire,Fire,2005,2005,0
+Southern Texas Plains,Fire,Fire,2005,2005,0
+Texas Blackland Prairies,Fire,Fire,2005,2005,0
+East Central Texas Plains,Fire,Fire,2005,2005,0
+Western Gulf Coastal Plain,Fire,Fire,2005,2005,2900
+South Central Plains,Fire,Fire,2005,2005,0
+Ouachita Mountains,Fire,Fire,2005,2005,0
+Arkansas Valley,Fire,Fire,2005,2005,0
+Boston Mountains,Fire,Fire,2005,2005,500
+Ozark Highlands,Fire,Fire,2005,2005,100
+Central Irregular Plains,Fire,Fire,2005,2005,0
+Canadian Rockies,Fire,Fire,2005,2005,1200
+Northwestern Glaciated Plains,Fire,Fire,2005,2005,2100
+Northwestern Great Plains,Fire,Fire,2005,2005,4100
+Nebraska Sand Hills,Fire,Fire,2005,2005,0
+Piedmont,Fire,Fire,2005,2005,0
+Northern Glaciated Plains,Fire,Fire,2005,2005,0
+Western Corn Belt Plains,Fire,Fire,2005,2005,0
+Lake Agassiz Plain,Fire,Fire,2005,2005,0
+Northern Minnesota Wetlands,Fire,Fire,2005,2005,0
+Northern Lakes and Forests,Fire,Fire,2005,2005,1800
+North Central Hardwood Forests,Fire,Fire,2005,2005,0
+Driftless Area,Fire,Fire,2005,2005,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2005,2005,0
+Central Corn Belt Plains,Fire,Fire,2005,2005,0
+Eastern Corn Belt Plains,Fire,Fire,2005,2005,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2005,2005,0
+Huron/Erie Lake Plains,Fire,Fire,2005,2005,0
+Northeastern Highlands,Fire,Fire,2005,2005,0
+Northeastern Coastal Zone,Fire,Fire,2005,2005,0
+Northern Allegheny Plateau,Fire,Fire,2005,2005,0
+Erie Drift Plain,Fire,Fire,2005,2005,0
+North Central Appalachians,Fire,Fire,2005,2005,0
+Middle Atlantic Coastal Plain,Fire,Fire,2005,2005,600
+Northern Piedmont,Fire,Fire,2005,2005,0
+Southeastern Plains,Fire,Fire,2005,2005,0
+Blue Ridge,Fire,Fire,2005,2005,900
+Ridge and Valley,Fire,Fire,2005,2005,0
+Southwestern Appalachians,Fire,Fire,2005,2005,700
+Central Appalachians,Fire,Fire,2005,2005,0
+Western Allegheny Plateau,Fire,Fire,2005,2005,0
+Interior Plateau,Fire,Fire,2005,2005,0
+Interior River Valleys and Hills,Fire,Fire,2005,2005,0
+Mississippi Alluvial Plain,Fire,Fire,2005,2005,0
+Mississippi Valley Loess Plains,Fire,Fire,2005,2005,0
+Southern Coastal Plain,Fire,Fire,2005,2005,0
+Southern Florida Coastal Plain,Fire,Fire,2005,2005,15600
+North Cascades,Fire,Fire,2005,2005,400
+Klamath Mountains/California High North Coast Range,Fire,Fire,2005,2005,3800
+Madrean Archipelago,Fire,Fire,2005,2005,55800
+Northern Basin and Range,Fire,Fire,2005,2005,0
+Sonoran Basin and Range,Fire,Fire,2005,2005,0
+Acadian Plains and Hills,Fire,Fire,2005,2005,0
+Eastern Great Lakes Lowlands,Fire,Fire,2005,2005,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2005,2005,0
+Southern California/Northern Baja Coast,Fire,Fire,2005,2005,9200
+Coast Range,Fire,Fire,2006,2006,0
+Puget Lowland,Fire,Fire,2006,2006,0
+Willamette Valley,Fire,Fire,2006,2006,0
+Cascades,Fire,Fire,2006,2006,2500
+Sierra Nevada,Fire,Fire,2006,2006,16800
+Central California Foothills and Coastal Mountains,Fire,Fire,2006,2006,28700
+Central California Valley,Fire,Fire,2006,2006,0
+Southern California Mountains,Fire,Fire,2006,2006,20100
+Eastern Cascades Slopes and Foothills,Fire,Fire,2006,2006,3200
+Columbia Plateau,Fire,Fire,2006,2006,3100
+Blue Mountains,Fire,Fire,2006,2006,2700
+Snake River Plain,Fire,Fire,2006,2006,400
+Central Basin and Range,Fire,Fire,2006,2006,33400
+Mojave Basin and Range,Fire,Fire,2006,2006,4700
+Northern Rockies,Fire,Fire,2006,2006,0
+Idaho Batholith,Fire,Fire,2006,2006,1600
+Middle Rockies,Fire,Fire,2006,2006,2100
+Wyoming Basin,Fire,Fire,2006,2006,0
+Wasatch and Uinta Mountains,Fire,Fire,2006,2006,3900
+Colorado Plateaus,Fire,Fire,2006,2006,8300
+Southern Rockies,Fire,Fire,2006,2006,5400
+Arizona/New Mexico Plateau,Fire,Fire,2006,2006,2900
+Arizona/New Mexico Mountains,Fire,Fire,2006,2006,122200
+Chihuahuan Deserts,Fire,Fire,2006,2006,0
+High Plains,Fire,Fire,2006,2006,0
+Southwestern Tablelands,Fire,Fire,2006,2006,0
+Central Great Plains,Fire,Fire,2006,2006,0
+Flint Hills,Fire,Fire,2006,2006,0
+Cross Timbers,Fire,Fire,2006,2006,0
+Edwards Plateau,Fire,Fire,2006,2006,0
+Southern Texas Plains,Fire,Fire,2006,2006,0
+Texas Blackland Prairies,Fire,Fire,2006,2006,0
+East Central Texas Plains,Fire,Fire,2006,2006,0
+Western Gulf Coastal Plain,Fire,Fire,2006,2006,1900
+South Central Plains,Fire,Fire,2006,2006,0
+Ouachita Mountains,Fire,Fire,2006,2006,0
+Arkansas Valley,Fire,Fire,2006,2006,0
+Boston Mountains,Fire,Fire,2006,2006,0
+Ozark Highlands,Fire,Fire,2006,2006,0
+Central Irregular Plains,Fire,Fire,2006,2006,0
+Canadian Rockies,Fire,Fire,2006,2006,0
+Northwestern Glaciated Plains,Fire,Fire,2006,2006,0
+Northwestern Great Plains,Fire,Fire,2006,2006,14100
+Nebraska Sand Hills,Fire,Fire,2006,2006,0
+Piedmont,Fire,Fire,2006,2006,0
+Northern Glaciated Plains,Fire,Fire,2006,2006,0
+Western Corn Belt Plains,Fire,Fire,2006,2006,0
+Lake Agassiz Plain,Fire,Fire,2006,2006,0
+Northern Minnesota Wetlands,Fire,Fire,2006,2006,0
+Northern Lakes and Forests,Fire,Fire,2006,2006,3200
+North Central Hardwood Forests,Fire,Fire,2006,2006,0
+Driftless Area,Fire,Fire,2006,2006,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2006,2006,0
+Central Corn Belt Plains,Fire,Fire,2006,2006,0
+Eastern Corn Belt Plains,Fire,Fire,2006,2006,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2006,2006,0
+Huron/Erie Lake Plains,Fire,Fire,2006,2006,0
+Northeastern Highlands,Fire,Fire,2006,2006,0
+Northeastern Coastal Zone,Fire,Fire,2006,2006,0
+Northern Allegheny Plateau,Fire,Fire,2006,2006,0
+Erie Drift Plain,Fire,Fire,2006,2006,0
+North Central Appalachians,Fire,Fire,2006,2006,0
+Middle Atlantic Coastal Plain,Fire,Fire,2006,2006,0
+Northern Piedmont,Fire,Fire,2006,2006,0
+Southeastern Plains,Fire,Fire,2006,2006,0
+Blue Ridge,Fire,Fire,2006,2006,0
+Ridge and Valley,Fire,Fire,2006,2006,0
+Southwestern Appalachians,Fire,Fire,2006,2006,0
+Central Appalachians,Fire,Fire,2006,2006,0
+Western Allegheny Plateau,Fire,Fire,2006,2006,0
+Interior Plateau,Fire,Fire,2006,2006,0
+Interior River Valleys and Hills,Fire,Fire,2006,2006,0
+Mississippi Alluvial Plain,Fire,Fire,2006,2006,0
+Mississippi Valley Loess Plains,Fire,Fire,2006,2006,0
+Southern Coastal Plain,Fire,Fire,2006,2006,0
+Southern Florida Coastal Plain,Fire,Fire,2006,2006,1900
+North Cascades,Fire,Fire,2006,2006,26300
+Klamath Mountains/California High North Coast Range,Fire,Fire,2006,2006,8900
+Madrean Archipelago,Fire,Fire,2006,2006,11600
+Northern Basin and Range,Fire,Fire,2006,2006,1000
+Sonoran Basin and Range,Fire,Fire,2006,2006,1000
+Acadian Plains and Hills,Fire,Fire,2006,2006,0
+Eastern Great Lakes Lowlands,Fire,Fire,2006,2006,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2006,2006,0
+Southern California/Northern Baja Coast,Fire,Fire,2006,2006,14800
+Coast Range,Fire,Fire,2007,2007,9300
+Puget Lowland,Fire,Fire,2007,2007,0
+Willamette Valley,Fire,Fire,2007,2007,0
+Cascades,Fire,Fire,2007,2007,55400
+Sierra Nevada,Fire,Fire,2007,2007,21200
+Central California Foothills and Coastal Mountains,Fire,Fire,2007,2007,19300
+Central California Valley,Fire,Fire,2007,2007,900
+Southern California Mountains,Fire,Fire,2007,2007,117400
+Eastern Cascades Slopes and Foothills,Fire,Fire,2007,2007,25100
+Columbia Plateau,Fire,Fire,2007,2007,4300
+Blue Mountains,Fire,Fire,2007,2007,7000
+Snake River Plain,Fire,Fire,2007,2007,10600
+Central Basin and Range,Fire,Fire,2007,2007,7000
+Mojave Basin and Range,Fire,Fire,2007,2007,16100
+Northern Rockies,Fire,Fire,2007,2007,31400
+Idaho Batholith,Fire,Fire,2007,2007,69900
+Middle Rockies,Fire,Fire,2007,2007,106600
+Wyoming Basin,Fire,Fire,2007,2007,56700
+Wasatch and Uinta Mountains,Fire,Fire,2007,2007,20500
+Colorado Plateaus,Fire,Fire,2007,2007,11200
+Southern Rockies,Fire,Fire,2007,2007,9700
+Arizona/New Mexico Plateau,Fire,Fire,2007,2007,100
+Arizona/New Mexico Mountains,Fire,Fire,2007,2007,129700
+Chihuahuan Deserts,Fire,Fire,2007,2007,0
+High Plains,Fire,Fire,2007,2007,0
+Southwestern Tablelands,Fire,Fire,2007,2007,600
+Central Great Plains,Fire,Fire,2007,2007,0
+Flint Hills,Fire,Fire,2007,2007,0
+Cross Timbers,Fire,Fire,2007,2007,0
+Edwards Plateau,Fire,Fire,2007,2007,0
+Southern Texas Plains,Fire,Fire,2007,2007,0
+Texas Blackland Prairies,Fire,Fire,2007,2007,0
+East Central Texas Plains,Fire,Fire,2007,2007,0
+Western Gulf Coastal Plain,Fire,Fire,2007,2007,0
+South Central Plains,Fire,Fire,2007,2007,0
+Ouachita Mountains,Fire,Fire,2007,2007,0
+Arkansas Valley,Fire,Fire,2007,2007,0
+Boston Mountains,Fire,Fire,2007,2007,0
+Ozark Highlands,Fire,Fire,2007,2007,0
+Central Irregular Plains,Fire,Fire,2007,2007,0
+Canadian Rockies,Fire,Fire,2007,2007,121200
+Northwestern Glaciated Plains,Fire,Fire,2007,2007,500
+Northwestern Great Plains,Fire,Fire,2007,2007,79800
+Nebraska Sand Hills,Fire,Fire,2007,2007,0
+Piedmont,Fire,Fire,2007,2007,0
+Northern Glaciated Plains,Fire,Fire,2007,2007,0
+Western Corn Belt Plains,Fire,Fire,2007,2007,0
+Lake Agassiz Plain,Fire,Fire,2007,2007,0
+Northern Minnesota Wetlands,Fire,Fire,2007,2007,0
+Northern Lakes and Forests,Fire,Fire,2007,2007,2700
+North Central Hardwood Forests,Fire,Fire,2007,2007,0
+Driftless Area,Fire,Fire,2007,2007,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2007,2007,0
+Central Corn Belt Plains,Fire,Fire,2007,2007,0
+Eastern Corn Belt Plains,Fire,Fire,2007,2007,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2007,2007,0
+Huron/Erie Lake Plains,Fire,Fire,2007,2007,0
+Northeastern Highlands,Fire,Fire,2007,2007,0
+Northeastern Coastal Zone,Fire,Fire,2007,2007,0
+Northern Allegheny Plateau,Fire,Fire,2007,2007,0
+Erie Drift Plain,Fire,Fire,2007,2007,0
+North Central Appalachians,Fire,Fire,2007,2007,0
+Middle Atlantic Coastal Plain,Fire,Fire,2007,2007,0
+Northern Piedmont,Fire,Fire,2007,2007,0
+Southeastern Plains,Fire,Fire,2007,2007,0
+Blue Ridge,Fire,Fire,2007,2007,0
+Ridge and Valley,Fire,Fire,2007,2007,0
+Southwestern Appalachians,Fire,Fire,2007,2007,0
+Central Appalachians,Fire,Fire,2007,2007,0
+Western Allegheny Plateau,Fire,Fire,2007,2007,0
+Interior Plateau,Fire,Fire,2007,2007,0
+Interior River Valleys and Hills,Fire,Fire,2007,2007,0
+Mississippi Alluvial Plain,Fire,Fire,2007,2007,0
+Mississippi Valley Loess Plains,Fire,Fire,2007,2007,0
+Southern Coastal Plain,Fire,Fire,2007,2007,0
+Southern Florida Coastal Plain,Fire,Fire,2007,2007,900
+North Cascades,Fire,Fire,2007,2007,45800
+Klamath Mountains/California High North Coast Range,Fire,Fire,2007,2007,6600
+Madrean Archipelago,Fire,Fire,2007,2007,32600
+Northern Basin and Range,Fire,Fire,2007,2007,7400
+Sonoran Basin and Range,Fire,Fire,2007,2007,1400
+Acadian Plains and Hills,Fire,Fire,2007,2007,0
+Eastern Great Lakes Lowlands,Fire,Fire,2007,2007,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2007,2007,0
+Southern California/Northern Baja Coast,Fire,Fire,2007,2007,161700
+Coast Range,Fire,Fire,2008,2008,0
+Puget Lowland,Fire,Fire,2008,2008,0
+Willamette Valley,Fire,Fire,2008,2008,0
+Cascades,Fire,Fire,2008,2008,6900
+Sierra Nevada,Fire,Fire,2008,2008,10100
+Central California Foothills and Coastal Mountains,Fire,Fire,2008,2008,9200
+Central California Valley,Fire,Fire,2008,2008,500
+Southern California Mountains,Fire,Fire,2008,2008,5500
+Eastern Cascades Slopes and Foothills,Fire,Fire,2008,2008,10100
+Columbia Plateau,Fire,Fire,2008,2008,33200
+Blue Mountains,Fire,Fire,2008,2008,4400
+Snake River Plain,Fire,Fire,2008,2008,144100
+Central Basin and Range,Fire,Fire,2008,2008,6000
+Mojave Basin and Range,Fire,Fire,2008,2008,400
+Northern Rockies,Fire,Fire,2008,2008,800
+Idaho Batholith,Fire,Fire,2008,2008,7000
+Middle Rockies,Fire,Fire,2008,2008,7500
+Wyoming Basin,Fire,Fire,2008,2008,5100
+Wasatch and Uinta Mountains,Fire,Fire,2008,2008,19400
+Colorado Plateaus,Fire,Fire,2008,2008,600
+Southern Rockies,Fire,Fire,2008,2008,17900
+Arizona/New Mexico Plateau,Fire,Fire,2008,2008,2500
+Arizona/New Mexico Mountains,Fire,Fire,2008,2008,41400
+Chihuahuan Deserts,Fire,Fire,2008,2008,3200
+High Plains,Fire,Fire,2008,2008,4400
+Southwestern Tablelands,Fire,Fire,2008,2008,6500
+Central Great Plains,Fire,Fire,2008,2008,2400
+Flint Hills,Fire,Fire,2008,2008,0
+Cross Timbers,Fire,Fire,2008,2008,0
+Edwards Plateau,Fire,Fire,2008,2008,0
+Southern Texas Plains,Fire,Fire,2008,2008,0
+Texas Blackland Prairies,Fire,Fire,2008,2008,0
+East Central Texas Plains,Fire,Fire,2008,2008,0
+Western Gulf Coastal Plain,Fire,Fire,2008,2008,3300
+South Central Plains,Fire,Fire,2008,2008,2800
+Ouachita Mountains,Fire,Fire,2008,2008,0
+Arkansas Valley,Fire,Fire,2008,2008,0
+Boston Mountains,Fire,Fire,2008,2008,1800
+Ozark Highlands,Fire,Fire,2008,2008,1300
+Central Irregular Plains,Fire,Fire,2008,2008,0
+Canadian Rockies,Fire,Fire,2008,2008,700
+Northwestern Glaciated Plains,Fire,Fire,2008,2008,700
+Northwestern Great Plains,Fire,Fire,2008,2008,32900
+Nebraska Sand Hills,Fire,Fire,2008,2008,0
+Piedmont,Fire,Fire,2008,2008,0
+Northern Glaciated Plains,Fire,Fire,2008,2008,0
+Western Corn Belt Plains,Fire,Fire,2008,2008,0
+Lake Agassiz Plain,Fire,Fire,2008,2008,0
+Northern Minnesota Wetlands,Fire,Fire,2008,2008,0
+Northern Lakes and Forests,Fire,Fire,2008,2008,9200
+North Central Hardwood Forests,Fire,Fire,2008,2008,0
+Driftless Area,Fire,Fire,2008,2008,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2008,2008,0
+Central Corn Belt Plains,Fire,Fire,2008,2008,0
+Eastern Corn Belt Plains,Fire,Fire,2008,2008,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2008,2008,0
+Huron/Erie Lake Plains,Fire,Fire,2008,2008,0
+Northeastern Highlands,Fire,Fire,2008,2008,0
+Northeastern Coastal Zone,Fire,Fire,2008,2008,0
+Northern Allegheny Plateau,Fire,Fire,2008,2008,0
+Erie Drift Plain,Fire,Fire,2008,2008,0
+North Central Appalachians,Fire,Fire,2008,2008,0
+Middle Atlantic Coastal Plain,Fire,Fire,2008,2008,0
+Northern Piedmont,Fire,Fire,2008,2008,0
+Southeastern Plains,Fire,Fire,2008,2008,0
+Blue Ridge,Fire,Fire,2008,2008,0
+Ridge and Valley,Fire,Fire,2008,2008,0
+Southwestern Appalachians,Fire,Fire,2008,2008,0
+Central Appalachians,Fire,Fire,2008,2008,0
+Western Allegheny Plateau,Fire,Fire,2008,2008,0
+Interior Plateau,Fire,Fire,2008,2008,0
+Interior River Valleys and Hills,Fire,Fire,2008,2008,0
+Mississippi Alluvial Plain,Fire,Fire,2008,2008,0
+Mississippi Valley Loess Plains,Fire,Fire,2008,2008,0
+Southern Coastal Plain,Fire,Fire,2008,2008,600
+Southern Florida Coastal Plain,Fire,Fire,2008,2008,0
+North Cascades,Fire,Fire,2008,2008,7000
+Klamath Mountains/California High North Coast Range,Fire,Fire,2008,2008,3500
+Madrean Archipelago,Fire,Fire,2008,2008,4100
+Northern Basin and Range,Fire,Fire,2008,2008,98800
+Sonoran Basin and Range,Fire,Fire,2008,2008,900
+Acadian Plains and Hills,Fire,Fire,2008,2008,0
+Eastern Great Lakes Lowlands,Fire,Fire,2008,2008,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2008,2008,0
+Southern California/Northern Baja Coast,Fire,Fire,2008,2008,500
+Coast Range,Fire,Fire,2009,2009,300
+Puget Lowland,Fire,Fire,2009,2009,0
+Willamette Valley,Fire,Fire,2009,2009,0
+Cascades,Fire,Fire,2009,2009,10200
+Sierra Nevada,Fire,Fire,2009,2009,126200
+Central California Foothills and Coastal Mountains,Fire,Fire,2009,2009,12300
+Central California Valley,Fire,Fire,2009,2009,0
+Southern California Mountains,Fire,Fire,2009,2009,36500
+Eastern Cascades Slopes and Foothills,Fire,Fire,2009,2009,17900
+Columbia Plateau,Fire,Fire,2009,2009,40900
+Blue Mountains,Fire,Fire,2009,2009,32800
+Snake River Plain,Fire,Fire,2009,2009,36000
+Central Basin and Range,Fire,Fire,2009,2009,75500
+Mojave Basin and Range,Fire,Fire,2009,2009,14400
+Northern Rockies,Fire,Fire,2009,2009,8500
+Idaho Batholith,Fire,Fire,2009,2009,221000
+Middle Rockies,Fire,Fire,2009,2009,24300
+Wyoming Basin,Fire,Fire,2009,2009,900
+Wasatch and Uinta Mountains,Fire,Fire,2009,2009,1100
+Colorado Plateaus,Fire,Fire,2009,2009,1300
+Southern Rockies,Fire,Fire,2009,2009,70300
+Arizona/New Mexico Plateau,Fire,Fire,2009,2009,1100
+Arizona/New Mexico Mountains,Fire,Fire,2009,2009,78000
+Chihuahuan Deserts,Fire,Fire,2009,2009,400
+High Plains,Fire,Fire,2009,2009,0
+Southwestern Tablelands,Fire,Fire,2009,2009,5500
+Central Great Plains,Fire,Fire,2009,2009,0
+Flint Hills,Fire,Fire,2009,2009,0
+Cross Timbers,Fire,Fire,2009,2009,0
+Edwards Plateau,Fire,Fire,2009,2009,0
+Southern Texas Plains,Fire,Fire,2009,2009,0
+Texas Blackland Prairies,Fire,Fire,2009,2009,0
+East Central Texas Plains,Fire,Fire,2009,2009,0
+Western Gulf Coastal Plain,Fire,Fire,2009,2009,9100
+South Central Plains,Fire,Fire,2009,2009,0
+Ouachita Mountains,Fire,Fire,2009,2009,0
+Arkansas Valley,Fire,Fire,2009,2009,0
+Boston Mountains,Fire,Fire,2009,2009,800
+Ozark Highlands,Fire,Fire,2009,2009,500
+Central Irregular Plains,Fire,Fire,2009,2009,0
+Canadian Rockies,Fire,Fire,2009,2009,8600
+Northwestern Glaciated Plains,Fire,Fire,2009,2009,0
+Northwestern Great Plains,Fire,Fire,2009,2009,4500
+Nebraska Sand Hills,Fire,Fire,2009,2009,0
+Piedmont,Fire,Fire,2009,2009,0
+Northern Glaciated Plains,Fire,Fire,2009,2009,0
+Western Corn Belt Plains,Fire,Fire,2009,2009,0
+Lake Agassiz Plain,Fire,Fire,2009,2009,600
+Northern Minnesota Wetlands,Fire,Fire,2009,2009,2700
+Northern Lakes and Forests,Fire,Fire,2009,2009,0
+North Central Hardwood Forests,Fire,Fire,2009,2009,0
+Driftless Area,Fire,Fire,2009,2009,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2009,2009,0
+Central Corn Belt Plains,Fire,Fire,2009,2009,0
+Eastern Corn Belt Plains,Fire,Fire,2009,2009,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2009,2009,0
+Huron/Erie Lake Plains,Fire,Fire,2009,2009,0
+Northeastern Highlands,Fire,Fire,2009,2009,0
+Northeastern Coastal Zone,Fire,Fire,2009,2009,0
+Northern Allegheny Plateau,Fire,Fire,2009,2009,0
+Erie Drift Plain,Fire,Fire,2009,2009,0
+North Central Appalachians,Fire,Fire,2009,2009,0
+Middle Atlantic Coastal Plain,Fire,Fire,2009,2009,400
+Northern Piedmont,Fire,Fire,2009,2009,0
+Southeastern Plains,Fire,Fire,2009,2009,0
+Blue Ridge,Fire,Fire,2009,2009,1600
+Ridge and Valley,Fire,Fire,2009,2009,700
+Southwestern Appalachians,Fire,Fire,2009,2009,0
+Central Appalachians,Fire,Fire,2009,2009,0
+Western Allegheny Plateau,Fire,Fire,2009,2009,0
+Interior Plateau,Fire,Fire,2009,2009,0
+Interior River Valleys and Hills,Fire,Fire,2009,2009,0
+Mississippi Alluvial Plain,Fire,Fire,2009,2009,0
+Mississippi Valley Loess Plains,Fire,Fire,2009,2009,0
+Southern Coastal Plain,Fire,Fire,2009,2009,2600
+Southern Florida Coastal Plain,Fire,Fire,2009,2009,9000
+North Cascades,Fire,Fire,2009,2009,2100
+Klamath Mountains/California High North Coast Range,Fire,Fire,2009,2009,51700
+Madrean Archipelago,Fire,Fire,2009,2009,6300
+Northern Basin and Range,Fire,Fire,2009,2009,65600
+Sonoran Basin and Range,Fire,Fire,2009,2009,4500
+Acadian Plains and Hills,Fire,Fire,2009,2009,0
+Eastern Great Lakes Lowlands,Fire,Fire,2009,2009,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2009,2009,0
+Southern California/Northern Baja Coast,Fire,Fire,2009,2009,13200
+Coast Range,Fire,Fire,2010,2010,0
+Puget Lowland,Fire,Fire,2010,2010,0
+Willamette Valley,Fire,Fire,2010,2010,0
+Cascades,Fire,Fire,2010,2010,42500
+Sierra Nevada,Fire,Fire,2010,2010,34400
+Central California Foothills and Coastal Mountains,Fire,Fire,2010,2010,26500
+Central California Valley,Fire,Fire,2010,2010,0
+Southern California Mountains,Fire,Fire,2010,2010,4400
+Eastern Cascades Slopes and Foothills,Fire,Fire,2010,2010,90200
+Columbia Plateau,Fire,Fire,2010,2010,75200
+Blue Mountains,Fire,Fire,2010,2010,57000
+Snake River Plain,Fire,Fire,2010,2010,163300
+Central Basin and Range,Fire,Fire,2010,2010,197000
+Mojave Basin and Range,Fire,Fire,2010,2010,20400
+Northern Rockies,Fire,Fire,2010,2010,8400
+Idaho Batholith,Fire,Fire,2010,2010,370500
+Middle Rockies,Fire,Fire,2010,2010,116800
+Wyoming Basin,Fire,Fire,2010,2010,6100
+Wasatch and Uinta Mountains,Fire,Fire,2010,2010,27800
+Colorado Plateaus,Fire,Fire,2010,2010,45000
+Southern Rockies,Fire,Fire,2010,2010,116800
+Arizona/New Mexico Plateau,Fire,Fire,2010,2010,26500
+Arizona/New Mexico Mountains,Fire,Fire,2010,2010,175500
+Chihuahuan Deserts,Fire,Fire,2010,2010,600
+High Plains,Fire,Fire,2010,2010,39900
+Southwestern Tablelands,Fire,Fire,2010,2010,1300
+Central Great Plains,Fire,Fire,2010,2010,2500
+Flint Hills,Fire,Fire,2010,2010,600
+Cross Timbers,Fire,Fire,2010,2010,26500
+Edwards Plateau,Fire,Fire,2010,2010,0
+Southern Texas Plains,Fire,Fire,2010,2010,0
+Texas Blackland Prairies,Fire,Fire,2010,2010,0
+East Central Texas Plains,Fire,Fire,2010,2010,0
+Western Gulf Coastal Plain,Fire,Fire,2010,2010,3000
+South Central Plains,Fire,Fire,2010,2010,0
+Ouachita Mountains,Fire,Fire,2010,2010,0
+Arkansas Valley,Fire,Fire,2010,2010,0
+Boston Mountains,Fire,Fire,2010,2010,0
+Ozark Highlands,Fire,Fire,2010,2010,1700
+Central Irregular Plains,Fire,Fire,2010,2010,0
+Canadian Rockies,Fire,Fire,2010,2010,16500
+Northwestern Glaciated Plains,Fire,Fire,2010,2010,28000
+Northwestern Great Plains,Fire,Fire,2010,2010,365900
+Nebraska Sand Hills,Fire,Fire,2010,2010,10300
+Piedmont,Fire,Fire,2010,2010,0
+Northern Glaciated Plains,Fire,Fire,2010,2010,0
+Western Corn Belt Plains,Fire,Fire,2010,2010,0
+Lake Agassiz Plain,Fire,Fire,2010,2010,0
+Northern Minnesota Wetlands,Fire,Fire,2010,2010,10200
+Northern Lakes and Forests,Fire,Fire,2010,2010,0
+North Central Hardwood Forests,Fire,Fire,2010,2010,0
+Driftless Area,Fire,Fire,2010,2010,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2010,2010,0
+Central Corn Belt Plains,Fire,Fire,2010,2010,0
+Eastern Corn Belt Plains,Fire,Fire,2010,2010,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2010,2010,0
+Huron/Erie Lake Plains,Fire,Fire,2010,2010,0
+Northeastern Highlands,Fire,Fire,2010,2010,0
+Northeastern Coastal Zone,Fire,Fire,2010,2010,0
+Northern Allegheny Plateau,Fire,Fire,2010,2010,0
+Erie Drift Plain,Fire,Fire,2010,2010,0
+North Central Appalachians,Fire,Fire,2010,2010,0
+Middle Atlantic Coastal Plain,Fire,Fire,2010,2010,8700
+Northern Piedmont,Fire,Fire,2010,2010,0
+Southeastern Plains,Fire,Fire,2010,2010,0
+Blue Ridge,Fire,Fire,2010,2010,900
+Ridge and Valley,Fire,Fire,2010,2010,14000
+Southwestern Appalachians,Fire,Fire,2010,2010,0
+Central Appalachians,Fire,Fire,2010,2010,0
+Western Allegheny Plateau,Fire,Fire,2010,2010,0
+Interior Plateau,Fire,Fire,2010,2010,0
+Interior River Valleys and Hills,Fire,Fire,2010,2010,0
+Mississippi Alluvial Plain,Fire,Fire,2010,2010,0
+Mississippi Valley Loess Plains,Fire,Fire,2010,2010,0
+Southern Coastal Plain,Fire,Fire,2010,2010,1200
+Southern Florida Coastal Plain,Fire,Fire,2010,2010,5300
+North Cascades,Fire,Fire,2010,2010,23900
+Klamath Mountains/California High North Coast Range,Fire,Fire,2010,2010,51000
+Madrean Archipelago,Fire,Fire,2010,2010,16800
+Northern Basin and Range,Fire,Fire,2010,2010,839900
+Sonoran Basin and Range,Fire,Fire,2010,2010,6500
+Acadian Plains and Hills,Fire,Fire,2010,2010,0
+Eastern Great Lakes Lowlands,Fire,Fire,2010,2010,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2010,2010,0
+Southern California/Northern Baja Coast,Fire,Fire,2010,2010,1500
+Coast Range,Fire,Fire,2011,2011,15700
+Puget Lowland,Fire,Fire,2011,2011,0
+Willamette Valley,Fire,Fire,2011,2011,0
+Cascades,Fire,Fire,2011,2011,33600
+Sierra Nevada,Fire,Fire,2011,2011,91100
+Central California Foothills and Coastal Mountains,Fire,Fire,2011,2011,150500
+Central California Valley,Fire,Fire,2011,2011,1400
+Southern California Mountains,Fire,Fire,2011,2011,5400
+Eastern Cascades Slopes and Foothills,Fire,Fire,2011,2011,9900
+Columbia Plateau,Fire,Fire,2011,2011,41800
+Blue Mountains,Fire,Fire,2011,2011,5700
+Snake River Plain,Fire,Fire,2011,2011,24100
+Central Basin and Range,Fire,Fire,2011,2011,7300
+Mojave Basin and Range,Fire,Fire,2011,2011,0
+Northern Rockies,Fire,Fire,2011,2011,9500
+Idaho Batholith,Fire,Fire,2011,2011,26900
+Middle Rockies,Fire,Fire,2011,2011,45800
+Wyoming Basin,Fire,Fire,2011,2011,10100
+Wasatch and Uinta Mountains,Fire,Fire,2011,2011,700
+Colorado Plateaus,Fire,Fire,2011,2011,1900
+Southern Rockies,Fire,Fire,2011,2011,5000
+Arizona/New Mexico Plateau,Fire,Fire,2011,2011,0
+Arizona/New Mexico Mountains,Fire,Fire,2011,2011,44800
+Chihuahuan Deserts,Fire,Fire,2011,2011,5800
+High Plains,Fire,Fire,2011,2011,600
+Southwestern Tablelands,Fire,Fire,2011,2011,38100
+Central Great Plains,Fire,Fire,2011,2011,0
+Flint Hills,Fire,Fire,2011,2011,0
+Cross Timbers,Fire,Fire,2011,2011,0
+Edwards Plateau,Fire,Fire,2011,2011,0
+Southern Texas Plains,Fire,Fire,2011,2011,0
+Texas Blackland Prairies,Fire,Fire,2011,2011,0
+East Central Texas Plains,Fire,Fire,2011,2011,0
+Western Gulf Coastal Plain,Fire,Fire,2011,2011,1800
+South Central Plains,Fire,Fire,2011,2011,0
+Ouachita Mountains,Fire,Fire,2011,2011,0
+Arkansas Valley,Fire,Fire,2011,2011,0
+Boston Mountains,Fire,Fire,2011,2011,0
+Ozark Highlands,Fire,Fire,2011,2011,0
+Central Irregular Plains,Fire,Fire,2011,2011,0
+Canadian Rockies,Fire,Fire,2011,2011,0
+Northwestern Glaciated Plains,Fire,Fire,2011,2011,4100
+Northwestern Great Plains,Fire,Fire,2011,2011,45400
+Nebraska Sand Hills,Fire,Fire,2011,2011,0
+Piedmont,Fire,Fire,2011,2011,0
+Northern Glaciated Plains,Fire,Fire,2011,2011,0
+Western Corn Belt Plains,Fire,Fire,2011,2011,0
+Lake Agassiz Plain,Fire,Fire,2011,2011,0
+Northern Minnesota Wetlands,Fire,Fire,2011,2011,0
+Northern Lakes and Forests,Fire,Fire,2011,2011,0
+North Central Hardwood Forests,Fire,Fire,2011,2011,0
+Driftless Area,Fire,Fire,2011,2011,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2011,2011,0
+Central Corn Belt Plains,Fire,Fire,2011,2011,0
+Eastern Corn Belt Plains,Fire,Fire,2011,2011,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2011,2011,0
+Huron/Erie Lake Plains,Fire,Fire,2011,2011,0
+Northeastern Highlands,Fire,Fire,2011,2011,0
+Northeastern Coastal Zone,Fire,Fire,2011,2011,0
+Northern Allegheny Plateau,Fire,Fire,2011,2011,0
+Erie Drift Plain,Fire,Fire,2011,2011,0
+North Central Appalachians,Fire,Fire,2011,2011,0
+Middle Atlantic Coastal Plain,Fire,Fire,2011,2011,0
+Northern Piedmont,Fire,Fire,2011,2011,0
+Southeastern Plains,Fire,Fire,2011,2011,0
+Blue Ridge,Fire,Fire,2011,2011,2600
+Ridge and Valley,Fire,Fire,2011,2011,100
+Southwestern Appalachians,Fire,Fire,2011,2011,0
+Central Appalachians,Fire,Fire,2011,2011,0
+Western Allegheny Plateau,Fire,Fire,2011,2011,0
+Interior Plateau,Fire,Fire,2011,2011,0
+Interior River Valleys and Hills,Fire,Fire,2011,2011,0
+Mississippi Alluvial Plain,Fire,Fire,2011,2011,0
+Mississippi Valley Loess Plains,Fire,Fire,2011,2011,0
+Southern Coastal Plain,Fire,Fire,2011,2011,1000
+Southern Florida Coastal Plain,Fire,Fire,2011,2011,21300
+North Cascades,Fire,Fire,2011,2011,0
+Klamath Mountains/California High North Coast Range,Fire,Fire,2011,2011,235000
+Madrean Archipelago,Fire,Fire,2011,2011,29900
+Northern Basin and Range,Fire,Fire,2011,2011,37900
+Sonoran Basin and Range,Fire,Fire,2011,2011,0
+Acadian Plains and Hills,Fire,Fire,2011,2011,0
+Eastern Great Lakes Lowlands,Fire,Fire,2011,2011,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2011,2011,0
+Southern California/Northern Baja Coast,Fire,Fire,2011,2011,23300
+Coast Range,Fire,Fire,2012,2012,4800
+Puget Lowland,Fire,Fire,2012,2012,0
+Willamette Valley,Fire,Fire,2012,2012,0
+Cascades,Fire,Fire,2012,2012,22800
+Sierra Nevada,Fire,Fire,2012,2012,5000
+Central California Foothills and Coastal Mountains,Fire,Fire,2012,2012,11900
+Central California Valley,Fire,Fire,2012,2012,0
+Southern California Mountains,Fire,Fire,2012,2012,100
+Eastern Cascades Slopes and Foothills,Fire,Fire,2012,2012,28800
+Columbia Plateau,Fire,Fire,2012,2012,112900
+Blue Mountains,Fire,Fire,2012,2012,112500
+Snake River Plain,Fire,Fire,2012,2012,20600
+Central Basin and Range,Fire,Fire,2012,2012,16800
+Mojave Basin and Range,Fire,Fire,2012,2012,0
+Northern Rockies,Fire,Fire,2012,2012,10500
+Idaho Batholith,Fire,Fire,2012,2012,5300
+Middle Rockies,Fire,Fire,2012,2012,100
+Wyoming Basin,Fire,Fire,2012,2012,7600
+Wasatch and Uinta Mountains,Fire,Fire,2012,2012,1300
+Colorado Plateaus,Fire,Fire,2012,2012,1100
+Southern Rockies,Fire,Fire,2012,2012,3200
+Arizona/New Mexico Plateau,Fire,Fire,2012,2012,900
+Arizona/New Mexico Mountains,Fire,Fire,2012,2012,42300
+Chihuahuan Deserts,Fire,Fire,2012,2012,500
+High Plains,Fire,Fire,2012,2012,0
+Southwestern Tablelands,Fire,Fire,2012,2012,900
+Central Great Plains,Fire,Fire,2012,2012,0
+Flint Hills,Fire,Fire,2012,2012,0
+Cross Timbers,Fire,Fire,2012,2012,0
+Edwards Plateau,Fire,Fire,2012,2012,0
+Southern Texas Plains,Fire,Fire,2012,2012,0
+Texas Blackland Prairies,Fire,Fire,2012,2012,0
+East Central Texas Plains,Fire,Fire,2012,2012,0
+Western Gulf Coastal Plain,Fire,Fire,2012,2012,17000
+South Central Plains,Fire,Fire,2012,2012,300
+Ouachita Mountains,Fire,Fire,2012,2012,800
+Arkansas Valley,Fire,Fire,2012,2012,0
+Boston Mountains,Fire,Fire,2012,2012,0
+Ozark Highlands,Fire,Fire,2012,2012,0
+Central Irregular Plains,Fire,Fire,2012,2012,0
+Canadian Rockies,Fire,Fire,2012,2012,0
+Northwestern Glaciated Plains,Fire,Fire,2012,2012,1900
+Northwestern Great Plains,Fire,Fire,2012,2012,5000
+Nebraska Sand Hills,Fire,Fire,2012,2012,0
+Piedmont,Fire,Fire,2012,2012,0
+Northern Glaciated Plains,Fire,Fire,2012,2012,0
+Western Corn Belt Plains,Fire,Fire,2012,2012,0
+Lake Agassiz Plain,Fire,Fire,2012,2012,0
+Northern Minnesota Wetlands,Fire,Fire,2012,2012,0
+Northern Lakes and Forests,Fire,Fire,2012,2012,0
+North Central Hardwood Forests,Fire,Fire,2012,2012,0
+Driftless Area,Fire,Fire,2012,2012,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2012,2012,0
+Central Corn Belt Plains,Fire,Fire,2012,2012,0
+Eastern Corn Belt Plains,Fire,Fire,2012,2012,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2012,2012,0
+Huron/Erie Lake Plains,Fire,Fire,2012,2012,0
+Northeastern Highlands,Fire,Fire,2012,2012,0
+Northeastern Coastal Zone,Fire,Fire,2012,2012,0
+Northern Allegheny Plateau,Fire,Fire,2012,2012,0
+Erie Drift Plain,Fire,Fire,2012,2012,0
+North Central Appalachians,Fire,Fire,2012,2012,0
+Middle Atlantic Coastal Plain,Fire,Fire,2012,2012,0
+Northern Piedmont,Fire,Fire,2012,2012,0
+Southeastern Plains,Fire,Fire,2012,2012,1300
+Blue Ridge,Fire,Fire,2012,2012,400
+Ridge and Valley,Fire,Fire,2012,2012,0
+Southwestern Appalachians,Fire,Fire,2012,2012,0
+Central Appalachians,Fire,Fire,2012,2012,0
+Western Allegheny Plateau,Fire,Fire,2012,2012,0
+Interior Plateau,Fire,Fire,2012,2012,0
+Interior River Valleys and Hills,Fire,Fire,2012,2012,0
+Mississippi Alluvial Plain,Fire,Fire,2012,2012,0
+Mississippi Valley Loess Plains,Fire,Fire,2012,2012,0
+Southern Coastal Plain,Fire,Fire,2012,2012,2900
+Southern Florida Coastal Plain,Fire,Fire,2012,2012,4200
+North Cascades,Fire,Fire,2012,2012,57500
+Klamath Mountains/California High North Coast Range,Fire,Fire,2012,2012,5500
+Madrean Archipelago,Fire,Fire,2012,2012,6100
+Northern Basin and Range,Fire,Fire,2012,2012,178600
+Sonoran Basin and Range,Fire,Fire,2012,2012,500
+Acadian Plains and Hills,Fire,Fire,2012,2012,0
+Eastern Great Lakes Lowlands,Fire,Fire,2012,2012,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2012,2012,0
+Southern California/Northern Baja Coast,Fire,Fire,2012,2012,10900
+Coast Range,Fire,Fire,2013,2013,600
+Puget Lowland,Fire,Fire,2013,2013,0
+Willamette Valley,Fire,Fire,2013,2013,0
+Cascades,Fire,Fire,2013,2013,8500
+Sierra Nevada,Fire,Fire,2013,2013,19600
+Central California Foothills and Coastal Mountains,Fire,Fire,2013,2013,18300
+Central California Valley,Fire,Fire,2013,2013,14000
+Southern California Mountains,Fire,Fire,2013,2013,2200
+Eastern Cascades Slopes and Foothills,Fire,Fire,2013,2013,13100
+Columbia Plateau,Fire,Fire,2013,2013,40300
+Blue Mountains,Fire,Fire,2013,2013,43900
+Snake River Plain,Fire,Fire,2013,2013,78100
+Central Basin and Range,Fire,Fire,2013,2013,151800
+Mojave Basin and Range,Fire,Fire,2013,2013,13600
+Northern Rockies,Fire,Fire,2013,2013,1200
+Idaho Batholith,Fire,Fire,2013,2013,39800
+Middle Rockies,Fire,Fire,2013,2013,37400
+Wyoming Basin,Fire,Fire,2013,2013,1100
+Wasatch and Uinta Mountains,Fire,Fire,2013,2013,0
+Colorado Plateaus,Fire,Fire,2013,2013,1200
+Southern Rockies,Fire,Fire,2013,2013,92700
+Arizona/New Mexico Plateau,Fire,Fire,2013,2013,8500
+Arizona/New Mexico Mountains,Fire,Fire,2013,2013,367100
+Chihuahuan Deserts,Fire,Fire,2013,2013,296400
+High Plains,Fire,Fire,2013,2013,142600
+Southwestern Tablelands,Fire,Fire,2013,2013,205400
+Central Great Plains,Fire,Fire,2013,2013,30300
+Flint Hills,Fire,Fire,2013,2013,0
+Cross Timbers,Fire,Fire,2013,2013,56800
+Edwards Plateau,Fire,Fire,2013,2013,79900
+Southern Texas Plains,Fire,Fire,2013,2013,0
+Texas Blackland Prairies,Fire,Fire,2013,2013,0
+East Central Texas Plains,Fire,Fire,2013,2013,0
+Western Gulf Coastal Plain,Fire,Fire,2013,2013,8300
+South Central Plains,Fire,Fire,2013,2013,29900
+Ouachita Mountains,Fire,Fire,2013,2013,0
+Arkansas Valley,Fire,Fire,2013,2013,0
+Boston Mountains,Fire,Fire,2013,2013,0
+Ozark Highlands,Fire,Fire,2013,2013,1000
+Central Irregular Plains,Fire,Fire,2013,2013,0
+Canadian Rockies,Fire,Fire,2013,2013,6200
+Northwestern Glaciated Plains,Fire,Fire,2013,2013,0
+Northwestern Great Plains,Fire,Fire,2013,2013,49900
+Nebraska Sand Hills,Fire,Fire,2013,2013,0
+Piedmont,Fire,Fire,2013,2013,0
+Northern Glaciated Plains,Fire,Fire,2013,2013,0
+Western Corn Belt Plains,Fire,Fire,2013,2013,0
+Lake Agassiz Plain,Fire,Fire,2013,2013,400
+Northern Minnesota Wetlands,Fire,Fire,2013,2013,0
+Northern Lakes and Forests,Fire,Fire,2013,2013,38500
+North Central Hardwood Forests,Fire,Fire,2013,2013,0
+Driftless Area,Fire,Fire,2013,2013,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2013,2013,0
+Central Corn Belt Plains,Fire,Fire,2013,2013,0
+Eastern Corn Belt Plains,Fire,Fire,2013,2013,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2013,2013,0
+Huron/Erie Lake Plains,Fire,Fire,2013,2013,0
+Northeastern Highlands,Fire,Fire,2013,2013,0
+Northeastern Coastal Zone,Fire,Fire,2013,2013,0
+Northern Allegheny Plateau,Fire,Fire,2013,2013,0
+Erie Drift Plain,Fire,Fire,2013,2013,0
+North Central Appalachians,Fire,Fire,2013,2013,0
+Middle Atlantic Coastal Plain,Fire,Fire,2013,2013,36700
+Northern Piedmont,Fire,Fire,2013,2013,0
+Southeastern Plains,Fire,Fire,2013,2013,700
+Blue Ridge,Fire,Fire,2013,2013,800
+Ridge and Valley,Fire,Fire,2013,2013,1300
+Southwestern Appalachians,Fire,Fire,2013,2013,600
+Central Appalachians,Fire,Fire,2013,2013,0
+Western Allegheny Plateau,Fire,Fire,2013,2013,0
+Interior Plateau,Fire,Fire,2013,2013,0
+Interior River Valleys and Hills,Fire,Fire,2013,2013,0
+Mississippi Alluvial Plain,Fire,Fire,2013,2013,0
+Mississippi Valley Loess Plains,Fire,Fire,2013,2013,0
+Southern Coastal Plain,Fire,Fire,2013,2013,154500
+Southern Florida Coastal Plain,Fire,Fire,2013,2013,50400
+North Cascades,Fire,Fire,2013,2013,0
+Klamath Mountains/California High North Coast Range,Fire,Fire,2013,2013,700
+Madrean Archipelago,Fire,Fire,2013,2013,170200
+Northern Basin and Range,Fire,Fire,2013,2013,73500
+Sonoran Basin and Range,Fire,Fire,2013,2013,5200
+Acadian Plains and Hills,Fire,Fire,2013,2013,0
+Eastern Great Lakes Lowlands,Fire,Fire,2013,2013,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2013,2013,0
+Southern California/Northern Baja Coast,Fire,Fire,2013,2013,500
+Coast Range,Fire,Fire,2014,2014,0
+Puget Lowland,Fire,Fire,2014,2014,0
+Willamette Valley,Fire,Fire,2014,2014,0
+Cascades,Fire,Fire,2014,2014,1200
+Sierra Nevada,Fire,Fire,2014,2014,37300
+Central California Foothills and Coastal Mountains,Fire,Fire,2014,2014,9000
+Central California Valley,Fire,Fire,2014,2014,500
+Southern California Mountains,Fire,Fire,2014,2014,2600
+Eastern Cascades Slopes and Foothills,Fire,Fire,2014,2014,20800
+Columbia Plateau,Fire,Fire,2014,2014,35600
+Blue Mountains,Fire,Fire,2014,2014,27700
+Snake River Plain,Fire,Fire,2014,2014,17300
+Central Basin and Range,Fire,Fire,2014,2014,216100
+Mojave Basin and Range,Fire,Fire,2014,2014,0
+Northern Rockies,Fire,Fire,2014,2014,13000
+Idaho Batholith,Fire,Fire,2014,2014,22200
+Middle Rockies,Fire,Fire,2014,2014,39400
+Wyoming Basin,Fire,Fire,2014,2014,700
+Wasatch and Uinta Mountains,Fire,Fire,2014,2014,7700
+Colorado Plateaus,Fire,Fire,2014,2014,2600
+Southern Rockies,Fire,Fire,2014,2014,12900
+Arizona/New Mexico Plateau,Fire,Fire,2014,2014,100
+Arizona/New Mexico Mountains,Fire,Fire,2014,2014,20800
+Chihuahuan Deserts,Fire,Fire,2014,2014,1200
+High Plains,Fire,Fire,2014,2014,600
+Southwestern Tablelands,Fire,Fire,2014,2014,0
+Central Great Plains,Fire,Fire,2014,2014,0
+Flint Hills,Fire,Fire,2014,2014,0
+Cross Timbers,Fire,Fire,2014,2014,0
+Edwards Plateau,Fire,Fire,2014,2014,0
+Southern Texas Plains,Fire,Fire,2014,2014,0
+Texas Blackland Prairies,Fire,Fire,2014,2014,0
+East Central Texas Plains,Fire,Fire,2014,2014,0
+Western Gulf Coastal Plain,Fire,Fire,2014,2014,0
+South Central Plains,Fire,Fire,2014,2014,0
+Ouachita Mountains,Fire,Fire,2014,2014,0
+Arkansas Valley,Fire,Fire,2014,2014,0
+Boston Mountains,Fire,Fire,2014,2014,0
+Ozark Highlands,Fire,Fire,2014,2014,500
+Central Irregular Plains,Fire,Fire,2014,2014,0
+Canadian Rockies,Fire,Fire,2014,2014,37600
+Northwestern Glaciated Plains,Fire,Fire,2014,2014,0
+Northwestern Great Plains,Fire,Fire,2014,2014,1000
+Nebraska Sand Hills,Fire,Fire,2014,2014,0
+Piedmont,Fire,Fire,2014,2014,0
+Northern Glaciated Plains,Fire,Fire,2014,2014,0
+Western Corn Belt Plains,Fire,Fire,2014,2014,0
+Lake Agassiz Plain,Fire,Fire,2014,2014,0
+Northern Minnesota Wetlands,Fire,Fire,2014,2014,0
+Northern Lakes and Forests,Fire,Fire,2014,2014,0
+North Central Hardwood Forests,Fire,Fire,2014,2014,0
+Driftless Area,Fire,Fire,2014,2014,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2014,2014,0
+Central Corn Belt Plains,Fire,Fire,2014,2014,0
+Eastern Corn Belt Plains,Fire,Fire,2014,2014,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2014,2014,0
+Huron/Erie Lake Plains,Fire,Fire,2014,2014,0
+Northeastern Highlands,Fire,Fire,2014,2014,0
+Northeastern Coastal Zone,Fire,Fire,2014,2014,0
+Northern Allegheny Plateau,Fire,Fire,2014,2014,0
+Erie Drift Plain,Fire,Fire,2014,2014,0
+North Central Appalachians,Fire,Fire,2014,2014,0
+Middle Atlantic Coastal Plain,Fire,Fire,2014,2014,0
+Northern Piedmont,Fire,Fire,2014,2014,0
+Southeastern Plains,Fire,Fire,2014,2014,0
+Blue Ridge,Fire,Fire,2014,2014,3600
+Ridge and Valley,Fire,Fire,2014,2014,0
+Southwestern Appalachians,Fire,Fire,2014,2014,0
+Central Appalachians,Fire,Fire,2014,2014,0
+Western Allegheny Plateau,Fire,Fire,2014,2014,0
+Interior Plateau,Fire,Fire,2014,2014,0
+Interior River Valleys and Hills,Fire,Fire,2014,2014,0
+Mississippi Alluvial Plain,Fire,Fire,2014,2014,0
+Mississippi Valley Loess Plains,Fire,Fire,2014,2014,0
+Southern Coastal Plain,Fire,Fire,2014,2014,100
+Southern Florida Coastal Plain,Fire,Fire,2014,2014,20200
+North Cascades,Fire,Fire,2014,2014,35100
+Klamath Mountains/California High North Coast Range,Fire,Fire,2014,2014,14100
+Madrean Archipelago,Fire,Fire,2014,2014,900
+Northern Basin and Range,Fire,Fire,2014,2014,129100
+Sonoran Basin and Range,Fire,Fire,2014,2014,0
+Acadian Plains and Hills,Fire,Fire,2014,2014,0
+Eastern Great Lakes Lowlands,Fire,Fire,2014,2014,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2014,2014,0
+Southern California/Northern Baja Coast,Fire,Fire,2014,2014,7100
+Coast Range,Fire,Fire,2015,2015,1100
+Puget Lowland,Fire,Fire,2015,2015,0
+Willamette Valley,Fire,Fire,2015,2015,0
+Cascades,Fire,Fire,2015,2015,3000
+Sierra Nevada,Fire,Fire,2015,2015,89900
+Central California Foothills and Coastal Mountains,Fire,Fire,2015,2015,86000
+Central California Valley,Fire,Fire,2015,2015,0
+Southern California Mountains,Fire,Fire,2015,2015,12700
+Eastern Cascades Slopes and Foothills,Fire,Fire,2015,2015,3700
+Columbia Plateau,Fire,Fire,2015,2015,100300
+Blue Mountains,Fire,Fire,2015,2015,167200
+Snake River Plain,Fire,Fire,2015,2015,21300
+Central Basin and Range,Fire,Fire,2015,2015,9600
+Mojave Basin and Range,Fire,Fire,2015,2015,2300
+Northern Rockies,Fire,Fire,2015,2015,131800
+Idaho Batholith,Fire,Fire,2015,2015,112700
+Middle Rockies,Fire,Fire,2015,2015,11600
+Wyoming Basin,Fire,Fire,2015,2015,1600
+Wasatch and Uinta Mountains,Fire,Fire,2015,2015,800
+Colorado Plateaus,Fire,Fire,2015,2015,0
+Southern Rockies,Fire,Fire,2015,2015,1100
+Arizona/New Mexico Plateau,Fire,Fire,2015,2015,2000
+Arizona/New Mexico Mountains,Fire,Fire,2015,2015,3400
+Chihuahuan Deserts,Fire,Fire,2015,2015,0
+High Plains,Fire,Fire,2015,2015,700
+Southwestern Tablelands,Fire,Fire,2015,2015,0
+Central Great Plains,Fire,Fire,2015,2015,0
+Flint Hills,Fire,Fire,2015,2015,0
+Cross Timbers,Fire,Fire,2015,2015,0
+Edwards Plateau,Fire,Fire,2015,2015,0
+Southern Texas Plains,Fire,Fire,2015,2015,0
+Texas Blackland Prairies,Fire,Fire,2015,2015,0
+East Central Texas Plains,Fire,Fire,2015,2015,0
+Western Gulf Coastal Plain,Fire,Fire,2015,2015,2000
+South Central Plains,Fire,Fire,2015,2015,0
+Ouachita Mountains,Fire,Fire,2015,2015,0
+Arkansas Valley,Fire,Fire,2015,2015,0
+Boston Mountains,Fire,Fire,2015,2015,0
+Ozark Highlands,Fire,Fire,2015,2015,0
+Central Irregular Plains,Fire,Fire,2015,2015,0
+Canadian Rockies,Fire,Fire,2015,2015,74400
+Northwestern Glaciated Plains,Fire,Fire,2015,2015,500
+Northwestern Great Plains,Fire,Fire,2015,2015,24000
+Nebraska Sand Hills,Fire,Fire,2015,2015,0
+Piedmont,Fire,Fire,2015,2015,0
+Northern Glaciated Plains,Fire,Fire,2015,2015,0
+Western Corn Belt Plains,Fire,Fire,2015,2015,0
+Lake Agassiz Plain,Fire,Fire,2015,2015,600
+Northern Minnesota Wetlands,Fire,Fire,2015,2015,1900
+Northern Lakes and Forests,Fire,Fire,2015,2015,0
+North Central Hardwood Forests,Fire,Fire,2015,2015,0
+Driftless Area,Fire,Fire,2015,2015,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2015,2015,0
+Central Corn Belt Plains,Fire,Fire,2015,2015,0
+Eastern Corn Belt Plains,Fire,Fire,2015,2015,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2015,2015,0
+Huron/Erie Lake Plains,Fire,Fire,2015,2015,0
+Northeastern Highlands,Fire,Fire,2015,2015,0
+Northeastern Coastal Zone,Fire,Fire,2015,2015,0
+Northern Allegheny Plateau,Fire,Fire,2015,2015,0
+Erie Drift Plain,Fire,Fire,2015,2015,0
+North Central Appalachians,Fire,Fire,2015,2015,0
+Middle Atlantic Coastal Plain,Fire,Fire,2015,2015,0
+Northern Piedmont,Fire,Fire,2015,2015,0
+Southeastern Plains,Fire,Fire,2015,2015,0
+Blue Ridge,Fire,Fire,2015,2015,0
+Ridge and Valley,Fire,Fire,2015,2015,0
+Southwestern Appalachians,Fire,Fire,2015,2015,0
+Central Appalachians,Fire,Fire,2015,2015,0
+Western Allegheny Plateau,Fire,Fire,2015,2015,0
+Interior Plateau,Fire,Fire,2015,2015,0
+Interior River Valleys and Hills,Fire,Fire,2015,2015,0
+Mississippi Alluvial Plain,Fire,Fire,2015,2015,0
+Mississippi Valley Loess Plains,Fire,Fire,2015,2015,0
+Southern Coastal Plain,Fire,Fire,2015,2015,2100
+Southern Florida Coastal Plain,Fire,Fire,2015,2015,36200
+North Cascades,Fire,Fire,2015,2015,90600
+Klamath Mountains/California High North Coast Range,Fire,Fire,2015,2015,16700
+Madrean Archipelago,Fire,Fire,2015,2015,0
+Northern Basin and Range,Fire,Fire,2015,2015,120700
+Sonoran Basin and Range,Fire,Fire,2015,2015,0
+Acadian Plains and Hills,Fire,Fire,2015,2015,0
+Eastern Great Lakes Lowlands,Fire,Fire,2015,2015,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2015,2015,0
+Southern California/Northern Baja Coast,Fire,Fire,2015,2015,1100
+Coast Range,Fire,Fire,2016,2016,100
+Puget Lowland,Fire,Fire,2016,2016,0
+Willamette Valley,Fire,Fire,2016,2016,0
+Cascades,Fire,Fire,2016,2016,600
+Sierra Nevada,Fire,Fire,2016,2016,42100
+Central California Foothills and Coastal Mountains,Fire,Fire,2016,2016,102600
+Central California Valley,Fire,Fire,2016,2016,0
+Southern California Mountains,Fire,Fire,2016,2016,37000
+Eastern Cascades Slopes and Foothills,Fire,Fire,2016,2016,2700
+Columbia Plateau,Fire,Fire,2016,2016,103900
+Blue Mountains,Fire,Fire,2016,2016,22300
+Snake River Plain,Fire,Fire,2016,2016,35800
+Central Basin and Range,Fire,Fire,2016,2016,109700
+Mojave Basin and Range,Fire,Fire,2016,2016,8300
+Northern Rockies,Fire,Fire,2016,2016,16900
+Idaho Batholith,Fire,Fire,2016,2016,91900
+Middle Rockies,Fire,Fire,2016,2016,75800
+Wyoming Basin,Fire,Fire,2016,2016,3000
+Wasatch and Uinta Mountains,Fire,Fire,2016,2016,16500
+Colorado Plateaus,Fire,Fire,2016,2016,600
+Southern Rockies,Fire,Fire,2016,2016,35800
+Arizona/New Mexico Plateau,Fire,Fire,2016,2016,2200
+Arizona/New Mexico Mountains,Fire,Fire,2016,2016,97600
+Chihuahuan Deserts,Fire,Fire,2016,2016,700
+High Plains,Fire,Fire,2016,2016,8600
+Southwestern Tablelands,Fire,Fire,2016,2016,3400
+Central Great Plains,Fire,Fire,2016,2016,0
+Flint Hills,Fire,Fire,2016,2016,0
+Cross Timbers,Fire,Fire,2016,2016,0
+Edwards Plateau,Fire,Fire,2016,2016,0
+Southern Texas Plains,Fire,Fire,2016,2016,0
+Texas Blackland Prairies,Fire,Fire,2016,2016,0
+East Central Texas Plains,Fire,Fire,2016,2016,0
+Western Gulf Coastal Plain,Fire,Fire,2016,2016,0
+South Central Plains,Fire,Fire,2016,2016,0
+Ouachita Mountains,Fire,Fire,2016,2016,0
+Arkansas Valley,Fire,Fire,2016,2016,0
+Boston Mountains,Fire,Fire,2016,2016,2700
+Ozark Highlands,Fire,Fire,2016,2016,500
+Central Irregular Plains,Fire,Fire,2016,2016,0
+Canadian Rockies,Fire,Fire,2016,2016,500
+Northwestern Glaciated Plains,Fire,Fire,2016,2016,0
+Northwestern Great Plains,Fire,Fire,2016,2016,14000
+Nebraska Sand Hills,Fire,Fire,2016,2016,0
+Piedmont,Fire,Fire,2016,2016,1800
+Northern Glaciated Plains,Fire,Fire,2016,2016,0
+Western Corn Belt Plains,Fire,Fire,2016,2016,0
+Lake Agassiz Plain,Fire,Fire,2016,2016,0
+Northern Minnesota Wetlands,Fire,Fire,2016,2016,0
+Northern Lakes and Forests,Fire,Fire,2016,2016,0
+North Central Hardwood Forests,Fire,Fire,2016,2016,0
+Driftless Area,Fire,Fire,2016,2016,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2016,2016,0
+Central Corn Belt Plains,Fire,Fire,2016,2016,0
+Eastern Corn Belt Plains,Fire,Fire,2016,2016,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2016,2016,0
+Huron/Erie Lake Plains,Fire,Fire,2016,2016,0
+Northeastern Highlands,Fire,Fire,2016,2016,0
+Northeastern Coastal Zone,Fire,Fire,2016,2016,0
+Northern Allegheny Plateau,Fire,Fire,2016,2016,0
+Erie Drift Plain,Fire,Fire,2016,2016,0
+North Central Appalachians,Fire,Fire,2016,2016,0
+Middle Atlantic Coastal Plain,Fire,Fire,2016,2016,0
+Northern Piedmont,Fire,Fire,2016,2016,0
+Southeastern Plains,Fire,Fire,2016,2016,0
+Blue Ridge,Fire,Fire,2016,2016,49500
+Ridge and Valley,Fire,Fire,2016,2016,100
+Southwestern Appalachians,Fire,Fire,2016,2016,0
+Central Appalachians,Fire,Fire,2016,2016,1000
+Western Allegheny Plateau,Fire,Fire,2016,2016,0
+Interior Plateau,Fire,Fire,2016,2016,0
+Interior River Valleys and Hills,Fire,Fire,2016,2016,0
+Mississippi Alluvial Plain,Fire,Fire,2016,2016,0
+Mississippi Valley Loess Plains,Fire,Fire,2016,2016,0
+Southern Coastal Plain,Fire,Fire,2016,2016,1000
+Southern Florida Coastal Plain,Fire,Fire,2016,2016,5200
+North Cascades,Fire,Fire,2016,2016,2900
+Klamath Mountains/California High North Coast Range,Fire,Fire,2016,2016,14400
+Madrean Archipelago,Fire,Fire,2016,2016,25000
+Northern Basin and Range,Fire,Fire,2016,2016,45600
+Sonoran Basin and Range,Fire,Fire,2016,2016,0
+Acadian Plains and Hills,Fire,Fire,2016,2016,0
+Eastern Great Lakes Lowlands,Fire,Fire,2016,2016,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2016,2016,0
+Southern California/Northern Baja Coast,Fire,Fire,2016,2016,6600
+Coast Range,Fire,Fire,2017,2017,3100
+Puget Lowland,Fire,Fire,2017,2017,0
+Willamette Valley,Fire,Fire,2017,2017,0
+Cascades,Fire,Fire,2017,2017,122400
+Sierra Nevada,Fire,Fire,2017,2017,49300
+Central California Foothills and Coastal Mountains,Fire,Fire,2017,2017,159100
+Central California Valley,Fire,Fire,2017,2017,1800
+Southern California Mountains,Fire,Fire,2017,2017,72400
+Eastern Cascades Slopes and Foothills,Fire,Fire,2017,2017,45500
+Columbia Plateau,Fire,Fire,2017,2017,56900
+Blue Mountains,Fire,Fire,2017,2017,58700
+Snake River Plain,Fire,Fire,2017,2017,107800
+Central Basin and Range,Fire,Fire,2017,2017,381100
+Mojave Basin and Range,Fire,Fire,2017,2017,4900
+Northern Rockies,Fire,Fire,2017,2017,70300
+Idaho Batholith,Fire,Fire,2017,2017,120600
+Middle Rockies,Fire,Fire,2017,2017,140000
+Wyoming Basin,Fire,Fire,2017,2017,9000
+Wasatch and Uinta Mountains,Fire,Fire,2017,2017,33900
+Colorado Plateaus,Fire,Fire,2017,2017,15600
+Southern Rockies,Fire,Fire,2017,2017,7000
+Arizona/New Mexico Plateau,Fire,Fire,2017,2017,900
+Arizona/New Mexico Mountains,Fire,Fire,2017,2017,109500
+Chihuahuan Deserts,Fire,Fire,2017,2017,3800
+High Plains,Fire,Fire,2017,2017,3700
+Southwestern Tablelands,Fire,Fire,2017,2017,259300
+Central Great Plains,Fire,Fire,2017,2017,53000
+Flint Hills,Fire,Fire,2017,2017,0
+Cross Timbers,Fire,Fire,2017,2017,0
+Edwards Plateau,Fire,Fire,2017,2017,0
+Southern Texas Plains,Fire,Fire,2017,2017,0
+Texas Blackland Prairies,Fire,Fire,2017,2017,0
+East Central Texas Plains,Fire,Fire,2017,2017,0
+Western Gulf Coastal Plain,Fire,Fire,2017,2017,9800
+South Central Plains,Fire,Fire,2017,2017,0
+Ouachita Mountains,Fire,Fire,2017,2017,0
+Arkansas Valley,Fire,Fire,2017,2017,0
+Boston Mountains,Fire,Fire,2017,2017,900
+Ozark Highlands,Fire,Fire,2017,2017,500
+Central Irregular Plains,Fire,Fire,2017,2017,0
+Canadian Rockies,Fire,Fire,2017,2017,65400
+Northwestern Glaciated Plains,Fire,Fire,2017,2017,10900
+Northwestern Great Plains,Fire,Fire,2017,2017,353100
+Nebraska Sand Hills,Fire,Fire,2017,2017,0
+Piedmont,Fire,Fire,2017,2017,100
+Northern Glaciated Plains,Fire,Fire,2017,2017,0
+Western Corn Belt Plains,Fire,Fire,2017,2017,300
+Lake Agassiz Plain,Fire,Fire,2017,2017,0
+Northern Minnesota Wetlands,Fire,Fire,2017,2017,600
+Northern Lakes and Forests,Fire,Fire,2017,2017,0
+North Central Hardwood Forests,Fire,Fire,2017,2017,0
+Driftless Area,Fire,Fire,2017,2017,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2017,2017,0
+Central Corn Belt Plains,Fire,Fire,2017,2017,0
+Eastern Corn Belt Plains,Fire,Fire,2017,2017,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2017,2017,0
+Huron/Erie Lake Plains,Fire,Fire,2017,2017,0
+Northeastern Highlands,Fire,Fire,2017,2017,0
+Northeastern Coastal Zone,Fire,Fire,2017,2017,0
+Northern Allegheny Plateau,Fire,Fire,2017,2017,0
+Erie Drift Plain,Fire,Fire,2017,2017,0
+North Central Appalachians,Fire,Fire,2017,2017,0
+Middle Atlantic Coastal Plain,Fire,Fire,2017,2017,1200
+Northern Piedmont,Fire,Fire,2017,2017,0
+Southeastern Plains,Fire,Fire,2017,2017,1300
+Blue Ridge,Fire,Fire,2017,2017,1800
+Ridge and Valley,Fire,Fire,2017,2017,0
+Southwestern Appalachians,Fire,Fire,2017,2017,0
+Central Appalachians,Fire,Fire,2017,2017,0
+Western Allegheny Plateau,Fire,Fire,2017,2017,0
+Interior Plateau,Fire,Fire,2017,2017,0
+Interior River Valleys and Hills,Fire,Fire,2017,2017,0
+Mississippi Alluvial Plain,Fire,Fire,2017,2017,0
+Mississippi Valley Loess Plains,Fire,Fire,2017,2017,0
+Southern Coastal Plain,Fire,Fire,2017,2017,63000
+Southern Florida Coastal Plain,Fire,Fire,2017,2017,35700
+North Cascades,Fire,Fire,2017,2017,58100
+Klamath Mountains/California High North Coast Range,Fire,Fire,2017,2017,205800
+Madrean Archipelago,Fire,Fire,2017,2017,70600
+Northern Basin and Range,Fire,Fire,2017,2017,184500
+Sonoran Basin and Range,Fire,Fire,2017,2017,500
+Acadian Plains and Hills,Fire,Fire,2017,2017,0
+Eastern Great Lakes Lowlands,Fire,Fire,2017,2017,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2017,2017,0
+Southern California/Northern Baja Coast,Fire,Fire,2017,2017,72100
+Coast Range,Fire,Fire,2018,2018,0
+Puget Lowland,Fire,Fire,2018,2018,0
+Willamette Valley,Fire,Fire,2018,2018,0
+Cascades,Fire,Fire,2018,2018,35800
+Sierra Nevada,Fire,Fire,2018,2018,92600
+Central California Foothills and Coastal Mountains,Fire,Fire,2018,2018,192400
+Central California Valley,Fire,Fire,2018,2018,4000
+Southern California Mountains,Fire,Fire,2018,2018,7900
+Eastern Cascades Slopes and Foothills,Fire,Fire,2018,2018,25600
+Columbia Plateau,Fire,Fire,2018,2018,81700
+Blue Mountains,Fire,Fire,2018,2018,12300
+Snake River Plain,Fire,Fire,2018,2018,69500
+Central Basin and Range,Fire,Fire,2018,2018,139700
+Mojave Basin and Range,Fire,Fire,2018,2018,600
+Northern Rockies,Fire,Fire,2018,2018,13900
+Idaho Batholith,Fire,Fire,2018,2018,66700
+Middle Rockies,Fire,Fire,2018,2018,41900
+Wyoming Basin,Fire,Fire,2018,2018,51200
+Wasatch and Uinta Mountains,Fire,Fire,2018,2018,82500
+Colorado Plateaus,Fire,Fire,2018,2018,36300
+Southern Rockies,Fire,Fire,2018,2018,142500
+Arizona/New Mexico Plateau,Fire,Fire,2018,2018,1500
+Arizona/New Mexico Mountains,Fire,Fire,2018,2018,72100
+Chihuahuan Deserts,Fire,Fire,2018,2018,0
+High Plains,Fire,Fire,2018,2018,21500
+Southwestern Tablelands,Fire,Fire,2018,2018,14900
+Central Great Plains,Fire,Fire,2018,2018,1400
+Flint Hills,Fire,Fire,2018,2018,8900
+Cross Timbers,Fire,Fire,2018,2018,15900
+Edwards Plateau,Fire,Fire,2018,2018,0
+Southern Texas Plains,Fire,Fire,2018,2018,0
+Texas Blackland Prairies,Fire,Fire,2018,2018,0
+East Central Texas Plains,Fire,Fire,2018,2018,0
+Western Gulf Coastal Plain,Fire,Fire,2018,2018,0
+South Central Plains,Fire,Fire,2018,2018,0
+Ouachita Mountains,Fire,Fire,2018,2018,700
+Arkansas Valley,Fire,Fire,2018,2018,400
+Boston Mountains,Fire,Fire,2018,2018,0
+Ozark Highlands,Fire,Fire,2018,2018,900
+Central Irregular Plains,Fire,Fire,2018,2018,0
+Canadian Rockies,Fire,Fire,2018,2018,10600
+Northwestern Glaciated Plains,Fire,Fire,2018,2018,2900
+Northwestern Great Plains,Fire,Fire,2018,2018,800
+Nebraska Sand Hills,Fire,Fire,2018,2018,0
+Piedmont,Fire,Fire,2018,2018,0
+Northern Glaciated Plains,Fire,Fire,2018,2018,0
+Western Corn Belt Plains,Fire,Fire,2018,2018,0
+Lake Agassiz Plain,Fire,Fire,2018,2018,0
+Northern Minnesota Wetlands,Fire,Fire,2018,2018,1100
+Northern Lakes and Forests,Fire,Fire,2018,2018,0
+North Central Hardwood Forests,Fire,Fire,2018,2018,0
+Driftless Area,Fire,Fire,2018,2018,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2018,2018,0
+Central Corn Belt Plains,Fire,Fire,2018,2018,0
+Eastern Corn Belt Plains,Fire,Fire,2018,2018,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2018,2018,0
+Huron/Erie Lake Plains,Fire,Fire,2018,2018,0
+Northeastern Highlands,Fire,Fire,2018,2018,0
+Northeastern Coastal Zone,Fire,Fire,2018,2018,0
+Northern Allegheny Plateau,Fire,Fire,2018,2018,0
+Erie Drift Plain,Fire,Fire,2018,2018,0
+North Central Appalachians,Fire,Fire,2018,2018,0
+Middle Atlantic Coastal Plain,Fire,Fire,2018,2018,600
+Northern Piedmont,Fire,Fire,2018,2018,0
+Southeastern Plains,Fire,Fire,2018,2018,0
+Blue Ridge,Fire,Fire,2018,2018,900
+Ridge and Valley,Fire,Fire,2018,2018,0
+Southwestern Appalachians,Fire,Fire,2018,2018,0
+Central Appalachians,Fire,Fire,2018,2018,0
+Western Allegheny Plateau,Fire,Fire,2018,2018,0
+Interior Plateau,Fire,Fire,2018,2018,0
+Interior River Valleys and Hills,Fire,Fire,2018,2018,0
+Mississippi Alluvial Plain,Fire,Fire,2018,2018,0
+Mississippi Valley Loess Plains,Fire,Fire,2018,2018,0
+Southern Coastal Plain,Fire,Fire,2018,2018,2500
+Southern Florida Coastal Plain,Fire,Fire,2018,2018,35400
+North Cascades,Fire,Fire,2018,2018,49100
+Klamath Mountains/California High North Coast Range,Fire,Fire,2018,2018,336400
+Madrean Archipelago,Fire,Fire,2018,2018,36500
+Northern Basin and Range,Fire,Fire,2018,2018,377100
+Sonoran Basin and Range,Fire,Fire,2018,2018,0
+Acadian Plains and Hills,Fire,Fire,2018,2018,0
+Eastern Great Lakes Lowlands,Fire,Fire,2018,2018,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2018,2018,0
+Southern California/Northern Baja Coast,Fire,Fire,2018,2018,51100
+Coast Range,Fire,Fire,2019,2019,0
+Puget Lowland,Fire,Fire,2019,2019,0
+Willamette Valley,Fire,Fire,2019,2019,0
+Cascades,Fire,Fire,2019,2019,100
+Sierra Nevada,Fire,Fire,2019,2019,30900
+Central California Foothills and Coastal Mountains,Fire,Fire,2019,2019,41100
+Central California Valley,Fire,Fire,2019,2019,1500
+Southern California Mountains,Fire,Fire,2019,2019,1900
+Eastern Cascades Slopes and Foothills,Fire,Fire,2019,2019,15400
+Columbia Plateau,Fire,Fire,2019,2019,12900
+Blue Mountains,Fire,Fire,2019,2019,8500
+Snake River Plain,Fire,Fire,2019,2019,67600
+Central Basin and Range,Fire,Fire,2019,2019,38500
+Mojave Basin and Range,Fire,Fire,2019,2019,3100
+Northern Rockies,Fire,Fire,2019,2019,18500
+Idaho Batholith,Fire,Fire,2019,2019,7800
+Middle Rockies,Fire,Fire,2019,2019,7700
+Wyoming Basin,Fire,Fire,2019,2019,10100
+Wasatch and Uinta Mountains,Fire,Fire,2019,2019,5800
+Colorado Plateaus,Fire,Fire,2019,2019,3900
+Southern Rockies,Fire,Fire,2019,2019,10700
+Arizona/New Mexico Plateau,Fire,Fire,2019,2019,6000
+Arizona/New Mexico Mountains,Fire,Fire,2019,2019,110800
+Chihuahuan Deserts,Fire,Fire,2019,2019,0
+High Plains,Fire,Fire,2019,2019,2200
+Southwestern Tablelands,Fire,Fire,2019,2019,14700
+Central Great Plains,Fire,Fire,2019,2019,1000
+Flint Hills,Fire,Fire,2019,2019,200
+Cross Timbers,Fire,Fire,2019,2019,0
+Edwards Plateau,Fire,Fire,2019,2019,500
+Southern Texas Plains,Fire,Fire,2019,2019,0
+Texas Blackland Prairies,Fire,Fire,2019,2019,0
+East Central Texas Plains,Fire,Fire,2019,2019,0
+Western Gulf Coastal Plain,Fire,Fire,2019,2019,0
+South Central Plains,Fire,Fire,2019,2019,0
+Ouachita Mountains,Fire,Fire,2019,2019,9900
+Arkansas Valley,Fire,Fire,2019,2019,900
+Boston Mountains,Fire,Fire,2019,2019,6600
+Ozark Highlands,Fire,Fire,2019,2019,2400
+Central Irregular Plains,Fire,Fire,2019,2019,0
+Canadian Rockies,Fire,Fire,2019,2019,900
+Northwestern Glaciated Plains,Fire,Fire,2019,2019,1400
+Northwestern Great Plains,Fire,Fire,2019,2019,7400
+Nebraska Sand Hills,Fire,Fire,2019,2019,0
+Piedmont,Fire,Fire,2019,2019,300
+Northern Glaciated Plains,Fire,Fire,2019,2019,0
+Western Corn Belt Plains,Fire,Fire,2019,2019,0
+Lake Agassiz Plain,Fire,Fire,2019,2019,0
+Northern Minnesota Wetlands,Fire,Fire,2019,2019,0
+Northern Lakes and Forests,Fire,Fire,2019,2019,0
+North Central Hardwood Forests,Fire,Fire,2019,2019,0
+Driftless Area,Fire,Fire,2019,2019,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2019,2019,0
+Central Corn Belt Plains,Fire,Fire,2019,2019,0
+Eastern Corn Belt Plains,Fire,Fire,2019,2019,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2019,2019,0
+Huron/Erie Lake Plains,Fire,Fire,2019,2019,0
+Northeastern Highlands,Fire,Fire,2019,2019,0
+Northeastern Coastal Zone,Fire,Fire,2019,2019,0
+Northern Allegheny Plateau,Fire,Fire,2019,2019,0
+Erie Drift Plain,Fire,Fire,2019,2019,0
+North Central Appalachians,Fire,Fire,2019,2019,0
+Middle Atlantic Coastal Plain,Fire,Fire,2019,2019,300
+Northern Piedmont,Fire,Fire,2019,2019,0
+Southeastern Plains,Fire,Fire,2019,2019,3500
+Blue Ridge,Fire,Fire,2019,2019,0
+Ridge and Valley,Fire,Fire,2019,2019,1500
+Southwestern Appalachians,Fire,Fire,2019,2019,400
+Central Appalachians,Fire,Fire,2019,2019,0
+Western Allegheny Plateau,Fire,Fire,2019,2019,0
+Interior Plateau,Fire,Fire,2019,2019,0
+Interior River Valleys and Hills,Fire,Fire,2019,2019,0
+Mississippi Alluvial Plain,Fire,Fire,2019,2019,0
+Mississippi Valley Loess Plains,Fire,Fire,2019,2019,0
+Southern Coastal Plain,Fire,Fire,2019,2019,17100
+Southern Florida Coastal Plain,Fire,Fire,2019,2019,5700
+North Cascades,Fire,Fire,2019,2019,0
+Klamath Mountains/California High North Coast Range,Fire,Fire,2019,2019,11100
+Madrean Archipelago,Fire,Fire,2019,2019,17200
+Northern Basin and Range,Fire,Fire,2019,2019,66700
+Sonoran Basin and Range,Fire,Fire,2019,2019,32800
+Acadian Plains and Hills,Fire,Fire,2019,2019,0
+Eastern Great Lakes Lowlands,Fire,Fire,2019,2019,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2019,2019,0
+Southern California/Northern Baja Coast,Fire,Fire,2019,2019,11900
+Coast Range,Fire,Fire,2020,2020,48000
+Puget Lowland,Fire,Fire,2020,2020,0
+Willamette Valley,Fire,Fire,2020,2020,2600
+Cascades,Fire,Fire,2020,2020,329600
+Sierra Nevada,Fire,Fire,2020,2020,277500
+Central California Foothills and Coastal Mountains,Fire,Fire,2020,2020,487500
+Central California Valley,Fire,Fire,2020,2020,0
+Southern California Mountains,Fire,Fire,2020,2020,52100
+Eastern Cascades Slopes and Foothills,Fire,Fire,2020,2020,103400
+Columbia Plateau,Fire,Fire,2020,2020,275400
+Blue Mountains,Fire,Fire,2020,2020,39400
+Snake River Plain,Fire,Fire,2020,2020,17900
+Central Basin and Range,Fire,Fire,2020,2020,131500
+Mojave Basin and Range,Fire,Fire,2020,2020,65400
+Northern Rockies,Fire,Fire,2020,2020,25500
+Idaho Batholith,Fire,Fire,2020,2020,12300
+Middle Rockies,Fire,Fire,2020,2020,14700
+Wyoming Basin,Fire,Fire,2020,2020,10900
+Wasatch and Uinta Mountains,Fire,Fire,2020,2020,21800
+Colorado Plateaus,Fire,Fire,2020,2020,69900
+Southern Rockies,Fire,Fire,2020,2020,62800
+Arizona/New Mexico Plateau,Fire,Fire,2020,2020,13900
+Arizona/New Mexico Mountains,Fire,Fire,2020,2020,226300
+Chihuahuan Deserts,Fire,Fire,2020,2020,0
+High Plains,Fire,Fire,2020,2020,0
+Southwestern Tablelands,Fire,Fire,2020,2020,1700
+Central Great Plains,Fire,Fire,2020,2020,0
+Flint Hills,Fire,Fire,2020,2020,0
+Cross Timbers,Fire,Fire,2020,2020,0
+Edwards Plateau,Fire,Fire,2020,2020,0
+Southern Texas Plains,Fire,Fire,2020,2020,0
+Texas Blackland Prairies,Fire,Fire,2020,2020,0
+East Central Texas Plains,Fire,Fire,2020,2020,0
+Western Gulf Coastal Plain,Fire,Fire,2020,2020,0
+South Central Plains,Fire,Fire,2020,2020,0
+Ouachita Mountains,Fire,Fire,2020,2020,0
+Arkansas Valley,Fire,Fire,2020,2020,0
+Boston Mountains,Fire,Fire,2020,2020,0
+Ozark Highlands,Fire,Fire,2020,2020,0
+Central Irregular Plains,Fire,Fire,2020,2020,0
+Canadian Rockies,Fire,Fire,2020,2020,1300
+Northwestern Glaciated Plains,Fire,Fire,2020,2020,0
+Northwestern Great Plains,Fire,Fire,2020,2020,49400
+Nebraska Sand Hills,Fire,Fire,2020,2020,0
+Piedmont,Fire,Fire,2020,2020,0
+Northern Glaciated Plains,Fire,Fire,2020,2020,0
+Western Corn Belt Plains,Fire,Fire,2020,2020,0
+Lake Agassiz Plain,Fire,Fire,2020,2020,0
+Northern Minnesota Wetlands,Fire,Fire,2020,2020,0
+Northern Lakes and Forests,Fire,Fire,2020,2020,0
+North Central Hardwood Forests,Fire,Fire,2020,2020,0
+Driftless Area,Fire,Fire,2020,2020,0
+Southeastern Wisconsin Till Plains,Fire,Fire,2020,2020,0
+Central Corn Belt Plains,Fire,Fire,2020,2020,0
+Eastern Corn Belt Plains,Fire,Fire,2020,2020,0
+Southern Michigan/Northern Indiana Drift Plains,Fire,Fire,2020,2020,0
+Huron/Erie Lake Plains,Fire,Fire,2020,2020,0
+Northeastern Highlands,Fire,Fire,2020,2020,0
+Northeastern Coastal Zone,Fire,Fire,2020,2020,0
+Northern Allegheny Plateau,Fire,Fire,2020,2020,0
+Erie Drift Plain,Fire,Fire,2020,2020,0
+North Central Appalachians,Fire,Fire,2020,2020,0
+Middle Atlantic Coastal Plain,Fire,Fire,2020,2020,0
+Northern Piedmont,Fire,Fire,2020,2020,0
+Southeastern Plains,Fire,Fire,2020,2020,0
+Blue Ridge,Fire,Fire,2020,2020,0
+Ridge and Valley,Fire,Fire,2020,2020,0
+Southwestern Appalachians,Fire,Fire,2020,2020,0
+Central Appalachians,Fire,Fire,2020,2020,0
+Western Allegheny Plateau,Fire,Fire,2020,2020,0
+Interior Plateau,Fire,Fire,2020,2020,0
+Interior River Valleys and Hills,Fire,Fire,2020,2020,0
+Mississippi Alluvial Plain,Fire,Fire,2020,2020,0
+Mississippi Valley Loess Plains,Fire,Fire,2020,2020,0
+Southern Coastal Plain,Fire,Fire,2020,2020,0
+Southern Florida Coastal Plain,Fire,Fire,2020,2020,23800
+North Cascades,Fire,Fire,2020,2020,10300
+Klamath Mountains/California High North Coast Range,Fire,Fire,2020,2020,397700
+Madrean Archipelago,Fire,Fire,2020,2020,81400
+Northern Basin and Range,Fire,Fire,2020,2020,71100
+Sonoran Basin and Range,Fire,Fire,2020,2020,66900
+Acadian Plains and Hills,Fire,Fire,2020,2020,0
+Eastern Great Lakes Lowlands,Fire,Fire,2020,2020,0
+Atlantic Coastal Pine Barrens,Fire,Fire,2020,2020,0
+Southern California/Northern Baja Coast,Fire,Fire,2020,2020,8600

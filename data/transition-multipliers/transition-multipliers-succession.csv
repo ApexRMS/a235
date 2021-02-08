@@ -1,0 +1,2 @@
+StratumID,TransitionGroupID,Amount,DistributionType,DistributionFrequencyID,DistributionSD,DistributionMin,DistributionMax
+,Succession: Post Fire Recovery,0.064,Normal,Iteration Only,0.027,0.037,0.133

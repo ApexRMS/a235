@@ -1,0 +1,256 @@
+StratumID,TransitionGroupID,Amount
+Acadian Plains and Hills,Fire: High Severity [Type],0
+Acadian Plains and Hills,Fire: Low Severity [Type],0.75
+Acadian Plains and Hills,Fire: Medium Severity [Type],0.25
+Arizona/New Mexico Mountains,Fire: High Severity [Type],0.097475098
+Arizona/New Mexico Mountains,Fire: Low Severity [Type],0.729256428
+Arizona/New Mexico Mountains,Fire: Medium Severity [Type],0.173268473
+Arizona/New Mexico Plateau,Fire: High Severity [Type],0.036015757
+Arizona/New Mexico Plateau,Fire: Low Severity [Type],0.84299381
+Arizona/New Mexico Plateau,Fire: Medium Severity [Type],0.120990433
+Arkansas Valley,Fire: High Severity [Type],0.005263158
+Arkansas Valley,Fire: Low Severity [Type],0.940601504
+Arkansas Valley,Fire: Medium Severity [Type],0.054135338
+Atlantic Coastal Pine Barrens,Fire: High Severity [Type],0.151234568
+Atlantic Coastal Pine Barrens,Fire: Low Severity [Type],0.685185185
+Atlantic Coastal Pine Barrens,Fire: Medium Severity [Type],0.163580247
+Blue Mountains,Fire: High Severity [Type],0.081227249
+Blue Mountains,Fire: Low Severity [Type],0.73374935
+Blue Mountains,Fire: Medium Severity [Type],0.185023401
+Blue Ridge,Fire: High Severity [Type],0.041634541
+Blue Ridge,Fire: Low Severity [Type],0.826522745
+Blue Ridge,Fire: Medium Severity [Type],0.131842714
+Boston Mountains,Fire: High Severity [Type],0.024024024
+Boston Mountains,Fire: Low Severity [Type],0.923723724
+Boston Mountains,Fire: Medium Severity [Type],0.052252252
+Canadian Rockies,Fire: High Severity [Type],0.277628935
+Canadian Rockies,Fire: Low Severity [Type],0.469524447
+Canadian Rockies,Fire: Medium Severity [Type],0.252846618
+Cascades,Fire: High Severity [Type],0.163026105
+Cascades,Fire: Low Severity [Type],0.619072989
+Cascades,Fire: Medium Severity [Type],0.217900906
+Central Appalachians,Fire: High Severity [Type],0.016509434
+Central Appalachians,Fire: Low Severity [Type],0.849056604
+Central Appalachians,Fire: Medium Severity [Type],0.134433962
+Central Basin and Range,Fire: High Severity [Type],0.071144422
+Central Basin and Range,Fire: Low Severity [Type],0.675929663
+Central Basin and Range,Fire: Medium Severity [Type],0.252925915
+Central California Foothills and Coastal Mountains,Fire: High Severity [Type],0.109970127
+Central California Foothills and Coastal Mountains,Fire: Low Severity [Type],0.653846154
+Central California Foothills and Coastal Mountains,Fire: Medium Severity [Type],0.236183719
+Central California Valley,Fire: High Severity [Type],0.081018519
+Central California Valley,Fire: Low Severity [Type],0.803240741
+Central California Valley,Fire: Medium Severity [Type],0.115740741
+Central Corn Belt Plains,Fire: High Severity [Type],0
+Central Corn Belt Plains,Fire: Low Severity [Type],1
+Central Corn Belt Plains,Fire: Medium Severity [Type],0
+Central Great Plains,Fire: High Severity [Type],0.013358269
+Central Great Plains,Fire: Low Severity [Type],0.815923056
+Central Great Plains,Fire: Medium Severity [Type],0.170718675
+Central Irregular Plains,Fire: High Severity [Type],0
+Central Irregular Plains,Fire: Low Severity [Type],0.994571118
+Central Irregular Plains,Fire: Medium Severity [Type],0.005428882
+Chihuahuan Deserts,Fire: High Severity [Type],0.014960498
+Chihuahuan Deserts,Fire: Low Severity [Type],0.826357371
+Chihuahuan Deserts,Fire: Medium Severity [Type],0.158682131
+Coast Range,Fire: High Severity [Type],0.0917603
+Coast Range,Fire: Low Severity [Type],0.765917603
+Coast Range,Fire: Medium Severity [Type],0.142322097
+Colorado Plateaus,Fire: High Severity [Type],0.202921437
+Colorado Plateaus,Fire: Low Severity [Type],0.506908804
+Colorado Plateaus,Fire: Medium Severity [Type],0.290169759
+Columbia Plateau,Fire: High Severity [Type],0.02039949
+Columbia Plateau,Fire: Low Severity [Type],0.783680408
+Columbia Plateau,Fire: Medium Severity [Type],0.195920102
+Cross Timbers,Fire: High Severity [Type],0.023138833
+Cross Timbers,Fire: Low Severity [Type],0.909121395
+Cross Timbers,Fire: Medium Severity [Type],0.067739772
+Driftless Area,Fire: High Severity [Type],0
+Driftless Area,Fire: Low Severity [Type],1
+Driftless Area,Fire: Medium Severity [Type],0
+East Central Texas Plains,Fire: High Severity [Type],0.071225071
+East Central Texas Plains,Fire: Low Severity [Type],0.723646724
+East Central Texas Plains,Fire: Medium Severity [Type],0.205128205
+Eastern Cascades Slopes and Foothills,Fire: High Severity [Type],0.127831094
+Eastern Cascades Slopes and Foothills,Fire: Low Severity [Type],0.694049904
+Eastern Cascades Slopes and Foothills,Fire: Medium Severity [Type],0.178119002
+Eastern Corn Belt Plains,Fire: High Severity [Type],0.031468531
+Eastern Corn Belt Plains,Fire: Low Severity [Type],0.737762238
+Eastern Corn Belt Plains,Fire: Medium Severity [Type],0.230769231
+Eastern Great Lakes Lowlands,Fire: High Severity [Type],0
+Eastern Great Lakes Lowlands,Fire: Low Severity [Type],1
+Eastern Great Lakes Lowlands,Fire: Medium Severity [Type],0
+Edwards Plateau,Fire: High Severity [Type],0.012727273
+Edwards Plateau,Fire: Low Severity [Type],0.768571429
+Edwards Plateau,Fire: Medium Severity [Type],0.218701299
+Erie Drift Plain,Fire: High Severity [Type],0
+Erie Drift Plain,Fire: Low Severity [Type],1
+Erie Drift Plain,Fire: Medium Severity [Type],0
+Flint Hills,Fire: High Severity [Type],0
+Flint Hills,Fire: Low Severity [Type],0.998753278
+Flint Hills,Fire: Medium Severity [Type],0.001246722
+High Plains,Fire: High Severity [Type],0.012636567
+High Plains,Fire: Low Severity [Type],0.871133342
+High Plains,Fire: Medium Severity [Type],0.116230091
+Huron/Erie Lake Plains,Fire: High Severity [Type],0
+Huron/Erie Lake Plains,Fire: Low Severity [Type],1
+Huron/Erie Lake Plains,Fire: Medium Severity [Type],0
+Idaho Batholith,Fire: High Severity [Type],0.206208426
+Idaho Batholith,Fire: Low Severity [Type],0.585820683
+Idaho Batholith,Fire: Medium Severity [Type],0.207970891
+Interior Plateau,Fire: High Severity [Type],0.008888889
+Interior Plateau,Fire: Low Severity [Type],0.915555556
+Interior Plateau,Fire: Medium Severity [Type],0.075555556
+Interior River Valleys and Hills,Fire: High Severity [Type],0.02173913
+Interior River Valleys and Hills,Fire: Low Severity [Type],0.923913043
+Interior River Valleys and Hills,Fire: Medium Severity [Type],0.054347826
+Klamath Mountains/California High North Coast Range,Fire: High Severity [Type],0.199421
+Klamath Mountains/California High North Coast Range,Fire: Low Severity [Type],0.58311992
+Klamath Mountains/California High North Coast Range,Fire: Medium Severity [Type],0.21745908
+Lake Agassiz Plain,Fire: High Severity [Type],0.016973126
+Lake Agassiz Plain,Fire: Low Severity [Type],0.944837341
+Lake Agassiz Plain,Fire: Medium Severity [Type],0.038189533
+Madrean Archipelago,Fire: High Severity [Type],0.049098933
+Madrean Archipelago,Fire: Low Severity [Type],0.751011401
+Madrean Archipelago,Fire: Medium Severity [Type],0.199889665
+Middle Atlantic Coastal Plain,Fire: High Severity [Type],0.066163668
+Middle Atlantic Coastal Plain,Fire: Low Severity [Type],0.810795125
+Middle Atlantic Coastal Plain,Fire: Medium Severity [Type],0.123041207
+Middle Rockies,Fire: High Severity [Type],0.182111829
+Middle Rockies,Fire: Low Severity [Type],0.624526621
+Middle Rockies,Fire: Medium Severity [Type],0.19336155
+Mississippi Alluvial Plain,Fire: High Severity [Type],0.162393162
+Mississippi Alluvial Plain,Fire: Low Severity [Type],0.256410256
+Mississippi Alluvial Plain,Fire: Medium Severity [Type],0.581196581
+Mississippi Valley Loess Plains,Fire: High Severity [Type],0
+Mississippi Valley Loess Plains,Fire: Low Severity [Type],0.96969697
+Mississippi Valley Loess Plains,Fire: Medium Severity [Type],0.03030303
+Mojave Basin and Range,Fire: High Severity [Type],0.053557154
+Mojave Basin and Range,Fire: Low Severity [Type],0.693205436
+Mojave Basin and Range,Fire: Medium Severity [Type],0.25323741
+Nebraska Sand Hills,Fire: High Severity [Type],0
+Nebraska Sand Hills,Fire: Low Severity [Type],0.99376947
+Nebraska Sand Hills,Fire: Medium Severity [Type],0.00623053
+North Cascades,Fire: High Severity [Type],0.265571914
+North Cascades,Fire: Low Severity [Type],0.507361268
+North Cascades,Fire: Medium Severity [Type],0.227066818
+North Central Appalachians,Fire: High Severity [Type],0.162162162
+North Central Appalachians,Fire: Low Severity [Type],0.756756757
+North Central Appalachians,Fire: Medium Severity [Type],0.081081081
+North Central Hardwood Forests,Fire: High Severity [Type],0.039697543
+North Central Hardwood Forests,Fire: Low Severity [Type],0.896030246
+North Central Hardwood Forests,Fire: Medium Severity [Type],0.064272212
+Northeastern Coastal Zone,Fire: High Severity [Type],0
+Northeastern Coastal Zone,Fire: Low Severity [Type],1
+Northeastern Coastal Zone,Fire: Medium Severity [Type],0
+Northeastern Highlands,Fire: High Severity [Type],0
+Northeastern Highlands,Fire: Low Severity [Type],0.8
+Northeastern Highlands,Fire: Medium Severity [Type],0.2
+Northern Allegheny Plateau,Fire: High Severity [Type],0.111111111
+Northern Allegheny Plateau,Fire: Low Severity [Type],0.555555556
+Northern Allegheny Plateau,Fire: Medium Severity [Type],0.333333333
+Northern Basin and Range,Fire: High Severity [Type],0.046160254
+Northern Basin and Range,Fire: Low Severity [Type],0.729135111
+Northern Basin and Range,Fire: Medium Severity [Type],0.224704635
+Northern Glaciated Plains,Fire: High Severity [Type],0.018050542
+Northern Glaciated Plains,Fire: Low Severity [Type],0.945848375
+Northern Glaciated Plains,Fire: Medium Severity [Type],0.036101083
+Northern Lakes and Forests,Fire: High Severity [Type],0.203463203
+Northern Lakes and Forests,Fire: Low Severity [Type],0.624458874
+Northern Lakes and Forests,Fire: Medium Severity [Type],0.172077922
+Northern Minnesota Wetlands,Fire: High Severity [Type],0.01497006
+Northern Minnesota Wetlands,Fire: Low Severity [Type],0.916167665
+Northern Minnesota Wetlands,Fire: Medium Severity [Type],0.068862275
+Northern Piedmont,Fire: High Severity [Type],0
+Northern Piedmont,Fire: Low Severity [Type],1
+Northern Piedmont,Fire: Medium Severity [Type],0
+Northern Rockies,Fire: High Severity [Type],0.119870092
+Northern Rockies,Fire: Low Severity [Type],0.666961913
+Northern Rockies,Fire: Medium Severity [Type],0.213167995
+Northwestern Glaciated Plains,Fire: High Severity [Type],0.018036072
+Northwestern Glaciated Plains,Fire: Low Severity [Type],0.904809619
+Northwestern Glaciated Plains,Fire: Medium Severity [Type],0.077154309
+Northwestern Great Plains,Fire: High Severity [Type],0.067068337
+Northwestern Great Plains,Fire: Low Severity [Type],0.679958776
+Northwestern Great Plains,Fire: Medium Severity [Type],0.252972887
+Ouachita Mountains,Fire: High Severity [Type],0.015917402
+Ouachita Mountains,Fire: Low Severity [Type],0.921703592
+Ouachita Mountains,Fire: Medium Severity [Type],0.062379006
+Ozark Highlands,Fire: High Severity [Type],0.010477787
+Ozark Highlands,Fire: Low Severity [Type],0.906538139
+Ozark Highlands,Fire: Medium Severity [Type],0.082984074
+Piedmont,Fire: High Severity [Type],0.008826775
+Piedmont,Fire: Low Severity [Type],0.89481427
+Piedmont,Fire: Medium Severity [Type],0.096358955
+Puget Lowland,Fire: High Severity [Type],0
+Puget Lowland,Fire: Low Severity [Type],1
+Puget Lowland,Fire: Medium Severity [Type],0
+Ridge and Valley,Fire: High Severity [Type],0.040296925
+Ridge and Valley,Fire: Low Severity [Type],0.825026511
+Ridge and Valley,Fire: Medium Severity [Type],0.134676564
+Sierra Nevada,Fire: High Severity [Type],0.18502907
+Sierra Nevada,Fire: Low Severity [Type],0.585465116
+Sierra Nevada,Fire: Medium Severity [Type],0.229505814
+Snake River Plain,Fire: High Severity [Type],0.017689797
+Snake River Plain,Fire: Low Severity [Type],0.851005581
+Snake River Plain,Fire: Medium Severity [Type],0.131304623
+Sonoran Basin and Range,Fire: High Severity [Type],0.023411371
+Sonoran Basin and Range,Fire: Low Severity [Type],0.895763657
+Sonoran Basin and Range,Fire: Medium Severity [Type],0.080824972
+South Central Plains,Fire: High Severity [Type],0.034978942
+South Central Plains,Fire: Low Severity [Type],0.57569022
+South Central Plains,Fire: Medium Severity [Type],0.389330838
+Southeastern Plains,Fire: High Severity [Type],0.006720978
+Southeastern Plains,Fire: Low Severity [Type],0.9200611
+Southeastern Plains,Fire: Medium Severity [Type],0.073217923
+Southeastern Wisconsin Till Plains,Fire: High Severity [Type],0.018867925
+Southeastern Wisconsin Till Plains,Fire: Low Severity [Type],0.91509434
+Southeastern Wisconsin Till Plains,Fire: Medium Severity [Type],0.066037736
+Southern California Mountains,Fire: High Severity [Type],0.291377876
+Southern California Mountains,Fire: Low Severity [Type],0.422511783
+Southern California Mountains,Fire: Medium Severity [Type],0.286110341
+Southern California/Northern Baja Coast,Fire: High Severity [Type],0.166535896
+Southern California/Northern Baja Coast,Fire: Low Severity [Type],0.58866222
+Southern California/Northern Baja Coast,Fire: Medium Severity [Type],0.244801883
+Southern Coastal Plain,Fire: High Severity [Type],0.029548718
+Southern Coastal Plain,Fire: Low Severity [Type],0.818442926
+Southern Coastal Plain,Fire: Medium Severity [Type],0.152008355
+Southern Florida Coastal Plain,Fire: High Severity [Type],0.013209121
+Southern Florida Coastal Plain,Fire: Low Severity [Type],0.828976641
+Southern Florida Coastal Plain,Fire: Medium Severity [Type],0.157814238
+Southern Michigan/Northern Indiana Drift Plains,Fire: High Severity [Type],0
+Southern Michigan/Northern Indiana Drift Plains,Fire: Low Severity [Type],0.9
+Southern Michigan/Northern Indiana Drift Plains,Fire: Medium Severity [Type],0.1
+Southern Rockies,Fire: High Severity [Type],0.180551686
+Southern Rockies,Fire: Low Severity [Type],0.593062134
+Southern Rockies,Fire: Medium Severity [Type],0.22638618
+Southern Texas Plains,Fire: High Severity [Type],0.002695418
+Southern Texas Plains,Fire: Low Severity [Type],0.822102426
+Southern Texas Plains,Fire: Medium Severity [Type],0.175202156
+Southwestern Appalachians,Fire: High Severity [Type],0.007722008
+Southwestern Appalachians,Fire: Low Severity [Type],0.922779923
+Southwestern Appalachians,Fire: Medium Severity [Type],0.069498069
+Southwestern Tablelands,Fire: High Severity [Type],0.01643408
+Southwestern Tablelands,Fire: Low Severity [Type],0.844748439
+Southwestern Tablelands,Fire: Medium Severity [Type],0.138817481
+Texas Blackland Prairies,Fire: High Severity [Type],0.119047619
+Texas Blackland Prairies,Fire: Low Severity [Type],0.738095238
+Texas Blackland Prairies,Fire: Medium Severity [Type],0.142857143
+Wasatch and Uinta Mountains,Fire: High Severity [Type],0.17472402
+Wasatch and Uinta Mountains,Fire: Low Severity [Type],0.611343738
+Wasatch and Uinta Mountains,Fire: Medium Severity [Type],0.213932242
+Western Allegheny Plateau,Fire: High Severity [Type],0.010989011
+Western Allegheny Plateau,Fire: Low Severity [Type],0.89010989
+Western Allegheny Plateau,Fire: Medium Severity [Type],0.098901099
+Western Corn Belt Plains,Fire: High Severity [Type],0.018817204
+Western Corn Belt Plains,Fire: Low Severity [Type],0.930107527
+Western Corn Belt Plains,Fire: Medium Severity [Type],0.051075269
+Western Gulf Coastal Plain,Fire: High Severity [Type],0.165706338
+Western Gulf Coastal Plain,Fire: Low Severity [Type],0.531094774
+Western Gulf Coastal Plain,Fire: Medium Severity [Type],0.303198887
+Willamette Valley,Fire: High Severity [Type],0
+Willamette Valley,Fire: Low Severity [Type],0.75
+Willamette Valley,Fire: Medium Severity [Type],0.25
+Wyoming Basin,Fire: High Severity [Type],0.091656131
+Wyoming Basin,Fire: Low Severity [Type],0.697850822
+Wyoming Basin,Fire: Medium Severity [Type],0.210493047

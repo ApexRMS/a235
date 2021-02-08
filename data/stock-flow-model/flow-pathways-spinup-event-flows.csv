@@ -1,0 +1,1084 @@
+FromStratumID,FromSecondaryStratumID,FromStateClassID,FromStockTypeID,ToStockTypeID,TransitionGroupID,StateAttributeTypeID,FlowTypeID,Multiplier
+NA,NA,Forest: Alder/Maple Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0046
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0417
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.4175
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.0361
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Alder/Maple Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Alder/Maple Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Alder/Maple Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Alder/Maple Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Alder/Maple Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Alder/Maple Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Alder/Maple Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Alder/Maple Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Alder/Maple Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,1
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0079
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0715
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7153
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0045
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0406
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.4065
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0031
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0282
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2822
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Alder/Maple Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Alder/Maple Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Alder/Maple Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Alder/Maple Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Alder/Maple Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Aspen/Birch Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0113
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1134
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.374
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Aspen/Birch Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Aspen/Birch Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Aspen/Birch Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.8999
+NA,NA,Forest: Aspen/Birch Group,Biomass: Foliage,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Foliage -> Aboveground Very Fast,1e-4
+NA,NA,Forest: Aspen/Birch Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Aspen/Birch Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Aspen/Birch Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Aspen/Birch Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Aspen/Birch Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0
+NA,NA,Forest: Aspen/Birch Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,4e-4
+NA,NA,Forest: Aspen/Birch Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0044
+NA,NA,Forest: Aspen/Birch Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Aspen/Birch Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.9952
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0086
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0776
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7757
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0059
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.053
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5302
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0024
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0215
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2147
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0899
+NA,NA,Forest: Aspen/Birch Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8988
+NA,NA,Forest: Aspen/Birch Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Aspen/Birch Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Aspen/Birch Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Aspen/Birch Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: California Mixed Conifer Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: California Mixed Conifer Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: California Mixed Conifer Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: California Mixed Conifer Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: California Mixed Conifer Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: California Mixed Conifer Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Douglas-fir Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0016
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0141
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1411
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3432
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Douglas-fir Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Douglas-fir Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Douglas-fir Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Douglas-fir Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Douglas-fir Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Douglas-fir Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Douglas-fir Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Douglas-fir Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Douglas-fir Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Douglas-fir Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Douglas-fir Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Douglas-fir Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0079
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0715
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7153
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0045
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0406
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.4065
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0031
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0282
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2822
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Douglas-fir Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Douglas-fir Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Douglas-fir Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Douglas-fir Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Douglas-fir Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0116
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.116
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3711
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,3e-4
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0031
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0306
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.966
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Elm/Ash/Cottonwood Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0116
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.116
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3711
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,3e-4
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0031
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0306
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Exotic Hardwoods Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.966
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Exotic Hardwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Exotic Softwoods Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Exotic Softwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Exotic Softwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Exotic Softwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Exotic Softwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Exotic Softwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Fir/Spruce/Mountain Hemlock Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0016
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0141
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1411
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3432
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0079
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0715
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7153
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0045
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0406
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.4065
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0031
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0282
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2822
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Hemlock/Sitka Spruce Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.012
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1202
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3665
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Loblolly/Shortleaf Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Lodgepole Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Lodgepole Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Lodgepole Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Lodgepole Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Lodgepole Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Lodgepole Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.012
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1202
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3665
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Longleaf/Slash Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Longleaf/Slash Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0116
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.116
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3711
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,3e-4
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0031
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0306
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Maple/Beech/Birch Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.966
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Maple/Beech/Birch Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.012
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1202
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3665
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Oak/Gum/Cypress Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Oak/Gum/Cypress Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Oak/Hickory Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0116
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.116
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3711
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Oak/Hickory Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Oak/Hickory Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Oak/Hickory Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Oak/Hickory Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Oak/Hickory Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Oak/Hickory Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Oak/Hickory Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Oak/Hickory Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,3e-4
+NA,NA,Forest: Oak/Hickory Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0031
+NA,NA,Forest: Oak/Hickory Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0306
+NA,NA,Forest: Oak/Hickory Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Oak/Hickory Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.966
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Oak/Hickory Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Oak/Hickory Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Oak/Hickory Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Oak/Hickory Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Oak/Hickory Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Oak/Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0116
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.116
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3711
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Oak/Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Oak/Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Oak/Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Oak/Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Oak/Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Oak/Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Oak/Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Oak/Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,3e-4
+NA,NA,Forest: Oak/Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0031
+NA,NA,Forest: Oak/Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0306
+NA,NA,Forest: Oak/Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Oak/Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.966
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Oak/Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Oak/Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Oak/Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Oak/Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Oak/Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0018
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0162
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1619
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3201
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.0899
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.8985
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Foliage,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Foliage -> Aboveground Very Fast,0.0016
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Other Western Hardwoods Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,1
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Other Western Hardwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Other Western Softwood Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Other Western Softwood Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Other Western Softwood Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Other Western Softwood Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Other Western Softwood Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Other Western Softwood Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Other Western Softwood Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Other Western Softwood Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Other Western Softwood Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Other Western Softwood Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Other Western Softwood Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Other Western Softwood Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Other Western Softwood Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Other Western Softwood Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Other Western Softwood Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Other Western Softwood Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Other Western Softwood Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Other Western Softwood Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Pinyon/Juniper Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Pinyon/Juniper Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Ponderosa Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Ponderosa Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Ponderosa Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Ponderosa Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Ponderosa Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Ponderosa Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Redwood Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0016
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0141
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1411
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3432
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Redwood Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Redwood Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Redwood Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Redwood Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Redwood Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Redwood Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Redwood Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Redwood Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Redwood Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Redwood Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Redwood Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Redwood Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Redwood Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0079
+NA,NA,Forest: Redwood Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0715
+NA,NA,Forest: Redwood Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7153
+NA,NA,Forest: Redwood Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0045
+NA,NA,Forest: Redwood Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0406
+NA,NA,Forest: Redwood Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.4065
+NA,NA,Forest: Redwood Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0031
+NA,NA,Forest: Redwood Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0282
+NA,NA,Forest: Redwood Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2822
+NA,NA,Forest: Redwood Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Redwood Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Redwood Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Redwood Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Redwood Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Redwood Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Redwood Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Spruce/Fir Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.012
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1202
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3665
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Spruce/Fir Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Spruce/Fir Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Spruce/Fir Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Spruce/Fir Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Spruce/Fir Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Spruce/Fir Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Spruce/Fir Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Spruce/Fir Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Spruce/Fir Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Spruce/Fir Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Spruce/Fir Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Spruce/Fir Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Spruce/Fir Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Spruce/Fir Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Spruce/Fir Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Spruce/Fir Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Spruce/Fir Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0046
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0417
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.4175
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.0361
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Tanoak/Laurel Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,1
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0079
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0715
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7153
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0045
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0406
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.4065
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0031
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0282
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2822
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Tanoak/Laurel Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0116
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.116
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3711
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,3e-4
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0031
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.0306
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Tropical Hardwoods Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.966
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Tropical Hardwoods Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Western Larch Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0026
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0235
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.2349
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.239
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Western Larch Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Western Larch Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Western Larch Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Western Larch Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Western Larch Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Western Larch Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Western Larch Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Western Larch Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Western Larch Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Western Larch Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Western Larch Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Western Larch Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Western Larch Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Western Larch Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Western Larch Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Western Larch Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Western Larch Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Western Oak Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0018
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0162
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1619
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3201
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Western Oak Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Western Oak Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.0899
+NA,NA,Forest: Western Oak Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.8985
+NA,NA,Forest: Western Oak Group,Biomass: Foliage,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Foliage -> Aboveground Very Fast,0.0016
+NA,NA,Forest: Western Oak Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Western Oak Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Western Oak Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Western Oak Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Western Oak Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Western Oak Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,1
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0094
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0843
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.8428
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0082
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0734
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.7338
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0052
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.047
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.4699
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Western Oak Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Western Oak Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Western Oak Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Western Oak Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Western Oak Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Western White Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0016
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.0141
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1411
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3432
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: Western White Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: Western White Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: Western White Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: Western White Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: Western White Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: Western White Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: Western White Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: Western White Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: Western White Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: Western White Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: Western White Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: Western White Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0079
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0715
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.7153
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0045
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0406
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.4065
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0031
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.0282
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2822
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.01
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.09
+NA,NA,Forest: Western White Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.9
+NA,NA,Forest: Western White Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Western White Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: Western White Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: Western White Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Coarse Root,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Aboveground Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Fire: High Severity [Type],NA,Wildfire: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Coarse Root,DOM: Belowground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Coarse Root -> Belowground Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CH4,0.0013
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO,0.012
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Fine Root -> CO2,0.1202
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Aboveground Very Fast,0.3665
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Aboveground Very Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Fire: High Severity [Type],NA,Wildfire: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Fine Root,DOM: Belowground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Fine Root -> Belowground Very Fast,0.5
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Foliage,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Foliage -> CH4,0.01
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Foliage,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO,0.09
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Foliage,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Foliage -> CO2,0.9
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Foliage,DOM: Aboveground Very Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Foliage -> Aboveground Very Fast,1
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Merchantable,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Aboveground Medium,0.03
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Merchantable,DOM: Snag Stem,Fire: High Severity [Type],NA,Wildfire: Merchantable -> Snag Stem,1
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Merchantable,Forestry Sector,Management: Forest Clearcut [Type],NA,97% clear-cut: Merchantable -> Forestry Sector,0.97
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Other Wood,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CH4,0.0025
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Other Wood,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO,0.0225
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Other Wood,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Other Wood -> CO2,0.225
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Other Wood,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Other Wood -> Aboveground Fast,1
+NA,NA,Forest: White/Red/Jack Pine Group,Biomass: Other Wood,DOM: Snag Branch,Fire: High Severity [Type],NA,Wildfire: Other Wood -> Snag Branch,0.75
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CH4,0.0067
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO,0.0606
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Fast -> CO2,0.6056
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Medium,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CH4,0.0058
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Medium,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO,0.0519
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Medium,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Medium -> CO2,0.5189
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Slow,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CH4,0.0027
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Slow,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO,0.024
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Slow,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Slow -> CO2,0.2403
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Very Fast,Atmosphere: CH4,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CH4,0.0099
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO,0.0888
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Aboveground Very Fast,Atmosphere: CO2,Fire: High Severity [Type],NA,Wildfire: Aboveground Very Fast -> CO2,0.8882
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Fire: High Severity [Type],NA,Wildfire: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Snag Branch,DOM: Aboveground Fast,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Branch -> Aboveground Fast,1
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Fire: High Severity [Type],NA,Wildfire: Snag Stem -> Aboveground Medium,1
+NA,NA,Forest: White/Red/Jack Pine Group,DOM: Snag Stem,DOM: Aboveground Medium,Management: Forest Clearcut [Type],NA,97% clear-cut: Snag Stem -> Aboveground Medium,1

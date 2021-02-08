@@ -1,0 +1,13 @@
+Name,Description,Units,IsAuto
+Biomass: Aboveground,Carbon in all aboveground biomass pools,,
+Biomass: Belowground,Carbon in all belowground biomnass pools (coarse plus fine roots),,
+Biomass: Total,Carbon in aboverground and belowground biomass pools,,
+DOM: Aboveground,Carbon in DOM pools above the mineral soil,,
+DOM: Belowground,Carbon in DOM pools in the mineral soil,,
+DOM: Total,Carbon in all DOM pools,,
+Total Ecosystem,Carbon in Biomass and DOM pools,,
+DOM: Deadwood,Snag stems and branches; coarse woody debris on the ground; dead coarse roots,,
+DOM: Litter,Fine and small dead woody debris; dead coarse roots in the forest floor; foliar litter; dead fine roots,,
+DOM: Soil,Dead fine roots in the mineral soil; humified organic matter in the mineral soil,,
+DOM: Standing Deadwood,Snag stems and branches,,
+DOM: Down Deadwood,Dead coarse roots in the mineral soil; coarse woody debris on the ground,,

@@ -1,0 +1,1276 @@
+Timestep,StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+2002,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2002,2002,12000
+2002,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2002,2002,5400
+2002,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2002,2002,800
+2002,Arkansas Valley,Forest Harvest,Forest Harvest,2002,2002,1800
+2002,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2002,2002,600
+2002,Blue Mountains,Forest Harvest,Forest Harvest,2002,2002,20200
+2002,Blue Ridge,Forest Harvest,Forest Harvest,2002,2002,4000
+2002,Boston Mountains,Forest Harvest,Forest Harvest,2002,2002,1100
+2002,Canadian Rockies,Forest Harvest,Forest Harvest,2002,2002,3200
+2002,Cascades,Forest Harvest,Forest Harvest,2002,2002,39900
+2002,Central Appalachians,Forest Harvest,Forest Harvest,2002,2002,7000
+2002,Central Basin and Range,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2002,2002,800
+2002,Central California Valley,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Central Great Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Central Irregular Plains,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Coast Range,Forest Harvest,Forest Harvest,2002,2002,61300
+2002,Colorado Plateaus,Forest Harvest,Forest Harvest,2002,2002,6100
+2002,Columbia Plateau,Forest Harvest,Forest Harvest,2002,2002,300
+2002,Cross Timbers,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Driftless Area,Forest Harvest,Forest Harvest,2002,2002,200
+2002,East Central Texas Plains,Forest Harvest,Forest Harvest,2002,2002,500
+2002,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2002,2002,23600
+2002,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2002,2002,200
+2002,Edwards Plateau,Forest Harvest,Forest Harvest,2002,2002,1600
+2002,Erie Drift Plain,Forest Harvest,Forest Harvest,2002,2002,500
+2002,Flint Hills,Forest Harvest,Forest Harvest,2002,2002,0
+2002,High Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Idaho Batholith,Forest Harvest,Forest Harvest,2002,2002,7800
+2002,Interior Plateau,Forest Harvest,Forest Harvest,2002,2002,6900
+2002,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2002,2002,1400
+2002,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2002,2002,27300
+2002,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Madrean Archipelago,Forest Harvest,Forest Harvest,2002,2002,400
+2002,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2002,2002,27200
+2002,Middle Rockies,Forest Harvest,Forest Harvest,2002,2002,21200
+2002,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2002,2002,3000
+2002,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2002,2002,20000
+2002,Mojave Basin and Range,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2002,2002,0
+2002,North Cascades,Forest Harvest,Forest Harvest,2002,2002,5800
+2002,North Central Appalachians,Forest Harvest,Forest Harvest,2002,2002,5800
+2002,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2002,2002,4100
+2002,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2002,2002,1900
+2002,Northeastern Highlands,Forest Harvest,Forest Harvest,2002,2002,13300
+2002,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2002,2002,200
+2002,Northern Basin and Range,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2002,2002,41200
+2002,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2002,2002,1800
+2002,Northern Piedmont,Forest Harvest,Forest Harvest,2002,2002,900
+2002,Northern Rockies,Forest Harvest,Forest Harvest,2002,2002,53200
+2002,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Northwestern Great Plains,Forest Harvest,Forest Harvest,2002,2002,1600
+2002,Ouachita Mountains,Forest Harvest,Forest Harvest,2002,2002,26300
+2002,Ozark Highlands,Forest Harvest,Forest Harvest,2002,2002,9600
+2002,Piedmont,Forest Harvest,Forest Harvest,2002,2002,70100
+2002,Puget Lowland,Forest Harvest,Forest Harvest,2002,2002,5800
+2002,Ridge and Valley,Forest Harvest,Forest Harvest,2002,2002,14300
+2002,Sierra Nevada,Forest Harvest,Forest Harvest,2002,2002,22400
+2002,Snake River Plain,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2002,2002,0
+2002,South Central Plains,Forest Harvest,Forest Harvest,2002,2002,131200
+2002,Southeastern Plains,Forest Harvest,Forest Harvest,2002,2002,195000
+2002,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Southern California Mountains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Southern Coastal Plain,Forest Harvest,Forest Harvest,2002,2002,67600
+2002,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2002,2002,100
+2002,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2002,2002,400
+2002,Southern Rockies,Forest Harvest,Forest Harvest,2002,2002,7300
+2002,Southern Texas Plains,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Southwestern Appalachians,Forest Harvest,Forest Harvest,2002,2002,18700
+2002,Southwestern Tablelands,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2002,2002,0
+2002,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2002,2002,3600
+2002,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2002,2002,3100
+2002,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2002,2002,200
+2002,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2002,2002,1800
+2002,Willamette Valley,Forest Harvest,Forest Harvest,2002,2002,5100
+2002,Wyoming Basin,Forest Harvest,Forest Harvest,2002,2002,0
+2003,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2003,2003,8100
+2003,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2003,2003,6900
+2003,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2003,2003,300
+2003,Arkansas Valley,Forest Harvest,Forest Harvest,2003,2003,2800
+2003,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2003,2003,1000
+2003,Blue Mountains,Forest Harvest,Forest Harvest,2003,2003,21200
+2003,Blue Ridge,Forest Harvest,Forest Harvest,2003,2003,4600
+2003,Boston Mountains,Forest Harvest,Forest Harvest,2003,2003,2500
+2003,Canadian Rockies,Forest Harvest,Forest Harvest,2003,2003,2500
+2003,Cascades,Forest Harvest,Forest Harvest,2003,2003,48800
+2003,Central Appalachians,Forest Harvest,Forest Harvest,2003,2003,9200
+2003,Central Basin and Range,Forest Harvest,Forest Harvest,2003,2003,200
+2003,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2003,2003,500
+2003,Central California Valley,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Central Great Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Central Irregular Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Coast Range,Forest Harvest,Forest Harvest,2003,2003,60700
+2003,Colorado Plateaus,Forest Harvest,Forest Harvest,2003,2003,9200
+2003,Columbia Plateau,Forest Harvest,Forest Harvest,2003,2003,100
+2003,Cross Timbers,Forest Harvest,Forest Harvest,2003,2003,300
+2003,Driftless Area,Forest Harvest,Forest Harvest,2003,2003,400
+2003,East Central Texas Plains,Forest Harvest,Forest Harvest,2003,2003,1400
+2003,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2003,2003,24700
+2003,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2003,2003,300
+2003,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2003,2003,500
+2003,Edwards Plateau,Forest Harvest,Forest Harvest,2003,2003,1100
+2003,Erie Drift Plain,Forest Harvest,Forest Harvest,2003,2003,400
+2003,Flint Hills,Forest Harvest,Forest Harvest,2003,2003,0
+2003,High Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2003,2003,100
+2003,Idaho Batholith,Forest Harvest,Forest Harvest,2003,2003,7600
+2003,Interior Plateau,Forest Harvest,Forest Harvest,2003,2003,9400
+2003,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2003,2003,700
+2003,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2003,2003,20200
+2003,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Madrean Archipelago,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2003,2003,45000
+2003,Middle Rockies,Forest Harvest,Forest Harvest,2003,2003,17700
+2003,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2003,2003,2500
+2003,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2003,2003,15300
+2003,Mojave Basin and Range,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2003,2003,0
+2003,North Cascades,Forest Harvest,Forest Harvest,2003,2003,5500
+2003,North Central Appalachians,Forest Harvest,Forest Harvest,2003,2003,6900
+2003,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2003,2003,4400
+2003,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2003,2003,1600
+2003,Northeastern Highlands,Forest Harvest,Forest Harvest,2003,2003,17400
+2003,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2003,2003,600
+2003,Northern Basin and Range,Forest Harvest,Forest Harvest,2003,2003,100
+2003,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2003,2003,42000
+2003,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2003,2003,3600
+2003,Northern Piedmont,Forest Harvest,Forest Harvest,2003,2003,1100
+2003,Northern Rockies,Forest Harvest,Forest Harvest,2003,2003,45400
+2003,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Northwestern Great Plains,Forest Harvest,Forest Harvest,2003,2003,2900
+2003,Ouachita Mountains,Forest Harvest,Forest Harvest,2003,2003,21000
+2003,Ozark Highlands,Forest Harvest,Forest Harvest,2003,2003,15500
+2003,Piedmont,Forest Harvest,Forest Harvest,2003,2003,85500
+2003,Puget Lowland,Forest Harvest,Forest Harvest,2003,2003,6300
+2003,Ridge and Valley,Forest Harvest,Forest Harvest,2003,2003,10700
+2003,Sierra Nevada,Forest Harvest,Forest Harvest,2003,2003,46900
+2003,Snake River Plain,Forest Harvest,Forest Harvest,2003,2003,200
+2003,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2003,2003,0
+2003,South Central Plains,Forest Harvest,Forest Harvest,2003,2003,173200
+2003,Southeastern Plains,Forest Harvest,Forest Harvest,2003,2003,212700
+2003,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Southern California Mountains,Forest Harvest,Forest Harvest,2003,2003,500
+2003,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2003,2003,200
+2003,Southern Coastal Plain,Forest Harvest,Forest Harvest,2003,2003,65000
+2003,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2003,2003,400
+2003,Southern Rockies,Forest Harvest,Forest Harvest,2003,2003,11100
+2003,Southern Texas Plains,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Southwestern Appalachians,Forest Harvest,Forest Harvest,2003,2003,16300
+2003,Southwestern Tablelands,Forest Harvest,Forest Harvest,2003,2003,0
+2003,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2003,2003,100
+2003,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2003,2003,2600
+2003,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2003,2003,4000
+2003,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2003,2003,500
+2003,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2003,2003,1600
+2003,Willamette Valley,Forest Harvest,Forest Harvest,2003,2003,6200
+2003,Wyoming Basin,Forest Harvest,Forest Harvest,2003,2003,300
+2004,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2004,2004,13100
+2004,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2004,2004,10300
+2004,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2004,2004,200
+2004,Arkansas Valley,Forest Harvest,Forest Harvest,2004,2004,2500
+2004,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2004,2004,300
+2004,Blue Mountains,Forest Harvest,Forest Harvest,2004,2004,22300
+2004,Blue Ridge,Forest Harvest,Forest Harvest,2004,2004,1200
+2004,Boston Mountains,Forest Harvest,Forest Harvest,2004,2004,2400
+2004,Canadian Rockies,Forest Harvest,Forest Harvest,2004,2004,6100
+2004,Cascades,Forest Harvest,Forest Harvest,2004,2004,60700
+2004,Central Appalachians,Forest Harvest,Forest Harvest,2004,2004,15200
+2004,Central Basin and Range,Forest Harvest,Forest Harvest,2004,2004,500
+2004,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2004,2004,900
+2004,Central California Valley,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Central Great Plains,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Central Irregular Plains,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Coast Range,Forest Harvest,Forest Harvest,2004,2004,65700
+2004,Colorado Plateaus,Forest Harvest,Forest Harvest,2004,2004,3800
+2004,Columbia Plateau,Forest Harvest,Forest Harvest,2004,2004,600
+2004,Cross Timbers,Forest Harvest,Forest Harvest,2004,2004,300
+2004,Driftless Area,Forest Harvest,Forest Harvest,2004,2004,200
+2004,East Central Texas Plains,Forest Harvest,Forest Harvest,2004,2004,1500
+2004,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2004,2004,25000
+2004,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2004,2004,500
+2004,Edwards Plateau,Forest Harvest,Forest Harvest,2004,2004,1600
+2004,Erie Drift Plain,Forest Harvest,Forest Harvest,2004,2004,800
+2004,Flint Hills,Forest Harvest,Forest Harvest,2004,2004,0
+2004,High Plains,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2004,2004,300
+2004,Idaho Batholith,Forest Harvest,Forest Harvest,2004,2004,7000
+2004,Interior Plateau,Forest Harvest,Forest Harvest,2004,2004,11800
+2004,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2004,2004,700
+2004,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2004,2004,23300
+2004,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Madrean Archipelago,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2004,2004,43800
+2004,Middle Rockies,Forest Harvest,Forest Harvest,2004,2004,22300
+2004,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2004,2004,1500
+2004,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2004,2004,15000
+2004,Mojave Basin and Range,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2004,2004,0
+2004,North Cascades,Forest Harvest,Forest Harvest,2004,2004,10600
+2004,North Central Appalachians,Forest Harvest,Forest Harvest,2004,2004,5600
+2004,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2004,2004,4600
+2004,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2004,2004,1700
+2004,Northeastern Highlands,Forest Harvest,Forest Harvest,2004,2004,21600
+2004,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2004,2004,300
+2004,Northern Basin and Range,Forest Harvest,Forest Harvest,2004,2004,100
+2004,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2004,2004,59600
+2004,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2004,2004,4200
+2004,Northern Piedmont,Forest Harvest,Forest Harvest,2004,2004,1100
+2004,Northern Rockies,Forest Harvest,Forest Harvest,2004,2004,59300
+2004,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2004,2004,200
+2004,Northwestern Great Plains,Forest Harvest,Forest Harvest,2004,2004,2700
+2004,Ouachita Mountains,Forest Harvest,Forest Harvest,2004,2004,15600
+2004,Ozark Highlands,Forest Harvest,Forest Harvest,2004,2004,18000
+2004,Piedmont,Forest Harvest,Forest Harvest,2004,2004,77200
+2004,Puget Lowland,Forest Harvest,Forest Harvest,2004,2004,5500
+2004,Ridge and Valley,Forest Harvest,Forest Harvest,2004,2004,13300
+2004,Sierra Nevada,Forest Harvest,Forest Harvest,2004,2004,40100
+2004,Snake River Plain,Forest Harvest,Forest Harvest,2004,2004,300
+2004,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2004,2004,0
+2004,South Central Plains,Forest Harvest,Forest Harvest,2004,2004,109700
+2004,Southeastern Plains,Forest Harvest,Forest Harvest,2004,2004,253700
+2004,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Southern California Mountains,Forest Harvest,Forest Harvest,2004,2004,2000
+2004,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2004,2004,200
+2004,Southern Coastal Plain,Forest Harvest,Forest Harvest,2004,2004,93600
+2004,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2004,2004,800
+2004,Southern Rockies,Forest Harvest,Forest Harvest,2004,2004,9800
+2004,Southern Texas Plains,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Southwestern Appalachians,Forest Harvest,Forest Harvest,2004,2004,11500
+2004,Southwestern Tablelands,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2004,2004,0
+2004,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2004,2004,5200
+2004,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2004,2004,4000
+2004,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2004,2004,200
+2004,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2004,2004,700
+2004,Willamette Valley,Forest Harvest,Forest Harvest,2004,2004,6100
+2004,Wyoming Basin,Forest Harvest,Forest Harvest,2004,2004,200
+2005,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2005,2005,11000
+2005,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2005,2005,6900
+2005,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Arkansas Valley,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2005,2005,600
+2005,Blue Mountains,Forest Harvest,Forest Harvest,2005,2005,13600
+2005,Blue Ridge,Forest Harvest,Forest Harvest,2005,2005,3500
+2005,Boston Mountains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Canadian Rockies,Forest Harvest,Forest Harvest,2005,2005,3300
+2005,Cascades,Forest Harvest,Forest Harvest,2005,2005,60700
+2005,Central Appalachians,Forest Harvest,Forest Harvest,2005,2005,9100
+2005,Central Basin and Range,Forest Harvest,Forest Harvest,2005,2005,900
+2005,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2005,2005,900
+2005,Central California Valley,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Central Great Plains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Central Irregular Plains,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Coast Range,Forest Harvest,Forest Harvest,2005,2005,65000
+2005,Colorado Plateaus,Forest Harvest,Forest Harvest,2005,2005,2200
+2005,Columbia Plateau,Forest Harvest,Forest Harvest,2005,2005,200
+2005,Cross Timbers,Forest Harvest,Forest Harvest,2005,2005,300
+2005,Driftless Area,Forest Harvest,Forest Harvest,2005,2005,600
+2005,East Central Texas Plains,Forest Harvest,Forest Harvest,2005,2005,1900
+2005,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2005,2005,26700
+2005,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2005,2005,1100
+2005,Edwards Plateau,Forest Harvest,Forest Harvest,2005,2005,1700
+2005,Erie Drift Plain,Forest Harvest,Forest Harvest,2005,2005,500
+2005,Flint Hills,Forest Harvest,Forest Harvest,2005,2005,0
+2005,High Plains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Idaho Batholith,Forest Harvest,Forest Harvest,2005,2005,6000
+2005,Interior Plateau,Forest Harvest,Forest Harvest,2005,2005,12400
+2005,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2005,2005,1200
+2005,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2005,2005,23800
+2005,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Madrean Archipelago,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2005,2005,52700
+2005,Middle Rockies,Forest Harvest,Forest Harvest,2005,2005,19400
+2005,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2005,2005,2500
+2005,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2005,2005,16100
+2005,Mojave Basin and Range,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2005,2005,0
+2005,North Cascades,Forest Harvest,Forest Harvest,2005,2005,7300
+2005,North Central Appalachians,Forest Harvest,Forest Harvest,2005,2005,5100
+2005,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2005,2005,2400
+2005,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2005,2005,1600
+2005,Northeastern Highlands,Forest Harvest,Forest Harvest,2005,2005,19900
+2005,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2005,2005,1000
+2005,Northern Basin and Range,Forest Harvest,Forest Harvest,2005,2005,500
+2005,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2005,2005,38900
+2005,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2005,2005,900
+2005,Northern Piedmont,Forest Harvest,Forest Harvest,2005,2005,700
+2005,Northern Rockies,Forest Harvest,Forest Harvest,2005,2005,64800
+2005,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Northwestern Great Plains,Forest Harvest,Forest Harvest,2005,2005,1700
+2005,Ouachita Mountains,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Ozark Highlands,Forest Harvest,Forest Harvest,2005,2005,4900
+2005,Piedmont,Forest Harvest,Forest Harvest,2005,2005,87100
+2005,Puget Lowland,Forest Harvest,Forest Harvest,2005,2005,7100
+2005,Ridge and Valley,Forest Harvest,Forest Harvest,2005,2005,11200
+2005,Sierra Nevada,Forest Harvest,Forest Harvest,2005,2005,36800
+2005,Snake River Plain,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2005,2005,0
+2005,South Central Plains,Forest Harvest,Forest Harvest,2005,2005,168600
+2005,Southeastern Plains,Forest Harvest,Forest Harvest,2005,2005,240400
+2005,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Southern California Mountains,Forest Harvest,Forest Harvest,2005,2005,2600
+2005,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Southern Coastal Plain,Forest Harvest,Forest Harvest,2005,2005,90000
+2005,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2005,2005,100
+2005,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2005,2005,700
+2005,Southern Rockies,Forest Harvest,Forest Harvest,2005,2005,8800
+2005,Southern Texas Plains,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Southwestern Appalachians,Forest Harvest,Forest Harvest,2005,2005,18400
+2005,Southwestern Tablelands,Forest Harvest,Forest Harvest,2005,2005,0
+2005,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2005,2005,300
+2005,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2005,2005,4700
+2005,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2005,2005,3300
+2005,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2005,2005,300
+2005,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2005,2005,2100
+2005,Willamette Valley,Forest Harvest,Forest Harvest,2005,2005,5400
+2005,Wyoming Basin,Forest Harvest,Forest Harvest,2005,2005,0
+2006,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2006,2006,8300
+2006,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2006,2006,7600
+2006,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2006,2006,600
+2006,Arkansas Valley,Forest Harvest,Forest Harvest,2006,2006,2600
+2006,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2006,2006,700
+2006,Blue Mountains,Forest Harvest,Forest Harvest,2006,2006,18000
+2006,Blue Ridge,Forest Harvest,Forest Harvest,2006,2006,4300
+2006,Boston Mountains,Forest Harvest,Forest Harvest,2006,2006,2200
+2006,Canadian Rockies,Forest Harvest,Forest Harvest,2006,2006,2000
+2006,Cascades,Forest Harvest,Forest Harvest,2006,2006,51300
+2006,Central Appalachians,Forest Harvest,Forest Harvest,2006,2006,10700
+2006,Central Basin and Range,Forest Harvest,Forest Harvest,2006,2006,500
+2006,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2006,2006,700
+2006,Central California Valley,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Central Great Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Central Irregular Plains,Forest Harvest,Forest Harvest,2006,2006,200
+2006,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Coast Range,Forest Harvest,Forest Harvest,2006,2006,62800
+2006,Colorado Plateaus,Forest Harvest,Forest Harvest,2006,2006,4300
+2006,Columbia Plateau,Forest Harvest,Forest Harvest,2006,2006,800
+2006,Cross Timbers,Forest Harvest,Forest Harvest,2006,2006,400
+2006,Driftless Area,Forest Harvest,Forest Harvest,2006,2006,400
+2006,East Central Texas Plains,Forest Harvest,Forest Harvest,2006,2006,1600
+2006,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2006,2006,37900
+2006,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2006,2006,600
+2006,Edwards Plateau,Forest Harvest,Forest Harvest,2006,2006,1700
+2006,Erie Drift Plain,Forest Harvest,Forest Harvest,2006,2006,300
+2006,Flint Hills,Forest Harvest,Forest Harvest,2006,2006,0
+2006,High Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2006,2006,400
+2006,Idaho Batholith,Forest Harvest,Forest Harvest,2006,2006,5600
+2006,Interior Plateau,Forest Harvest,Forest Harvest,2006,2006,11800
+2006,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2006,2006,1300
+2006,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2006,2006,23300
+2006,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Madrean Archipelago,Forest Harvest,Forest Harvest,2006,2006,100
+2006,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2006,2006,35800
+2006,Middle Rockies,Forest Harvest,Forest Harvest,2006,2006,22600
+2006,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2006,2006,600
+2006,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2006,2006,9400
+2006,Mojave Basin and Range,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2006,2006,0
+2006,North Cascades,Forest Harvest,Forest Harvest,2006,2006,6700
+2006,North Central Appalachians,Forest Harvest,Forest Harvest,2006,2006,4200
+2006,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2006,2006,4100
+2006,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2006,2006,600
+2006,Northeastern Highlands,Forest Harvest,Forest Harvest,2006,2006,21400
+2006,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2006,2006,400
+2006,Northern Basin and Range,Forest Harvest,Forest Harvest,2006,2006,300
+2006,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2006,2006,35900
+2006,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2006,2006,1200
+2006,Northern Piedmont,Forest Harvest,Forest Harvest,2006,2006,800
+2006,Northern Rockies,Forest Harvest,Forest Harvest,2006,2006,52300
+2006,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Northwestern Great Plains,Forest Harvest,Forest Harvest,2006,2006,400
+2006,Ouachita Mountains,Forest Harvest,Forest Harvest,2006,2006,21800
+2006,Ozark Highlands,Forest Harvest,Forest Harvest,2006,2006,9700
+2006,Piedmont,Forest Harvest,Forest Harvest,2006,2006,83200
+2006,Puget Lowland,Forest Harvest,Forest Harvest,2006,2006,5200
+2006,Ridge and Valley,Forest Harvest,Forest Harvest,2006,2006,12800
+2006,Sierra Nevada,Forest Harvest,Forest Harvest,2006,2006,34400
+2006,Snake River Plain,Forest Harvest,Forest Harvest,2006,2006,200
+2006,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2006,2006,0
+2006,South Central Plains,Forest Harvest,Forest Harvest,2006,2006,110800
+2006,Southeastern Plains,Forest Harvest,Forest Harvest,2006,2006,204600
+2006,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Southern California Mountains,Forest Harvest,Forest Harvest,2006,2006,4000
+2006,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Southern Coastal Plain,Forest Harvest,Forest Harvest,2006,2006,77200
+2006,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2006,2006,1100
+2006,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2006,2006,300
+2006,Southern Rockies,Forest Harvest,Forest Harvest,2006,2006,4500
+2006,Southern Texas Plains,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Southwestern Appalachians,Forest Harvest,Forest Harvest,2006,2006,10500
+2006,Southwestern Tablelands,Forest Harvest,Forest Harvest,2006,2006,0
+2006,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2006,2006,300
+2006,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2006,2006,4100
+2006,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2006,2006,4200
+2006,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2006,2006,300
+2006,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2006,2006,1300
+2006,Willamette Valley,Forest Harvest,Forest Harvest,2006,2006,6500
+2006,Wyoming Basin,Forest Harvest,Forest Harvest,2006,2006,0
+2007,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2007,2007,6000
+2007,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2007,2007,9000
+2007,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2007,2007,900
+2007,Arkansas Valley,Forest Harvest,Forest Harvest,2007,2007,3400
+2007,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2007,2007,1000
+2007,Blue Mountains,Forest Harvest,Forest Harvest,2007,2007,19900
+2007,Blue Ridge,Forest Harvest,Forest Harvest,2007,2007,3000
+2007,Boston Mountains,Forest Harvest,Forest Harvest,2007,2007,2500
+2007,Canadian Rockies,Forest Harvest,Forest Harvest,2007,2007,10900
+2007,Cascades,Forest Harvest,Forest Harvest,2007,2007,52500
+2007,Central Appalachians,Forest Harvest,Forest Harvest,2007,2007,10100
+2007,Central Basin and Range,Forest Harvest,Forest Harvest,2007,2007,1400
+2007,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2007,2007,1500
+2007,Central California Valley,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Central Great Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Central Irregular Plains,Forest Harvest,Forest Harvest,2007,2007,300
+2007,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Coast Range,Forest Harvest,Forest Harvest,2007,2007,65700
+2007,Colorado Plateaus,Forest Harvest,Forest Harvest,2007,2007,2900
+2007,Columbia Plateau,Forest Harvest,Forest Harvest,2007,2007,700
+2007,Cross Timbers,Forest Harvest,Forest Harvest,2007,2007,400
+2007,Driftless Area,Forest Harvest,Forest Harvest,2007,2007,500
+2007,East Central Texas Plains,Forest Harvest,Forest Harvest,2007,2007,2000
+2007,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2007,2007,36700
+2007,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2007,2007,100
+2007,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2007,2007,300
+2007,Edwards Plateau,Forest Harvest,Forest Harvest,2007,2007,1000
+2007,Erie Drift Plain,Forest Harvest,Forest Harvest,2007,2007,300
+2007,Flint Hills,Forest Harvest,Forest Harvest,2007,2007,0
+2007,High Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2007,2007,100
+2007,Idaho Batholith,Forest Harvest,Forest Harvest,2007,2007,6800
+2007,Interior Plateau,Forest Harvest,Forest Harvest,2007,2007,6400
+2007,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2007,2007,1000
+2007,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2007,2007,22200
+2007,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Madrean Archipelago,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2007,2007,39100
+2007,Middle Rockies,Forest Harvest,Forest Harvest,2007,2007,17700
+2007,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2007,2007,900
+2007,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2007,2007,17600
+2007,Mojave Basin and Range,Forest Harvest,Forest Harvest,2007,2007,100
+2007,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2007,2007,0
+2007,North Cascades,Forest Harvest,Forest Harvest,2007,2007,5900
+2007,North Central Appalachians,Forest Harvest,Forest Harvest,2007,2007,4600
+2007,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2007,2007,4100
+2007,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2007,2007,600
+2007,Northeastern Highlands,Forest Harvest,Forest Harvest,2007,2007,12600
+2007,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2007,2007,200
+2007,Northern Basin and Range,Forest Harvest,Forest Harvest,2007,2007,100
+2007,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2007,2007,38300
+2007,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2007,2007,1500
+2007,Northern Piedmont,Forest Harvest,Forest Harvest,2007,2007,300
+2007,Northern Rockies,Forest Harvest,Forest Harvest,2007,2007,53100
+2007,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Northwestern Great Plains,Forest Harvest,Forest Harvest,2007,2007,500
+2007,Ouachita Mountains,Forest Harvest,Forest Harvest,2007,2007,33200
+2007,Ozark Highlands,Forest Harvest,Forest Harvest,2007,2007,10100
+2007,Piedmont,Forest Harvest,Forest Harvest,2007,2007,73100
+2007,Puget Lowland,Forest Harvest,Forest Harvest,2007,2007,6500
+2007,Ridge and Valley,Forest Harvest,Forest Harvest,2007,2007,12600
+2007,Sierra Nevada,Forest Harvest,Forest Harvest,2007,2007,33700
+2007,Snake River Plain,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2007,2007,0
+2007,South Central Plains,Forest Harvest,Forest Harvest,2007,2007,176000
+2007,Southeastern Plains,Forest Harvest,Forest Harvest,2007,2007,180100
+2007,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Southern California Mountains,Forest Harvest,Forest Harvest,2007,2007,2400
+2007,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Southern Coastal Plain,Forest Harvest,Forest Harvest,2007,2007,50800
+2007,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2007,2007,700
+2007,Southern Rockies,Forest Harvest,Forest Harvest,2007,2007,8500
+2007,Southern Texas Plains,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Southwestern Appalachians,Forest Harvest,Forest Harvest,2007,2007,11000
+2007,Southwestern Tablelands,Forest Harvest,Forest Harvest,2007,2007,0
+2007,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2007,2007,100
+2007,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2007,2007,13600
+2007,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2007,2007,3600
+2007,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2007,2007,400
+2007,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2007,2007,600
+2007,Willamette Valley,Forest Harvest,Forest Harvest,2007,2007,6700
+2007,Wyoming Basin,Forest Harvest,Forest Harvest,2007,2007,0
+2008,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2008,2008,37100
+2008,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2008,2008,56400
+2008,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2008,2008,1200
+2008,Arkansas Valley,Forest Harvest,Forest Harvest,2008,2008,10200
+2008,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2008,2008,6200
+2008,Blue Mountains,Forest Harvest,Forest Harvest,2008,2008,20600
+2008,Blue Ridge,Forest Harvest,Forest Harvest,2008,2008,12000
+2008,Boston Mountains,Forest Harvest,Forest Harvest,2008,2008,29900
+2008,Canadian Rockies,Forest Harvest,Forest Harvest,2008,2008,2400
+2008,Cascades,Forest Harvest,Forest Harvest,2008,2008,93200
+2008,Central Appalachians,Forest Harvest,Forest Harvest,2008,2008,38000
+2008,Central Basin and Range,Forest Harvest,Forest Harvest,2008,2008,3400
+2008,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2008,2008,2000
+2008,Central California Valley,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Central Great Plains,Forest Harvest,Forest Harvest,2008,2008,1900
+2008,Central Irregular Plains,Forest Harvest,Forest Harvest,2008,2008,600
+2008,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Coast Range,Forest Harvest,Forest Harvest,2008,2008,72600
+2008,Colorado Plateaus,Forest Harvest,Forest Harvest,2008,2008,4800
+2008,Columbia Plateau,Forest Harvest,Forest Harvest,2008,2008,700
+2008,Cross Timbers,Forest Harvest,Forest Harvest,2008,2008,6900
+2008,Driftless Area,Forest Harvest,Forest Harvest,2008,2008,1400
+2008,East Central Texas Plains,Forest Harvest,Forest Harvest,2008,2008,5200
+2008,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2008,2008,42400
+2008,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2008,2008,400
+2008,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2008,2008,1700
+2008,Edwards Plateau,Forest Harvest,Forest Harvest,2008,2008,17800
+2008,Erie Drift Plain,Forest Harvest,Forest Harvest,2008,2008,1900
+2008,Flint Hills,Forest Harvest,Forest Harvest,2008,2008,400
+2008,High Plains,Forest Harvest,Forest Harvest,2008,2008,200
+2008,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2008,2008,100
+2008,Idaho Batholith,Forest Harvest,Forest Harvest,2008,2008,10800
+2008,Interior Plateau,Forest Harvest,Forest Harvest,2008,2008,25000
+2008,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2008,2008,2100
+2008,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2008,2008,30000
+2008,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2008,2008,100
+2008,Madrean Archipelago,Forest Harvest,Forest Harvest,2008,2008,3500
+2008,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2008,2008,85000
+2008,Middle Rockies,Forest Harvest,Forest Harvest,2008,2008,32500
+2008,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2008,2008,7900
+2008,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2008,2008,30700
+2008,Mojave Basin and Range,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2008,2008,0
+2008,North Cascades,Forest Harvest,Forest Harvest,2008,2008,9100
+2008,North Central Appalachians,Forest Harvest,Forest Harvest,2008,2008,24800
+2008,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2008,2008,5000
+2008,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2008,2008,3000
+2008,Northeastern Highlands,Forest Harvest,Forest Harvest,2008,2008,72100
+2008,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2008,2008,1600
+2008,Northern Basin and Range,Forest Harvest,Forest Harvest,2008,2008,1600
+2008,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2008,2008,87200
+2008,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2008,2008,9400
+2008,Northern Piedmont,Forest Harvest,Forest Harvest,2008,2008,500
+2008,Northern Rockies,Forest Harvest,Forest Harvest,2008,2008,79700
+2008,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2008,2008,200
+2008,Northwestern Great Plains,Forest Harvest,Forest Harvest,2008,2008,1600
+2008,Ouachita Mountains,Forest Harvest,Forest Harvest,2008,2008,32700
+2008,Ozark Highlands,Forest Harvest,Forest Harvest,2008,2008,22000
+2008,Piedmont,Forest Harvest,Forest Harvest,2008,2008,168800
+2008,Puget Lowland,Forest Harvest,Forest Harvest,2008,2008,10700
+2008,Ridge and Valley,Forest Harvest,Forest Harvest,2008,2008,43900
+2008,Sierra Nevada,Forest Harvest,Forest Harvest,2008,2008,39200
+2008,Snake River Plain,Forest Harvest,Forest Harvest,2008,2008,200
+2008,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2008,2008,0
+2008,South Central Plains,Forest Harvest,Forest Harvest,2008,2008,312900
+2008,Southeastern Plains,Forest Harvest,Forest Harvest,2008,2008,546800
+2008,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Southern California Mountains,Forest Harvest,Forest Harvest,2008,2008,1900
+2008,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2008,2008,0
+2008,Southern Coastal Plain,Forest Harvest,Forest Harvest,2008,2008,212700
+2008,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2008,2008,1800
+2008,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2008,2008,700
+2008,Southern Rockies,Forest Harvest,Forest Harvest,2008,2008,18600
+2008,Southern Texas Plains,Forest Harvest,Forest Harvest,2008,2008,2400
+2008,Southwestern Appalachians,Forest Harvest,Forest Harvest,2008,2008,18300
+2008,Southwestern Tablelands,Forest Harvest,Forest Harvest,2008,2008,3600
+2008,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2008,2008,1500
+2008,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2008,2008,8800
+2008,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2008,2008,20700
+2008,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2008,2008,400
+2008,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2008,2008,3500
+2008,Willamette Valley,Forest Harvest,Forest Harvest,2008,2008,4300
+2008,Wyoming Basin,Forest Harvest,Forest Harvest,2008,2008,100
+2009,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2009,2009,19000
+2009,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2009,2009,32200
+2009,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2009,2009,1100
+2009,Arkansas Valley,Forest Harvest,Forest Harvest,2009,2009,22500
+2009,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2009,2009,6300
+2009,Blue Mountains,Forest Harvest,Forest Harvest,2009,2009,27300
+2009,Blue Ridge,Forest Harvest,Forest Harvest,2009,2009,8300
+2009,Boston Mountains,Forest Harvest,Forest Harvest,2009,2009,9900
+2009,Canadian Rockies,Forest Harvest,Forest Harvest,2009,2009,2600
+2009,Cascades,Forest Harvest,Forest Harvest,2009,2009,62800
+2009,Central Appalachians,Forest Harvest,Forest Harvest,2009,2009,38600
+2009,Central Basin and Range,Forest Harvest,Forest Harvest,2009,2009,4100
+2009,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2009,2009,900
+2009,Central California Valley,Forest Harvest,Forest Harvest,2009,2009,0
+2009,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2009,2009,200
+2009,Central Great Plains,Forest Harvest,Forest Harvest,2009,2009,3200
+2009,Central Irregular Plains,Forest Harvest,Forest Harvest,2009,2009,1300
+2009,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2009,2009,1400
+2009,Coast Range,Forest Harvest,Forest Harvest,2009,2009,48500
+2009,Colorado Plateaus,Forest Harvest,Forest Harvest,2009,2009,4000
+2009,Columbia Plateau,Forest Harvest,Forest Harvest,2009,2009,1000
+2009,Cross Timbers,Forest Harvest,Forest Harvest,2009,2009,9500
+2009,Driftless Area,Forest Harvest,Forest Harvest,2009,2009,1600
+2009,East Central Texas Plains,Forest Harvest,Forest Harvest,2009,2009,5500
+2009,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2009,2009,51000
+2009,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2009,2009,2900
+2009,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2009,2009,900
+2009,Edwards Plateau,Forest Harvest,Forest Harvest,2009,2009,10400
+2009,Erie Drift Plain,Forest Harvest,Forest Harvest,2009,2009,1500
+2009,Flint Hills,Forest Harvest,Forest Harvest,2009,2009,100
+2009,High Plains,Forest Harvest,Forest Harvest,2009,2009,200
+2009,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2009,2009,100
+2009,Idaho Batholith,Forest Harvest,Forest Harvest,2009,2009,10100
+2009,Interior Plateau,Forest Harvest,Forest Harvest,2009,2009,21100
+2009,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2009,2009,1800
+2009,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2009,2009,27500
+2009,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2009,2009,100
+2009,Madrean Archipelago,Forest Harvest,Forest Harvest,2009,2009,400
+2009,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2009,2009,86700
+2009,Middle Rockies,Forest Harvest,Forest Harvest,2009,2009,38900
+2009,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2009,2009,9900
+2009,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2009,2009,30400
+2009,Mojave Basin and Range,Forest Harvest,Forest Harvest,2009,2009,300
+2009,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2009,2009,0
+2009,North Cascades,Forest Harvest,Forest Harvest,2009,2009,6900
+2009,North Central Appalachians,Forest Harvest,Forest Harvest,2009,2009,28000
+2009,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2009,2009,4100
+2009,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2009,2009,4000
+2009,Northeastern Highlands,Forest Harvest,Forest Harvest,2009,2009,75600
+2009,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2009,2009,2300
+2009,Northern Basin and Range,Forest Harvest,Forest Harvest,2009,2009,300
+2009,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2009,2009,100
+2009,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2009,2009,83200
+2009,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2009,2009,9100
+2009,Northern Piedmont,Forest Harvest,Forest Harvest,2009,2009,700
+2009,Northern Rockies,Forest Harvest,Forest Harvest,2009,2009,63700
+2009,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2009,2009,200
+2009,Northwestern Great Plains,Forest Harvest,Forest Harvest,2009,2009,2300
+2009,Ouachita Mountains,Forest Harvest,Forest Harvest,2009,2009,44200
+2009,Ozark Highlands,Forest Harvest,Forest Harvest,2009,2009,67000
+2009,Piedmont,Forest Harvest,Forest Harvest,2009,2009,148900
+2009,Puget Lowland,Forest Harvest,Forest Harvest,2009,2009,9000
+2009,Ridge and Valley,Forest Harvest,Forest Harvest,2009,2009,24900
+2009,Sierra Nevada,Forest Harvest,Forest Harvest,2009,2009,26400
+2009,Snake River Plain,Forest Harvest,Forest Harvest,2009,2009,0
+2009,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2009,2009,0
+2009,South Central Plains,Forest Harvest,Forest Harvest,2009,2009,320100
+2009,Southeastern Plains,Forest Harvest,Forest Harvest,2009,2009,490200
+2009,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2009,2009,0
+2009,Southern California Mountains,Forest Harvest,Forest Harvest,2009,2009,1300
+2009,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2009,2009,100
+2009,Southern Coastal Plain,Forest Harvest,Forest Harvest,2009,2009,188900
+2009,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2009,2009,300
+2009,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2009,2009,200
+2009,Southern Rockies,Forest Harvest,Forest Harvest,2009,2009,13300
+2009,Southern Texas Plains,Forest Harvest,Forest Harvest,2009,2009,400
+2009,Southwestern Appalachians,Forest Harvest,Forest Harvest,2009,2009,26500
+2009,Southwestern Tablelands,Forest Harvest,Forest Harvest,2009,2009,1000
+2009,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2009,2009,900
+2009,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2009,2009,6400
+2009,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2009,2009,18200
+2009,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2009,2009,200
+2009,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2009,2009,1700
+2009,Willamette Valley,Forest Harvest,Forest Harvest,2009,2009,2900
+2009,Wyoming Basin,Forest Harvest,Forest Harvest,2009,2009,100
+2010,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2010,2010,21600
+2010,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2010,2010,31600
+2010,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2010,2010,400
+2010,Arkansas Valley,Forest Harvest,Forest Harvest,2010,2010,18400
+2010,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2010,2010,600
+2010,Blue Mountains,Forest Harvest,Forest Harvest,2010,2010,17400
+2010,Blue Ridge,Forest Harvest,Forest Harvest,2010,2010,7600
+2010,Boston Mountains,Forest Harvest,Forest Harvest,2010,2010,9900
+2010,Canadian Rockies,Forest Harvest,Forest Harvest,2010,2010,2200
+2010,Cascades,Forest Harvest,Forest Harvest,2010,2010,56600
+2010,Central Appalachians,Forest Harvest,Forest Harvest,2010,2010,30700
+2010,Central Basin and Range,Forest Harvest,Forest Harvest,2010,2010,3400
+2010,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2010,2010,600
+2010,Central California Valley,Forest Harvest,Forest Harvest,2010,2010,0
+2010,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2010,2010,100
+2010,Central Great Plains,Forest Harvest,Forest Harvest,2010,2010,2200
+2010,Central Irregular Plains,Forest Harvest,Forest Harvest,2010,2010,1500
+2010,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2010,2010,0
+2010,Coast Range,Forest Harvest,Forest Harvest,2010,2010,58300
+2010,Colorado Plateaus,Forest Harvest,Forest Harvest,2010,2010,2600
+2010,Columbia Plateau,Forest Harvest,Forest Harvest,2010,2010,700
+2010,Cross Timbers,Forest Harvest,Forest Harvest,2010,2010,8000
+2010,Driftless Area,Forest Harvest,Forest Harvest,2010,2010,500
+2010,East Central Texas Plains,Forest Harvest,Forest Harvest,2010,2010,6700
+2010,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2010,2010,30200
+2010,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2010,2010,600
+2010,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2010,2010,1400
+2010,Edwards Plateau,Forest Harvest,Forest Harvest,2010,2010,9000
+2010,Erie Drift Plain,Forest Harvest,Forest Harvest,2010,2010,800
+2010,Flint Hills,Forest Harvest,Forest Harvest,2010,2010,400
+2010,High Plains,Forest Harvest,Forest Harvest,2010,2010,100
+2010,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2010,2010,100
+2010,Idaho Batholith,Forest Harvest,Forest Harvest,2010,2010,9900
+2010,Interior Plateau,Forest Harvest,Forest Harvest,2010,2010,14200
+2010,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2010,2010,1500
+2010,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2010,2010,71600
+2010,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2010,2010,300
+2010,Madrean Archipelago,Forest Harvest,Forest Harvest,2010,2010,400
+2010,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2010,2010,85400
+2010,Middle Rockies,Forest Harvest,Forest Harvest,2010,2010,44200
+2010,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2010,2010,7100
+2010,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2010,2010,28000
+2010,Mojave Basin and Range,Forest Harvest,Forest Harvest,2010,2010,400
+2010,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2010,2010,400
+2010,North Cascades,Forest Harvest,Forest Harvest,2010,2010,6000
+2010,North Central Appalachians,Forest Harvest,Forest Harvest,2010,2010,10000
+2010,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2010,2010,5400
+2010,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2010,2010,3800
+2010,Northeastern Highlands,Forest Harvest,Forest Harvest,2010,2010,91500
+2010,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2010,2010,3500
+2010,Northern Basin and Range,Forest Harvest,Forest Harvest,2010,2010,1300
+2010,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2010,2010,200
+2010,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2010,2010,86000
+2010,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2010,2010,9300
+2010,Northern Piedmont,Forest Harvest,Forest Harvest,2010,2010,200
+2010,Northern Rockies,Forest Harvest,Forest Harvest,2010,2010,59600
+2010,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2010,2010,100
+2010,Northwestern Great Plains,Forest Harvest,Forest Harvest,2010,2010,1500
+2010,Ouachita Mountains,Forest Harvest,Forest Harvest,2010,2010,47800
+2010,Ozark Highlands,Forest Harvest,Forest Harvest,2010,2010,15800
+2010,Piedmont,Forest Harvest,Forest Harvest,2010,2010,151200
+2010,Puget Lowland,Forest Harvest,Forest Harvest,2010,2010,5300
+2010,Ridge and Valley,Forest Harvest,Forest Harvest,2010,2010,28300
+2010,Sierra Nevada,Forest Harvest,Forest Harvest,2010,2010,15000
+2010,Snake River Plain,Forest Harvest,Forest Harvest,2010,2010,300
+2010,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2010,2010,0
+2010,South Central Plains,Forest Harvest,Forest Harvest,2010,2010,313600
+2010,Southeastern Plains,Forest Harvest,Forest Harvest,2010,2010,468000
+2010,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2010,2010,0
+2010,Southern California Mountains,Forest Harvest,Forest Harvest,2010,2010,1500
+2010,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2010,2010,0
+2010,Southern Coastal Plain,Forest Harvest,Forest Harvest,2010,2010,196600
+2010,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2010,2010,1200
+2010,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2010,2010,600
+2010,Southern Rockies,Forest Harvest,Forest Harvest,2010,2010,8900
+2010,Southern Texas Plains,Forest Harvest,Forest Harvest,2010,2010,100
+2010,Southwestern Appalachians,Forest Harvest,Forest Harvest,2010,2010,19200
+2010,Southwestern Tablelands,Forest Harvest,Forest Harvest,2010,2010,2900
+2010,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2010,2010,100
+2010,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2010,2010,6400
+2010,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2010,2010,12800
+2010,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2010,2010,0
+2010,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2010,2010,1700
+2010,Willamette Valley,Forest Harvest,Forest Harvest,2010,2010,3100
+2010,Wyoming Basin,Forest Harvest,Forest Harvest,2010,2010,200
+2011,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2011,2011,33100
+2011,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2011,2011,17200
+2011,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2011,2011,1500
+2011,Arkansas Valley,Forest Harvest,Forest Harvest,2011,2011,12200
+2011,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2011,2011,900
+2011,Blue Mountains,Forest Harvest,Forest Harvest,2011,2011,51400
+2011,Blue Ridge,Forest Harvest,Forest Harvest,2011,2011,7900
+2011,Boston Mountains,Forest Harvest,Forest Harvest,2011,2011,7900
+2011,Canadian Rockies,Forest Harvest,Forest Harvest,2011,2011,1400
+2011,Cascades,Forest Harvest,Forest Harvest,2011,2011,66000
+2011,Central Appalachians,Forest Harvest,Forest Harvest,2011,2011,18400
+2011,Central Basin and Range,Forest Harvest,Forest Harvest,2011,2011,8500
+2011,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2011,2011,5800
+2011,Central California Valley,Forest Harvest,Forest Harvest,2011,2011,0
+2011,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2011,2011,0
+2011,Central Great Plains,Forest Harvest,Forest Harvest,2011,2011,5000
+2011,Central Irregular Plains,Forest Harvest,Forest Harvest,2011,2011,1400
+2011,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2011,2011,1300
+2011,Coast Range,Forest Harvest,Forest Harvest,2011,2011,45600
+2011,Colorado Plateaus,Forest Harvest,Forest Harvest,2011,2011,11000
+2011,Columbia Plateau,Forest Harvest,Forest Harvest,2011,2011,800
+2011,Cross Timbers,Forest Harvest,Forest Harvest,2011,2011,16500
+2011,Driftless Area,Forest Harvest,Forest Harvest,2011,2011,500
+2011,East Central Texas Plains,Forest Harvest,Forest Harvest,2011,2011,5100
+2011,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2011,2011,66300
+2011,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2011,2011,600
+2011,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2011,2011,1800
+2011,Edwards Plateau,Forest Harvest,Forest Harvest,2011,2011,7600
+2011,Erie Drift Plain,Forest Harvest,Forest Harvest,2011,2011,1200
+2011,Flint Hills,Forest Harvest,Forest Harvest,2011,2011,200
+2011,High Plains,Forest Harvest,Forest Harvest,2011,2011,0
+2011,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2011,2011,200
+2011,Idaho Batholith,Forest Harvest,Forest Harvest,2011,2011,9400
+2011,Interior Plateau,Forest Harvest,Forest Harvest,2011,2011,9700
+2011,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2011,2011,1900
+2011,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2011,2011,16600
+2011,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2011,2011,0
+2011,Madrean Archipelago,Forest Harvest,Forest Harvest,2011,2011,0
+2011,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2011,2011,110800
+2011,Middle Rockies,Forest Harvest,Forest Harvest,2011,2011,29900
+2011,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2011,2011,5500
+2011,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2011,2011,25200
+2011,Mojave Basin and Range,Forest Harvest,Forest Harvest,2011,2011,100
+2011,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2011,2011,0
+2011,North Cascades,Forest Harvest,Forest Harvest,2011,2011,4700
+2011,North Central Appalachians,Forest Harvest,Forest Harvest,2011,2011,4200
+2011,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2011,2011,5800
+2011,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2011,2011,5300
+2011,Northeastern Highlands,Forest Harvest,Forest Harvest,2011,2011,72800
+2011,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2011,2011,900
+2011,Northern Basin and Range,Forest Harvest,Forest Harvest,2011,2011,1700
+2011,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2011,2011,1900
+2011,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2011,2011,73300
+2011,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2011,2011,3500
+2011,Northern Piedmont,Forest Harvest,Forest Harvest,2011,2011,1300
+2011,Northern Rockies,Forest Harvest,Forest Harvest,2011,2011,44500
+2011,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2011,2011,400
+2011,Northwestern Great Plains,Forest Harvest,Forest Harvest,2011,2011,1200
+2011,Ouachita Mountains,Forest Harvest,Forest Harvest,2011,2011,30300
+2011,Ozark Highlands,Forest Harvest,Forest Harvest,2011,2011,16100
+2011,Piedmont,Forest Harvest,Forest Harvest,2011,2011,168700
+2011,Puget Lowland,Forest Harvest,Forest Harvest,2011,2011,4700
+2011,Ridge and Valley,Forest Harvest,Forest Harvest,2011,2011,31800
+2011,Sierra Nevada,Forest Harvest,Forest Harvest,2011,2011,27600
+2011,Snake River Plain,Forest Harvest,Forest Harvest,2011,2011,400
+2011,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2011,2011,0
+2011,South Central Plains,Forest Harvest,Forest Harvest,2011,2011,229100
+2011,Southeastern Plains,Forest Harvest,Forest Harvest,2011,2011,493700
+2011,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2011,2011,100
+2011,Southern California Mountains,Forest Harvest,Forest Harvest,2011,2011,900
+2011,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2011,2011,0
+2011,Southern Coastal Plain,Forest Harvest,Forest Harvest,2011,2011,201300
+2011,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2011,2011,400
+2011,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2011,2011,400
+2011,Southern Rockies,Forest Harvest,Forest Harvest,2011,2011,16500
+2011,Southern Texas Plains,Forest Harvest,Forest Harvest,2011,2011,700
+2011,Southwestern Appalachians,Forest Harvest,Forest Harvest,2011,2011,21400
+2011,Southwestern Tablelands,Forest Harvest,Forest Harvest,2011,2011,3000
+2011,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2011,2011,400
+2011,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2011,2011,14700
+2011,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2011,2011,12600
+2011,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2011,2011,300
+2011,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2011,2011,2800
+2011,Willamette Valley,Forest Harvest,Forest Harvest,2011,2011,3500
+2011,Wyoming Basin,Forest Harvest,Forest Harvest,2011,2011,400
+2012,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2012,2012,25800
+2012,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2012,2012,21800
+2012,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2012,2012,1900
+2012,Arkansas Valley,Forest Harvest,Forest Harvest,2012,2012,13200
+2012,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2012,2012,2900
+2012,Blue Mountains,Forest Harvest,Forest Harvest,2012,2012,6500
+2012,Blue Ridge,Forest Harvest,Forest Harvest,2012,2012,6200
+2012,Boston Mountains,Forest Harvest,Forest Harvest,2012,2012,7500
+2012,Canadian Rockies,Forest Harvest,Forest Harvest,2012,2012,400
+2012,Cascades,Forest Harvest,Forest Harvest,2012,2012,37600
+2012,Central Appalachians,Forest Harvest,Forest Harvest,2012,2012,18000
+2012,Central Basin and Range,Forest Harvest,Forest Harvest,2012,2012,6700
+2012,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2012,2012,1800
+2012,Central California Valley,Forest Harvest,Forest Harvest,2012,2012,0
+2012,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2012,2012,0
+2012,Central Great Plains,Forest Harvest,Forest Harvest,2012,2012,3200
+2012,Central Irregular Plains,Forest Harvest,Forest Harvest,2012,2012,900
+2012,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2012,2012,300
+2012,Coast Range,Forest Harvest,Forest Harvest,2012,2012,9400
+2012,Colorado Plateaus,Forest Harvest,Forest Harvest,2012,2012,8600
+2012,Columbia Plateau,Forest Harvest,Forest Harvest,2012,2012,100
+2012,Cross Timbers,Forest Harvest,Forest Harvest,2012,2012,9900
+2012,Driftless Area,Forest Harvest,Forest Harvest,2012,2012,400
+2012,East Central Texas Plains,Forest Harvest,Forest Harvest,2012,2012,2800
+2012,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2012,2012,19000
+2012,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2012,2012,400
+2012,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2012,2012,900
+2012,Edwards Plateau,Forest Harvest,Forest Harvest,2012,2012,26100
+2012,Erie Drift Plain,Forest Harvest,Forest Harvest,2012,2012,500
+2012,Flint Hills,Forest Harvest,Forest Harvest,2012,2012,300
+2012,High Plains,Forest Harvest,Forest Harvest,2012,2012,400
+2012,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2012,2012,400
+2012,Idaho Batholith,Forest Harvest,Forest Harvest,2012,2012,5300
+2012,Interior Plateau,Forest Harvest,Forest Harvest,2012,2012,10700
+2012,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2012,2012,1600
+2012,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2012,2012,34200
+2012,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2012,2012,100
+2012,Madrean Archipelago,Forest Harvest,Forest Harvest,2012,2012,200
+2012,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2012,2012,82600
+2012,Middle Rockies,Forest Harvest,Forest Harvest,2012,2012,21100
+2012,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2012,2012,5200
+2012,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2012,2012,22300
+2012,Mojave Basin and Range,Forest Harvest,Forest Harvest,2012,2012,0
+2012,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2012,2012,0
+2012,North Cascades,Forest Harvest,Forest Harvest,2012,2012,600
+2012,North Central Appalachians,Forest Harvest,Forest Harvest,2012,2012,4900
+2012,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2012,2012,6800
+2012,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2012,2012,2800
+2012,Northeastern Highlands,Forest Harvest,Forest Harvest,2012,2012,48100
+2012,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2012,2012,800
+2012,Northern Basin and Range,Forest Harvest,Forest Harvest,2012,2012,1800
+2012,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2012,2012,200
+2012,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2012,2012,77200
+2012,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2012,2012,5000
+2012,Northern Piedmont,Forest Harvest,Forest Harvest,2012,2012,900
+2012,Northern Rockies,Forest Harvest,Forest Harvest,2012,2012,10700
+2012,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2012,2012,700
+2012,Northwestern Great Plains,Forest Harvest,Forest Harvest,2012,2012,800
+2012,Ouachita Mountains,Forest Harvest,Forest Harvest,2012,2012,38900
+2012,Ozark Highlands,Forest Harvest,Forest Harvest,2012,2012,17200
+2012,Piedmont,Forest Harvest,Forest Harvest,2012,2012,164300
+2012,Puget Lowland,Forest Harvest,Forest Harvest,2012,2012,400
+2012,Ridge and Valley,Forest Harvest,Forest Harvest,2012,2012,22000
+2012,Sierra Nevada,Forest Harvest,Forest Harvest,2012,2012,16500
+2012,Snake River Plain,Forest Harvest,Forest Harvest,2012,2012,100
+2012,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2012,2012,0
+2012,South Central Plains,Forest Harvest,Forest Harvest,2012,2012,204800
+2012,Southeastern Plains,Forest Harvest,Forest Harvest,2012,2012,434500
+2012,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2012,2012,200
+2012,Southern California Mountains,Forest Harvest,Forest Harvest,2012,2012,200
+2012,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2012,2012,300
+2012,Southern Coastal Plain,Forest Harvest,Forest Harvest,2012,2012,154900
+2012,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2012,2012,1100
+2012,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2012,2012,400
+2012,Southern Rockies,Forest Harvest,Forest Harvest,2012,2012,23000
+2012,Southern Texas Plains,Forest Harvest,Forest Harvest,2012,2012,2000
+2012,Southwestern Appalachians,Forest Harvest,Forest Harvest,2012,2012,22900
+2012,Southwestern Tablelands,Forest Harvest,Forest Harvest,2012,2012,1100
+2012,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2012,2012,900
+2012,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2012,2012,7400
+2012,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2012,2012,16900
+2012,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2012,2012,200
+2012,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2012,2012,2500
+2012,Willamette Valley,Forest Harvest,Forest Harvest,2012,2012,0
+2012,Wyoming Basin,Forest Harvest,Forest Harvest,2012,2012,300
+2013,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2013,2013,55400
+2013,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2013,2013,23400
+2013,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2013,2013,600
+2013,Arkansas Valley,Forest Harvest,Forest Harvest,2013,2013,7600
+2013,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2013,2013,2600
+2013,Blue Mountains,Forest Harvest,Forest Harvest,2013,2013,59900
+2013,Blue Ridge,Forest Harvest,Forest Harvest,2013,2013,11300
+2013,Boston Mountains,Forest Harvest,Forest Harvest,2013,2013,9900
+2013,Canadian Rockies,Forest Harvest,Forest Harvest,2013,2013,1700
+2013,Cascades,Forest Harvest,Forest Harvest,2013,2013,59000
+2013,Central Appalachians,Forest Harvest,Forest Harvest,2013,2013,32300
+2013,Central Basin and Range,Forest Harvest,Forest Harvest,2013,2013,10200
+2013,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2013,2013,4200
+2013,Central California Valley,Forest Harvest,Forest Harvest,2013,2013,0
+2013,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2013,2013,300
+2013,Central Great Plains,Forest Harvest,Forest Harvest,2013,2013,3800
+2013,Central Irregular Plains,Forest Harvest,Forest Harvest,2013,2013,700
+2013,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2013,2013,200
+2013,Coast Range,Forest Harvest,Forest Harvest,2013,2013,51500
+2013,Colorado Plateaus,Forest Harvest,Forest Harvest,2013,2013,9500
+2013,Columbia Plateau,Forest Harvest,Forest Harvest,2013,2013,1700
+2013,Cross Timbers,Forest Harvest,Forest Harvest,2013,2013,14300
+2013,Driftless Area,Forest Harvest,Forest Harvest,2013,2013,900
+2013,East Central Texas Plains,Forest Harvest,Forest Harvest,2013,2013,7300
+2013,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2013,2013,78900
+2013,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2013,2013,800
+2013,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2013,2013,2100
+2013,Edwards Plateau,Forest Harvest,Forest Harvest,2013,2013,10800
+2013,Erie Drift Plain,Forest Harvest,Forest Harvest,2013,2013,1500
+2013,Flint Hills,Forest Harvest,Forest Harvest,2013,2013,0
+2013,High Plains,Forest Harvest,Forest Harvest,2013,2013,200
+2013,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2013,2013,700
+2013,Idaho Batholith,Forest Harvest,Forest Harvest,2013,2013,11500
+2013,Interior Plateau,Forest Harvest,Forest Harvest,2013,2013,22700
+2013,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2013,2013,3700
+2013,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2013,2013,38200
+2013,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2013,2013,200
+2013,Madrean Archipelago,Forest Harvest,Forest Harvest,2013,2013,400
+2013,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2013,2013,85400
+2013,Middle Rockies,Forest Harvest,Forest Harvest,2013,2013,48900
+2013,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2013,2013,5600
+2013,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2013,2013,35700
+2013,Mojave Basin and Range,Forest Harvest,Forest Harvest,2013,2013,0
+2013,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2013,2013,600
+2013,North Cascades,Forest Harvest,Forest Harvest,2013,2013,8500
+2013,North Central Appalachians,Forest Harvest,Forest Harvest,2013,2013,9300
+2013,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2013,2013,8200
+2013,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2013,2013,5500
+2013,Northeastern Highlands,Forest Harvest,Forest Harvest,2013,2013,87100
+2013,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2013,2013,2600
+2013,Northern Basin and Range,Forest Harvest,Forest Harvest,2013,2013,1600
+2013,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2013,2013,0
+2013,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2013,2013,101900
+2013,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2013,2013,12700
+2013,Northern Piedmont,Forest Harvest,Forest Harvest,2013,2013,1300
+2013,Northern Rockies,Forest Harvest,Forest Harvest,2013,2013,56100
+2013,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2013,2013,100
+2013,Northwestern Great Plains,Forest Harvest,Forest Harvest,2013,2013,3200
+2013,Ouachita Mountains,Forest Harvest,Forest Harvest,2013,2013,41900
+2013,Ozark Highlands,Forest Harvest,Forest Harvest,2013,2013,40800
+2013,Piedmont,Forest Harvest,Forest Harvest,2013,2013,182200
+2013,Puget Lowland,Forest Harvest,Forest Harvest,2013,2013,6900
+2013,Ridge and Valley,Forest Harvest,Forest Harvest,2013,2013,32500
+2013,Sierra Nevada,Forest Harvest,Forest Harvest,2013,2013,27700
+2013,Snake River Plain,Forest Harvest,Forest Harvest,2013,2013,200
+2013,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2013,2013,0
+2013,South Central Plains,Forest Harvest,Forest Harvest,2013,2013,271700
+2013,Southeastern Plains,Forest Harvest,Forest Harvest,2013,2013,448700
+2013,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2013,2013,200
+2013,Southern California Mountains,Forest Harvest,Forest Harvest,2013,2013,1300
+2013,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2013,2013,100
+2013,Southern Coastal Plain,Forest Harvest,Forest Harvest,2013,2013,133200
+2013,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2013,2013,1200
+2013,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2013,2013,1200
+2013,Southern Rockies,Forest Harvest,Forest Harvest,2013,2013,32600
+2013,Southern Texas Plains,Forest Harvest,Forest Harvest,2013,2013,1200
+2013,Southwestern Appalachians,Forest Harvest,Forest Harvest,2013,2013,24800
+2013,Southwestern Tablelands,Forest Harvest,Forest Harvest,2013,2013,1900
+2013,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2013,2013,1700
+2013,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2013,2013,36000
+2013,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2013,2013,21100
+2013,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2013,2013,600
+2013,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2013,2013,1400
+2013,Willamette Valley,Forest Harvest,Forest Harvest,2013,2013,4400
+2013,Wyoming Basin,Forest Harvest,Forest Harvest,2013,2013,0
+2014,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2014,2014,51300
+2014,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2014,2014,18000
+2014,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2014,2014,200
+2014,Arkansas Valley,Forest Harvest,Forest Harvest,2014,2014,8800
+2014,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2014,2014,3000
+2014,Blue Mountains,Forest Harvest,Forest Harvest,2014,2014,22900
+2014,Blue Ridge,Forest Harvest,Forest Harvest,2014,2014,10500
+2014,Boston Mountains,Forest Harvest,Forest Harvest,2014,2014,5300
+2014,Canadian Rockies,Forest Harvest,Forest Harvest,2014,2014,1600
+2014,Cascades,Forest Harvest,Forest Harvest,2014,2014,60900
+2014,Central Appalachians,Forest Harvest,Forest Harvest,2014,2014,23300
+2014,Central Basin and Range,Forest Harvest,Forest Harvest,2014,2014,6500
+2014,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2014,2014,2000
+2014,Central California Valley,Forest Harvest,Forest Harvest,2014,2014,0
+2014,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2014,2014,0
+2014,Central Great Plains,Forest Harvest,Forest Harvest,2014,2014,6400
+2014,Central Irregular Plains,Forest Harvest,Forest Harvest,2014,2014,2600
+2014,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2014,2014,0
+2014,Coast Range,Forest Harvest,Forest Harvest,2014,2014,49700
+2014,Colorado Plateaus,Forest Harvest,Forest Harvest,2014,2014,8600
+2014,Columbia Plateau,Forest Harvest,Forest Harvest,2014,2014,800
+2014,Cross Timbers,Forest Harvest,Forest Harvest,2014,2014,20000
+2014,Driftless Area,Forest Harvest,Forest Harvest,2014,2014,1300
+2014,East Central Texas Plains,Forest Harvest,Forest Harvest,2014,2014,5400
+2014,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2014,2014,40700
+2014,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2014,2014,400
+2014,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2014,2014,1700
+2014,Edwards Plateau,Forest Harvest,Forest Harvest,2014,2014,8500
+2014,Erie Drift Plain,Forest Harvest,Forest Harvest,2014,2014,1500
+2014,Flint Hills,Forest Harvest,Forest Harvest,2014,2014,1000
+2014,High Plains,Forest Harvest,Forest Harvest,2014,2014,500
+2014,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2014,2014,500
+2014,Idaho Batholith,Forest Harvest,Forest Harvest,2014,2014,9400
+2014,Interior Plateau,Forest Harvest,Forest Harvest,2014,2014,15300
+2014,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2014,2014,3300
+2014,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2014,2014,34300
+2014,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2014,2014,0
+2014,Madrean Archipelago,Forest Harvest,Forest Harvest,2014,2014,200
+2014,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2014,2014,86300
+2014,Middle Rockies,Forest Harvest,Forest Harvest,2014,2014,43400
+2014,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2014,2014,6700
+2014,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2014,2014,35800
+2014,Mojave Basin and Range,Forest Harvest,Forest Harvest,2014,2014,400
+2014,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2014,2014,100
+2014,North Cascades,Forest Harvest,Forest Harvest,2014,2014,7600
+2014,North Central Appalachians,Forest Harvest,Forest Harvest,2014,2014,5300
+2014,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2014,2014,4900
+2014,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2014,2014,6600
+2014,Northeastern Highlands,Forest Harvest,Forest Harvest,2014,2014,70600
+2014,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2014,2014,1000
+2014,Northern Basin and Range,Forest Harvest,Forest Harvest,2014,2014,2900
+2014,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2014,2014,200
+2014,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2014,2014,77600
+2014,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2014,2014,8200
+2014,Northern Piedmont,Forest Harvest,Forest Harvest,2014,2014,1400
+2014,Northern Rockies,Forest Harvest,Forest Harvest,2014,2014,59700
+2014,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2014,2014,400
+2014,Northwestern Great Plains,Forest Harvest,Forest Harvest,2014,2014,4000
+2014,Ouachita Mountains,Forest Harvest,Forest Harvest,2014,2014,48800
+2014,Ozark Highlands,Forest Harvest,Forest Harvest,2014,2014,25700
+2014,Piedmont,Forest Harvest,Forest Harvest,2014,2014,188700
+2014,Puget Lowland,Forest Harvest,Forest Harvest,2014,2014,6100
+2014,Ridge and Valley,Forest Harvest,Forest Harvest,2014,2014,28400
+2014,Sierra Nevada,Forest Harvest,Forest Harvest,2014,2014,13100
+2014,Snake River Plain,Forest Harvest,Forest Harvest,2014,2014,400
+2014,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2014,2014,0
+2014,South Central Plains,Forest Harvest,Forest Harvest,2014,2014,263800
+2014,Southeastern Plains,Forest Harvest,Forest Harvest,2014,2014,425700
+2014,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2014,2014,200
+2014,Southern California Mountains,Forest Harvest,Forest Harvest,2014,2014,700
+2014,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2014,2014,0
+2014,Southern Coastal Plain,Forest Harvest,Forest Harvest,2014,2014,136300
+2014,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2014,2014,1500
+2014,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2014,2014,1400
+2014,Southern Rockies,Forest Harvest,Forest Harvest,2014,2014,17300
+2014,Southern Texas Plains,Forest Harvest,Forest Harvest,2014,2014,1500
+2014,Southwestern Appalachians,Forest Harvest,Forest Harvest,2014,2014,23000
+2014,Southwestern Tablelands,Forest Harvest,Forest Harvest,2014,2014,1200
+2014,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2014,2014,1800
+2014,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2014,2014,10500
+2014,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2014,2014,14500
+2014,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2014,2014,600
+2014,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2014,2014,2700
+2014,Willamette Valley,Forest Harvest,Forest Harvest,2014,2014,3500
+2014,Wyoming Basin,Forest Harvest,Forest Harvest,2014,2014,0
+2015,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2015,2015,53100
+2015,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2015,2015,32600
+2015,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2015,2015,800
+2015,Arkansas Valley,Forest Harvest,Forest Harvest,2015,2015,11500
+2015,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2015,2015,2700
+2015,Blue Mountains,Forest Harvest,Forest Harvest,2015,2015,25000
+2015,Blue Ridge,Forest Harvest,Forest Harvest,2015,2015,13000
+2015,Boston Mountains,Forest Harvest,Forest Harvest,2015,2015,7700
+2015,Canadian Rockies,Forest Harvest,Forest Harvest,2015,2015,3100
+2015,Cascades,Forest Harvest,Forest Harvest,2015,2015,58600
+2015,Central Appalachians,Forest Harvest,Forest Harvest,2015,2015,44700
+2015,Central Basin and Range,Forest Harvest,Forest Harvest,2015,2015,12400
+2015,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2015,2015,1600
+2015,Central California Valley,Forest Harvest,Forest Harvest,2015,2015,0
+2015,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2015,2015,700
+2015,Central Great Plains,Forest Harvest,Forest Harvest,2015,2015,2900
+2015,Central Irregular Plains,Forest Harvest,Forest Harvest,2015,2015,3900
+2015,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2015,2015,0
+2015,Coast Range,Forest Harvest,Forest Harvest,2015,2015,70000
+2015,Colorado Plateaus,Forest Harvest,Forest Harvest,2015,2015,9900
+2015,Columbia Plateau,Forest Harvest,Forest Harvest,2015,2015,1100
+2015,Cross Timbers,Forest Harvest,Forest Harvest,2015,2015,11100
+2015,Driftless Area,Forest Harvest,Forest Harvest,2015,2015,3200
+2015,East Central Texas Plains,Forest Harvest,Forest Harvest,2015,2015,6800
+2015,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2015,2015,42000
+2015,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2015,2015,1100
+2015,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2015,2015,4600
+2015,Edwards Plateau,Forest Harvest,Forest Harvest,2015,2015,11300
+2015,Erie Drift Plain,Forest Harvest,Forest Harvest,2015,2015,3100
+2015,Flint Hills,Forest Harvest,Forest Harvest,2015,2015,0
+2015,High Plains,Forest Harvest,Forest Harvest,2015,2015,700
+2015,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2015,2015,1300
+2015,Idaho Batholith,Forest Harvest,Forest Harvest,2015,2015,10400
+2015,Interior Plateau,Forest Harvest,Forest Harvest,2015,2015,22000
+2015,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2015,2015,6200
+2015,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2015,2015,22400
+2015,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2015,2015,400
+2015,Madrean Archipelago,Forest Harvest,Forest Harvest,2015,2015,0
+2015,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2015,2015,107700
+2015,Middle Rockies,Forest Harvest,Forest Harvest,2015,2015,43700
+2015,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2015,2015,12400
+2015,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2015,2015,51400
+2015,Mojave Basin and Range,Forest Harvest,Forest Harvest,2015,2015,100
+2015,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2015,2015,100
+2015,North Cascades,Forest Harvest,Forest Harvest,2015,2015,8300
+2015,North Central Appalachians,Forest Harvest,Forest Harvest,2015,2015,14500
+2015,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2015,2015,12700
+2015,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2015,2015,9700
+2015,Northeastern Highlands,Forest Harvest,Forest Harvest,2015,2015,107600
+2015,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2015,2015,3400
+2015,Northern Basin and Range,Forest Harvest,Forest Harvest,2015,2015,2300
+2015,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2015,2015,0
+2015,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2015,2015,129500
+2015,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2015,2015,15200
+2015,Northern Piedmont,Forest Harvest,Forest Harvest,2015,2015,2400
+2015,Northern Rockies,Forest Harvest,Forest Harvest,2015,2015,71100
+2015,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2015,2015,100
+2015,Northwestern Great Plains,Forest Harvest,Forest Harvest,2015,2015,3700
+2015,Ouachita Mountains,Forest Harvest,Forest Harvest,2015,2015,41500
+2015,Ozark Highlands,Forest Harvest,Forest Harvest,2015,2015,29500
+2015,Piedmont,Forest Harvest,Forest Harvest,2015,2015,237800
+2015,Puget Lowland,Forest Harvest,Forest Harvest,2015,2015,8600
+2015,Ridge and Valley,Forest Harvest,Forest Harvest,2015,2015,46300
+2015,Sierra Nevada,Forest Harvest,Forest Harvest,2015,2015,27700
+2015,Snake River Plain,Forest Harvest,Forest Harvest,2015,2015,0
+2015,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2015,2015,0
+2015,South Central Plains,Forest Harvest,Forest Harvest,2015,2015,374800
+2015,Southeastern Plains,Forest Harvest,Forest Harvest,2015,2015,626500
+2015,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2015,2015,700
+2015,Southern California Mountains,Forest Harvest,Forest Harvest,2015,2015,1200
+2015,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2015,2015,0
+2015,Southern Coastal Plain,Forest Harvest,Forest Harvest,2015,2015,214600
+2015,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2015,2015,1400
+2015,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2015,2015,1200
+2015,Southern Rockies,Forest Harvest,Forest Harvest,2015,2015,20900
+2015,Southern Texas Plains,Forest Harvest,Forest Harvest,2015,2015,1500
+2015,Southwestern Appalachians,Forest Harvest,Forest Harvest,2015,2015,29800
+2015,Southwestern Tablelands,Forest Harvest,Forest Harvest,2015,2015,1600
+2015,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2015,2015,2000
+2015,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2015,2015,27700
+2015,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2015,2015,32000
+2015,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2015,2015,1800
+2015,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2015,2015,4800
+2015,Willamette Valley,Forest Harvest,Forest Harvest,2015,2015,5100
+2015,Wyoming Basin,Forest Harvest,Forest Harvest,2015,2015,600
+2016,Acadian Plains and Hills,Forest Harvest,Forest Harvest,2016,2016,35900
+2016,Arizona/New Mexico Mountains,Forest Harvest,Forest Harvest,2016,2016,26400
+2016,Arizona/New Mexico Plateau,Forest Harvest,Forest Harvest,2016,2016,800
+2016,Arkansas Valley,Forest Harvest,Forest Harvest,2016,2016,20200
+2016,Atlantic Coastal Pine Barrens,Forest Harvest,Forest Harvest,2016,2016,3200
+2016,Blue Mountains,Forest Harvest,Forest Harvest,2016,2016,19200
+2016,Blue Ridge,Forest Harvest,Forest Harvest,2016,2016,13100
+2016,Boston Mountains,Forest Harvest,Forest Harvest,2016,2016,7600
+2016,Canadian Rockies,Forest Harvest,Forest Harvest,2016,2016,1300
+2016,Cascades,Forest Harvest,Forest Harvest,2016,2016,74100
+2016,Central Appalachians,Forest Harvest,Forest Harvest,2016,2016,33000
+2016,Central Basin and Range,Forest Harvest,Forest Harvest,2016,2016,8500
+2016,Central California Foothills and Coastal Mountains,Forest Harvest,Forest Harvest,2016,2016,3800
+2016,Central California Valley,Forest Harvest,Forest Harvest,2016,2016,0
+2016,Central Corn Belt Plains,Forest Harvest,Forest Harvest,2016,2016,300
+2016,Central Great Plains,Forest Harvest,Forest Harvest,2016,2016,6100
+2016,Central Irregular Plains,Forest Harvest,Forest Harvest,2016,2016,4700
+2016,Chihuahuan Deserts,Forest Harvest,Forest Harvest,2016,2016,300
+2016,Coast Range,Forest Harvest,Forest Harvest,2016,2016,65600
+2016,Colorado Plateaus,Forest Harvest,Forest Harvest,2016,2016,10900
+2016,Columbia Plateau,Forest Harvest,Forest Harvest,2016,2016,400
+2016,Cross Timbers,Forest Harvest,Forest Harvest,2016,2016,33400
+2016,Driftless Area,Forest Harvest,Forest Harvest,2016,2016,1800
+2016,East Central Texas Plains,Forest Harvest,Forest Harvest,2016,2016,5100
+2016,Eastern Cascades Slopes and Foothills,Forest Harvest,Forest Harvest,2016,2016,35100
+2016,Eastern Corn Belt Plains,Forest Harvest,Forest Harvest,2016,2016,1600
+2016,Eastern Great Lakes Lowlands,Forest Harvest,Forest Harvest,2016,2016,3100
+2016,Edwards Plateau,Forest Harvest,Forest Harvest,2016,2016,6100
+2016,Erie Drift Plain,Forest Harvest,Forest Harvest,2016,2016,2300
+2016,Flint Hills,Forest Harvest,Forest Harvest,2016,2016,6300
+2016,High Plains,Forest Harvest,Forest Harvest,2016,2016,300
+2016,Huron/Erie Lake Plains,Forest Harvest,Forest Harvest,2016,2016,900
+2016,Idaho Batholith,Forest Harvest,Forest Harvest,2016,2016,9000
+2016,Interior Plateau,Forest Harvest,Forest Harvest,2016,2016,22200
+2016,Interior River Valleys and Hills,Forest Harvest,Forest Harvest,2016,2016,7500
+2016,Klamath Mountains/California High North Coast Range,Forest Harvest,Forest Harvest,2016,2016,25100
+2016,Lake Agassiz Plain,Forest Harvest,Forest Harvest,2016,2016,400
+2016,Madrean Archipelago,Forest Harvest,Forest Harvest,2016,2016,300
+2016,Middle Atlantic Coastal Plain,Forest Harvest,Forest Harvest,2016,2016,84800
+2016,Middle Rockies,Forest Harvest,Forest Harvest,2016,2016,43200
+2016,Mississippi Alluvial Plain,Forest Harvest,Forest Harvest,2016,2016,8100
+2016,Mississippi Valley Loess Plains,Forest Harvest,Forest Harvest,2016,2016,41500
+2016,Mojave Basin and Range,Forest Harvest,Forest Harvest,2016,2016,100
+2016,Nebraska Sand Hills,Forest Harvest,Forest Harvest,2016,2016,100
+2016,North Cascades,Forest Harvest,Forest Harvest,2016,2016,7800
+2016,North Central Appalachians,Forest Harvest,Forest Harvest,2016,2016,11200
+2016,North Central Hardwood Forests,Forest Harvest,Forest Harvest,2016,2016,14300
+2016,Northeastern Coastal Zone,Forest Harvest,Forest Harvest,2016,2016,9200
+2016,Northeastern Highlands,Forest Harvest,Forest Harvest,2016,2016,69700
+2016,Northern Allegheny Plateau,Forest Harvest,Forest Harvest,2016,2016,2400
+2016,Northern Basin and Range,Forest Harvest,Forest Harvest,2016,2016,2900
+2016,Northern Glaciated Plains,Forest Harvest,Forest Harvest,2016,2016,700
+2016,Northern Lakes and Forests,Forest Harvest,Forest Harvest,2016,2016,139000
+2016,Northern Minnesota Wetlands,Forest Harvest,Forest Harvest,2016,2016,12500
+2016,Northern Piedmont,Forest Harvest,Forest Harvest,2016,2016,1300
+2016,Northern Rockies,Forest Harvest,Forest Harvest,2016,2016,53700
+2016,Northwestern Glaciated Plains,Forest Harvest,Forest Harvest,2016,2016,200
+2016,Northwestern Great Plains,Forest Harvest,Forest Harvest,2016,2016,3300
+2016,Ouachita Mountains,Forest Harvest,Forest Harvest,2016,2016,47500
+2016,Ozark Highlands,Forest Harvest,Forest Harvest,2016,2016,31700
+2016,Piedmont,Forest Harvest,Forest Harvest,2016,2016,201000
+2016,Puget Lowland,Forest Harvest,Forest Harvest,2016,2016,6200
+2016,Ridge and Valley,Forest Harvest,Forest Harvest,2016,2016,42700
+2016,Sierra Nevada,Forest Harvest,Forest Harvest,2016,2016,42800
+2016,Snake River Plain,Forest Harvest,Forest Harvest,2016,2016,100
+2016,Sonoran Basin and Range,Forest Harvest,Forest Harvest,2016,2016,0
+2016,South Central Plains,Forest Harvest,Forest Harvest,2016,2016,281300
+2016,Southeastern Plains,Forest Harvest,Forest Harvest,2016,2016,513700
+2016,Southeastern Wisconsin Till Plains,Forest Harvest,Forest Harvest,2016,2016,400
+2016,Southern California Mountains,Forest Harvest,Forest Harvest,2016,2016,1800
+2016,Southern California/Northern Baja Coast,Forest Harvest,Forest Harvest,2016,2016,0
+2016,Southern Coastal Plain,Forest Harvest,Forest Harvest,2016,2016,192000
+2016,Southern Florida Coastal Plain,Forest Harvest,Forest Harvest,2016,2016,1600
+2016,Southern Michigan/Northern Indiana Drift Plains,Forest Harvest,Forest Harvest,2016,2016,1600
+2016,Southern Rockies,Forest Harvest,Forest Harvest,2016,2016,25600
+2016,Southern Texas Plains,Forest Harvest,Forest Harvest,2016,2016,500
+2016,Southwestern Appalachians,Forest Harvest,Forest Harvest,2016,2016,27100
+2016,Southwestern Tablelands,Forest Harvest,Forest Harvest,2016,2016,2600
+2016,Texas Blackland Prairies,Forest Harvest,Forest Harvest,2016,2016,2300
+2016,Wasatch and Uinta Mountains,Forest Harvest,Forest Harvest,2016,2016,9900
+2016,Western Allegheny Plateau,Forest Harvest,Forest Harvest,2016,2016,17100
+2016,Western Corn Belt Plains,Forest Harvest,Forest Harvest,2016,2016,1600
+2016,Western Gulf Coastal Plain,Forest Harvest,Forest Harvest,2016,2016,3300
+2016,Willamette Valley,Forest Harvest,Forest Harvest,2016,2016,5700
+2016,Wyoming Basin,Forest Harvest,Forest Harvest,2016,2016,400

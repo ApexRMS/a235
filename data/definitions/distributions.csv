@@ -1,0 +1,12 @@
+Name,Description,IsInternal
+Urbanization,NLCD,
+Intensification,NLCD,
+Fire,Landfire Disturbance,
+Ag Expansion,NLCD,
+Forest Harvest: Forest Clearcut,Landfire Disturbance,
+Forest Harvest: Forest Selection,Landfire Disturbance,
+Ag Contraction: Cropland,NLCD,
+Ag Contraction: Pasture,NLCD,
+Insect: High Severity,ADS,
+Insect: Medium Severity,ADS,
+Insect: Low Severity,ADS,

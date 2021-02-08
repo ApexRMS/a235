@@ -1,0 +1,101 @@
+TransitionGroupID,StateClassID,StateAttributeTypeID,NeighborhoodRadius,UpdateFrequency
+Urbanization: Open [Type],Developed: Open Space,,1500,5
+Urbanization: Low [Type],Developed: Low Intensity,,1500,5
+Urbanization: Medium [Type],Developed: Medium Intensity,,1500,5
+Urbanization: High [Type],Developed: High Intensity,,1500,5
+Intensification: Open to Low [Type],Developed: Low Intensity,,1500,5
+Intensification: Open to Medium [Type],Developed: Medium Intensity,,1500,5
+Intensification: Open to High [Type],Developed: High Intensity,,1500,5
+Intensification: Low to Medium [Type],Developed: Medium Intensity,,1500,5
+Intensification: Low to High [Type],Developed: High Intensity,,1500,5
+Intensification: Medium to High [Type],Developed: High Intensity,,1500,5
+Ag Expansion: Pasture [Type],Agriculture: Pasture,,1500,5
+Ag Expansion: Cropland [Type],Agriculture: Cropland,,1500,5
+Ag Contraction: Alder/Maple Group [Type],Forest: Alder/Maple Group,,1500,50
+Ag Contraction: Aspen/Birch Group [Type],Forest: Aspen/Birch Group,,1500,50
+Ag Contraction: California Mixed Conifer Group [Type],Forest: California Mixed Conifer Group,,1500,50
+Ag Contraction: Douglas-fir Group [Type],Forest: Douglas-fir Group,,1500,50
+Ag Contraction: Elm/Ash/Cottonwood Group [Type],Forest: Elm/Ash/Cottonwood Group,,1500,50
+Ag Contraction: Exotic Hardwoods Group [Type],Forest: Exotic Hardwoods Group,,1500,50
+Ag Contraction: Exotic Softwoods Group [Type],Forest: Exotic Softwoods Group,,1500,50
+Ag Contraction: Fir/Spruce/Mountain Hemlock Group [Type],Forest: Fir/Spruce/Mountain Hemlock Group,,1500,50
+Ag Contraction: Hemlock/Sitka Spruce Group [Type],Forest: Hemlock/Sitka Spruce Group,,1500,50
+Ag Contraction: Loblolly/Shortleaf Pine Group [Type],Forest: Loblolly/Shortleaf Pine Group,,1500,50
+Ag Contraction: Lodgepole Pine Group [Type],Forest: Lodgepole Pine Group,,1500,50
+Ag Contraction: Longleaf/Slash Pine Group [Type],Forest: Longleaf/Slash Pine Group,,1500,50
+Ag Contraction: Maple/Beech/Birch Group [Type],Forest: Maple/Beech/Birch Group,,1500,50
+Ag Contraction: Oak/Gum/Cypress Group [Type],Forest: Oak/Gum/Cypress Group,,1500,50
+Ag Contraction: Oak/Hickory Group [Type],Forest: Oak/Hickory Group,,1500,50
+Ag Contraction: Oak/Pine Group [Type],Forest: Oak/Pine Group,,1500,50
+Ag Contraction: Other Western Hardwoods Group [Type],Forest: Other Western Hardwoods Group,,1500,50
+Ag Contraction: Other Western Softwood Group [Type],Forest: Other Western Softwood Group,,1500,50
+Ag Contraction: Pinyon/Juniper Group [Type],Forest: Pinyon/Juniper Group,,1500,50
+Ag Contraction: Ponderosa Pine Group [Type],Forest: Ponderosa Pine Group,,1500,50
+Ag Contraction: Redwood Group [Type],Forest: Redwood Group,,1500,50
+Ag Contraction: Spruce/Fir Group [Type],Forest: Spruce/Fir Group,,1500,50
+Ag Contraction: Tanoak/Laurel Group [Type],Forest: Tanoak/Laurel Group,,1500,50
+Ag Contraction: Tropical Hardwoods Group [Type],Forest: Tropical Hardwoods Group,,1500,50
+Ag Contraction: Western Larch Group [Type],Forest: Western Larch Group,,1500,50
+Ag Contraction: Western Oak Group [Type],Forest: Western Oak Group,,1500,50
+Ag Contraction: Western White Pine Group [Type],Forest: Western White Pine Group,,1500,50
+Ag Contraction: White/Red/Jack Pine Group [Type],Forest: White/Red/Jack Pine Group,,1500,50
+Ag Contraction: Grassland [Type],Grassland: All,,1500,50
+Ag Contraction: Shrubland [Type],Shrubland: All,,1500,50
+Ag Contraction: Wetland Herbaceous [Type],Wetland: Herbaceous,,1500,50
+Ag Contraction: Wetland Woody [Type],Wetland: Woody,,1500,50
+Succession Post Fire: Alder/Maple Group [Type],Forest: Alder/Maple Group,,1500,50
+Succession Post Fire: Aspen/Birch Group [Type],Forest: Aspen/Birch Group,,1500,50
+Succession Post Fire: California Mixed Conifer Group [Type],Forest: California Mixed Conifer Group,,1500,50
+Succession Post Fire: Douglas-fir Group [Type],Forest: Douglas-fir Group,,1500,50
+Succession Post Fire: Elm/Ash/Cottonwood Group [Type],Forest: Elm/Ash/Cottonwood Group,,1500,50
+Succession Post Fire: Exotic Hardwoods Group [Type],Forest: Exotic Hardwoods Group,,1500,50
+Succession Post Fire: Exotic Softwoods Group [Type],Forest: Exotic Softwoods Group,,1500,50
+Succession Post Fire: Fir/Spruce/Mountain Hemlock Group [Type],Forest: Fir/Spruce/Mountain Hemlock Group,,1500,50
+Succession Post Fire: Hemlock/Sitka Spruce Group [Type],Forest: Hemlock/Sitka Spruce Group,,1500,50
+Succession Post Fire: Loblolly/Shortleaf Pine Group [Type],Forest: Loblolly/Shortleaf Pine Group,,1500,50
+Succession Post Fire: Lodgepole Pine Group [Type],Forest: Lodgepole Pine Group,,1500,50
+Succession Post Fire: Longleaf/Slash Pine Group [Type],Forest: Longleaf/Slash Pine Group,,1500,50
+Succession Post Fire: Maple/Beech/Birch Group [Type],Forest: Maple/Beech/Birch Group,,1500,50
+Succession Post Fire: Oak/Gum/Cypress Group [Type],Forest: Oak/Gum/Cypress Group,,1500,50
+Succession Post Fire: Oak/Hickory Group [Type],Forest: Oak/Hickory Group,,1500,50
+Succession Post Fire: Oak/Pine Group [Type],Forest: Oak/Pine Group,,1500,50
+Succession Post Fire: Other Western Hardwoods Group [Type],Forest: Other Western Hardwoods Group,,1500,50
+Succession Post Fire: Other Western Softwood Group [Type],Forest: Other Western Softwood Group,,1500,50
+Succession Post Fire: Pinyon/Juniper Group [Type],Forest: Pinyon/Juniper Group,,1500,50
+Succession Post Fire: Ponderosa Pine Group [Type],Forest: Ponderosa Pine Group,,1500,50
+Succession Post Fire: Redwood Group [Type],Forest: Redwood Group,,1500,50
+Succession Post Fire: Spruce/Fir Group [Type],Forest: Spruce/Fir Group,,1500,50
+Succession Post Fire: Tanoak/Laurel Group [Type],Forest: Tanoak/Laurel Group,,1500,50
+Succession Post Fire: Tropical Hardwoods Group [Type],Forest: Tropical Hardwoods Group,,1500,50
+Succession Post Fire: Western Larch Group [Type],Forest: Western Larch Group,,1500,50
+Succession Post Fire: Western Oak Group [Type],Forest: Western Oak Group,,1500,50
+Succession Post Fire: Western White Pine Group [Type],Forest: Western White Pine Group,,1500,50
+Succession Post Fire: White/Red/Jack Pine Group [Type],Forest: White/Red/Jack Pine Group,,1500,50
+Reforestation: White/Red/Jack Pine Group,Forest: White/Red/Jack Pine Group,,1500,50
+Reforestation: Spruce/Fir Group,Forest: Spruce/Fir Group,,1500,50
+Reforestation: Longleaf/Slash Pine Group,Forest: Longleaf/Slash Pine Group,,1500,50
+Reforestation: Loblolly/Shortleaf Pine Group,Forest: Loblolly/Shortleaf Pine Group,,1500,50
+Reforestation: Pinyon/Juniper Group,Forest: Pinyon/Juniper Group,,1500,50
+Reforestation: Douglas-fir Group,Forest: Douglas-fir Group,,1500,50
+Reforestation: Ponderosa Pine Group,Forest: Ponderosa Pine Group,,1500,50
+Reforestation: Western White Pine Group,Forest: Western White Pine Group,,1500,50
+Reforestation: Fir/Spruce/Mountain Hemlock Group,Forest: Fir/Spruce/Mountain Hemlock Group,,1500,50
+Reforestation: Lodgepole Pine Group,Forest: Lodgepole Pine Group,,1500,50
+Reforestation: Hemlock/Sitka Spruce Group,Forest: Hemlock/Sitka Spruce Group,,1500,50
+Reforestation: Western Larch Group,Forest: Western Larch Group,,1500,50
+Reforestation: Redwood Group,Forest: Redwood Group,,1500,50
+Reforestation: Other Western Softwood Group,Forest: Other Western Softwood Group,,1500,50
+Reforestation: California Mixed Conifer Group,Forest: California Mixed Conifer Group,,1500,50
+Reforestation: Exotic Softwoods Group,Forest: Exotic Softwoods Group,,1500,50
+Reforestation: Oak/Pine Group,Forest: Oak/Pine Group,,1500,50
+Reforestation: Oak/Hickory Group,Forest: Oak/Hickory Group,,1500,50
+Reforestation: Oak/Gum/Cypress Group,Forest: Oak/Gum/Cypress Group,,1500,50
+Reforestation: Elm/Ash/Cottonwood Group,Forest: Elm/Ash/Cottonwood Group,,1500,50
+Reforestation: Maple/Beech/Birch Group,Forest: Maple/Beech/Birch Group,,1500,50
+Reforestation: Aspen/Birch Group,Forest: Aspen/Birch Group,,1500,50
+Reforestation: Alder/Maple Group,Forest: Alder/Maple Group,,1500,50
+Reforestation: Western Oak Group,Forest: Western Oak Group,,1500,50
+Reforestation: Tanoak/Laurel Group,Forest: Tanoak/Laurel Group,,1500,50
+Reforestation: Other Western Hardwoods Group,Forest: Other Western Hardwoods Group,,1500,50
+Reforestation: Tropical Hardwoods Group,Forest: Tropical Hardwoods Group,,1500,50
+Reforestation: Exotic Hardwoods Group,Forest: Exotic Hardwoods Group,,1500,50

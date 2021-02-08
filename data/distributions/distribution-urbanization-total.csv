@@ -1,0 +1,256 @@
+StratumID,DistributionTypeID,ExternalVariableTypeID,ExternalVariableMin,ExternalVariableMax,Amount
+Acadian Plains and Hills,Urbanization,Urbanization,2001,2006,300
+Arizona/New Mexico Mountains,Urbanization,Urbanization,2001,2006,500
+Arizona/New Mexico Plateau,Urbanization,Urbanization,2001,2006,1680
+Arkansas Valley,Urbanization,Urbanization,2001,2006,1060
+Atlantic Coastal Pine Barrens,Urbanization,Urbanization,2001,2006,3440
+Blue Mountains,Urbanization,Urbanization,2001,2006,260
+Blue Ridge,Urbanization,Urbanization,2001,2006,940
+Boston Mountains,Urbanization,Urbanization,2001,2006,160
+Canadian Rockies,Urbanization,Urbanization,2001,2006,0
+Cascades,Urbanization,Urbanization,2001,2006,60
+Central Appalachians,Urbanization,Urbanization,2001,2006,620
+Central Basin and Range,Urbanization,Urbanization,2001,2006,4540
+Central California Foothills and Coastal Mountains,Urbanization,Urbanization,2001,2006,1680
+Central California Valley,Urbanization,Urbanization,2001,2006,4700
+Central Corn Belt Plains,Urbanization,Urbanization,2001,2006,7540
+Central Great Plains,Urbanization,Urbanization,2001,2006,3540
+Central Irregular Plains,Urbanization,Urbanization,2001,2006,3480
+Chihuahuan Deserts,Urbanization,Urbanization,2001,2006,2940
+Coast Range,Urbanization,Urbanization,2001,2006,40
+Colorado Plateaus,Urbanization,Urbanization,2001,2006,680
+Columbia Plateau,Urbanization,Urbanization,2001,2006,900
+Cross Timbers,Urbanization,Urbanization,2001,2006,4620
+Driftless Area,Urbanization,Urbanization,2001,2006,1120
+East Central Texas Plains,Urbanization,Urbanization,2001,2006,1240
+Eastern Cascades Slopes and Foothills,Urbanization,Urbanization,2001,2006,220
+Eastern Corn Belt Plains,Urbanization,Urbanization,2001,2006,6680
+Eastern Great Lakes Lowlands,Urbanization,Urbanization,2001,2006,2040
+Edwards Plateau,Urbanization,Urbanization,2001,2006,2820
+Erie Drift Plain,Urbanization,Urbanization,2001,2006,2640
+Flint Hills,Urbanization,Urbanization,2001,2006,220
+High Plains,Urbanization,Urbanization,2001,2006,8940
+Huron/Erie Lake Plains,Urbanization,Urbanization,2001,2006,1500
+Idaho Batholith,Urbanization,Urbanization,2001,2006,0
+Interior Plateau,Urbanization,Urbanization,2001,2006,9180
+Interior River Valleys and Hills,Urbanization,Urbanization,2001,2006,3060
+Klamath Mountains/California High North Coast Range,Urbanization,Urbanization,2001,2006,360
+Lake Agassiz Plain,Urbanization,Urbanization,2001,2006,600
+Madrean Archipelago,Urbanization,Urbanization,2001,2006,360
+Middle Atlantic Coastal Plain,Urbanization,Urbanization,2001,2006,7120
+Middle Rockies,Urbanization,Urbanization,2001,2006,420
+Mississippi Alluvial Plain,Urbanization,Urbanization,2001,2006,2200
+Mississippi Valley Loess Plains,Urbanization,Urbanization,2001,2006,4940
+Mojave Basin and Range,Urbanization,Urbanization,2001,2006,4400
+Nebraska Sand Hills,Urbanization,Urbanization,2001,2006,80
+North Cascades,Urbanization,Urbanization,2001,2006,100
+North Central Appalachians,Urbanization,Urbanization,2001,2006,120
+North Central Hardwood Forests,Urbanization,Urbanization,2001,2006,6020
+Northeastern Coastal Zone,Urbanization,Urbanization,2001,2006,8580
+Northeastern Highlands,Urbanization,Urbanization,2001,2006,900
+Northern Allegheny Plateau,Urbanization,Urbanization,2001,2006,260
+Northern Basin and Range,Urbanization,Urbanization,2001,2006,40
+Northern Glaciated Plains,Urbanization,Urbanization,2001,2006,700
+Northern Lakes and Forests,Urbanization,Urbanization,2001,2006,860
+Northern Minnesota Wetlands,Urbanization,Urbanization,2001,2006,0
+Northern Piedmont,Urbanization,Urbanization,2001,2006,5880
+Northern Rockies,Urbanization,Urbanization,2001,2006,660
+Northwestern Glaciated Plains,Urbanization,Urbanization,2001,2006,560
+Northwestern Great Plains,Urbanization,Urbanization,2001,2006,660
+Ouachita Mountains,Urbanization,Urbanization,2001,2006,740
+Ozark Highlands,Urbanization,Urbanization,2001,2006,3300
+Piedmont,Urbanization,Urbanization,2001,2006,30040
+Puget Lowland,Urbanization,Urbanization,2001,2006,1960
+Ridge and Valley,Urbanization,Urbanization,2001,2006,10460
+Sierra Nevada,Urbanization,Urbanization,2001,2006,80
+Snake River Plain,Urbanization,Urbanization,2001,2006,1120
+Sonoran Basin and Range,Urbanization,Urbanization,2001,2006,9580
+South Central Plains,Urbanization,Urbanization,2001,2006,5240
+Southeastern Plains,Urbanization,Urbanization,2001,2006,15880
+Southeastern Wisconsin Till Plains,Urbanization,Urbanization,2001,2006,6440
+Southern California Mountains,Urbanization,Urbanization,2001,2006,220
+Southern California/Northern Baja Coast,Urbanization,Urbanization,2001,2006,5620
+Southern Coastal Plain,Urbanization,Urbanization,2001,2006,13960
+Southern Florida Coastal Plain,Urbanization,Urbanization,2001,2006,2320
+Southern Michigan/Northern Indiana Drift Plains,Urbanization,Urbanization,2001,2006,2320
+Southern Rockies,Urbanization,Urbanization,2001,2006,340
+Southern Texas Plains,Urbanization,Urbanization,2001,2006,1160
+Southwestern Appalachians,Urbanization,Urbanization,2001,2006,1160
+Southwestern Tablelands,Urbanization,Urbanization,2001,2006,2840
+Texas Blackland Prairies,Urbanization,Urbanization,2001,2006,7000
+Wasatch and Uinta Mountains,Urbanization,Urbanization,2001,2006,380
+Western Allegheny Plateau,Urbanization,Urbanization,2001,2006,3140
+Western Corn Belt Plains,Urbanization,Urbanization,2001,2006,7580
+Western Gulf Coastal Plain,Urbanization,Urbanization,2001,2006,8300
+Willamette Valley,Urbanization,Urbanization,2001,2006,1060
+Wyoming Basin,Urbanization,Urbanization,2001,2006,620
+Acadian Plains and Hills,Urbanization,Urbanization,2007,2011,260
+Arizona/New Mexico Mountains,Urbanization,Urbanization,2007,2011,480
+Arizona/New Mexico Plateau,Urbanization,Urbanization,2007,2011,740
+Arkansas Valley,Urbanization,Urbanization,2007,2011,1200
+Atlantic Coastal Pine Barrens,Urbanization,Urbanization,2007,2011,2080
+Blue Mountains,Urbanization,Urbanization,2007,2011,140
+Blue Ridge,Urbanization,Urbanization,2007,2011,740
+Boston Mountains,Urbanization,Urbanization,2007,2011,80
+Canadian Rockies,Urbanization,Urbanization,2007,2011,0
+Cascades,Urbanization,Urbanization,2007,2011,20
+Central Appalachians,Urbanization,Urbanization,2007,2011,240
+Central Basin and Range,Urbanization,Urbanization,2007,2011,2540
+Central California Foothills and Coastal Mountains,Urbanization,Urbanization,2007,2011,500
+Central California Valley,Urbanization,Urbanization,2007,2011,2820
+Central Corn Belt Plains,Urbanization,Urbanization,2007,2011,5040
+Central Great Plains,Urbanization,Urbanization,2007,2011,3940
+Central Irregular Plains,Urbanization,Urbanization,2007,2011,2560
+Chihuahuan Deserts,Urbanization,Urbanization,2007,2011,2880
+Coast Range,Urbanization,Urbanization,2007,2011,180
+Colorado Plateaus,Urbanization,Urbanization,2007,2011,500
+Columbia Plateau,Urbanization,Urbanization,2007,2011,580
+Cross Timbers,Urbanization,Urbanization,2007,2011,4860
+Driftless Area,Urbanization,Urbanization,2007,2011,440
+East Central Texas Plains,Urbanization,Urbanization,2007,2011,1960
+Eastern Cascades Slopes and Foothills,Urbanization,Urbanization,2007,2011,40
+Eastern Corn Belt Plains,Urbanization,Urbanization,2007,2011,4480
+Eastern Great Lakes Lowlands,Urbanization,Urbanization,2007,2011,1960
+Edwards Plateau,Urbanization,Urbanization,2007,2011,3320
+Erie Drift Plain,Urbanization,Urbanization,2007,2011,1160
+Flint Hills,Urbanization,Urbanization,2007,2011,240
+High Plains,Urbanization,Urbanization,2007,2011,5360
+Huron/Erie Lake Plains,Urbanization,Urbanization,2007,2011,1540
+Idaho Batholith,Urbanization,Urbanization,2007,2011,20
+Interior Plateau,Urbanization,Urbanization,2007,2011,4280
+Interior River Valleys and Hills,Urbanization,Urbanization,2007,2011,3300
+Klamath Mountains/California High North Coast Range,Urbanization,Urbanization,2007,2011,40
+Lake Agassiz Plain,Urbanization,Urbanization,2007,2011,340
+Madrean Archipelago,Urbanization,Urbanization,2007,2011,100
+Middle Atlantic Coastal Plain,Urbanization,Urbanization,2007,2011,3120
+Middle Rockies,Urbanization,Urbanization,2007,2011,420
+Mississippi Alluvial Plain,Urbanization,Urbanization,2007,2011,1460
+Mississippi Valley Loess Plains,Urbanization,Urbanization,2007,2011,1760
+Mojave Basin and Range,Urbanization,Urbanization,2007,2011,1800
+Nebraska Sand Hills,Urbanization,Urbanization,2007,2011,40
+North Cascades,Urbanization,Urbanization,2007,2011,0
+North Central Appalachians,Urbanization,Urbanization,2007,2011,280
+North Central Hardwood Forests,Urbanization,Urbanization,2007,2011,2900
+Northeastern Coastal Zone,Urbanization,Urbanization,2007,2011,6020
+Northeastern Highlands,Urbanization,Urbanization,2007,2011,1100
+Northern Allegheny Plateau,Urbanization,Urbanization,2007,2011,420
+Northern Basin and Range,Urbanization,Urbanization,2007,2011,80
+Northern Glaciated Plains,Urbanization,Urbanization,2007,2011,640
+Northern Lakes and Forests,Urbanization,Urbanization,2007,2011,560
+Northern Minnesota Wetlands,Urbanization,Urbanization,2007,2011,20
+Northern Piedmont,Urbanization,Urbanization,2007,2011,2980
+Northern Rockies,Urbanization,Urbanization,2007,2011,560
+Northwestern Glaciated Plains,Urbanization,Urbanization,2007,2011,540
+Northwestern Great Plains,Urbanization,Urbanization,2007,2011,1380
+Ouachita Mountains,Urbanization,Urbanization,2007,2011,520
+Ozark Highlands,Urbanization,Urbanization,2007,2011,2280
+Piedmont,Urbanization,Urbanization,2007,2011,11220
+Puget Lowland,Urbanization,Urbanization,2007,2011,1140
+Ridge and Valley,Urbanization,Urbanization,2007,2011,5900
+Sierra Nevada,Urbanization,Urbanization,2007,2011,20
+Snake River Plain,Urbanization,Urbanization,2007,2011,740
+Sonoran Basin and Range,Urbanization,Urbanization,2007,2011,6560
+South Central Plains,Urbanization,Urbanization,2007,2011,6300
+Southeastern Plains,Urbanization,Urbanization,2007,2011,8280
+Southeastern Wisconsin Till Plains,Urbanization,Urbanization,2007,2011,3300
+Southern California Mountains,Urbanization,Urbanization,2007,2011,0
+Southern California/Northern Baja Coast,Urbanization,Urbanization,2007,2011,2340
+Southern Coastal Plain,Urbanization,Urbanization,2007,2011,13360
+Southern Florida Coastal Plain,Urbanization,Urbanization,2007,2011,1420
+Southern Michigan/Northern Indiana Drift Plains,Urbanization,Urbanization,2007,2011,2100
+Southern Rockies,Urbanization,Urbanization,2007,2011,320
+Southern Texas Plains,Urbanization,Urbanization,2007,2011,1380
+Southwestern Appalachians,Urbanization,Urbanization,2007,2011,740
+Southwestern Tablelands,Urbanization,Urbanization,2007,2011,1620
+Texas Blackland Prairies,Urbanization,Urbanization,2007,2011,6580
+Wasatch and Uinta Mountains,Urbanization,Urbanization,2007,2011,420
+Western Allegheny Plateau,Urbanization,Urbanization,2007,2011,1640
+Western Corn Belt Plains,Urbanization,Urbanization,2007,2011,4600
+Western Gulf Coastal Plain,Urbanization,Urbanization,2007,2011,7560
+Willamette Valley,Urbanization,Urbanization,2007,2011,500
+Wyoming Basin,Urbanization,Urbanization,2007,2011,500
+Acadian Plains and Hills,Urbanization,Urbanization,2012,2016,80
+Arizona/New Mexico Mountains,Urbanization,Urbanization,2012,2016,100
+Arizona/New Mexico Plateau,Urbanization,Urbanization,2012,2016,500
+Arkansas Valley,Urbanization,Urbanization,2012,2016,540
+Atlantic Coastal Pine Barrens,Urbanization,Urbanization,2012,2016,700
+Blue Mountains,Urbanization,Urbanization,2012,2016,80
+Blue Ridge,Urbanization,Urbanization,2012,2016,660
+Boston Mountains,Urbanization,Urbanization,2012,2016,40
+Canadian Rockies,Urbanization,Urbanization,2012,2016,0
+Cascades,Urbanization,Urbanization,2012,2016,0
+Central Appalachians,Urbanization,Urbanization,2012,2016,980
+Central Basin and Range,Urbanization,Urbanization,2012,2016,1480
+Central California Foothills and Coastal Mountains,Urbanization,Urbanization,2012,2016,940
+Central California Valley,Urbanization,Urbanization,2012,2016,2680
+Central Corn Belt Plains,Urbanization,Urbanization,2012,2016,1260
+Central Great Plains,Urbanization,Urbanization,2012,2016,2600
+Central Irregular Plains,Urbanization,Urbanization,2012,2016,1200
+Chihuahuan Deserts,Urbanization,Urbanization,2012,2016,3140
+Coast Range,Urbanization,Urbanization,2012,2016,120
+Colorado Plateaus,Urbanization,Urbanization,2012,2016,240
+Columbia Plateau,Urbanization,Urbanization,2012,2016,780
+Cross Timbers,Urbanization,Urbanization,2012,2016,3000
+Driftless Area,Urbanization,Urbanization,2012,2016,280
+East Central Texas Plains,Urbanization,Urbanization,2012,2016,1820
+Eastern Cascades Slopes and Foothills,Urbanization,Urbanization,2012,2016,0
+Eastern Corn Belt Plains,Urbanization,Urbanization,2012,2016,2540
+Eastern Great Lakes Lowlands,Urbanization,Urbanization,2012,2016,720
+Edwards Plateau,Urbanization,Urbanization,2012,2016,2680
+Erie Drift Plain,Urbanization,Urbanization,2012,2016,400
+Flint Hills,Urbanization,Urbanization,2012,2016,200
+High Plains,Urbanization,Urbanization,2012,2016,6840
+Huron/Erie Lake Plains,Urbanization,Urbanization,2012,2016,300
+Idaho Batholith,Urbanization,Urbanization,2012,2016,0
+Interior Plateau,Urbanization,Urbanization,2012,2016,2980
+Interior River Valleys and Hills,Urbanization,Urbanization,2012,2016,1300
+Klamath Mountains/California High North Coast Range,Urbanization,Urbanization,2012,2016,200
+Lake Agassiz Plain,Urbanization,Urbanization,2012,2016,560
+Madrean Archipelago,Urbanization,Urbanization,2012,2016,140
+Middle Atlantic Coastal Plain,Urbanization,Urbanization,2012,2016,2160
+Middle Rockies,Urbanization,Urbanization,2012,2016,380
+Mississippi Alluvial Plain,Urbanization,Urbanization,2012,2016,1360
+Mississippi Valley Loess Plains,Urbanization,Urbanization,2012,2016,1300
+Mojave Basin and Range,Urbanization,Urbanization,2012,2016,2840
+Nebraska Sand Hills,Urbanization,Urbanization,2012,2016,40
+North Cascades,Urbanization,Urbanization,2012,2016,80
+North Central Appalachians,Urbanization,Urbanization,2012,2016,120
+North Central Hardwood Forests,Urbanization,Urbanization,2012,2016,1420
+Northeastern Coastal Zone,Urbanization,Urbanization,2012,2016,1800
+Northeastern Highlands,Urbanization,Urbanization,2012,2016,360
+Northern Allegheny Plateau,Urbanization,Urbanization,2012,2016,380
+Northern Basin and Range,Urbanization,Urbanization,2012,2016,20
+Northern Glaciated Plains,Urbanization,Urbanization,2012,2016,900
+Northern Lakes and Forests,Urbanization,Urbanization,2012,2016,560
+Northern Minnesota Wetlands,Urbanization,Urbanization,2012,2016,60
+Northern Piedmont,Urbanization,Urbanization,2012,2016,2060
+Northern Rockies,Urbanization,Urbanization,2012,2016,220
+Northwestern Glaciated Plains,Urbanization,Urbanization,2012,2016,2140
+Northwestern Great Plains,Urbanization,Urbanization,2012,2016,3540
+Ouachita Mountains,Urbanization,Urbanization,2012,2016,160
+Ozark Highlands,Urbanization,Urbanization,2012,2016,940
+Piedmont,Urbanization,Urbanization,2012,2016,6140
+Puget Lowland,Urbanization,Urbanization,2012,2016,500
+Ridge and Valley,Urbanization,Urbanization,2012,2016,2420
+Sierra Nevada,Urbanization,Urbanization,2012,2016,60
+Snake River Plain,Urbanization,Urbanization,2012,2016,460
+Sonoran Basin and Range,Urbanization,Urbanization,2012,2016,4060
+South Central Plains,Urbanization,Urbanization,2012,2016,3040
+Southeastern Plains,Urbanization,Urbanization,2012,2016,6580
+Southeastern Wisconsin Till Plains,Urbanization,Urbanization,2012,2016,840
+Southern California Mountains,Urbanization,Urbanization,2012,2016,0
+Southern California/Northern Baja Coast,Urbanization,Urbanization,2012,2016,1240
+Southern Coastal Plain,Urbanization,Urbanization,2012,2016,8040
+Southern Florida Coastal Plain,Urbanization,Urbanization,2012,2016,1040
+Southern Michigan/Northern Indiana Drift Plains,Urbanization,Urbanization,2012,2016,680
+Southern Rockies,Urbanization,Urbanization,2012,2016,100
+Southern Texas Plains,Urbanization,Urbanization,2012,2016,2200
+Southwestern Appalachians,Urbanization,Urbanization,2012,2016,500
+Southwestern Tablelands,Urbanization,Urbanization,2012,2016,1240
+Texas Blackland Prairies,Urbanization,Urbanization,2012,2016,6260
+Wasatch and Uinta Mountains,Urbanization,Urbanization,2012,2016,160
+Western Allegheny Plateau,Urbanization,Urbanization,2012,2016,2100
+Western Corn Belt Plains,Urbanization,Urbanization,2012,2016,2900
+Western Gulf Coastal Plain,Urbanization,Urbanization,2012,2016,5860
+Willamette Valley,Urbanization,Urbanization,2012,2016,280
+Wyoming Basin,Urbanization,Urbanization,2012,2016,180

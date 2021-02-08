@@ -1,0 +1,341 @@
+StratumID,TransitionGroupID,Amount
+Acadian Plains and Hills,Urbanization: High [Type],0.125
+Acadian Plains and Hills,Urbanization: Low [Type],0.3125
+Acadian Plains and Hills,Urbanization: Medium [Type],0.21875
+Acadian Plains and Hills,Urbanization: Open [Type],0.34375
+Arizona/New Mexico Mountains,Urbanization: High [Type],0.074074074
+Arizona/New Mexico Mountains,Urbanization: Low [Type],0.351851852
+Arizona/New Mexico Mountains,Urbanization: Medium [Type],0.166666667
+Arizona/New Mexico Mountains,Urbanization: Open [Type],0.407407407
+Arizona/New Mexico Plateau,Urbanization: High [Type],0.054794521
+Arizona/New Mexico Plateau,Urbanization: Low [Type],0.205479452
+Arizona/New Mexico Plateau,Urbanization: Medium [Type],0.342465753
+Arizona/New Mexico Plateau,Urbanization: Open [Type],0.397260274
+Arkansas Valley,Urbanization: High [Type],0.128571429
+Arkansas Valley,Urbanization: Low [Type],0.235714286
+Arkansas Valley,Urbanization: Medium [Type],0.314285714
+Arkansas Valley,Urbanization: Open [Type],0.321428571
+Atlantic Coastal Pine Barrens,Urbanization: High [Type],0.07073955
+Atlantic Coastal Pine Barrens,Urbanization: Low [Type],0.344051447
+Atlantic Coastal Pine Barrens,Urbanization: Medium [Type],0.21221865
+Atlantic Coastal Pine Barrens,Urbanization: Open [Type],0.372990354
+Blue Mountains,Urbanization: High [Type],0.041666667
+Blue Mountains,Urbanization: Low [Type],0.375
+Blue Mountains,Urbanization: Medium [Type],0.166666667
+Blue Mountains,Urbanization: Open [Type],0.416666667
+Blue Ridge,Urbanization: High [Type],0.025641026
+Blue Ridge,Urbanization: Low [Type],0.188034188
+Blue Ridge,Urbanization: Medium [Type],0.11965812
+Blue Ridge,Urbanization: Open [Type],0.666666667
+Boston Mountains,Urbanization: High [Type],0
+Boston Mountains,Urbanization: Low [Type],0.142857143
+Boston Mountains,Urbanization: Medium [Type],0.285714286
+Boston Mountains,Urbanization: Open [Type],0.571428571
+Canadian Rockies,Urbanization: High [Type],0
+Canadian Rockies,Urbanization: Low [Type],0.5
+Canadian Rockies,Urbanization: Medium [Type],0
+Canadian Rockies,Urbanization: Open [Type],0.5
+Cascades,Urbanization: High [Type],0.75
+Cascades,Urbanization: Low [Type],0
+Cascades,Urbanization: Medium [Type],0.25
+Cascades,Urbanization: Open [Type],0
+Central Appalachians,Urbanization: High [Type],0.097826087
+Central Appalachians,Urbanization: Low [Type],0.25
+Central Appalachians,Urbanization: Medium [Type],0.195652174
+Central Appalachians,Urbanization: Open [Type],0.456521739
+Central Basin and Range,Urbanization: High [Type],0.095794393
+Central Basin and Range,Urbanization: Low [Type],0.331775701
+Central Basin and Range,Urbanization: Medium [Type],0.261682243
+Central Basin and Range,Urbanization: Open [Type],0.310747664
+Central California Foothills and Coastal Mountains,Urbanization: High [Type],0.08974359
+Central California Foothills and Coastal Mountains,Urbanization: Low [Type],0.269230769
+Central California Foothills and Coastal Mountains,Urbanization: Medium [Type],0.243589744
+Central California Foothills and Coastal Mountains,Urbanization: Open [Type],0.397435897
+Central California Valley,Urbanization: High [Type],0.098039216
+Central California Valley,Urbanization: Low [Type],0.252941176
+Central California Valley,Urbanization: Medium [Type],0.339215686
+Central California Valley,Urbanization: Open [Type],0.309803922
+Central Corn Belt Plains,Urbanization: High [Type],0.111271676
+Central Corn Belt Plains,Urbanization: Low [Type],0.315028902
+Central Corn Belt Plains,Urbanization: Medium [Type],0.212427746
+Central Corn Belt Plains,Urbanization: Open [Type],0.361271676
+Central Great Plains,Urbanization: High [Type],0.077380952
+Central Great Plains,Urbanization: Low [Type],0.285714286
+Central Great Plains,Urbanization: Medium [Type],0.281746032
+Central Great Plains,Urbanization: Open [Type],0.35515873
+Central Irregular Plains,Urbanization: High [Type],0.099447514
+Central Irregular Plains,Urbanization: Low [Type],0.303867403
+Central Irregular Plains,Urbanization: Medium [Type],0.251381215
+Central Irregular Plains,Urbanization: Open [Type],0.345303867
+Chihuahuan Deserts,Urbanization: High [Type],0.058035714
+Chihuahuan Deserts,Urbanization: Low [Type],0.223214286
+Chihuahuan Deserts,Urbanization: Medium [Type],0.145089286
+Chihuahuan Deserts,Urbanization: Open [Type],0.573660714
+Coast Range,Urbanization: High [Type],0.117647059
+Coast Range,Urbanization: Low [Type],0.235294118
+Coast Range,Urbanization: Medium [Type],0.235294118
+Coast Range,Urbanization: Open [Type],0.411764706
+Colorado Plateaus,Urbanization: High [Type],0.014084507
+Colorado Plateaus,Urbanization: Low [Type],0.267605634
+Colorado Plateaus,Urbanization: Medium [Type],0.098591549
+Colorado Plateaus,Urbanization: Open [Type],0.61971831
+Columbia Plateau,Urbanization: High [Type],0.061946903
+Columbia Plateau,Urbanization: Low [Type],0.362831858
+Columbia Plateau,Urbanization: Medium [Type],0.300884956
+Columbia Plateau,Urbanization: Open [Type],0.274336283
+Cross Timbers,Urbanization: High [Type],0.059294872
+Cross Timbers,Urbanization: Low [Type],0.325320513
+Cross Timbers,Urbanization: Medium [Type],0.293269231
+Cross Timbers,Urbanization: Open [Type],0.322115385
+Driftless Area,Urbanization: High [Type],0.065217391
+Driftless Area,Urbanization: Low [Type],0.326086957
+Driftless Area,Urbanization: Medium [Type],0.195652174
+Driftless Area,Urbanization: Open [Type],0.413043478
+East Central Texas Plains,Urbanization: High [Type],0.12749004
+East Central Texas Plains,Urbanization: Low [Type],0.290836653
+East Central Texas Plains,Urbanization: Medium [Type],0.326693227
+East Central Texas Plains,Urbanization: Open [Type],0.25498008
+Eastern Cascades Slopes and Foothills,Urbanization: High [Type],0
+Eastern Cascades Slopes and Foothills,Urbanization: Low [Type],0.307692308
+Eastern Cascades Slopes and Foothills,Urbanization: Medium [Type],0.307692308
+Eastern Cascades Slopes and Foothills,Urbanization: Open [Type],0.384615385
+Eastern Corn Belt Plains,Urbanization: High [Type],0.089051095
+Eastern Corn Belt Plains,Urbanization: Low [Type],0.290510949
+Eastern Corn Belt Plains,Urbanization: Medium [Type],0.232116788
+Eastern Corn Belt Plains,Urbanization: Open [Type],0.388321168
+Eastern Great Lakes Lowlands,Urbanization: High [Type],0.063559322
+Eastern Great Lakes Lowlands,Urbanization: Low [Type],0.296610169
+Eastern Great Lakes Lowlands,Urbanization: Medium [Type],0.233050847
+Eastern Great Lakes Lowlands,Urbanization: Open [Type],0.406779661
+Edwards Plateau,Urbanization: High [Type],0.040816327
+Edwards Plateau,Urbanization: Low [Type],0.349206349
+Edwards Plateau,Urbanization: Medium [Type],0.188208617
+Edwards Plateau,Urbanization: Open [Type],0.421768707
+Erie Drift Plain,Urbanization: High [Type],0.061904762
+Erie Drift Plain,Urbanization: Low [Type],0.3
+Erie Drift Plain,Urbanization: Medium [Type],0.138095238
+Erie Drift Plain,Urbanization: Open [Type],0.5
+Flint Hills,Urbanization: High [Type],0.03030303
+Flint Hills,Urbanization: Low [Type],0.272727273
+Flint Hills,Urbanization: Medium [Type],0.333333333
+Flint Hills,Urbanization: Open [Type],0.363636364
+High Plains,Urbanization: High [Type],0.057710501
+High Plains,Urbanization: Low [Type],0.206244087
+High Plains,Urbanization: Medium [Type],0.188268685
+High Plains,Urbanization: Open [Type],0.547776727
+Huron/Erie Lake Plains,Urbanization: High [Type],0.095808383
+Huron/Erie Lake Plains,Urbanization: Low [Type],0.293413174
+Huron/Erie Lake Plains,Urbanization: Medium [Type],0.22754491
+Huron/Erie Lake Plains,Urbanization: Open [Type],0.383233533
+Idaho Batholith,Urbanization: High [Type],0
+Idaho Batholith,Urbanization: Low [Type],0
+Idaho Batholith,Urbanization: Medium [Type],0
+Idaho Batholith,Urbanization: Open [Type],1
+Interior Plateau,Urbanization: High [Type],0.077858881
+Interior Plateau,Urbanization: Low [Type],0.287104623
+Interior Plateau,Urbanization: Medium [Type],0.229927007
+Interior Plateau,Urbanization: Open [Type],0.405109489
+Interior River Valleys and Hills,Urbanization: High [Type],0.091383812
+Interior River Valleys and Hills,Urbanization: Low [Type],0.274151436
+Interior River Valleys and Hills,Urbanization: Medium [Type],0.219321149
+Interior River Valleys and Hills,Urbanization: Open [Type],0.415143603
+Klamath Mountains/California High North Coast Range,Urbanization: High [Type],0
+Klamath Mountains/California High North Coast Range,Urbanization: Low [Type],0.333333333
+Klamath Mountains/California High North Coast Range,Urbanization: Medium [Type],0.233333333
+Klamath Mountains/California High North Coast Range,Urbanization: Open [Type],0.433333333
+Lake Agassiz Plain,Urbanization: High [Type],0.093333333
+Lake Agassiz Plain,Urbanization: Low [Type],0.44
+Lake Agassiz Plain,Urbanization: Medium [Type],0.213333333
+Lake Agassiz Plain,Urbanization: Open [Type],0.253333333
+Madrean Archipelago,Urbanization: High [Type],0.133333333
+Madrean Archipelago,Urbanization: Low [Type],0.133333333
+Madrean Archipelago,Urbanization: Medium [Type],0.333333333
+Madrean Archipelago,Urbanization: Open [Type],0.4
+Middle Atlantic Coastal Plain,Urbanization: High [Type],0.058064516
+Middle Atlantic Coastal Plain,Urbanization: Low [Type],0.341935484
+Middle Atlantic Coastal Plain,Urbanization: Medium [Type],0.191935484
+Middle Atlantic Coastal Plain,Urbanization: Open [Type],0.408064516
+Middle Rockies,Urbanization: High [Type],0.114754098
+Middle Rockies,Urbanization: Low [Type],0.163934426
+Middle Rockies,Urbanization: Medium [Type],0.180327869
+Middle Rockies,Urbanization: Open [Type],0.540983607
+Mississippi Alluvial Plain,Urbanization: High [Type],0.107569721
+Mississippi Alluvial Plain,Urbanization: Low [Type],0.282868526
+Mississippi Alluvial Plain,Urbanization: Medium [Type],0.195219124
+Mississippi Alluvial Plain,Urbanization: Open [Type],0.414342629
+Mississippi Valley Loess Plains,Urbanization: High [Type],0.0775
+Mississippi Valley Loess Plains,Urbanization: Low [Type],0.265
+Mississippi Valley Loess Plains,Urbanization: Medium [Type],0.215
+Mississippi Valley Loess Plains,Urbanization: Open [Type],0.4425
+Mojave Basin and Range,Urbanization: High [Type],0.066371681
+Mojave Basin and Range,Urbanization: Low [Type],0.307522124
+Mojave Basin and Range,Urbanization: Medium [Type],0.265486726
+Mojave Basin and Range,Urbanization: Open [Type],0.360619469
+Nebraska Sand Hills,Urbanization: High [Type],0
+Nebraska Sand Hills,Urbanization: Low [Type],0.25
+Nebraska Sand Hills,Urbanization: Medium [Type],0
+Nebraska Sand Hills,Urbanization: Open [Type],0.75
+North Cascades,Urbanization: High [Type],0
+North Cascades,Urbanization: Low [Type],0.222222222
+North Cascades,Urbanization: Medium [Type],0.111111111
+North Cascades,Urbanization: Open [Type],0.666666667
+North Central Appalachians,Urbanization: High [Type],0.038461538
+North Central Appalachians,Urbanization: Low [Type],0.307692308
+North Central Appalachians,Urbanization: Medium [Type],0.230769231
+North Central Appalachians,Urbanization: Open [Type],0.423076923
+North Central Hardwood Forests,Urbanization: High [Type],0.079303675
+North Central Hardwood Forests,Urbanization: Low [Type],0.257253385
+North Central Hardwood Forests,Urbanization: Medium [Type],0.234042553
+North Central Hardwood Forests,Urbanization: Open [Type],0.429400387
+Northeastern Coastal Zone,Urbanization: High [Type],0.062195122
+Northeastern Coastal Zone,Urbanization: Low [Type],0.295121951
+Northeastern Coastal Zone,Urbanization: Medium [Type],0.185365854
+Northeastern Coastal Zone,Urbanization: Open [Type],0.457317073
+Northeastern Highlands,Urbanization: High [Type],0.059322034
+Northeastern Highlands,Urbanization: Low [Type],0.347457627
+Northeastern Highlands,Urbanization: Medium [Type],0.144067797
+Northeastern Highlands,Urbanization: Open [Type],0.449152542
+Northern Allegheny Plateau,Urbanization: High [Type],0.113207547
+Northern Allegheny Plateau,Urbanization: Low [Type],0.358490566
+Northern Allegheny Plateau,Urbanization: Medium [Type],0.169811321
+Northern Allegheny Plateau,Urbanization: Open [Type],0.358490566
+Northern Basin and Range,Urbanization: High [Type],0.142857143
+Northern Basin and Range,Urbanization: Low [Type],0.142857143
+Northern Basin and Range,Urbanization: Medium [Type],0.285714286
+Northern Basin and Range,Urbanization: Open [Type],0.428571429
+Northern Glaciated Plains,Urbanization: High [Type],0.035714286
+Northern Glaciated Plains,Urbanization: Low [Type],0.232142857
+Northern Glaciated Plains,Urbanization: Medium [Type],0.294642857
+Northern Glaciated Plains,Urbanization: Open [Type],0.4375
+Northern Lakes and Forests,Urbanization: High [Type],0.070707071
+Northern Lakes and Forests,Urbanization: Low [Type],0.373737374
+Northern Lakes and Forests,Urbanization: Medium [Type],0.171717172
+Northern Lakes and Forests,Urbanization: Open [Type],0.383838384
+Northern Minnesota Wetlands,Urbanization: High [Type],0
+Northern Minnesota Wetlands,Urbanization: Low [Type],0.5
+Northern Minnesota Wetlands,Urbanization: Medium [Type],0
+Northern Minnesota Wetlands,Urbanization: Open [Type],0.5
+Northern Piedmont,Urbanization: High [Type],0.051282051
+Northern Piedmont,Urbanization: Low [Type],0.304029304
+Northern Piedmont,Urbanization: Medium [Type],0.216117216
+Northern Piedmont,Urbanization: Open [Type],0.428571429
+Northern Rockies,Urbanization: High [Type],0.027777778
+Northern Rockies,Urbanization: Low [Type],0.305555556
+Northern Rockies,Urbanization: Medium [Type],0.347222222
+Northern Rockies,Urbanization: Open [Type],0.319444444
+Northwestern Glaciated Plains,Urbanization: High [Type],0.030864198
+Northwestern Glaciated Plains,Urbanization: Low [Type],0.259259259
+Northwestern Glaciated Plains,Urbanization: Medium [Type],0.302469136
+Northwestern Glaciated Plains,Urbanization: Open [Type],0.407407407
+Northwestern Great Plains,Urbanization: High [Type],0.035842294
+Northwestern Great Plains,Urbanization: Low [Type],0.376344086
+Northwestern Great Plains,Urbanization: Medium [Type],0.207885305
+Northwestern Great Plains,Urbanization: Open [Type],0.379928315
+Ouachita Mountains,Urbanization: High [Type],0.056338028
+Ouachita Mountains,Urbanization: Low [Type],0.352112676
+Ouachita Mountains,Urbanization: Medium [Type],0.169014085
+Ouachita Mountains,Urbanization: Open [Type],0.422535211
+Ozark Highlands,Urbanization: High [Type],0.061349693
+Ozark Highlands,Urbanization: Low [Type],0.279141104
+Ozark Highlands,Urbanization: Medium [Type],0.273006135
+Ozark Highlands,Urbanization: Open [Type],0.386503067
+Piedmont,Urbanization: High [Type],0.051054852
+Piedmont,Urbanization: Low [Type],0.32278481
+Piedmont,Urbanization: Medium [Type],0.15907173
+Piedmont,Urbanization: Open [Type],0.467088608
+Puget Lowland,Urbanization: High [Type],0.083333333
+Puget Lowland,Urbanization: Low [Type],0.333333333
+Puget Lowland,Urbanization: Medium [Type],0.316666667
+Puget Lowland,Urbanization: Open [Type],0.266666667
+Ridge and Valley,Urbanization: High [Type],0.076677316
+Ridge and Valley,Urbanization: Low [Type],0.260915868
+Ridge and Valley,Urbanization: Medium [Type],0.185303514
+Ridge and Valley,Urbanization: Open [Type],0.477103301
+Sierra Nevada,Urbanization: High [Type],0.125
+Sierra Nevada,Urbanization: Low [Type],0.375
+Sierra Nevada,Urbanization: Medium [Type],0.25
+Sierra Nevada,Urbanization: Open [Type],0.25
+Snake River Plain,Urbanization: High [Type],0.017241379
+Snake River Plain,Urbanization: Low [Type],0.413793103
+Snake River Plain,Urbanization: Medium [Type],0.206896552
+Snake River Plain,Urbanization: Open [Type],0.362068966
+Sonoran Basin and Range,Urbanization: High [Type],0.066336634
+Sonoran Basin and Range,Urbanization: Low [Type],0.341584158
+Sonoran Basin and Range,Urbanization: Medium [Type],0.28019802
+Sonoran Basin and Range,Urbanization: Open [Type],0.311881188
+South Central Plains,Urbanization: High [Type],0.130315501
+South Central Plains,Urbanization: Low [Type],0.285322359
+South Central Plains,Urbanization: Medium [Type],0.215363512
+South Central Plains,Urbanization: Open [Type],0.368998628
+Southeastern Plains,Urbanization: High [Type],0.061808718
+Southeastern Plains,Urbanization: Low [Type],0.29928432
+Southeastern Plains,Urbanization: Medium [Type],0.173715029
+Southeastern Plains,Urbanization: Open [Type],0.465191932
+Southeastern Wisconsin Till Plains,Urbanization: High [Type],0.066162571
+Southeastern Wisconsin Till Plains,Urbanization: Low [Type],0.296786389
+Southeastern Wisconsin Till Plains,Urbanization: Medium [Type],0.200378072
+Southeastern Wisconsin Till Plains,Urbanization: Open [Type],0.436672968
+Southern California Mountains,Urbanization: High [Type],0
+Southern California Mountains,Urbanization: Low [Type],0.181818182
+Southern California Mountains,Urbanization: Medium [Type],0.272727273
+Southern California Mountains,Urbanization: Open [Type],0.545454545
+Southern California/Northern Baja Coast,Urbanization: High [Type],0.060869565
+Southern California/Northern Baja Coast,Urbanization: Low [Type],0.217391304
+Southern California/Northern Baja Coast,Urbanization: Medium [Type],0.315217391
+Southern California/Northern Baja Coast,Urbanization: Open [Type],0.406521739
+Southern Coastal Plain,Urbanization: High [Type],0.05260181
+Southern Coastal Plain,Urbanization: Low [Type],0.29638009
+Southern Coastal Plain,Urbanization: Medium [Type],0.254524887
+Southern Coastal Plain,Urbanization: Open [Type],0.396493213
+Southern Florida Coastal Plain,Urbanization: High [Type],0.062761506
+Southern Florida Coastal Plain,Urbanization: Low [Type],0.384937238
+Southern Florida Coastal Plain,Urbanization: Medium [Type],0.251046025
+Southern Florida Coastal Plain,Urbanization: Open [Type],0.30125523
+Southern Michigan/Northern Indiana Drift Plains,Urbanization: High [Type],0.08627451
+Southern Michigan/Northern Indiana Drift Plains,Urbanization: Low [Type],0.250980392
+Southern Michigan/Northern Indiana Drift Plains,Urbanization: Medium [Type],0.207843137
+Southern Michigan/Northern Indiana Drift Plains,Urbanization: Open [Type],0.454901961
+Southern Rockies,Urbanization: High [Type],0.052631579
+Southern Rockies,Urbanization: Low [Type],0.184210526
+Southern Rockies,Urbanization: Medium [Type],0.289473684
+Southern Rockies,Urbanization: Open [Type],0.473684211
+Southern Texas Plains,Urbanization: High [Type],0.050632911
+Southern Texas Plains,Urbanization: Low [Type],0.316455696
+Southern Texas Plains,Urbanization: Medium [Type],0.206751055
+Southern Texas Plains,Urbanization: Open [Type],0.426160338
+Southwestern Appalachians,Urbanization: High [Type],0.066666667
+Southwestern Appalachians,Urbanization: Low [Type],0.266666667
+Southwestern Appalachians,Urbanization: Medium [Type],0.158333333
+Southwestern Appalachians,Urbanization: Open [Type],0.508333333
+Southwestern Tablelands,Urbanization: High [Type],0.042105263
+Southwestern Tablelands,Urbanization: Low [Type],0.245614035
+Southwestern Tablelands,Urbanization: Medium [Type],0.224561404
+Southwestern Tablelands,Urbanization: Open [Type],0.487719298
+Texas Blackland Prairies,Urbanization: High [Type],0.123991935
+Texas Blackland Prairies,Urbanization: Low [Type],0.278225806
+Texas Blackland Prairies,Urbanization: Medium [Type],0.330645161
+Texas Blackland Prairies,Urbanization: Open [Type],0.267137097
+Wasatch and Uinta Mountains,Urbanization: High [Type],0
+Wasatch and Uinta Mountains,Urbanization: Low [Type],0.229166667
+Wasatch and Uinta Mountains,Urbanization: Medium [Type],0.229166667
+Wasatch and Uinta Mountains,Urbanization: Open [Type],0.541666667
+Western Allegheny Plateau,Urbanization: High [Type],0.078488372
+Western Allegheny Plateau,Urbanization: Low [Type],0.25
+Western Allegheny Plateau,Urbanization: Medium [Type],0.209302326
+Western Allegheny Plateau,Urbanization: Open [Type],0.462209302
+Western Corn Belt Plains,Urbanization: High [Type],0.067639257
+Western Corn Belt Plains,Urbanization: Low [Type],0.293103448
+Western Corn Belt Plains,Urbanization: Medium [Type],0.221485411
+Western Corn Belt Plains,Urbanization: Open [Type],0.417771883
+Western Gulf Coastal Plain,Urbanization: High [Type],0.093001842
+Western Gulf Coastal Plain,Urbanization: Low [Type],0.269797422
+Western Gulf Coastal Plain,Urbanization: Medium [Type],0.259668508
+Western Gulf Coastal Plain,Urbanization: Open [Type],0.377532228
+Willamette Valley,Urbanization: High [Type],0.097826087
+Willamette Valley,Urbanization: Low [Type],0.260869565
+Willamette Valley,Urbanization: Medium [Type],0.239130435
+Willamette Valley,Urbanization: Open [Type],0.402173913
+Wyoming Basin,Urbanization: High [Type],0.015384615
+Wyoming Basin,Urbanization: Low [Type],0.169230769
+Wyoming Basin,Urbanization: Medium [Type],0.2
+Wyoming Basin,Urbanization: Open [Type],0.615384615

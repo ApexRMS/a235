@@ -1,0 +1,29 @@
+SpeciesTypeID,StateClassID
+Jack pine,Forest: White/Red/Jack Pine Group
+Spruce - Genus type,Forest: Spruce/Fir Group
+Pine - Genus type,Forest: Longleaf/Slash Pine Group
+Pine - Genus type,Forest: Loblolly/Shortleaf Pine Group
+Other softwoods,Forest: Pinyon/Juniper Group
+Douglas-fir - Genus type,Forest: Douglas-fir Group
+Ponderosa pine,Forest: Ponderosa Pine Group
+Western white pine,Forest: Western White Pine Group
+Mountain hemlock,Forest: Fir/Spruce/Mountain Hemlock Group
+Lodgepole pine,Forest: Lodgepole Pine Group
+Sitka spruce,Forest: Hemlock/Sitka Spruce Group
+Western larch,Forest: Western Larch Group
+Other softwoods,Forest: Redwood Group
+Other softwoods,Forest: Other Western Softwood Group
+Other softwoods,Forest: California Mixed Conifer Group
+Other softwoods,Forest: Exotic Softwoods Group
+Oak,Forest: Oak/Pine Group
+Hickory,Forest: Oak/Hickory Group
+Cypress,Forest: Oak/Gum/Cypress Group
+Ash,Forest: Elm/Ash/Cottonwood Group
+Maple,Forest: Maple/Beech/Birch Group
+Birch,Forest: Aspen/Birch Group
+Alder,Forest: Alder/Maple Group
+Oak,Forest: Western Oak Group
+Other hardwoods,Forest: Tanoak/Laurel Group
+Other hardwoods,Forest: Other Western Hardwoods Group
+Other hardwoods,Forest: Tropical Hardwoods Group
+Other hardwoods,Forest: Exotic Hardwoods Group

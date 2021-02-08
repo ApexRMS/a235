@@ -1,0 +1,2 @@
+Iteration,Timestep,StratumID,TransitionGroupID,Priority,MaximizeFidelityToDistribution,MaximizeFidelityToTotalArea
+,,,Fire,None,No,Yes
