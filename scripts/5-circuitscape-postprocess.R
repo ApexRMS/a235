@@ -1,121 +1,64 @@
 library(tidyverse)
 library(rsyncrosim)
 library(raster)
-library(sf)
-library(viridis)
-library(scales)
-library(landscapemetrics)
-library(cowplot)
-library(ggthemes)
+
 
 options(tibble.width = Inf, tibble.print_min = Inf)
 
-#### Inputs ####
-# Input parameters
-resultTag <- c("NC_NC", "NC_45", "NC_85", "BAU_NC", "BAU_45", "BAU_85", "CON_NC", "CON_45","CON_85")
-resultTag <- c("NC_NC", "NC_45", "NC_85", "BAU_NC", "BAU_45", "BAU_85", "CON_NC", "CON_45","CON_85")
-numScenarios <- 6#length(resultTag)
+# Input parameters -----------------------------------------------------------
+numScenarios <- 1
 numIterations <- 1
 timeInterval <- 10
 timesteps <- seq(from=2000, to=2020, by=timeInterval)
 numTimesteps = length(timesteps)
-speciesCodes <- c("PEPE")
+
+
+speciesDatasheet <- read_csv(file.path("data/st-connect/species.csv"))
+speciesCodes <- speciesDatasheet %>% select('Code') %>% pull()
 numSpecies <- length(speciesCodes)
 
+resistanceDatasheet <- read_csv(file.path("data/st-connect/resistance.csv"))
+
+buffer <- raster()
+
+focalNodes <- raster()
 
 # Input files and folders
-workingDir <- "C:/Users/bronw/Documents/Apex/Projects/Active/A224_MDDELCC/stsim/ResultsSummary/"
+SyncroSimDir <- "C:/Users/bronw/Documents/Apex/SyncroSim/2-2-26/"
+stsimModel <- "../models/Spatial Model Conus.ssim"
+resultScenarioNumber <- c(70) 
 
-# Primary stratum
-spatialInitialConditionsDir <- "C:/Users/bronw/Documents/Apex/Projects/Active/A224_MDDELCC/stsim/SpatialInitialConditions/FullExtent/"
-primaryStratumFileName <- "PrimaryStratum.tif"
-
-#### Create clipping mask
-primaryStratum <- raster(paste0(spatialInitialConditionsDir, primaryStratumFileName))
-# BTSL map
-btslMask <- Which(primaryStratum %in% c(3))
-btslMask[btslMask == 0] <- NA
-
-#Saint-Lawrence Lowlands
-bt=st_read("C:/Users/bronw/Documents/Apex/Projects/Active/A224_MDDELCC/Data/btsl_90m_polygon.shp")
-btp=as(bt, "Spatial")
-
-#Raster with ecoregions
-bt6 <- raster("C:/Users/bronw/Documents/Apex/Projects/Active/A224_MDDELCC/Data/CERO04_BTSL20201127.tif")
-
-####MAPPING FUNCTIONS####
-
-#Assemble all the pieces and map them together
-#Define the map theme
-theme_map <- function(...) {
-  theme_minimal() +
-    theme(
-      #text = element_text(family = "Arial", color = "#22211d"),
-      axis.line = element_blank(),
-      axis.text.x = element_blank(),
-      axis.text.y = element_blank(),
-      axis.ticks = element_blank(),
-      axis.title.x = element_blank(),
-      axis.title.y = element_blank(),
-      panel.grid.minor = element_blank(),
-      panel.grid.major = element_blank(),
-      plot.background = element_rect(fill = "white", color = NA), 
-      panel.background = element_rect(fill = "white", color = NA), 
-      legend.background = element_rect(fill = "white", color = NA),
-      #panel.border = element_rect(colour = "grey", fill=NA, size=1),
-      legend.position="bottom",
-      legend.margin=margin(0,0,0,0),
-      legend.box.margin=margin(-10,-10,-10,-10),
-      plot.margin=grid::unit(c(0,0,0,0), "mm")
-    )
-}
-
-# STSim
-SyncroSimDir <- "C:/Users/bronw/Documents/Apex/SyncroSim/2-2-10/"
-modelDir <- c("D:/Apex/Projects/A224/stsim/NC_NC_backup/",
-              "D:/Apex/Projects/A224/stsim/NC_45_backup/",
-              "D:/Apex/Projects/A224/stsim/NC_85_backup/",
-              "D:/Apex/Projects/A224/stsim/BAU_NC_backup/",
-              "D:/Apex/Projects/A224/stsim/BAU_45_backup/",
-              "D:/Apex/Projects/A224/stsim/BAU_85_backup/",
-              "D:/Apex/Projects/A224/stsim/CON_NC_backup/",
-              "D:/Apex/Projects/A224/stsim/CON_45_backup/",
-              "D:/Apex/Projects/A224/stsim/CON_85_backup/")
-resultScenarioNumber <- c(164, 164, 164, 164, 164, 164, 166, 166, 166) 
-modelFile <- "BTSL_stconnect.ssim"
-
-
-# Habitat suitability all species ---------------------------------------------
+# Resistance all species -----------------------------------------------------
 for(scn in 1:numScenarios){
-  print(paste("Working on scenario", resultTag[scn]))
+  print(paste("Working on scenario", resultScenarioNumber[scn]))
 
   # Setting up st-sim library, project, scenario
   mySession <- session(SyncroSimDir)
-  myLibrary <- ssimLibrary(paste0(modelDir[scn], modelFile), session=mySession)
+  myLibrary <- ssimLibrary(stsimModel, session=mySession)
   myProject <- project(myLibrary, "Definitions")  # Assumes there is only one default project per library
   myScenario <- scenario(myProject, resultScenarioNumber[scn])
   #datasheet(myScenario)
   
   for(year in timesteps){
-    print(paste("Working on scenario", resultTag[scn], "year", year))
+    print(paste("Working on scenario", resultScenarioNumber[scn], "year", year))
     #### Create maps of habitat suitability summed across species and iterations ####
-    mapName <- "stconnect_HSOutputHabitatSuitability"
-    
-    # Get habitat suitability map for year, iteration 1 for all species
-    habSuit <- datasheetRaster(myScenario, mapName, iteration = 1, timestep = year)
-    # Sum all species
-    habSuit <- calc(habSuit, sum)
-    # Crop to focal stratum
-    #habSuit <- habSuit * clippingMask
+    mapName <- "stsim_HSOutputHabitatSuitability"
     
     # Get habitat suiability maps for year and all other iterations
-    for(i in 2:numIterations){
+    for(i in 1:numIterations){
+      # Add the buffer
+      
+      # Reclassify LULC to resistance
+      
+      
+      
+      
+      
+      
       # Read in habitat suitability map for all iterations for all species 
       habSuitTemp <- datasheetRaster(myScenario, mapName, iteration = i, timestep=year)
       # Sum all species
       habSuitTemp <- calc(habSuitTemp, sum)
-      # Crop to focal stratum
-      #  habSuitTemp <- habSuitTemp * clippingMask
       
       habSuit <- habSuit + habSuitTemp
     }    
@@ -135,6 +78,12 @@ for(scn in 1:numScenarios){
     writeRaster(habSuit_btsl, paste0(workingDir, resultTag[scn], "_", year, "_habitatSuitabilityALL_btsl.tif"), overwrite=T)
   }
 }
+
+
+
+
+
+
 
 # Maps of habitat suitability for each focal species -------------------------------------------
 for(scn in 1:numScenarios){
