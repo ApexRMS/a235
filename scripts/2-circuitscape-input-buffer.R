@@ -41,6 +41,7 @@ scCrop <- sc %>%
 scBuffered <- merge(scCrop, waterBuffer)
 
 # Write raster
-writeRaster(scCrop, file.path(dataDri, "circuitscape", "sc-buffered.tif"))
-writeRaster(scBuffered, file.path(dataDri, "circuitscape", "sc-buffered-with-water.tif"))
-writeRaster(waterBuffer, file.path(dataDri, "circuitscape", "water-buffer.tif"))
+writeRaster(studyAreaBuffer, file.path(dataDir, "study-area-buffered.tif"))
+writeRaster(scCrop, file.path(dataDir, "ic-state-class-buffered.tif"))
+writeRaster(scBuffered, file.path(dataDir, "ic-state-class-buffered-with-water.tif"))
+writeRaster(waterBuffer, file.path(dataDir, "water-buffer.tif"))
