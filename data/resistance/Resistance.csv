@@ -1,0 +1,44 @@
+Iteration,Timestep,SpeciesID,StateClassID,Value
+,,Spotted Owl,Agriculture: Cropland,100
+,,Spotted Owl,Agriculture: Pasture,100
+,,Spotted Owl,Barren: All,1000
+,,Spotted Owl,Developed: High Intensity,1000
+,,Spotted Owl,Developed: Low Intensity,1000
+,,Spotted Owl,Developed: Medium Intensity,1000
+,,Spotted Owl,Developed: Open Space,1000
+,,Spotted Owl,Developed: Transportation,100
+,,Spotted Owl,Forest: Alder/Maple Group,10
+,,Spotted Owl,Forest: Aspen/Birch Group,10
+,,Spotted Owl,Forest: California Mixed Conifer Group,2
+,,Spotted Owl,Forest: Douglas-fir Group,2
+,,Spotted Owl,Forest: Elm/Ash/Cottonwood Group,10
+,,Spotted Owl,Forest: Exotic Hardwoods Group,10
+,,Spotted Owl,Forest: Exotic Softwoods Group,10
+,,Spotted Owl,Forest: Fir/Spruce/Mountain Hemlock Group,2
+,,Spotted Owl,Forest: Hemlock/Sitka Spruce Group,2
+,,Spotted Owl,Forest: Loblolly/Shortleaf Pine Group,2
+,,Spotted Owl,Forest: Lodgepole Pine Group,2
+,,Spotted Owl,Forest: Longleaf/Slash Pine Group,10
+,,Spotted Owl,Forest: Maple/Beech/Birch Group,10
+,,Spotted Owl,Forest: Oak/Gum/Cypress Group,10
+,,Spotted Owl,Forest: Oak/Hickory Group,10
+,,Spotted Owl,Forest: Oak/Pine Group,10
+,,Spotted Owl,Forest: Other Western Hardwoods Group,10
+,,Spotted Owl,Forest: Other Western Softwood Group,2
+,,Spotted Owl,Forest: Pinyon/Juniper Group,2
+,,Spotted Owl,Forest: Ponderosa Pine Group,2
+,,Spotted Owl,Forest: Redwood Group,2
+,,Spotted Owl,Forest: Spruce/Fir Group,10
+,,Spotted Owl,Forest: Tanoak/Laurel Group,10
+,,Spotted Owl,Forest: Tropical Hardwoods Group,10
+,,Spotted Owl,Forest: Western Larch Group,10
+,,Spotted Owl,Forest: Western Oak Group,10
+,,Spotted Owl,Forest: Western White Pine Group,2
+,,Spotted Owl,Forest: White/Red/Jack Pine Group,10
+,,Spotted Owl,Grassland: All,1000
+,,Spotted Owl,Shrubland: All,100
+,,Spotted Owl,Shrubland: Post Fire Shrub,100
+,,Spotted Owl,Snow/Ice: All,1000
+,,Spotted Owl,Water: All,10
+,,Spotted Owl,Wetland: Herbaceous,100
+,,Spotted Owl,Wetland: Woody,10

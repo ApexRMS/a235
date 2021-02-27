@@ -12,19 +12,14 @@ library(tidyverse)
 dataDir <- "data"
 nationalAssessmentDir <- "../national-assessment"
 
-# State ID for California is 6
-stateId <- 6
-
 # Copy over national assessment data directory
 file.copy(file.path(nationalAssessmentDir, "data"), ".", recursive=TRUE)
 
-# Create California study area
-icStates <- raster(file.path(dataDir, "initial-conditions", "final", "ic-states.tif"))
-studyArea <- Which(icStates==stateId) %>%
-  reclassify(., c(-0.5, 0.5, NA)) %>%
-  trim(.)
+# Read in study area layer to be used as clipping mask
+studyArea <- raster(file.path(dataDir, "study-area.tif"))
 
 # Get number of cells in original CONUS study area
+icStates <- raster(file.path(nationalAssessmentDir, "data", "initial-conditions", "final", "ic-states.tif"))
 CONUSNumCells <- ncell(icStates)
 
 # Select all the tiff files in the data directory and keep those that have the correct number of raster cells
@@ -36,13 +31,19 @@ files <- tibble(filename = list.files(path="data", pattern="tif$", full.names=TR
   select(filename) %>%
   pull()
 
-# Stack, crop and mask all rasters
-# WARNING this takes ~ 12 hrs!!! Consider rewriting to make this faster
-# user   system  elapsed 
-# 44290.14  1273.54 46169.14 
+# Crop and mask all rasters
+# This takes ~ 30 mins
+# user  system elapsed 
+# 1605.25  302.24 1917.95 
 ptm <- proc.time() #start the clock
-s <- stack(files) 
-s_crop <- crop(s, studyArea) %>%
-  mask(., studyArea)
-writeRaster(s_crop, filename=files, bylayer=TRUE, format="GTiff", overwrite=TRUE)
+for(i in 1:length(files)){
+  s <- raster(files[i])
+  print(paste("Working on", files[i]))
+  s_crop <- crop(s, studyArea) %>%
+    mask(., studyArea)
+  
+  writeRaster(s_crop, filename=files[i], bylayer=TRUE, format="GTiff", overwrite=TRUE)
+}
 proc.time() - ptm #stop the clock
+
+

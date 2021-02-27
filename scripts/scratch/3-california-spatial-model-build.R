@@ -17,7 +17,7 @@ myLibrary = ssimLibrary(name = paste0(ssimDir,"Spatial Model Conus.ssim"), sessi
 myProject = project(myLibrary, project="Spatial Model")
 
 # BR added code
-maxAge=300
+maxAge=800
 enableAddon(myLibrary, "stsimsf")
 
 
