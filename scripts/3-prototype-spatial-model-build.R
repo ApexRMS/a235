@@ -1,6 +1,6 @@
-
-
-
+# a235
+# Scripts to build stconnect library
+# Creates subscenarios and full scenarios
 
 library(raster)
 library(tidyverse)
@@ -11,20 +11,17 @@ stconnectPath <- "C:/stconnect.ssimpkg"
 SyncroSimDir <- "C:/Users/bronw/Documents/Apex/SyncroSim/2-2-27"
 mySession <- session(SyncroSimDir)
 
-
 #Install packages
 # addPackage("stsim", session=mySession)
 # addPackage("stsimsf", session=mySession)
 # addPackageFile(stconnectPath, session=mySession)
 
-
+# Directory
 ssimDir = "models"
 
+# stconnect library
 myLibrary = ssimLibrary(name = file.path(ssimDir,"Spatial Model Conus.ssim"), session = mySession, package = "stconnect")
 myProject = project(myLibrary, project="Spatial Model")
-
-# BR added code
-maxAge = 300
 
 # enableAddon not currently working in rsyncrosim for stconnect 
 # enableAddon(myLibrary, "stsimsf")
@@ -32,6 +29,8 @@ maxAge = 300
 commandList <- list(create=NULL, addon=NULL, name="stsimsf", lib=file.path(getwd(), ssimDir,"Spatial Model Conus.ssim"))
 command(args = commandList, session = mySession)
 
+# Parameters - added by BR
+maxAge = 300
 
 ########################
 # Definitions (ST-Sim) #
