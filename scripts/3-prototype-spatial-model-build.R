@@ -8,6 +8,8 @@ library(rsyncrosim)
 
 # Create a simple ST-Sim library which will calculate spatial initial conditions maps from non-spatial input
 stconnectPath <- "C:/stconnect.ssimpkg"
+RPath <- "C:/Program Files/R/R-3.6.3/bin/Rscript.exe"
+RStudioPath <- "C:/Program Files/RStudio/bin/rstudio.exe"
 SyncroSimDir <- "C:/Users/bronw/Documents/Apex/SyncroSim/2-2-27"
 mySession <- session(SyncroSimDir)
 
@@ -29,8 +31,21 @@ myProject = project(myLibrary, project="Spatial Model")
 commandList <- list(create=NULL, addon=NULL, name="stsimsf", lib=file.path(getwd(), ssimDir,"Spatial Model Conus.ssim"))
 command(args = commandList, session = mySession)
 
+# Run model in developer mode (runs in RStudio)
+# Default is to run in R
+runInRStudio <- F
+
 # Parameters - added by BR
 maxAge = 300
+
+###########
+# Library #
+###########
+sheetName <- "core_RConfig"
+mySheet <- datasheet(myLibrary, name=sheetName, empty=TRUE)
+if(runInRStudio == TRUE) mySheet$ExePath[1] <- RStudioPath else mySheet$ExePath[1] <- RPath
+mySheet$RunInWindow[1] <- FALSE
+saveDatasheet(myLibrary, mySheet, sheetName)
 
 ########################
 # Definitions (ST-Sim) #
